@@ -10,5 +10,5 @@
 "bright-center": "If there's a bright centre to the universe, you're on the planet mars ",
 "Lets try a new one": "30 aug 3:34 PM",
 "Adding New String": "For Testing by pankaj3",
-"Test": "Corp and non corp back to backncnncc test1"
+"Test": "Corp and non corp back to backncnncc test2"
 }
