@@ -7,5 +7,6 @@
 "New PR":"Check for new PR",
 "Lets Try Again":"Okay let us try",
 "Test On stage":"Diksha"
-"Final Testing on qa":"Diksha"
+"Final Testing on qa":"Diksha",
+"Testing for GPR worker":"V2 Non corp"
 }
