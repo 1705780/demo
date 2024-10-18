@@ -1,6 +1,6 @@
 {
  
-"ola":"hey there testbb",  
+"ola":"hey there test",  
 "hey there":"welcom ", 
 "hello world":"is my favourire word. is this",           
 "bad-feeling": "I've got a very bad feeling about me",
