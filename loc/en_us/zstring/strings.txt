@@ -8,5 +8,6 @@
 "Lets Try Again":"Okay let us try",
 "Test On stage":"Diksha"
 "Final Testing on qa":"Diksha",
-"Testing for GPR worker":"V2 Non corp"
+"Testing for GPR worker":"V2 Non corp",
+"Lunch Time":"Lunch Break"
 }
