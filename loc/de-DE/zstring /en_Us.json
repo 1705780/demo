@@ -1,6 +1,6 @@
 {
   "app": {
-    "title": "Adobe t",
+    "title": "Adobe test",
     "description": "Adobe ID"
   },
   "common": {
@@ -453,7 +453,7 @@
     "titleMfaInsteadOfCaptcha": "Verify your identity",
     "changeMethod": "Use another method to receive the code",
     "getHelp": "Get Help",
-    "getHelpLink": "https://www.adobe.com/go/verify_identity_fr",
+    "getHelpLink": "https://www.adobe.com/go/verify_identity_fr_de",
     "getHelpLinkFree": "https://helpx.adobe.com/x-productkb/global/2-step-verification-account-security.linkfree.html",
     "success": "Verification successful",
     "code": {
@@ -517,7 +517,7 @@
         "sendAnother": "Send another request if you would like to sign in.",
         "wasResent": "We have sent you another request.",
         "getHelp": "Get Help",
-        "getHelpLink": "https://www.adobe.com/go/passwordless_faq_fr"
+        "getHelpLink": "https://www.adobe.com/go/passwordless_faq_fr_de"
       }
     },
     "approved": {
@@ -758,8 +758,8 @@
       "title": "Welcome to {0}",
       "explanation": "Since you already have an Adobe plan associated with this email address, we'll separate profiles for you, each with dedicated storage. {0}",
       "learnMoreText": "Learn more",
-      "learnMoreLink": "https://www.adobe.com/go/introducing-profiles_fr",
-      "learnMoreChromeless": "https://www.adobe.com/go/introducing-profiles-linkfree_fr",
+      "learnMoreLink": "https://www.adobe.com/go/introducing-profiles_fr_de",
+      "learnMoreChromeless": "https://www.adobe.com/go/introducing-profiles-linkfree_fr_de",
       "profileListTitle": "Here are the profiles we'll set up:",
       "joinTeam": "Join team",
       "invalidError": {
@@ -787,8 +787,8 @@
         "title": "Now, tell us where you'd like to store all your content",
         "explanation": "Select the best profile for the content currently stored in Adobe cloud storage. (This doesn't apply to content stored outside of Adobe cloud storage.) We recommend selecting your Business Profile if your content is primarily related to your business plan (such as Creative Cloud for teams or enterprise, Acrobat DC for teams or enterprise). Don't worry, after your profiles are set up - which should only take a few minutes - you'll be able to move content between them at any time. {0}",
         "learnMore": "Things to consider before you choose",
-        "learnMoreLink": "https://www.adobe.com/go/user-profiles_fr",
-        "learnMoreLinkChromeless": "https://www.adobe.com/go/user-profiles-linkfree_fr"
+        "learnMoreLink": "https://www.adobe.com/go/user-profiles_fr_de",
+        "learnMoreLinkChromeless": "https://www.adobe.com/go/user-profiles-linkfree_fr_de"
       },
       "polling": {
         "title": "We're updating your account",
@@ -799,21 +799,21 @@
         "explanation": "All content, including anything personal or related to your individual plan, will be available in your Business Profile. Once your profiles are set up, you can move content between them at any time.",
         "authAccountExplanation": "All content, including anything related to your business plan (Creative Cloud for teams or enterprise), will be available in your {0}. Once your profiles are set up, you can move content between them at any time.",
         "personalContentWarning": "any personal content or content that is not part of",
-        "learnMoreMove": "https://www.adobe.com/go/move-assets-across-profiles_fr",
-        "learnMoreMoveChromeless": "https://www.adobe.com/go/move-assets-across-profiles-linkfree_fr"
+        "learnMoreMove": "https://www.adobe.com/go/move-assets-across-profiles_fr_de",
+        "learnMoreMoveChromeless": "https://www.adobe.com/go/move-assets-across-profiles-linkfree_fr_de"
       },
       "introduction": {
         "title": "Introducing profile selection",
         "explanation": "Since you have multiple Adobe plans associated with your email address, we've created separate profiles for you, each with dedicated storage.",
         "profileListTitle": "Here are the profiles we've set up:",
-        "learnMoreLink": "https://www.adobe.com/go/user-profiles_fr",
-        "learnMoreLinkChromeless": "https://www.adobe.com/go/user-profiles-linkfree_fr"
+        "learnMoreLink": "https://www.adobe.com/go/user-profiles_fr_de",
+        "learnMoreLinkChromeless": "https://www.adobe.com/go/user-profiles-linkfree_fr_de"
       },
       "timeout": {
         "title": "This move will take just a little bit longer",
         "explanation": "We'll send you an email as soon as we're done so you know when you can sign back into your account. Thanks for your patience. {0}",
-        "learnMoreLink": "https://www.adobe.com/go/error-scenarios_fr",
-        "learnMoreChromeless": "https://www.adobe.com/go/error-scenarios-linkfree_fr"
+        "learnMoreLink": "https://www.adobe.com/go/error-scenarios_fr_de",
+        "learnMoreChromeless": "https://www.adobe.com/go/error-scenarios-linkfree_fr_de"
       },
       "assetMigrationFailed": {
         "title": "Unexpected error with your Adobe cloud storage",
@@ -822,8 +822,8 @@
         "option2": "If you had existing content in Adobe storage, rest assured  it’s  safe. It’s been moved to your new Personal Profile due to an error. ",
         "apologizeForAnyInconvenience": "We apologize for any inconvenience. Please {0} if you have any questions.",
         "selectYourBusinessProfile": "Select your Business Profile",
-        "learnMoreLink": "https://www.adobe.com/go/error-scenarios_fr",
-        "learnMoreLinkChromeless": "https://www.adobe.com/go/error-scenarios-linkfree_fr",
+        "learnMoreLink": "https://www.adobe.com/go/error-scenarios_fr_de",
+        "learnMoreLinkChromeless": "https://www.adobe.com/go/error-scenarios-linkfree_fr_de",
         "adobeCustomerCare": "contact Adobe Customer Care"
       }
     },
@@ -835,8 +835,8 @@
         "yourPersonalProfile": "Your Personal Profile includes your existing content stored in Adobe cloud storage. (This doesn't apply to content stored outside of Adobe cloud storage.) Don't worry — you can move content between profiles at any time.",
         "note": "Note: You may see a partial list of Business Profiles until they're all set up, which may take a few days. Until then, please select your Personal Profile to continue working as usual.",
         "learnMore": "Learn more",
-        "learnMoreLink": "https://www.adobe.com/go/user-profiles_fr",
-        "learnMoreLinkChromeless": "https://www.adobe.com/go/user-profiles-linkfree_fr"
+        "learnMoreLink": "https://www.adobe.com/go/user-profiles_fr_de",
+        "learnMoreLinkChromeless": "https://www.adobe.com/go/user-profiles-linkfree_fr_de"
       },
       "complete": {
         "title": "Your Business Profile setup is complete",
@@ -846,8 +846,8 @@
         "selectTheBusinessProfile": "Select the Business Profile you wish to work in.",
         "recommendation": "We recommend that you move the content to the appropriate Business Profile.",
         "hereIsAnArticle": "Here's an article",
-        "hereIsAnArticleLink": "https://www.adobe.com/go/user-profiles_fr",
-        "hereIsAnArticleLinkChromeless": "https://www.adobe.com/go/user-profiles-linkfree_fr"
+        "hereIsAnArticleLink": "https://www.adobe.com/go/user-profiles_fr_de",
+        "hereIsAnArticleLinkChromeless": "https://www.adobe.com/go/user-profiles-linkfree_fr_de"
       }
     },
     "updatePrimaryEmail": {
