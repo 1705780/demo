@@ -1,0 +1,878 @@
+{
+  "app": {
+    "title": "[LR1] Adobe test1",
+    "description": "[LR2] Adobe ID"
+  },
+  "common": {
+    "backBtn": "[LSL] Back",
+    "resendCode": "[LST] Resend Code",
+    "back": "[LV8] Sign in with a different email address",
+    "selectAccount": "[LV+] Select an account",
+    "changeAccount": "[LSO] Sign in to a different account",
+    "continue": "[LSU] Continue",
+    "accept": "[LSS] Accept",
+    "cancel": "[LSQ] Cancel",
+    "ok": "[LWO] OK",
+    "signin": "[LSN] Sign in",
+    "skip": "[LSM] Skip",
+    "kool": "[LSP] koool",
+    "accountTypes": {
+      "individual": "[LSV] Personal Account",
+      "enterprise": "[LSX] Company or School Account",
+      "federated": "[LSW] Company or School Account"
+    },
+    "social": {
+      "continueGoogle": "[LSI] Continue with Google",
+      "continueFacebook": "[LSK] Continue with Facebook",
+      "continueApple": "[LSJ] Continue with Apple"
+    },
+    "welcomeBackTitle": "[LSR] Welcome back",
+    "reauthenticateNotice": "[LV9] For your protection, please verify your identity.",
+    "countries": {
+      "AF": "[LSo] Afghanistan",
+      "AL": "[LS6] Albania",
+      "DZ": "[LUK] Algeria",
+      "AS": "[LS/] American Samoa",
+      "AD": "[LSm] Andorra",
+      "AO": "[LS3] Angola",
+      "AI": "[LSl] Anguilla",
+      "AQ": "[LS4] Antarctica",
+      "AG": "[LSk] Antigua and Barbuda",
+      "AR": "[LS5] Argentina",
+      "AM": "[LS7] Armenia",
+      "AW": "[LS9] Aruba",
+      "AU": "[LTC] Australia",
+      "AT": "[LTB] Austria",
+      "AZ": "[LS+] Azerbaijan",
+      "BS": "[LTX] Bahamas",
+      "BH": "[LSu] Bahrain",
+      "BD": "[LSx] Bangladesh",
+      "BB": "[LSr] Barbados",
+      "BY": "[LTc] Belarus",
+      "BE": "[LSy] Belgium",
+      "BZ": "[LTe] Belize",
+      "BJ": "[LSw] Benin",
+      "BM": "[LTY] Bermuda",
+      "BT": "[LTh] Bhutan",
+      "BO": "[LTa] Bolivia",
+      "BA": "[LSq] Bosnia and Herzegovina",
+      "BW": "[LTk] Botswana",
+      "BR": "[LTV] Brazil",
+      "IO": "[LU0] British Indian Ocean",
+      "BN": "[LTZ] Brunei",
+      "BG": "[LS1] Bulgaria",
+      "BF": "[LS0] Burkina Faso",
+      "BI": "[LSv] Burundi",
+      "KH": "[LVH] Cambodia",
+      "CM": "[LT0] Cameroon",
+      "CA": "[LTD] Canada",
+      "CV": "[LT9] Cape Verde",
+      "KY": "[LVR] Cayman Islands",
+      "CF": "[LTP] Central African Republic",
+      "TD": "[LTz] Chad",
+      "CL": "[LTO] Chile",
+      "CN": "[LT1] China",
+      "CX": "[LUA] Christmas Island",
+      "CC": "[LTF] Cocos (Keeling) Islands",
+      "CO": "[LT2] Colombia",
+      "KM": "[LVJ] Comoros",
+      "CG": "[LTR] Congo, Republic of the",
+      "CK": "[LTN] Cook Islands",
+      "CR": "[LTx] Costa Rica",
+      "HR": "[LU5] Croatia",
+      "CY": "[LT3] Cyprus",
+      "CZ": "[LT5] Czech Republic",
+      "CD": "[LTG] Democratic Republic of the Congo",
+      "DK": "[LTt] Denmark",
+      "DJ": "[LTr] Djibouti",
+      "DM": "[LTu] Dominica",
+      "DO": "[LUI] Dominican Republic",
+      "TL": "[LT7] East Timor",
+      "EC": "[LUB] Ecuador",
+      "EG": "[LUE] Egypt",
+      "SV": "[LTQ] El Salvador",
+      "GQ": "[LUs] Equatorial Guinea",
+      "ER": "[LUY] Eritrea",
+      "EE": "[LUD] Estonia",
+      "ET": "[LUU] Ethiopia",
+      "FK": "[LUS] Falkland Islands (Malvinas)",
+      "FO": "[LUP] Faroe Islands",
+      "FJ": "[LUR] Fiji",
+      "FI": "[LUQ] Finland",
+      "FR": "[LUo] France",
+      "GF": "[LUc] French Guiana",
+      "PF": "[LSg] French Polynesia",
+      "GA": "[LUe] Gabon",
+      "GM": "[LUi] Gambia",
+      "GE": "[LUb] Georgia",
+      "DE": "[LTo] Germany",
+      "GH": "[LUd] Ghana",
+      "GI": "[LUl] Gibraltar",
+      "GR": "[LUt] Greece",
+      "GL": "[LUm] Greenland",
+      "GD": "[LUh] Grenada",
+      "GP": "[LUk] Guadeloupe",
+      "GT": "[LUv] Guatemala",
+      "GN": "[LUj] Guinea",
+      "GW": "[LUr] Guinea-Bissau",
+      "GY": "[LUw] Guyana",
+      "HT": "[LU6] Haiti",
+      "HN": "[LUp] Honduras",
+      "HK": "[LUq] Hong Kong SAR of China",
+      "HU": "[LU8] Hungary",
+      "IS": "[LVB] Iceland",
+      "IN": "[LU4] India",
+      "ID": "[LUx] Indonesia",
+      "IQ": "[LU2] Iraq",
+      "IE": "[LUz] Ireland",
+      "IL": "[LU3] Israel",
+      "IT": "[LVC] Italy",
+      "CI": "[LTL] Ivory Coast (Côte d'Ivoire)",
+      "JM": "[LU/] Jamaica",
+      "JP": "[LU+] Japan",
+      "JO": "[LVA] Jordan",
+      "KZ": "[LVS] Kazakhstan",
+      "KE": "[LVF] Kenya",
+      "KI": "[LVE] Kiribati",
+      "KR": "[LVI] Korea, South",
+      "KV": "[LVT] Kosovo",
+      "KW": "[LVU] Kuwait",
+      "KG": "[LVG] Kyrgyzstan",
+      "LA": "[LVX] Laos",
+      "LV": "[LVl] Latvia",
+      "LB": "[LVV] Lebanon",
+      "LS": "[LVO] Lesotho",
+      "LR": "[LVN] Liberia",
+      "LY": "[LVm] Libya",
+      "LI": "[LVM] Liechtenstein",
+      "LT": "[LVP] Lithuania",
+      "LU": "[LVQ] Luxembourg",
+      "MO": "[LVi] Macau SAR of China",
+      "MK": "[LVY] Macedonia, Republic of",
+      "MG": "[LVc] Madagascar",
+      "MW": "[LVx] Malawi",
+      "MY": "[LVz] Malaysia",
+      "MV": "[LVh] Maldives",
+      "ML": "[LVZ] Mali",
+      "MT": "[LVf] Malta",
+      "MH": "[LVd] Marshall Islands",
+      "MQ": "[LVj] Martinique",
+      "MR": "[LVk] Mauritania",
+      "MU": "[LVg] Mauritius",
+      "YT": "[LUy] Mayotte",
+      "MX": "[LVy] Mexico",
+      "FM": "[LUO] Micronesia",
+      "MD": "[LVo] Moldova",
+      "MC": "[LVn] Monaco",
+      "MN": "[LVb] Mongolia",
+      "ME": "[LVp] Montenegro",
+      "MS": "[LVe] Montserrat",
+      "MA": "[LVq] Morocco",
+      "MZ": "[LV0] Mozambique",
+      "MM": "[LVa] Myanmar",
+      "NA": "[LV4] Namibia",
+      "NR": "[LVw] Nauru",
+      "NP": "[LVv] Nepal",
+      "NL": "[LVr] Netherlands",
+      "AN": "[LS8] Netherlands Antilles",
+      "NC": "[LV5] New Caledonia",
+      "NZ": "[LV7] New Zealand",
+      "NI": "[LVt] Nicaragua",
+      "NE": "[LV1] Niger",
+      "NG": "[LV3] Nigeria",
+      "NU": "[LVu] Niue",
+      "NF": "[LV2] Norfolk Island",
+      "NO": "[LVs] Norway",
+      "OM": "[LV6] Oman",
+      "PK": "[LSZ] Pakistan",
+      "PS": "[LSd] Palestinian Territory",
+      "PA": "[LSf] Panama",
+      "PG": "[LSh] Papua New Guinea",
+      "PY": "[LSc] Paraguay",
+      "PE": "[LSj] Peru",
+      "PH": "[LSi] Philippines",
+      "PN": "[LSY] Pitcairn Island",
+      "PL": "[LSa] Poland",
+      "PT": "[LSe] Portugal",
+      "QA": "[LSp] Qatar",
+      "RE": "[LTA] Réunion",
+      "RO": "[LSt] Romania",
+      "RU": "[LSz] Russia",
+      "RW": "[LS2] Rwanda",
+      "SH": "[LTl] Saint Helena",
+      "KN": "[LVK] Saint Kitts and Nevis",
+      "LC": "[LVW] Saint Lucia",
+      "PM": "[LSb] Saint Pierre and Miquelon",
+      "VC": "[LUZ] Saint Vincent and the Grenadines",
+      "WS": "[LUg] Samoa",
+      "SM": "[LTI] San Marino",
+      "ST": "[LTH] São Tome and Principe",
+      "SA": "[LTT] Saudi Arabia",
+      "SN": "[LTJ] Senegal",
+      "RS": "[LSs] Serbia",
+      "SC": "[LTW] Seychelles",
+      "SL": "[LTg] Sierra Leone",
+      "SG": "[LTj] Singapore",
+      "SK": "[LTf] Slovakia",
+      "SI": "[LTb] Slovenia",
+      "SB": "[LTU] Solomon Islands",
+      "SO": "[LTK] Somalia",
+      "ZA": "[LU1] South Africa",
+      "GS": "[LUu] South Georgia and the South Sandwich Islands",
+      "ES": "[LUT] Spain",
+      "LK": "[LVL] Sri Lanka",
+      "SR": "[LTE] Suriname",
+      "SJ": "[LTd] Svalbard and Jan Mayen",
+      "SZ": "[LTM] Swaziland",
+      "SE": "[LTi] Sweden",
+      "CH": "[LTS] Switzerland",
+      "TW": "[LTw] Taiwan Region",
+      "TJ": "[LT4] Tajikistan",
+      "TZ": "[LTs] Tanzania",
+      "TH": "[LT/] Thailand",
+      "TG": "[LT+] Togo",
+      "TK": "[LT6] Tokelau",
+      "TO": "[LTq] Tonga",
+      "TT": "[LTn] Trinidad and Tobago",
+      "TN": "[LTp] Tunisia",
+      "TR": "[LTm] Turkey",
+      "TM": "[LT8] Turkmenistan",
+      "TC": "[LTy] Turks and Caicos Islands",
+      "TV": "[LTv] Tuvalu",
+      "UG": "[LUM] Uganda",
+      "UA": "[LUJ] Ukraine",
+      "AE": "[LSn] United Arab Emirates",
+      "GB": "[LUf] United Kingdom",
+      "US": "[LUC] United States",
+      "UM": "[LUL] United States Minor Outlying Islands",
+      "UY": "[LUG] Uruguay",
+      "UZ": "[LUH] Uzbekistan",
+      "VU": "[LUN] Vanuatu",
+      "VA": "[LUX] Vatican City",
+      "VE": "[LUV] Venezuela",
+      "VN": "[LUa] Vietnam",
+      "VG": "[LUW] Virgin Islands, British",
+      "WF": "[LUn] Wallis and Futuna",
+      "EH": "[LUF] Western Sahara",
+      "YE": "[LU7] Yemen",
+      "ZM": "[LVD] Zambia",
+      "ZW": "[LU9] Zimbabwe"
+    },
+    "date": {
+      "year": "[LWL] Year",
+      "month": "[LWM] Month",
+      "day": "[LWN] Day",
+      "months": {
+        "0": "[LWA] January",
+        "1": "[LWC] February",
+        "2": "[LWD] March",
+        "3": "[LWH] April",
+        "4": "[LWI] May",
+        "5": "[LWJ] June",
+        "6": "[LWK] July",
+        "7": "[LWE] August",
+        "8": "[LWF] September",
+        "9": "[LWG] October",
+        "10": "[LV/] November",
+        "11": "[LWB] December"
+      }
+    },
+    "recommended": "[LSH] (Recommended)"
+  },
+  "productContext": {
+    "defaultContextMessage": "[LPH] Sign in or create an account",
+    "signIn": {
+      "continue_t": "[LPF] Sign in to continue",
+      "purchase_t": "[LPG] Sign in to purchase"
+    },
+    "title": {
+      "shared_t": "[LPM] This is a shared device"
+    },
+    "body": {
+      "shared_t": {
+        "list": {
+          "signOut": "[LPK] Sign out of Creative Cloud before leaving the machine.",
+          "storeAll": "[LPJ] Store all of your work in a safe location, not on this device."
+        },
+        "text": "[LPL] To help protect your privacy and security:",
+        "notice": "[LPI] Important notice"
+      }
+    },
+    "links": {
+      "shared_t": {
+        "learnMore": "[LPN] {0} Learn More {1}",
+        "privacyPolicy": "[LPO] {0} Privacy Policy {1}"
+      }
+    }
+  },
+  "chooser": {
+    "title": "[LSG] Choose an account"
+  },
+  "delegation": {
+    "confirmation": {
+      "approve": "[LWW] Approve",
+      "dateTimeFormat": "[LWP] {0} at {1}",
+      "description": "[LWX] Please submit a report if you do not recognize this sign-in.",
+      "ipAddress": "[LWY] IP ADDRESS",
+      "location": "[LWa] LOCATION",
+      "locationFormat": "[LWb] {0}, {1}",
+      "report": "[LWS] Report this",
+      "time": "[LWZ] TIME",
+      "title": "[LWV] Wait, there might be something suspicious",
+      "reported": {
+        "description": "[LWT] You’ve successfully submitted the details of this incident to Adobe. This will help prevent future harmful incidents.",
+        "title": "[LWU] Thanks for reporting"
+      },
+      "success": {
+        "description": "[LWR] You’ve successfully signed in. Feel free to close this browser tab and return to where you previously left off.",
+        "title": "[LWQ] You're all set"
+      }
+    }
+  },
+  "email": {
+    "errors": {
+      "invalidEmail": "[LWj] Please enter an email address.",
+      "unavailableEmail": "[LWi] This email address is unavailable.",
+      "invalidLength": "[LM1] The email address length should be between 6 and 60 characters.",
+      "blockCreateAccount": "[LWf] No account associated with the email address",
+      "accountCreationBlockedByPolicy": "[LWc] Can't sign in with this email address",
+      "personalAccountDeactivated": "[LWk] Your Personal Account has been deactivated. Please review our {0} and contact {1} if you believe this is an error.",
+      "companyOrSchoolAccountDeactivated": "[LWg] Your Company or School Account has been deactivated. Please review our {0} and contact {1} if you believe this is an error.",
+      "accountTemporarilyLocked": "[LM0] Your account is temporarily locked. Try again later.",
+      "block": {
+        "individual": "[LWl] Personal Accounts are not supported. Continue with a Company or School Account to access the service. {0} Learn more {1}",
+        "enterprise": "[LWm] Company or School Accounts are not supported. Continue with a Personal Account to access the service. {0} Learn more {1}",
+        "federated": "[LWn] Company or School Accounts are not supported. Continue with a Personal Account to access the service. {0} Learn more {1}"
+      },
+      "accountNotFound": "[LWe] Check your email address or {0} create a new account {1}",
+      "notTheSame": "[LWh] The specified emails must be identical",
+      "socialIsDisabled": "[LWd] Do you usually sign in with Facebook, Google or Apple? Enter your email below and we'll help you sign in."
+    },
+    "input": "[LM3] Email address",
+    "title": "[LM4] Sign in",
+    "createAccount": "[LM5] New user? {0} Create an account {1}",
+    "social": {
+      "or": "[LM2] Or"
+    }
+  },
+  "errors": {
+    "generic": {
+      "title": "[LNA] Something went wrong",
+      "text": "[LNB] An unknown error has occurred. Here's the error code if you want to contact customer support"
+    },
+    "tokenInvalid": {
+      "title": "[LM/] Something went wrong",
+      "text": "[LM+] Continue and we'll pick up where we left off."
+    },
+    "mfaSoftLocked": {
+      "title": "[LNC] Try again later",
+      "text": "[LND] For security reasons, your access is temporarily disabled. For more details, contact {0}."
+    },
+    "assetMigration": {
+      "title": "[LNF] Sorry, your access has been denied",
+      "text": "[LNE] Your account is temporarily unavailable while your content is being migrated."
+    },
+    "passwordResetRequired": {
+      "title": "[LNW] Password change required",
+      "text": "[LNX] To protect the security of your account, you must change your password before continuing. Please check your inbox for an email we just sent you; it contains instructions for how to reset your password. Once you're done you can log into your account."
+    },
+    "socialOnly": {
+      "title": "[LNM] Social sign in not supported",
+      "text": "[LNN] You have previously signed in with a social account, but unfortunately this application doesn't support social sign in. To continue, please create a password for your account."
+    },
+    "incomplete": {
+      "title": "[LNZ] Additional account details required",
+      "text": "[LNY] This account is missing some important information. Please check your inbox for an email we just sent you; it contains instructions for how to complete your account. Once you're done you can log into your account."
+    },
+    "additionalAccountDetails": {
+      "title": "[LNU] Verify your identity",
+      "text": "[LNV] We need some additional information, but first we need to confirm your identity."
+    },
+    "passwordChangeRequired": {
+      "title": "[LM8] Update your Adobe password",
+      "text": "[LM9] To help protect your Adobe account, we have reset your password. To verify your identity and set a new password, please click \"Continue\" below."
+    },
+    "passwordChangeOnFirstLogin": {
+      "title": "[LM7] Change your Adobe password",
+      "text": "[LM6] To help protect your Adobe account, you need to choose a new password. You'll be required to verify your identity to continue."
+    },
+    "socialFallback": {
+      "title": "[LNT] Social sign in not supported",
+      "text": "[LNS] You have previously signed in with a social account, but unfortunately this application doesn't support social sign in. To continue, please verify your identity and create a password for your account."
+    },
+    "serviceEligibility": {
+      "title": "[LNP] Sorry, your access has been denied",
+      "text": "[LNO] You are ineligible to use this product or service due to the Service Eligibility Requirements. {0} Learn more {1}"
+    },
+    "blockPolicy": {
+      "title": "[LNQ] Account type not supported",
+      "text": "[LNR] Continue with a different account to access the service."
+    },
+    "continue": {
+      "backToSignIn": "[LNJ] Go back to sign in",
+      "continue": "[LNI] Continue",
+      "ok": "[LNH] OK",
+      "signIn": "[LNG] Sign in"
+    },
+    "enableJavascript": "[LNK] Please enable JavaScript and try to sign in again.",
+    "javascriptDisabled": "[LNa] JavaScript is disabled.",
+    "noInternet": "[LNL] Your computer seems to be offline. Please check your internet and try again."
+  },
+  "links": {
+    "support": "[LNf] Adobe Customer Support",
+    "supportUrl": "[LNk] https://helpx.adobe.com/contact.html",
+    "supportUrlLinkFree": "[LNj] https://helpx.adobe.com/contact.chromeless.html",
+    "privacyPolicy": "[LNg] Privacy Policy",
+    "tou": "[LNm] Terms of Use",
+    "touUrl": "[LNl] https://www.adobe.com/privacy.html",
+    "termsOfUseLink": "[LNh] https://www.adobe.com/legal/terms.html",
+    "termsOfUseLinkFree": "[LNi] https://www.adobe.com/legal/terms-linkfree.html"
+  },
+  "password": {
+    "title": "[LOM] Enter your password",
+    "forgot": "[LOY] Reset your password",
+    "input": "[LOZ] Password",
+    "backLink": "[LOW] Sign in to a different account",
+    "rememberMe": "[LOX] Stay signed in",
+    "captcha": {
+      "copy": "[LON] Protected by reCAPTCHA and subject to the Google {0} and {1}.",
+      "privacyPolicy": "[LOO] Privacy Policy",
+      "termsOfUse": "[LOR] Terms of Service",
+      "googlePrivacyPolicy": "[LOQ] Google Privacy Policy",
+      "googleTermsOfUse": "[LOS] Google Terms of Service",
+      "privacyPolicyLink": "[LOT] https://policies.google.com/privacy?hl=en",
+      "termsOfUseLink": "[LOP] https://policies.google.com/terms?hl=en"
+    },
+    "errors": {
+      "incorrectPassword": "[LOU] That’s an incorrect password. Try again.",
+      "invalidLength": "[LOV] The password length should be between 6 and 100 characters."
+    }
+  },
+  "mfa": {
+    "title": "[LN8] 2-step verification",
+    "titleMfaInsteadOfCaptcha": "[LN/] Verify your identity",
+    "changeMethod": "[LOA] Use another method to receive the code",
+    "getHelp": "[LN7] Get Help",
+    "getHelpLink": "https://www.adobe.com/go/verify_identity_fr_jp",
+    "getHelpLinkFree": "[LN+] https://helpx.adobe.com/x-productkb/global/2-step-verification-account-security.linkfree.html",
+    "success": "[LN6] Verification successful",
+    "code": {
+      "description": {
+        "email": "[LNz] Enter the code we've sent to {0}",
+        "phone": "[LN0] Enter the code we sent to the phone number ending in {0}.",
+        "phoneAfterConfirmation": "[LN1] If the phone number associated with your account ends in {0} then you'll receive a code. Enter that code below.",
+        "totp": "[LNy] Enter the code generated by your authenticator app."
+      },
+      "noCodeReceived": "[LNx] Didn't receive your code?",
+      "noCodeReceivedHelp": "[LNw] Allow a few minutes for the message to arrive.",
+      "wasResent": "[LNv] We have sent you another code.",
+      "resend": "[LN3] Resend Code",
+      "verify": "[LN4] Verify Code",
+      "invalid": "[LN2] That's an invalid code. Try again.",
+      "expired": "[LN5] That's an expired code. Try again."
+    },
+    "push": {
+      "title": "[LOF] Waiting for your approval...",
+      "description": "[LOD] We've sent an authentication request to your device. Please approve using Adobe Authenticator.",
+      "enterTotpCode": "[LOJ] Enter the code generated by your Adobe Authenticator app.",
+      "noRequestReceived": "[LOK] Didn't receive the request?",
+      "noRequestReceivedHelp": "[LOH] Try opening the Adobe Authenticator app.",
+      "wasResent": "[LOG] We have sent you another request.",
+      "resendRequest": "[LOB] Resend request",
+      "enterCode": "[LOI] Enter Code",
+      "expiredTitle": "[LOE] Your authentication request has expired.",
+      "expiredContent": "[LOC] Please resend another request if you would like to sign in.",
+      "rejected": "[LOL] You've chosen to reject the authentication request."
+    },
+    "chooser": {
+      "description": "[LNp] Select a way to receive the verification code",
+      "email": "[LNo] Email code to",
+      "sms": "[LNn] Text code to number ending in",
+      "smsDetail": "[LNs] Our texts are free, but some service providers may apply usage charges in certain cases.",
+      "totp": "[LNr] Use an app to generate codes",
+      "push": "[LNt] Use Adobe Authenticator",
+      "pushDetail": "[LNq] We'll send an authorization request to your device for approval."
+    },
+    "error": {
+      "tryAnotherMethod": "[LN9] An error has occurred. Please try another method to receive the code."
+    }
+  },
+  "passwordless": {
+    "wait": {
+      "title": "[LPC] Waiting for your approval...",
+      "description": "[LOz] Sign in using the Adobe Account Access app. Tap the push notification we sent or open the app if you didn’t get one.",
+      "bingo": {
+        "title": "[LO0] Open the Adobe Account Access app and tap:",
+        "description": "[LO1] This is the first time you’re signing in from this device or location. For additional security, please tap the number {0} in the Adobe Account Access app to approve this sign in."
+      },
+      "rememberMe": "[LO2] Stay signed in",
+      "resend": "[LO4] Resend request",
+      "enterCode": "[LO5] Enter code",
+      "errorOccurred": "[LO3] An error has occurred. Please try another sign in method.",
+      "toast": {
+        "noRequestReceived": "[LPB] Didn't receive the request?",
+        "noRequestReceivedHelp": "[LO6] Try opening the Adobe Account Access app.",
+        "rejectedRequest": "[LO9] This request has been denied.",
+        "expiredRequest": "[LPA] This request has expired.",
+        "sendAnother": "[LO/] Send another request if you would like to sign in.",
+        "wasResent": "[LO8] We have sent you another request.",
+        "getHelp": "[LO+] Get Help",
+        "getHelpLink": "https://www.adobe.com/go/passwordless_faq_fr_jp"
+      }
+    },
+    "approved": {
+      "title": "[LPE] You have successfully signed in"
+    },
+    "wrongBingo": {
+      "title": "[LOv] The number you selected didn’t match",
+      "description": "[LOx] You can try again by sending another request, or selecting another way to sign in.",
+      "tryAgainButton": "[LOw] Try again"
+    },
+    "enterTotpCode": "[LPD] Enter the authenticator code generated by the Adobe Account Access app.",
+    "selectAnotherWay": "[LOy] Select another way to sign in"
+  },
+  "passwordRecovery": {
+    "resetPasswordLabel": "[LOo] Update Password",
+    "sloCheckboxLabel": "[LOn] Sign out of all active logins",
+    "resetPassword": {
+      "title": "[LOp] Update your password",
+      "fields": {
+        "newPassword": {
+          "label": "[LOq] New password"
+        },
+        "repeatPassword": {
+          "label": "[LOr] Repeat password"
+        }
+      }
+    },
+    "success": {
+      "title": "[LOl] Your password has been updated",
+      "description": "[LOm] For security purposes we’ve sent an email to your account confirming this change."
+    },
+    "code": {
+      "title": "[LOg] Update your password",
+      "changeMethod": "[LOh] Get your code another way",
+      "codeNotReceived": "[LOk] Didn’t receive your code?",
+      "description": {
+        "email": "[LOi] Enter the code we just sent to {0}",
+        "phone": "[LOj] Enter the code we sent to the phone number ending in {0}."
+      }
+    },
+    "chooser": {
+      "title": "[LOf] Verify your identity",
+      "changeAccount": "[LOd] Sign in to a different account",
+      "description": "[LOc] Select a way to receive the verification code",
+      "email": "[LOb] Email code to",
+      "sms": "[LOa] Text code to number ending in",
+      "smsDetail": "[LOe] Our texts are free, but some service providers may apply usage charges in certain cases."
+    },
+    "errors": {
+      "notTheSame": "[LOt] The specified passwords must be identical",
+      "emptyPassword": "[LOs] Please enter a password.",
+      "invalidPassword": "[LOu] That's an invalid password."
+    }
+  },
+  "socialOnly": {
+    "multipleSocialAccounts": "[LRe] You've previously signed in using a social account. Please select an account to continue.",
+    "singleSocialAccount": "[LRf] You've previously signed in with {0}.",
+    "providers": {
+      "facebook": "[LRc] Facebook",
+      "google": "[LRd] Google"
+    }
+  },
+  "assetMigration": {
+    "chooser": {
+      "title": "[LR/] Asset Migration Request",
+      "explanation": "[LR+] Your IT administrator has requested that all content in your Adobe account be migrated to your Enterprise account. {0}",
+      "learnMoreExplanation": "[LR9] Learn more",
+      "learnMoreLink": "[LR5] https://helpx.adobe.com/mena_en/enterprise/using/asset-migration-faq.html",
+      "learnMoreLinkChromeless": "[LR6] https://helpx.adobe.com/mena_en/enterprise/using/asset-migration-faq.linkfree.html",
+      "choiceMigrate": "[LR8] Yes, I want Adobe to migrate my content.",
+      "choiceDoNotMigrate": "[LR7] No, I want to move my content manually later."
+    },
+    "polling": {
+      "title": "[LSA] Your content is being migrated…"
+    },
+    "success": {
+      "title": "[LR3] You're all set",
+      "text": "[LR4] We’ve successfully migrated all your Adobe account assets to your Enterprise account."
+    },
+    "error": {
+      "title": "[LSF] Sorry, your access has been denied",
+      "learnMoreText": "[LSC] Learn more",
+      "learnMoreLink": "[LSE] https://helpx.adobe.com/enterprise/using/migrate-assets-to-enterprise-account.html#interrupt",
+      "learnMoreLinkChromeless": "[LSB] https://helpx.adobe.com/enterprise/using/migrate-assets-to-enterprise-account.linkfree.html#interrupt",
+      "text": "[LSD] The asset migration process has been interrupted. {0}"
+    }
+  },
+  "addressConfirmation": {
+    "title": {
+      "default": "[LRm] Verify your identity",
+      "phone": "[LRn] Confirm your phone number"
+    },
+    "description": {
+      "phone": {
+        "template": "[LRq] Enter the {0} of your phone number ending in {1}.",
+        "params": {
+          "last4Digits": "[LRr] last 4 digits"
+        }
+      },
+      "email": "[LRp] To confirm your identity we'll send you a verification code to {0}",
+      "secondaryEmail": "[LRo] Enter your secondary email address at "
+    },
+    "input": {
+      "secondaryEmailHint": "[LRl] Confirm your secondary email address at "
+    },
+    "changeMethod": "[LRk] Choose a different method to verify",
+    "chooser": {
+      "description": "[LRs] Choose which method to verify your identity",
+      "method": {
+        "email": "[LRx] Email code to",
+        "phone": "[LRy] Confirm your phone number ending in",
+        "secondaryEmail": "[LR0] Enter your secondary email address",
+        "totp": "[LRz] Use an app to generate codes",
+        "push": "[LRw] Use Adobe Authenticator",
+        "detail": {
+          "phone": "[LRu] Enter the last 4 digits of your phone number ",
+          "secondaryEmail": "[LRt] Enter your full email address at ",
+          "push": "[LRv] We'll send an authorization request to your device for approval."
+        }
+      }
+    }
+  },
+  "signup": {
+    "title": "[LRF] Create an account",
+    "existingAccount": "[LRL] Already have an account? {0} Sign in {1}",
+    "email": "[LRN] Email address",
+    "firstName": "[LQd] First name",
+    "lastName": "[LRJ] Last name",
+    "password": "[LQg] Password",
+    "country": "[LRK] Country/Region",
+    "countryPlaceholder": "[LRM] Select a country",
+    "createAccount": "[LRI] Create account",
+    "dateOfBirth": "[LRH] Date of birth",
+    "dateOfBirthTooltipInfo": "[LRG] We collect your date of birth for account authentication and recovery purposes, and to ensure age-appropriate access to content. Adobe values your privacy and trust. For more information, please visit our {0}.",
+    "passwordRules": {
+      "title": "[LRD] Create a password that",
+      "minimumCharacters": "[LQ/] contains at least {0} characters",
+      "containBothLowerUpper": "[LRE] contains both lower (a-z) and upper case letters (A-Z)",
+      "containNumberOrSymbol": "[LRC] contains at least one number (0-9) or a symbol",
+      "containNumberAndSymbol": "[LRA] contains at least one number (0-9) and a symbol",
+      "notContainNameOrEmail": "[LRB] does not contain your name or email address",
+      "notCommonlyUsed": "[LQ+] is not commonly used",
+      "notCommonlyOrPreviouslyUsed": "[LQ9] is not commonly used or a previous password"
+    },
+    "errors": {
+      "emptyEmail": "[LRV] Please enter an email address.",
+      "emptyFirstName": "[LRU] Please enter your first name.",
+      "emptyLastName": "[LRX] Please enter your last name.",
+      "invalidFirstName": "[LRQ] That's an invalid first name.",
+      "invalidLastName": "[LRZ] That's an invalid last name.",
+      "emptyPassword": "[LRR] Please enter a password.",
+      "invalidPassword": "[LRW] That's an invalid password.",
+      "invalidEmail": "[LRS] That's an invalid email.",
+      "emptyDateOfBirth": "[LRP] Please enter your date of birth.",
+      "emailAlreadyExists": "[LRY] An account with this email address already exists. {0} Sign in {1} ",
+      "accountCreationBlockedByPolicy": "[LRO] Can't sign up with this domain.",
+      "emailAlreadyExistsNoLink": "[LRT] An Adobe account with this email address already exists."
+    },
+    "privacyCenter": {
+      "link": "[LRa] https://www.adobe.com/privacy.html",
+      "text": "[LRb] Privacy Center"
+    },
+    "policies": {
+      "templates": {
+        "termsOfUse": "[LQo] I have read and accepted the {0}.",
+        "keepInformed": "[LQl] The {0} may keep me informed with {1} emails about products and services.",
+        "moreInformation": "[LQp] See our {0} for more details or to opt-out at any time.",
+        "implicitAcceptTouCreateAcc": "[LQn] By clicking Create account, I agree that I have read and accepted the {0} and {1}.",
+        "implicitAcceptTouCompleteAcc": "[LQj] By clicking Complete account, I agree that I have read and accepted the {0} and {1}.",
+        "contact": "[LQk] Please contact me via email",
+        "doNotContact": "[LQm] Please don't contact me via email"
+      },
+      "links": {
+        "adobeCompanyFamilyText": "[LQv] Adobe family of companies",
+        "adobeCompanyFamilyLink": "[LQx] https://www.adobe.com/privacy/policy.html#info-share",
+        "adobeCompanyFamilyLinkFree": "[LQz] https://www.adobe.com/privacy/policy-linkfree.html",
+        "personalizedEmailPolicyText": "[LQy] personalized",
+        "personalizedEmailPolicyLink": "[LQs] https://www.adobe.com/privacy/marketing.html#mktg-email",
+        "personalizedEmailPolicyLinkFree": "[LQw] https://www.adobe.com/privacy/marketing-linkfree.html#mktg-email",
+        "termsOfUse": "[LQu] https://www.adobe.com/legal/terms.html",
+        "termsOfUseLinkFree": "[LQt] https://www.adobe.com/legal/terms-linkfree.html",
+        "privacyPolicy": "[LQq] https://www.adobe.com/privacy/policy.html",
+        "privacyPolicyLinkFree": "[LQr] https://www.adobe.com/privacy/policy-linkfree.html#info-share"
+      },
+      "implicit": {
+        "titleCreateAcc": "[LQh] By clicking Create account, I agree that:",
+        "titleCompleteAcc": "[LQi] By clicking Complete account, I agree that:"
+      },
+      "southKorea": {
+        "required": "[LQ6] Required",
+        "thirdPartyConsent": {
+          "linkTemplate": "[LQ8] I agree that Adobe may {0}",
+          "linkText": "[LQ7] provide my personal information to third parties"
+        },
+        "storageConsent": {
+          "linkTemplate": "[LQ4] I agree to the {0}",
+          "linkText": "[LQ5] collection and use of my personal information"
+        },
+        "sendServiceProviderConsent": {
+          "linkTemplate": "[LQ2] I agree that Adobe may {0}",
+          "linkText": "[LQ3] provide my personal information to Adobe's service providers"
+        },
+        "exportConsent": {
+          "linkTemplate": "[LQ0] I agree that Adobe may {0}",
+          "linkText": "[LQ1] transfer my personal information outside Korea"
+        }
+      }
+    },
+    "success": {
+      "title": "[LQe] You're all set",
+      "description": "[LQf] We have created an Adobe account."
+    }
+  },
+  "unsupportedBrowser": {
+    "title": "[LRh] Browser not supported",
+    "text": "[LRg] To use the current website, please update your browser to the latest version or try a different browser.",
+    "continueBtn": "[LRi] Go to old site"
+  },
+  "progressiveProfiles": {
+    "termsOfUse": {
+      "title": "[LQO] Updated Terms of Use",
+      "explanation": "[LQP] By closing this window, you’ll be unable to continue using Adobe apps and services. By clicking “Accept and Continue,” you agree that you have read and accepted the {0}.",
+      "acceptTou": "[LQQ] Accept and Continue"
+    },
+    "dateOfBirth": {
+      "title": "[LPg] Add your date of birth",
+      "explanation": "[LPh] We collect your date of birth for account authentication and recovery purposes, and to ensure age-appropriate content."
+    },
+    "profileChooser": {
+      "title": "[LQc] Select a profile to sign in"
+    },
+    "t2e": {
+      "profiles": {
+        "individual": "[LQR] Personal Profile"
+      }
+    },
+    "t2eInvite": {
+      "title": "[LQU] Welcome to {0}",
+      "explanation": "[LQY] Since you already have an Adobe plan associated with this email address, we'll separate profiles for you, each with dedicated storage. {0}",
+      "learnMoreText": "[LQT] Learn more",
+      "learnMoreLink": "https://www.adobe.com/go/introducing-profiles_fr_jp",
+      "learnMoreChromeless": "https://www.adobe.com/go/introducing-profiles-linkfree_fr_jp",
+      "profileListTitle": "[LQS] Here are the profiles we'll set up:",
+      "joinTeam": "[LQV] Join team",
+      "invalidError": {
+        "title": "[LQX] Something went wrong",
+        "text": "[LQW] This invitation has already been used or was sent to a different account. If you think this is an error, please contact the person who invited you."
+      },
+      "skipForNow": "[LQb] Skip for now"
+    },
+    "invite": {
+      "title": "[LPl] Welcome to {0}",
+      "explanation": "[LPk] As a member of the organization, you’ll have access to the apps and storage your administrator assigned you.",
+      "joinTeam": "[LPm] Join team",
+      "invalidError": {
+        "title": "[LPj] Something went wrong",
+        "text": "[LPi] This invitation has already been used or was sent to a different account. If you think this is an error, please contact the person who invited you."
+      }
+    },
+    "completeAccount": {
+      "title": "[LQM] Complete your account",
+      "createPassword": "[LQL] Please create a password for your account.",
+      "submitButton": "[LQN] Complete Account"
+    },
+    "t2eAssetMigration": {
+      "chooser": {
+        "title": "[LP7] Now, tell us where you'd like to store all your content",
+        "explanation": "[LP6] Select the best profile for the content currently stored in Adobe cloud storage. (This doesn't apply to content stored outside of Adobe cloud storage.) We recommend selecting your Business Profile if your content is primarily related to your business plan (such as Creative Cloud for teams or enterprise, Acrobat DC for teams or enterprise). Don't worry, after your profiles are set up - which should only take a few minutes - you'll be able to move content between them at any time. {0}",
+        "learnMore": "[LP5] Things to consider before you choose",
+        "learnMoreLink": "https://www.adobe.com/go/user-profiles_fr_jp",
+        "learnMoreLinkChromeless": "https://www.adobe.com/go/user-profiles-linkfree_fr_jp"
+      },
+      "polling": {
+        "title": "[LQK] We're updating your account",
+        "explanation": "[LQJ] It should take less than a minute."
+      },
+      "confirmation": {
+        "title": "[LPv] Confirm your profile selection",
+        "explanation": "[LPt] All content, including anything personal or related to your individual plan, will be available in your Business Profile. Once your profiles are set up, you can move content between them at any time.",
+        "authAccountExplanation": "[LPu] All content, including anything related to your business plan (Creative Cloud for teams or enterprise), will be available in your {0}. Once your profiles are set up, you can move content between them at any time.",
+        "personalContentWarning": "[LPw] any personal content or content that is not part of",
+        "learnMoreMove": "https://www.adobe.com/go/move-assets-across-profiles_fr_jp",
+        "learnMoreMoveChromeless": "https://www.adobe.com/go/move-assets-across-profiles-linkfree_fr_jp"
+      },
+      "introduction": {
+        "title": "[LP0] Introducing profile selection",
+        "explanation": "[LP1] Since you have multiple Adobe plans associated with your email address, we've created separate profiles for you, each with dedicated storage.",
+        "profileListTitle": "[LPy] Here are the profiles we've set up:",
+        "learnMoreLink": "https://www.adobe.com/go/user-profiles_fr_jp",
+        "learnMoreLinkChromeless": "https://www.adobe.com/go/user-profiles-linkfree_fr_jp"
+      },
+      "timeout": {
+        "title": "[LQF] This move will take just a little bit longer",
+        "explanation": "[LQG] We'll send you an email as soon as we're done so you know when you can sign back into your account. Thanks for your patience. {0}",
+        "learnMoreLink": "https://www.adobe.com/go/error-scenarios_fr_jp",
+        "learnMoreChromeless": "https://www.adobe.com/go/error-scenarios-linkfree_fr_jp"
+      },
+      "assetMigrationFailed": {
+        "title": "[LP9] Unexpected error with your Adobe cloud storage",
+        "text": "[LQB] We’re sorry — we encountered an error with your account while upgrading your company’s Adobe cloud storage. Here’s how you can get to work right away:",
+        "option1": "[LQD] {0} to continue working as before. This profile includes the apps and services associated with your business plan.",
+        "option2": "[LQA] If you had existing content in Adobe storage, rest assured  it’s  safe. It’s been moved to your new Personal Profile due to an error. ",
+        "apologizeForAnyInconvenience": "[LP8] We apologize for any inconvenience. Please {0} if you have any questions.",
+        "selectYourBusinessProfile": "[LQC] Select your Business Profile",
+        "learnMoreLink": "https://www.adobe.com/go/error-scenarios_fr_jp",
+        "learnMoreLinkChromeless": "https://www.adobe.com/go/error-scenarios-linkfree_fr_jp",
+        "adobeCustomerCare": "[LP+] contact Adobe Customer Care"
+      }
+    },
+    "t2eProfilesSetup": {
+      "introduction": {
+        "title": "[LPS] Introducing profile selection",
+        "explanation": "[LPU] Since you have multiple Adobe business plans associated with your email address, we've created separate profiles for you, each with dedicated storage. {0}",
+        "yourBusinessProfiles": "[LPT] Your Business Profiles correspond to your business plans provided by each organization",
+        "yourPersonalProfile": "[LPW] Your Personal Profile includes your existing content stored in Adobe cloud storage. (This doesn't apply to content stored outside of Adobe cloud storage.) Don't worry — you can move content between profiles at any time.",
+        "note": "[LPP] Note: You may see a partial list of Business Profiles until they're all set up, which may take a few days. Until then, please select your Personal Profile to continue working as usual.",
+        "learnMore": "[LPQ] Learn more",
+        "learnMoreLink": "https://www.adobe.com/go/user-profiles_fr_jp",
+        "learnMoreLinkChromeless": "https://www.adobe.com/go/user-profiles-linkfree_fr_jp"
+      },
+      "complete": {
+        "title": "[LPc] Your Business Profile setup is complete",
+        "explanation": "[LPZ] All your Business Profiles have been successfully set up and are ready to use.",
+        "yourBusinessProfiles": "[LPa] {0} By doing so, you'll access the apps and services provided by the corresponding organization.",
+        "yourPersonalProfile": "[LPf] Any content previously stored in Adobe cloud storage is located in your Personal Profile (This doesn't apply to content stored outside of Adobe cloud storage.) {0} {1} that shows you how to manage your profiles.",
+        "selectTheBusinessProfile": "[LPY] Select the Business Profile you wish to work in.",
+        "recommendation": "[LPe] We recommend that you move the content to the appropriate Business Profile.",
+        "hereIsAnArticle": "[LPd] Here's an article",
+        "hereIsAnArticleLink": "https://www.adobe.com/go/user-profiles_fr_jp",
+        "hereIsAnArticleLinkChromeless": "https://www.adobe.com/go/user-profiles-linkfree_fr_jp"
+      }
+    },
+    "updatePrimaryEmail": {
+      "title": "[LPr] Update Your Email",
+      "personalEmailAddress": "[LPn] personal email address",
+      "explanation": "[LPo] The {0} domain is now managed by {1}. Please enter a {2} to continue using your account. None of the products or services will be affected by this change.",
+      "fields": {
+        "newEmail": {
+          "label": "[LPp] New email address"
+        },
+        "repeatEmail": {
+          "label": "[LPq] Retype email address"
+        }
+      }
+    }
+  },
+  "verifyYourIdentity": {
+    "title": "[LRj] Verify your identity"
+  },
+  "jarvis": {
+    "contactUs": "[LNb] Contact us again for more information"
+  },
+  "jumpConfirmation": {
+    "title": "[LNe] Confirm sign-in account here again",
+    "description": "[LNc] You'll be signing in as {0}. If you don't want to sign in, you can close this browser window. for now",
+    "signIn": "[LNd] Sign in again"
+  }
+}
