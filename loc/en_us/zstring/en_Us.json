@@ -875,6 +875,7 @@
     "description": "You'll be signing in as {0}. If you don't want to sign in, you can close this browser window. for now",
     "signIn": "Sign in again",
     "Test Diksha": "Test Update",
-    "Check Update case": "Check update"
+    "Check Update case": "Check update",
+    "Auto Merge": "Auto Merge True"
   }
 }
