@@ -9,5 +9,6 @@
 "Test On stage":"Diksha"
 "Final Testing on qa":"Diksha",
 "Testing for GPR worker":"V2 Non corp",
-"Lunch Time":"Lunch Break"
+"Lunch Time":"Lunch Break",
+"Test": "Test"
 }
