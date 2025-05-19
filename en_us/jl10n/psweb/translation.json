@@ -1,12 +1,12 @@
 {
   "AbuseReport": {
     "Toast": {
-      "Success": "Changing this line to test forked enterprise change for testing - test scenario 3"
+      "Success": "Changing this line to test forked enterprise change for testing"
     }
   },
   "ACRService": {
     "Dialog": {
-      "RequestAccessButton": "Request access",
+      "RequestAccessButton": "Request access - changing this for public repo",
       "RequestAccessCancel": "Cancel",
       "RequestAccessHeadline": "Request access"
     },
