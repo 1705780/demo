@@ -6,7 +6,7 @@
   },
   "ACRService": {
     "Dialog": {
-      "RequestAccessButton_1": "Request access - changing this for public repo- Adding new scenario_1",
+      "RequestAccessButton_1": "Request access - changing this for public repo- Adding new scenario_1"
       "RequestAccessCancel": "Zrušit",
       "RequestAccessHeadline": "Žádost o přístup"
     },
@@ -6817,3 +6817,4 @@
     "Zoomlevel": "Zoom level"
   }
 }
+
