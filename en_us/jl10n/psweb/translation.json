@@ -6,7 +6,7 @@
   },
   "ACRService": {
     "Dialog": {
-      "RequestAccessButton": "Request access - changing this for public repo",
+      "RequestAccessButton": "Request access - changing this for public repo- Adding new scenario",
       "RequestAccessCancel": "Cancel",
       "RequestAccessHeadline": "Request access"
     },
