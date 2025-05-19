@@ -1,7 +1,7 @@
 {
   "AbuseReport": {
     "Toast": {
-      "Success": "Changing this line to test forked enterprise change for testing"
+      "Success": "Changing this line to test public git repo change for testing"
     }
   },
   "ACRService": {
