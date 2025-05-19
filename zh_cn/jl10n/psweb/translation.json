@@ -1,0 +1,6819 @@
+{
+  "AbuseReport": {
+    "Toast": {
+      "Success": "Changing this line to test forked enterprise change for testing"
+    }
+  },
+  "ACRService": {
+    "Dialog": {
+      "RequestAccessButton": "Request access",
+      "RequestAccessCancel": "取消",
+      "RequestAccessHeadline": "请求访问"
+    },
+    "Toast": {
+      "AccessRequested": "已发送访问请求。请求获得批准后，您需要重新加载页面。",
+      "AccessRequestFailed": "访问请求失败。请稍后重试。",
+      "AlreadyEntitled": {
+        "Label": "立即重新加载？",
+        "Message": "您的访问请求已被接受。请重新加载页面。"
+      }
+    }
+  },
+  "ActionMenu": {
+    "More": "更多"
+  },
+  "Actions": {
+    "CameraRawFilter": {
+      "Title": "亮度和颜色"
+    },
+    "DocActions": {
+      "BackToAEM": "返回 AEM",
+      "Compare": {
+        "Tooltip": "显示原稿"
+      },
+      "GetDesktopApp": "获取桌面应用程序",
+      "GetDesktopBetaApp": "安装 Photoshop (Beta)",
+      "OpenApp": "打开应用程序",
+      "OpenDesktopApp": "打开桌面应用程序",
+      "OpenDesktopBetaApp": "在 Photoshop 中打开 (Beta)",
+      "Redo": "重做",
+      "ReportAbuse": "举报滥用",
+      "Title": {
+        "Compare": "比较"
+      },
+      "Toast": {
+        "ShowingOriginal": "正在显示原稿"
+      },
+      "Undo": "还原",
+      "Upgrade": "升级",
+      "ViewOnly": "仅查看",
+      "ViewOnlyReason": {
+        "CCT": "编辑文件需要订阅 Photoshop。请与管理员联系以启用订阅。",
+        "CloseDesktopApp": "关闭桌面应用程序并重新加载该页面以编辑此文档",
+        "EditedBy": {
+          "Name": "此文档正在由 ### 编辑.",
+          "Unknown": "其他人正在编辑此文档。"
+        },
+        "Or": " 或",
+        "SignIn": "登录",
+        "SwitchAccounts": "切换帐户",
+        "ToEdit": " 以编辑此文档",
+        "Upgrade": "升级"
+      }
+    },
+    "DownloadButton": {
+      "Text": "下载"
+    },
+    "GaussianBlur": {
+      "Title": "高斯模糊"
+    },
+    "SelectSubject": {
+      "Title": "选择主体"
+    },
+    "SendToLightroomButton": {
+      "Text": "发送到 Lightroom"
+    },
+    "SolidColor": {
+      "Title": "纯色"
+    },
+    "ToolActions": {
+      "Adjust": "调整",
+      "CopyToNewLayer": {
+        "NotAvailable": "不适用于您选择的图层类型",
+        "Title": "复制到新图层"
+      },
+      "CreateMask": "创建蒙版",
+      "Deselect": "取消选择",
+      "Dialog": {
+        "RequestAccess": "此功能已被您的管理员关闭。是否要请求访问？"
+      },
+      "Generate": {
+        "Cancel": "取消",
+        "Expand": "扩展",
+        "Fill": "填充",
+        "Generate": "生成",
+        "GenerativFill": "生成式填充",
+        "ModifyExistingContent": "修改现有内容并生成对象、背景和场景",
+        "Placeholder": "您想要生成什么内容？（可选）",
+        "Tooltip": "除非您拥有无限访问权限的计划，否则此标准生成式功能每次生成会使用 1 个积分。每次生成会输出 3 张图片。"
+      },
+      "InvertSelection": "反相选区",
+      "Mode": {
+        "Title": "模式"
+      },
+      "MoreActions": "更多操作",
+      "RefineEdge": "调整边缘",
+      "Toast": {
+        "TurnedOff": "此功能已关闭。有关详细信息，请与您的管理员联系。"
+      },
+      "TransformSelection": "变换选区"
+    }
+  },
+  "AddImage": {
+    "ImportImage": "从设备上传"
+  },
+  "AdjustmentCategory": {
+    "BlackAndWhite": "黑白",
+    "Cinematic": "电影般",
+    "Creative": "创意",
+    "Landscape": "风景",
+    "PhotoRepair": "照片修复",
+    "Portraits": "人像"
+  },
+  "AdjustmentLayer": {
+    "BlackAndWhite": "黑白",
+    "BrightnessContrast": "亮度/对比度",
+    "ChannelMixer": "通道混和器",
+    "ColorBalance": "色彩平衡",
+    "ColorLookup": "颜色查找",
+    "Curves": "曲线",
+    "Exposure": "曝光",
+    "GradientMap": "渐变映射",
+    "HueSaturation": "色相/饱和度",
+    "Invert": "反相",
+    "Levels": "色阶",
+    "PhotoFilter": "照片滤镜",
+    "Posterize": "色调分离",
+    "SelectiveColor": "可选颜色",
+    "SolidColor": "纯色",
+    "Threshold": "阈值",
+    "Vibrance": "自然饱和度"
+  },
+  "AdjustmentPreset": {
+    "BlackAndWhite": "黑白",
+    "BlackAndWhiteNegative": "黑白底片",
+    "Brighter": "明亮",
+    "ClassicBlackAndWhite": "经典黑白",
+    "ColorPop": "凸显色彩",
+    "Cool": "酷冷",
+    "CrossProcess": "正片负冲",
+    "Darken": "变暗",
+    "Darker": "较暗",
+    "DarkFade": "暗色渐隐",
+    "DarkMystery": "黑暗之谜",
+    "Faded": "褪色",
+    "Lighten": "变亮",
+    "Matte": "杂边",
+    "Neutral": "中性",
+    "OperationName": "调整预设",
+    "Pop": "凸显",
+    "Sepia": "深褐",
+    "SoftContrast": "柔和对比度",
+    "SoftSepia": "柔和棕褐色",
+    "SplitTone": "分离色调",
+    "Strong": "浑厚",
+    "StrongContrast": "强对比度",
+    "Sunshine": "阳光",
+    "WarmContrast": "暖色调对比度",
+    "XRay": "X 射线"
+  },
+  "AdjustmentPresetCard": {
+    "Actions": {
+      "Apply": "应用",
+      "Revert": "恢复"
+    }
+  },
+  "AdjustmentPresetPanel": {
+    "Button": {
+      "More": "更多"
+    }
+  },
+  "AdvancedSettings": {
+    "Title": "高级设置"
+  },
+  "App": {
+    "SignIn": {
+      "Error": "登录时出错。请重试。"
+    },
+    "Startup": {
+      "LCELoginDialog": {
+        "Confirm": "登录",
+        "Content": "请登录以查看协同编辑者的实时编辑。",
+        "Title": "您仅具有查看权限"
+      },
+      "ToastInfo": {
+        "ApplyForBeta": "要访问此文件，请申请加入我们的封测计划。<br/><br/>您将以专属方式访问新功能，并可以与我们和社区分享您的反馈。（需要预发布协议。）",
+        "LearnMore": "了解更多信息",
+        "PsWebSupport": "此设备不支持 Photoshop Web 版。要编辑或保存更改，请在计算机浏览器中打开 Photoshop，或者从 App Store 下载 Photoshop。",
+        "PsWebSupportCoediting": "此设备不支持实时协同编辑。要实时协作，请在受支持浏览器的最新版本中打开此文档。"
+      }
+    },
+    "SwitchProfile": {
+      "Error": "无法切换配置文件。请刷新页面并重试。",
+      "Refresh": "刷新"
+    },
+    "UpdateRecommended": {
+      "Message": "现已提供新版本的 Photoshop。",
+      "UpdateNow": "立即更新"
+    },
+    "UpdateRequired": {
+      "Message": "现已提供新版本的 Photoshop。请重新加载以获取应用程序的最新版本。",
+      "ReloadButton": "重新加载",
+      "Title": "需要更新应用程序"
+    }
+  },
+  "AssetBrowser": {
+    "Tab": {
+      "Deleted": "已删除",
+      "Files": "文件",
+      "Projects": "项目",
+      "SharedWithYou": "已与您共享"
+    }
+  },
+  "BlendMode": {
+    "Behind": "背后",
+    "BurnInH": "加深 H",
+    "BurnInM": "加深 M",
+    "BurnInS": "加深 S",
+    "CalculationAdd": "计算添加",
+    "CalculationSubtract": "计算减去",
+    "Clear": "清除",
+    "Color": "颜色",
+    "ColorBurn": "颜色加深",
+    "ColorDodge": "颜色减淡",
+    "CustomTable": "自定义表",
+    "Darken": "变暗",
+    "DarkerColor": "深色",
+    "DecreaseVibrance": "降低自然饱和度",
+    "Desaturate": "降低饱和度",
+    "Difference": "差值",
+    "Dissolve": "溶解",
+    "Divide": "划分",
+    "DodgeH": "减淡 H",
+    "DodgeHX": "减淡 HX",
+    "DodgeM": "减淡 M",
+    "DodgeMX": "减淡 MX",
+    "DodgeS": "减淡 S",
+    "DodgeSX": "减淡 SX",
+    "Exclusion": "排除",
+    "HardLight": "强光",
+    "HardMix": "实色混合",
+    "Height": "高度",
+    "Hue": "色相",
+    "IncreaseVibrance": "增加自然饱和度",
+    "Lighten": "变亮",
+    "LighterColor": "浅色",
+    "LinearBurn": "线性加深",
+    "LinearDodge": "线性减淡（添加）",
+    "LinearHeight": "线性高度",
+    "LinearLight": "线性光",
+    "Luminosity": "明度",
+    "Multiply": "正片叠底",
+    "Normal": "正常",
+    "Overlay": "叠加",
+    "PassThrough": "穿透",
+    "PinLight": "点光",
+    "Revert": "恢复",
+    "Saturate": "加色",
+    "Saturation": "饱和度",
+    "Screen": "屏幕",
+    "SoftLight": "柔光",
+    "Subtract": "减去",
+    "TestHook": "测试钩",
+    "Threshold": "阈值",
+    "VividLight": "亮光"
+  },
+  "BodyParserLabel": {
+    "Accessories": "饰品",
+    "Arms": "手臂",
+    "Background": "背景",
+    "Beard": "胡须",
+    "Coat": "外套",
+    "Dress": "服装",
+    "Ears": "耳朵",
+    "Eyebrows": "眉毛",
+    "Eyes": "眼睛",
+    "Face": "面",
+    "Glasses": "眼镜",
+    "Hair": "头发",
+    "Hands": "手",
+    "Hat": "帽子",
+    "Legs": "腿",
+    "LowerClothes": "下装",
+    "Mouth": "嘴唇",
+    "Neck": "颈部",
+    "Nose": "鼻子",
+    "Pupil": "瞳孔",
+    "Shoes": "鞋子",
+    "Teeth": "牙齿",
+    "UpperClothes": "上装"
+  },
+  "BugReportDialog": {
+    "ButtonLabelViewReport": "查看报告",
+    "ButtonLabelVisitCommunity": "访问 Adobe 社区",
+    "ErrorDialogCancel": "取消",
+    "ErrorDialogDescription": "试图提交您的报告时出错。请填写表单并重试。",
+    "ErrorDialogLinkLabel": "访问社区",
+    "ErrorDialogTitle": "无法提交",
+    "FileErrorsFileSizeExceeded": "最大文件大小 {maxFileSize}MB",
+    "FileErrorsNumberOfFilesExceeded": "最大文件数：{filesAddedLimit}",
+    "FileErrorsUnsupportedFileMessage": "不支持的文件格式",
+    "MainDialogBugFormDescription": "将您的报告添加到 Photoshop 版社区中。",
+    "MainDialogHeading": "报告错误",
+    "MainDialogHeadingDropZone": "拖放您的图像",
+    "MainDialogHeadingFileList": "附加图像",
+    "MainDialogHelpTextDescription": "描述问题，包括重现步骤、预期和实际结果以及您找到的任何解决方法。",
+    "MainDialogHelpTextSubject": "添加简要的描述性标题",
+    "MainDialogIllustratedMessageDescription": "或从设备中选择文件",
+    "MainDialogLabelCancel": "取消",
+    "MainDialogLabelConfirm": "报告",
+    "MainDialogLabelDescription": "说明",
+    "MainDialogLabelSelectTopic": "选择一个主题",
+    "MainDialogLabelSizeMB": "MB",
+    "MainDialogLabelSubject": "主体",
+    "MainDialogLabelTopic": "主题",
+    "MainDialogLabelUpload": "上传图像",
+    "MainDialogTitleRemove": "删除文件",
+    "MessageFailure_New": "您的报告未通过。请重试或访问我们的社区。",
+    "MessageStillProcessing_New": "提交您的错误报告需要一些时间。处理完毕后，它将显示在我们的 Photoshop Web 版社区中。",
+    "MessageSuccess": "感谢您提供的反馈。",
+    "UploadDisclaimer": "请勿上传个人信息。如果您选择上传文件，Adobe 审阅者将会访问该文件、收集和审阅数据，并收集有关您如何使用此产品的信息以改进和开发我们的产品和服务。",
+    "UploadPolicy": "上传您的图像，即表明您同意<sp-link variant=secondary href=\"{{TERMS_LINK}}\" target=\"_blank\">使用条款</sp-link>和<sp-link variant=\"secondary\" href=\"{{PRIVACY_URL}}\" target=\"_blank\">隐私政策</sp-link>。"
+  },
+  "BumperPage": {
+    "Button": {
+      "CheckStatus": "检查状态"
+    },
+    "Description": "Photoshop Web 版目前不可用。请稍后重试。",
+    "Heading": "出错了"
+  },
+  "CameraRawPanel": {
+    "AutoTone": {
+      "BlackAndWhite": "黑白",
+      "Title": "自动"
+    },
+    "ChrominanceNr": {
+      "Detail": "细节",
+      "NoiseReduction": "杂色深度减低",
+      "Smoothness": "平滑度"
+    },
+    "Color": {
+      "Effects": {
+        "Vignette": {
+          "Style": {
+            "AsShot": "高光优先",
+            "Auto": "颜色优先",
+            "Daylight": "绘画叠加"
+          }
+        }
+      },
+      "Temp": "色温",
+      "Tint": "色调",
+      "Title": "颜色",
+      "WB": {
+        "AsShot": "原照设置",
+        "Auto": "自动",
+        "Cloudy": "阴天",
+        "Custom": "自定义",
+        "Daylight": "日光",
+        "Flash": "闪光灯",
+        "Fluorescent": "荧光灯",
+        "Picker": "白平衡",
+        "Shade": "阴影",
+        "Tungsten": "白炽灯"
+      },
+      "WhiteBalance": "白平衡"
+    },
+    "ColorMix": {
+      "Hue": "色相",
+      "Luminance": "明亮度",
+      "Saturation": "饱和度",
+      "Title": "混色"
+    },
+    "Detail": {
+      "Title": "细节"
+    },
+    "Effects": {
+      "Title": "效果",
+      "Vignette": {
+        "Style": "样式"
+      }
+    },
+    "Grain": {
+      "Amount": "颗粒",
+      "Roughness": "粗糙度",
+      "Size": "大小"
+    },
+    "Light": {
+      "Blacks": "黑色",
+      "Clarity": "清晰度",
+      "Contrast": "对比度",
+      "Dehaze": "去除薄雾",
+      "Exposure": "曝光",
+      "Highlights": "高亮",
+      "Saturation": "饱和度",
+      "Shadows": "阴影",
+      "Texture": "纹理",
+      "Title": "光线",
+      "Vibrance": "自然饱和度",
+      "Whites": "白色"
+    },
+    "LuminanceNr": {
+      "Contrast": "对比度",
+      "Detail": "细节",
+      "NoiseReduction": "降噪"
+    },
+    "Optics": {
+      "EnableLensCorrections": "启用镜头校正",
+      "RemoveChromaticAberration": "删除色差",
+      "Title": "光学"
+    },
+    "Sharpening": {
+      "Detail": "细节",
+      "Masking": "蒙版",
+      "Radius": "半径"
+    },
+    "Sharpness": {
+      "Sharpening": "锐化"
+    },
+    "Title": "亮度和颜色",
+    "Vignette": {
+      "Amount": "晕影",
+      "Feather": "羽化",
+      "Highlights": "高亮",
+      "Midpoint": "中点",
+      "Roundness": "圆度"
+    }
+  },
+  "CIS": {
+    "UserAuth": {
+      "Captcha": {
+        "ErrorToast": "必需的服务当前不可用。请重试或登录。",
+        "Progress": "正在计算..."
+      }
+    }
+  },
+  "Clipboard": {
+    "BrowserSupportError": "您的浏览器不支持复制到外部应用程序或从外部应用程序粘贴。",
+    "PermissionError": "您必须启用剪贴板权限才能剪切、复制和粘贴。"
+  },
+  "CloudSync": {
+    "Toast": {
+      "ConnectionRestored": "连接已恢复",
+      "NetworkDisconnected": "无法保存。请检查您的连接，然后重试。"
+    }
+  },
+  "Coediting": {
+    "Conflict": {
+      "ActionLabel": "显示历史记录面板",
+      "Notification_one": "由于与 {{DISPLAY_NAME}} 冲突，您的最近更改已被还原。",
+      "Notification_other": "由于与 {{DISPLAY_NAME}} 冲突，您最近的更改已被还原。",
+      "UnknownUser": "协作者"
+    },
+    "Dialog": {
+      "ViewOnly": {
+        "Confirm": "确定",
+        "Headline": "您拥有仅查看和注释的访问权限",
+        "Text": "您将无法编辑此文档，但您可以看到协同编辑者的实时编辑。"
+      }
+    },
+    "Entitlement": {
+      "Notification": "您需要订阅 Photoshop 才能编辑该文件。"
+    },
+    "FeatureFlags": {
+      "Dialog": {
+        "AppSettings": "打开设置",
+        "Headline": "无法打开此文档",
+        "Text": "当前未启用实时协同编辑。<p>要将其启用，请打开应用程序设置 (<kbd>{{kbsc}}</kbd>)，并在<b style=\"white-space: nowrap;\">技术预览</b>下打开<b style=\"white-space: nowrap;\">实时协同编辑</b>。完成后，重新加载页面。</p>"
+      }
+    },
+    "IncompatibleDocContentDialog": {
+      "Content": "您目前无法协同编辑此文档。您仅具有查看和注释访问权限，并且看不到其他更新。",
+      "Title": "Photoshop 版本不兼容"
+    },
+    "Offline": {
+      "Dialog": {
+        "Cancel": "取消",
+        "Confirm": "下载",
+        "Headline": "您处于离线状态",
+        "Text": "要保存编辑，请将此文档的副本下载到您的设备。"
+      }
+    },
+    "SessionDisconnected": {
+      "ConfirmLabel": "存储为...",
+      "ConnectionError": "出现网络或超时错误，您的会话已结束。",
+      "Headline": "您的实时共同编辑会话已结束",
+      "NoUnsyncedChanges": "您仅具有查看和注释访问权限。请尝试重新加载以继续编辑。",
+      "SaveAsNew": "您还可以另存为新文档以保留更改。",
+      "SecondaryLabel": "取消",
+      "UnknownError": "出现连接错误，您的会话已结束。",
+      "UnsyncedChanges": " 您的一些编辑未同步，可能会丢失。您仅具有查看和注释访问权限。"
+    }
+  },
+  "CoeditingPaywall": {
+    "Description": {
+      "P1ViewAndComment": "如果没有订阅，您只能参与评论和查看其他人的实时编辑。",
+      "P1ViewOnly": "如果没有订阅，您只能查看其他人的实时编辑。",
+      "P2": "解锁 Photoshop 强大的创意功能，并与您的协同编辑者一起编辑文档。",
+      "P3": "开始时，您可以获得 7 天的免费试用。"
+    },
+    "FreeTrial": "开始 7 天免费试用",
+    "Heading": "通过 7 天免费试用解锁实时共同编辑功能",
+    "ViewAllPlans": "查看所有计划"
+  },
+  "CollapsibleGrid": {
+    "Expand": "查看全部"
+  },
+  "ColorPicker": {
+    "AdjustmentTint": {
+      "Title": "请选择色调颜色",
+      "Tooltip": "请选择色调颜色"
+    },
+    "Background": {
+      "Title": "背景颜色"
+    },
+    "ColorMode": {
+      "CMYK": "CMYK",
+      "HideSliders": "隐藏滑块",
+      "HSB": "HSB",
+      "LAB": "LAB",
+      "Label": "颜色模式",
+      "RGB": "RGB",
+      "ShowSliders": "显示滑块"
+    },
+    "EditSwatch": {
+      "Back": {
+        "Tooltip": "返回到拾色器"
+      },
+      "Cancel": "取消",
+      "EditSwatch": "编辑色板",
+      "Save": "保存",
+      "SwatchName": "色板名称"
+    },
+    "Foreground": {
+      "Title": "前景色"
+    },
+    "Swatch": {
+      "AddSwatch": "添加色板",
+      "Delete": "删除",
+      "DeleteAll": "删除所有色板",
+      "DeleteAllDialog": {
+        "Cancel": "取消",
+        "ConfirmLabel": "删除",
+        "Message": "所有色板将被删除。您无法撤销此操作。",
+        "Title": "是否删除所有色板？"
+      },
+      "DeleteSelectedSwatches": "删除选定的色板",
+      "Edit": "编辑",
+      "NewSwatch": "色板"
+    },
+    "SwatchMode": {
+      "Swatches": "色板"
+    },
+    "TextInput": {
+      "CMYK": {
+        "C": "C",
+        "K": "K",
+        "M": "M",
+        "Y": "Y"
+      },
+      "CurrentColor": "当前颜色",
+      "DefaultBlack": "设置黑色",
+      "DefaultWhite": "设置白色",
+      "Error": "需要有效的颜色代码。",
+      "Hex": "HEX",
+      "HSB": {
+        "B": "B",
+        "H": "H",
+        "S": "S"
+      },
+      "LAB": {
+        "A": "A",
+        "B": "B",
+        "L": "L"
+      },
+      "NewColor": "新建颜色",
+      "RGB": {
+        "B": "B",
+        "G": "G",
+        "R": "R"
+      },
+      "SampleAColor": "使用滴管对颜色取样"
+    },
+    "Type": {
+      "Title": "选择颜色",
+      "Tooltip": "选择颜色"
+    }
+  },
+  "CommentsPanel": {
+    "Title": "注释"
+  },
+  "Component": {
+    "FacePile": {
+      "More": "显示更多..."
+    }
+  },
+  "Components": {
+    "ComboSlider": {
+      "OpenSlider": "打开滑块"
+    }
+  },
+  "ConfirmDeleteBrushesFolder": {
+    "Cancel": "取消",
+    "ConfirmLabel": "删除",
+    "Message": "文件夹中的所有画笔都将被删除。您无法撤销此操作。",
+    "Title": "删除 ###?"
+  },
+  "ConfirmDeleteGradient": {
+    "Cancel": "取消",
+    "ConfirmLabel": "删除",
+    "Message": "将删除选定的渐变。无法撤消此操作。",
+    "Title": "删除渐变"
+  },
+  "ConfirmDeletePattern": {
+    "Cancel": "取消",
+    "ConfirmLabel": "删除",
+    "Message": "将删除选定的图案。无法撤消此操作。",
+    "Title": "删除图案"
+  },
+  "ConfirmResetBrushes": {
+    "Cancel": "取消",
+    "ConfirmLabel": "重置",
+    "Message": "所有加载的画笔将被删除。您无法撤销此操作。",
+    "Title": "重置为默认画笔。"
+  },
+  "ConfirmResetContours": {
+    "Cancel": "取消",
+    "ConfirmLabel": "重置",
+    "Message": "所有加载的轮廓将被删除。您无法撤销此操作。",
+    "Title": "重置为默认轮廓"
+  },
+  "ConfirmResetGradients": {
+    "Cancel": "取消",
+    "ConfirmLabel": "重置",
+    "Message": "所有加载的渐变将被删除。您无法撤销此操作。",
+    "Title": "重置为默认渐变"
+  },
+  "ConfirmResetPatterns": {
+    "Cancel": "取消",
+    "ConfirmLabel": "重置",
+    "Message": "所有加载的图案将被删除。您无法撤销此操作。",
+    "Title": "重置为默认图案"
+  },
+  "ConflictAvoidanceDialog": {
+    "Body": {
+      "Options1": "您仍可在以下情况下查看文件：",
+      "Options2": {
+        "NoUsername": "其他人正在编辑。要自己编辑文件，请保存副本，或者等待他人关闭文件后重试。",
+        "Username": "### 正在编辑。要自己编辑文件，请保存副本，或者等待他人关闭文件后重试。"
+      }
+    },
+    "Title": "其他人正在编辑此文件"
+  },
+  "ContextBarLayerControls": {
+    "NumberOfSelectedLayers_one": "已选择 {{count}} 个图层",
+    "NumberOfSelectedLayers_other": "已选择 {{count}} 个图层",
+    "Properties": "图层属性",
+    "ShowSelectedLayer": "显示所选图层",
+    "ShowSelectedLayers": "显示选定图层",
+    "ShowSelectedMask": "显示所选蒙版"
+  },
+  "CropPanel": {
+    "AspectRatio": {
+      "Button": {
+        "Title": "旋转"
+      }
+    },
+    "Label": {
+      "Height": "高度",
+      "Units": "单位",
+      "Width": "宽度"
+    },
+    "Lockbutton": {
+      "ConstrainAspectRatio": "限制纵横比",
+      "DoNotConstrainAspectRatio": "不限制纵横比"
+    },
+    "Presets": {
+      "Title": "预设"
+    },
+    "Reset": {
+      "Button": {
+        "Title": "复位"
+      }
+    },
+    "Rotate": {
+      "Label": "旋转"
+    },
+    "Straighten": {
+      "Button": {
+        "Title": "拉直"
+      }
+    },
+    "Swapbutton": {
+      "SwapDimensions": "替换宽度和高度"
+    },
+    "Units": {
+      "Centimeters": "厘米",
+      "Inches": "英寸",
+      "Millimeters": "毫米",
+      "Pixels": "像素"
+    }
+  },
+  "CropPanelPresetCard": {
+    "Dimensions": {
+      "Title": "{{RATIO_WIDTH}} x {{RATIO_HEIGHT}}"
+    }
+  },
+  "CropPresetCategory": {
+    "Facebook": {
+      "Facebook": "Facebook",
+      "Title": {
+        "Post": "发布",
+        "Profil": {
+          "photo": "个人资料照片"
+        },
+        "Story": "故事"
+      }
+    },
+    "Instagram": {
+      "Instagram": "Instagram",
+      "Title": {
+        "Landscape": "风景",
+        "Portrait": "人像",
+        "Profile": {
+          "photo": "个人资料照片"
+        },
+        "Square": "方形",
+        "Story": "文章"
+      }
+    },
+    "LinkedIn": {
+      "LinkedIn": "LinkedIn",
+      "Title": {
+        "Landscape": "LinkedIn",
+        "Profile": {
+          "photo": "个人资料照片"
+        }
+      }
+    },
+    "Photos": {
+      "Dimensions": {
+        "Title": "###:+++"
+      },
+      "Photos": "照片",
+      "Square": {
+        "Title": "方形"
+      }
+    },
+    "Tiktok": {
+      "TikTok": "TikTok",
+      "Title": {
+        "Clip": "剪贴"
+      }
+    },
+    "Twitter": {
+      "Title": {
+        "Cover": {
+          "photo": "封面照片"
+        },
+        "Landscape": "横向",
+        "Profile": {
+          "photo": "个人资料照片"
+        }
+      },
+      "Twitter": "Twitter"
+    },
+    "YouTube": {
+      "Title": {
+        "Thumbnail": "缩览图"
+      },
+      "YouTube": "YouTube"
+    }
+  },
+  "CSAT": {
+    "RateExperienceDialog": {
+      "Cancel": "取消",
+      "Headline": "评价实时共同编辑功能",
+      "SendFeedback": "发送反馈"
+    }
+  },
+  "CurvesProperties": {
+    "Curves": {
+      "Delete": "删除",
+      "DragOnImage": "拖动图像",
+      "Draw": "绘图",
+      "InputField": "输入",
+      "OutputField": "输出",
+      "Points": "点",
+      "Reset": "重置",
+      "Tooltip": {
+        "DragOnImage": "在图像上单击并拖动可修改曲线",
+        "Draw": "通过绘制来修改曲线",
+        "Points": "编辑点以修改曲线"
+      },
+      "Unsupported": "此图像模式不支持曲线"
+    }
+  },
+  "Dialog": {
+    "Close": "关闭",
+    "DontShowAgain": "不再显示",
+    "FeatureUnsupportedForCoediting": {
+      "Cancel": "取消",
+      "Headline": "此功能不受支持",
+      "SaveAs": "存储为...",
+      "Text": "启用了实时共同编辑的文档不支持某些功能。要使用这些功能，请将其另存为另一个文档。<sp-link href=\"{{LEARN_MORE_URL}}\" target=\"_blank\">了解详情</sp-link>"
+    },
+    "Menu": "菜单"
+  },
+  "DiscoverCoachmarkCard": {
+    "Button": {
+      "GotIt": "知道了",
+      "Upgrade": "升级"
+    },
+    "HoTAbortDialog": {
+      "Content2": "<p style='margin-top: 0;'>浏览“帮助”面板以访问更多学习资源、处理示例文件并获取分步指导。</p><p style='margin-bottom: 0;'>解锁 Photoshop 的所有强大工具，充分发挥您的创造力。立即升级，前 7 天免费试用！</p>",
+      "Title": "通过实操教程继续学习"
+    }
+  },
+  "DiscoverMode": {
+    "Footer": {
+      "AdChoices": "AdChoices",
+      "Cookies": "Cookie",
+      "Language": "语言：",
+      "PrivacyPolicy": "隐私政策",
+      "TermsOfUse": "使用条款"
+    }
+  },
+  "DiscoverPage": {
+    "BenefitsSection": {
+      "Benefit2": "直接在 Web 浏览器中创建精美的照片、丰富的图形和令人惊叹的艺术作品",
+      "Benefit3": "使用 Photoshop 跨 Web、桌面和移动设备随时随地工作",
+      "Benefit4": "使用教程、免费资产、Adobe Express 模板和字体探索您的创造力",
+      "Benefit5": "直接在 Photoshop Web 编辑器中利用 Adobe Camera Raw 的强大功能",
+      "Benefit6": "创建自定义画笔并浏览订阅中的所有 Adobe Fresco 和 Kyle 的画笔。",
+      "GenfillBenefit": "使用由生成式 AI 支持的简单文本提示快速创建、添加、移除或替换图像",
+      "HeaderFreeTrial": "准备好开始了吗？开始 7 天免费试用。",
+      "TryNow": "立即试用"
+    },
+    "Button": {
+      "BuyNow": "立即购买",
+      "FreeTrial": "开始免费试用",
+      "LearnMore": "了解更多信息",
+      "StudentFreeTrial": "开始体验学生试用版",
+      "TryDemo": "立即演示生成式填充"
+    },
+    "CreditQuota": {
+      "LowCredits": "生成式积分即将用尽。您可以在帐户中查看余额或升级计划。",
+      "OutOfCredits": "生成式积分已用完。请升级您的计划以获取更多积分。",
+      "Upgrade": "升级"
+    },
+    "Dynamic": {
+      "CreateOnYourOwn": {
+        "Description": "选择一张图片，在应用程序中通过 DIY 体验打造您自己的图片。",
+        "First": {
+          "PrimaryCTA": "选择汽车"
+        },
+        "Second": {
+          "PrimaryCTA": "选择狗"
+        },
+        "Title": "使用示例图像自行创建"
+      },
+      "ExtendFreeTrialForStudents": {
+        "Description": "如果您是认证教育机构的在读学生，则可以订阅 Photoshop Web 版，享受一次性 6 个月免费试用，并访问所有强大的工具和学习教程，开启技能提升之旅。",
+        "PrimaryCTA": "了解更多信息",
+        "Title": "学生专属延长免费试用"
+      },
+      "GenFillDemo": {
+        "Description": "从文本提示瞬间转变为令人惊叹的图稿。使用生成式 AI 创造您可以想象的任何内容，或使其消失。",
+        "PrimaryCTA": "开始使用生成式填充",
+        "ShortTitle": "引导式演示",
+        "Title": "演示生成式填充"
+      },
+      "GetAFeel": {
+        "Description": "通过实操教程，了解如何直接从浏览器创建精美的图像和图形。",
+        "PrimaryCTA": "开始教程",
+        "Title": "体验 Photoshop"
+      },
+      "GetStarted": {
+        "Title": "选择开始的方式"
+      },
+      "Remove": {
+        "Description": "了解如何通过点击几下即可移除人物、干扰和瑕疵。",
+        "PrimaryCTA": "立即观看",
+        "Title": "观看如何从图像中移除任何内容"
+      },
+      "Welcome": {
+        "Description": "Photoshop Web 版以简化的界面提供了强大的编辑工具。在此处预览该应用程序——注册 7 天免费试用。",
+        "DescriptionStudent": "Photoshop Web 版以简化的界面提供强大的编辑工具。在此处预览该应用程序——<b>注册享免费试用；学生专享 6 个月免费试用</b>。",
+        "PrimaryCTA": "开始免费试用",
+        "PrimaryCTAStudent": "我是一名学生",
+        "SecondaryCTA": "开始免费试用",
+        "Title": "欢迎使用 Photoshop",
+        "TitleStudent": "欢迎使用 <span style=\"background-image: linear-gradient(90deg, rgba(48,167,254) 0%, rgba(99, 56, 238) 100%); background-clip: text; color: transparent;\">Photoshop</span>"
+      }
+    },
+    "GenerativeAIBanner": {
+      "Description": "使用由生成式 AI 支持的简单文本提示，直接在 Adobe Photoshop 中快速创建、添加、移除或替换图像",
+      "Title": "使用生成式填充实现更大的梦想"
+    },
+    "Recent": "最近",
+    "SignInSection": {
+      "ContinueWithAdobe": "使用 Adobe 继续",
+      "ContinueWithApple": "使用 Apple 继续",
+      "ContinueWithGoogle": "使用 Google 继续",
+      "Footer": "查看更多",
+      "FooterSignIn": "登录方式",
+      "HeaderFreeTrial": "立即注册免费试用",
+      "SubHeader": "Adobe Photoshop"
+    },
+    "TicketEntitlement": {
+      "Notification": "免费访问权限已到期。需要订购 Photoshop 才能继续编辑文件。"
+    },
+    "TutorialCards": {
+      "BringOutColors": {
+        "Desc": "突显颜色"
+      },
+      "ColorAdjustments": {
+        "Desc": " 可选颜色调整"
+      },
+      "CreateArtwork": {
+        "Desc": "使用多个图像创建图稿"
+      },
+      "GenAICard": {
+        "Desc": "令人惊叹的图稿的文本提示",
+        "Title": "演示教程"
+      },
+      "GetStarted": {
+        "Desc": "Photoshop Web 入门"
+      },
+      "GetStartedButton": "开始教程",
+      "HideImperfections": {
+        "Desc": "隐藏小瑕疵"
+      },
+      "RemoveObject": {
+        "Desc": "移除较大的对象"
+      },
+      "StylizePoster": {
+        "Desc": "风格化海报"
+      },
+      "Title": "实操教程",
+      "WhatsDifferent": {
+        "Desc": "Photoshop Web 的不同之处"
+      }
+    },
+    "Tutorials": {
+      "Header": "通过实践教程开始学习"
+    }
+  },
+  "DiscoverPanel": {
+    "Panel": {
+      "Comments": {
+        "Title": "注释面板"
+      },
+      "ContextBar": {
+        "Title": "上下文任务栏"
+      },
+      "Discover": {
+        "Title": "帮助"
+      },
+      "Layers": {
+        "Title": "图层面板"
+      },
+      "Properties": {
+        "Title": "属性面板"
+      },
+      "Taskbar": {
+        "Title": "任务栏"
+      },
+      "Tools": {
+        "Title": "工具面板"
+      },
+      "ToolSettings": {
+        "Title": "工具设置"
+      }
+    },
+    "Shortcuts": {
+      "Category": {
+        "Auto": "自动",
+        "Color": "颜色",
+        "Essential": "基本功能",
+        "File": "文件",
+        "Fill": "填充",
+        "Filter": "滤镜",
+        "GuidesGridsRulers": "参考线、网格和标尺",
+        "Layer": "图层",
+        "LeftPanelToolbar": "左侧面板工具栏",
+        "Orientation": "方向",
+        "RefineEdge": "调整边缘",
+        "Selection": "选区",
+        "SelectionTools": "选择工具",
+        "Tools": "工具",
+        "Zoom": "缩放"
+      }
+    },
+    "Tool": {
+      "Title": {
+        "Adjust": "调整",
+        "QuickActions": "快速操作"
+      },
+      "Tooltip": {
+        "Adjust": "调整",
+        "Brush": "画笔工具 (B)",
+        "Burn": "变暗（加深）工具 (O)",
+        "CloneStamp": "仿制图章工具 (S)",
+        "Crop": "裁剪工具 (C)",
+        "Dodge": "变亮（减淡）工具 (O)",
+        "Ellipse": "椭圆工具 (U)",
+        "EllipticalMarquee": "椭圆选框工具 (M)",
+        "Eraser": "橡皮擦工具 (E)",
+        "Eyedropper": "吸管工具 (I)",
+        "GenExpand": "生成式扩展工具",
+        "GenFill": "生成式填充工具",
+        "GenImage": "生成图像工具",
+        "Gradient": "渐变工具 (G)",
+        "HealingBrush": "修复画笔工具 (J)",
+        "Import": "导入工具",
+        "Lasso": "套索工具 (L)",
+        "Line": "直线工具 (U)",
+        "MagicLasso": "对象选择工具 (W)",
+        "MagicWand": "魔棒工具 (W)",
+        "Move": "移动工具 (V)",
+        "PaintBucket": "油漆桶工具 (G)",
+        "PathSelection": "移动形状工具 (A)",
+        "Polygon": "多边形工具 (U)",
+        "QuickActions": "快速操作",
+        "QuickSelect": "快速选择工具 (W)",
+        "Rectangle": "矩形工具 (U)",
+        "RectangularMarquee": "矩形选框工具 (M)",
+        "RemoveTool": "移除工具",
+        "Smudge": "涂抹工具",
+        "Sponge": "饱和度海绵工具 (O)",
+        "SpotHealingBrush": "污点修复画笔工具 (J)",
+        "Transform": {
+          "MacOs": "变换工具 (⌥ + ⌘ + T)",
+          "Win": "变换工具 (Alt+Ctrl+T)"
+        },
+        "Triangle": "三角形工具 (U)",
+        "Type": "文字工具 (T)"
+      }
+    },
+    "UpgradeDialog": {
+      "Upgrade": "升级"
+    }
+  },
+  "Doc": {
+    "AquirePresence": {
+      "Error": {
+        "Heading": "检查文档的编辑状态时出错。请重新加载，然后重试。",
+        "Reload": "重新加载"
+      }
+    },
+    "CanEditToast": {
+      "ActionLabel": "编辑文档",
+      "Message": "现在，您可以编辑文档"
+    },
+    "ConfirmEditToast": {
+      "Message": "现在，您可以编辑并保存对此文档所做的更改"
+    },
+    "Entitlement": {
+      "Notification": "编辑文件需要订阅 Photoshop。"
+    },
+    "Export": {
+      "Error": {
+        "Unknown": "无法导出"
+      },
+      "ProgressDialog": {
+        "Label": {
+          "SaveAsCloud": "正在创建文档副本",
+          "SavingDocument": "存储文档",
+          "SendToAEM": "正在发送到 Adobe Experience Manager",
+          "SendToLR": "正在发送至 Lightroom",
+          "SigningExportedImage": "对导出的图像进行签名",
+          "UploadingDocument": "正在上传文档"
+        }
+      },
+      "SaveToLightroom": {
+        "Open": "打开",
+        "Ready": "您的 Lightroom 照片已准备就绪。",
+        "Success": "已成功发送至 Adobe Lightroom。当您的照片准备就绪后，您将收到通知。"
+      },
+      "SigningError": {
+        "Unknown": "您的文档已导出，但无法发布或附加其 Content Credentials。"
+      },
+      "SigningSuccess": {
+        "Generic": "文档已导出，已应用 Content Credentials。"
+      },
+      "Success": {
+        "Generic": "文档已导出"
+      }
+    },
+    "Filename": {
+      "Untitled": "无标题"
+    },
+    "NewDocVersionToast": {
+      "ActionLabel": "检索更新",
+      "Message": "有更新版本的文档可用，包含了新的编辑。"
+    },
+    "Open": {
+      "Error": {
+        "Create": "无法创建文档"
+      },
+      "ProgressDialog": {
+        "Label": {
+          "LoadingDocument": "加载文档",
+          "PreparingDocument": "正在准备文档"
+        }
+      }
+    },
+    "OpenInDesktop": {
+      "MessageDialog": {
+        "Button": {
+          "Cancel": "取消",
+          "Confirm": "在桌面应用程序中打开",
+          "ConfirmNotInstalled": "安装桌面应用程序"
+        },
+        "Messsage": "要继续编辑，您需要切换到 Photoshop 桌面应用程序。Photoshop Web 版将变成只能查看。完成更改后，只需刷新此页面即可继续。",
+        "MesssageNotInstalled": "要继续编辑，您需要安装 Photoshop 桌面应用程序。Photoshop Web 版将仅可查看。在桌面中完成更改后，请返回此处以继续在 Web 上编辑。",
+        "Title": "在桌面应用程序中打开",
+        "TitleNotInstalled": "安装桌面应用程序"
+      },
+      "ProgressDialog": {
+        "Label": {
+          "Saving": "存储文档",
+          "SavingToCloud": "保存到云端"
+        }
+      }
+    },
+    "OpenInDesktopBeta": {
+      "MessageDialog": {
+        "Button": {
+          "Cancel": "取消",
+          "Confirm": "在 Photoshop 中打开 (Beta)",
+          "ConfirmNotInstalled": "安装 Photoshop (Beta)"
+        },
+        "Messsage": "现在，此文档将在 Photoshop (Beta) 应用程序中打开。<br /><br />如果还要保持当前会话打开，您将有两个头像，每个头像会用不同的颜色表示。<br /><br />是否仍要在 Photoshop (Beta) 中打开？",
+        "MesssageNotInstalled": "要继续编辑，您需要安装最新版本的 Photoshop (Beta) 应用程序。完成更改后，请重新加载此页面。",
+        "Title": "在 Photoshop 中打开 (Beta)",
+        "TitleNotInstalled": "安装 Photoshop (Beta)"
+      }
+    },
+    "OpenInViewOnlyToast": {
+      "Message": {
+        "Name": "您只有在 ### 编辑时查看此文件。",
+        "Unknown": "您只有在其他人编辑时查看此文件。"
+      }
+    },
+    "PlaceFile": {
+      "NewLayerName": "新建图层"
+    },
+    "QuickMaskMode": {
+      "Exit": "已退出快速蒙版模式。"
+    },
+    "RenditionPreview": {
+      "Error": "无法加载预览呈现"
+    },
+    "Save": {
+      "Error": {
+        "Unknown": "出现意外错误。请重试。"
+      },
+      "LowBandwidth": "您的连接速度较慢。您可以继续进行编辑，但保存文档可能需要更长时间。"
+    },
+    "SaveACopyAndOpenInNewTab": {
+      "ProgressDialog": {
+        "Message": "准备就绪后您将收到通知。",
+        "Title": "正在保存文档"
+      },
+      "SuccessDialog": {
+        "Button": {
+          "Cancel": "取消",
+          "Open": "打开"
+        },
+        "Message": "您现在可以打开文档。",
+        "Title": "保存完成"
+      }
+    },
+    "SaveToLightroom": {
+      "Error": "发送至 Lightroom 时出错。请重试。"
+    },
+    "SavingOffline": "由于您处于脱机状态，目前无法保存您的编辑。请在您重新联机后重试。",
+    "TicketEntitlement": {
+      "Notification": "免费访问权限已到期。需要订购 Photoshop 才能继续编辑文件。"
+    },
+    "UnsupportedColorMode": "Photoshop Web 尚不支持此颜色模式。"
+  },
+  "DocAction": {
+    "LiveEditing": {
+      "AnonymousUser": "匿名"
+    }
+  },
+  "DocumentInfoPanel": {
+    "Canvas": {
+      "ColorMode": "颜色模式",
+      "Height": "高度",
+      "Size": "大小",
+      "Title": "画布",
+      "Width": "宽度"
+    },
+    "ColorMode": "颜色模式",
+    "Created": "已创建",
+    "File": {
+      "Created": "已创建",
+      "Modified": "已修改",
+      "PSCloucDocument": "PS 云文档",
+      "Title": "文件",
+      "Type": "文字"
+    },
+    "FileSize": "文件大小",
+    "FileSizeToolTip": "大小是指包含图层、通道、蒙版及其他元素的带图层的 Photoshop 文档的大小，表示云中文档的大小。",
+    "Height": "高度",
+    "LightroomAsset": "Lightroom 照片",
+    "Modified": "已修改",
+    "PSCloudDocument": "Photoshop 云文档",
+    "PSCoeditingAsset": "Photoshop 协同编辑文档",
+    "Px": "像素",
+    "Resolution": "分辨率",
+    "Title": "文档信息",
+    "Type": "类型",
+    "Width": "宽度"
+  },
+  "DocumentMenu": {
+    "CloudSync": {
+      "Details": {
+        "ChangesWillBeSavedShortly": "您的更改将很快自动保存，您也可以手动保存 ({{kbsc}})。",
+        "ChangesWillBeSavedToTheCloudShortly": "您的更改将很快保存至云，您也可以随时手动同步 ({{kbsc}})。",
+        "Disconnected": "已断开",
+        "InProgress": "进行中",
+        "LastSaved": "上次保存时间",
+        "LastSynced": "上次同步",
+        "Reconnect": "正在尝试重新连接...",
+        "Saved": "文件已保存",
+        "SaveError": "保存出错",
+        "SavePending": "保存待处理",
+        "Saving": "正在保存...",
+        "SorrySomething": "抱歉，出现问题",
+        "Synced": "文件已同步到云",
+        "Syncing": "正在将您的更改同步到云...",
+        "SyncPending": "同步挂起"
+      },
+      "Popover": {
+        "Syncing": "正在同步到云..."
+      },
+      "Status": {
+        "ChangesWillBeSavedShortly": "您的更改将很快保存",
+        "ChangesWillBeSyncedShortly": "您的更改将很快同步",
+        "Disconnected": "已断开",
+        "Error": "错误",
+        "Saved": "已保存",
+        "Saving": "正在保存...",
+        "Synced": "已同步到云",
+        "Syncing": "正在将您的更改同步到云..."
+      }
+    },
+    "DocumentInfo": "文档信息...",
+    "VersionHistory": "版本历史记录",
+    "Versions": {
+      "Original": "原稿",
+      "RevertUnavailable": "文档保存完毕后，将可以使用“恢复”功能。",
+      "RevertUnavailableSyncing": "当您的文档同步到云端时，将可以使用“恢复”功能。",
+      "SaveNowNew": "立即保存"
+    }
+  },
+  "DPInterventionCard": {
+    "Button": {
+      "Gotit": "知道了"
+    }
+  },
+  "DPSelector": {
+    "DocumentMenu": "“文档”菜单",
+    "EditBackground": {
+      "Colors": "颜色",
+      "CustomColor": "自定义颜色",
+      "Image": "图像"
+    },
+    "Header": {
+      "AccountMenu": "“帐户”菜单",
+      "DownloadButton": "下载",
+      "FeedbackMenu": "“反馈”菜单",
+      "FreeTrial": "免费试用",
+      "GetDesktop": "获取桌面版",
+      "Help": "帮助",
+      "MainMenu": "主菜单",
+      "OpenIn": "打开方式",
+      "OpenInDesktop": "在桌面版上打开",
+      "Redo": "重做",
+      "RequestAccess": "请求访问",
+      "ShareMenu": "“共享”菜单",
+      "SigninButton": "登录",
+      "Toolbar": "工具栏",
+      "Undo": "还原",
+      "Upgrade": "升级",
+      "ZoomMenu": "“缩放”菜单"
+    },
+    "Layeractions": {
+      "AddLayerMask": "添加图层蒙版",
+      "AdjustmentLayers": "调整图层",
+      "ArrangeLayers": "排列图层",
+      "Blending": {
+        "Opacity": "混合模式不透明度"
+      },
+      "CreateClippingMask": "创建剪贴蒙版",
+      "Delete": "删除",
+      "DisableLayerMask": "禁用图层蒙版",
+      "EnableLayerMask": "启用图层蒙版",
+      "LayerEffects": "图层效果",
+      "LayerVisibility": "图层可见性",
+      "NewLayer": "添加新图层",
+      "ReleaseClippingMask": "释放剪贴蒙版"
+    },
+    "Properties": {
+      "FontFillColor": "字体填充颜色",
+      "FontPicker": "字体选择器",
+      "FontSize": "字体大小",
+      "HueSaturation": {
+        "Hue": "色相滑块",
+        "Reset": "重置按钮",
+        "Saturation": "饱和度滑块"
+      }
+    },
+    "SectionToolbar": {
+      "Adjust": "调整",
+      "GenerativeTools": "生成式",
+      "Paint": "颜料",
+      "Retouch": "修饰",
+      "Select": "选择",
+      "Shapes": "形状",
+      "SizePosition": "大小和位置"
+    },
+    "Taskbar": {
+      "Comments": "注释",
+      "LayerProperties": "图层属性",
+      "Layers": "图层"
+    },
+    "TextQuickActions": {
+      "Presets": "预设",
+      "Styles": "样式"
+    },
+    "ToolActions": {
+      "ContentAwareFill": "内容识别填充",
+      "CreateMaskFromSelection": "从选区创建蒙版",
+      "Deselect": "取消选择",
+      "InvertSelection": "反转选区",
+      "SelectLess": "选择更少",
+      "SelectMore": "选择更多"
+    },
+    "Toolbar": {
+      "Action": {
+        "BlackWhite": "黑白",
+        "BrightnessContrast": "亮度对比度",
+        "CameraRawFilter": "亮度和颜色",
+        "ColorBalance": "色彩平衡",
+        "curves": "曲线",
+        "Exposure": "曝光度",
+        "GaussianBlur": "高斯模糊",
+        "HueSaturation": "色相饱和度",
+        "levels": "色阶",
+        "SelectSubject": "选择主体",
+        "Vibrance": "自然饱和度"
+      },
+      "ColorPicker": "颜色选择器",
+      "ColorPickerBackground": "背景色拾色器",
+      "ColorPickerForeground": "前景色拾色器",
+      "ColorSwitch": "颜色切换"
+    },
+    "ToolSettings": {
+      "BrushHardness": "画笔硬度设置",
+      "BrushSize": "画笔大小设置",
+      "BrushSizeHardness": "画笔大小和硬度设置"
+    }
+  },
+  "EditorUI": {
+    "Help": {
+      "Description": "如果需要更多提示和技巧，或者希望再次学习此教程，可以使用“帮助”菜单。",
+      "Title": "随时可寻求帮助"
+    },
+    "Mouse": {
+      "Pan": "按住空格键，单击并拖动以移动画布。",
+      "ZoomIn": "按住 Control (CTRL) 键并向上滚动可放大画布。",
+      "ZoomOut": "按住 Control (CTRL) 键并向下滚动可在画布上缩小。"
+    },
+    "Trackpad": {
+      "Pan": "用两根手指在画布上滑动以移动。",
+      "ZoomIn": "捏合两根手指，然后打开以在画布上放大。",
+      "ZoomOut": "捏合两根手指并闭合以在画布上缩小。"
+    }
+  },
+  "EditorUITour": {
+    "MultiCards": {
+      "Button": {
+        "FinishTour": "结束导览",
+        "ReadyToMove": "准备好继续了吗？"
+      },
+      "ContextualTaskBar": {
+        "Description": "查找与当前任务最相关的后续步骤。",
+        "Title": "4. 上下文任务栏"
+      },
+      "Layers": {
+        "Description": "在此处管理图层。图层类似于栈叠在一起的透明纸张，允许您单独编辑图像的各个部分。",
+        "Title": "3. 图层"
+      },
+      "Toolbar": {
+        "Description": "访问各种用于编辑图像的工具，每个类别都提供了多种使用选项。",
+        "Title": "2. 工具"
+      },
+      "UndoRedo": {
+        "Description": "使用<b>还原</b>可还原上次操作，使用<b>重做</b>可恢复上次操作。",
+        "Title": "1. 还原和重做"
+      }
+    }
+  },
+  "EffectKind": {
+    "BevelEmboss": "斜面和浮雕",
+    "Color Overlay": "颜色叠加",
+    "Drop Shadow": "投影",
+    "Gradient Overlay": "渐变叠加",
+    "Inner Glow": "内发光",
+    "Inner Shadow": "内阴影",
+    "Master": "全图",
+    "None": "无",
+    "Outer Glow": "外发光",
+    "Pattern Overlay": "图案叠加",
+    "Satin": "光泽",
+    "Stroke": "描边",
+    "Unknown": "未知效果"
+  },
+  "Error": {
+    "Unknown": "出现未知错误"
+  },
+  "ExportProgress": {
+    "Completed": "即将导出",
+    "Failed": "导出失败，请重试。",
+    "Started": "正在准备导出文档。"
+  },
+  "ExportToPhonePage": {
+    "AuthError": {
+      "Body": "此二维码已过期。请扫描新的二维码以继续。",
+      "Title": "过期的二维码"
+    },
+    "DownloadButton": {
+      "Text": "下载"
+    },
+    "Downloaded": {
+      "Alt": "已下载的文件"
+    },
+    "Downloading": {
+      "Body": "正在下载图像",
+      "Title": "正在下载图像..."
+    },
+    "Error": {
+      "Body": "无法下载您的图像。请尝试在计算机上创建新的二维码。",
+      "Title": "下载失败"
+    }
+  },
+  "ExportVideoDialog": {
+    "AspectRatio": {
+      "Portrait": "纵向 (9:16)",
+      "Title": "纵横比",
+      "Widescreen": "宽银幕 (16:9)"
+    },
+    "Cancel": "取消",
+    "Close": "关闭",
+    "Download": "下载",
+    "Error": "出现错误。请尝试其他提示或稍后重试。",
+    "Generate": "生成",
+    "Generating": "生成视频",
+    "Heading": "导出视频",
+    "Motion": {
+      "Default": "默认值",
+      "Handheld": "手持设备",
+      "PanLeft": "左移",
+      "PanRight": "右移",
+      "Static": "静态",
+      "TiltDown": "向下倾斜",
+      "TiltUp": "向上倾斜",
+      "Title": "动感",
+      "ZoomIn": "放大",
+      "ZoomOut": "缩小"
+    },
+    "Prompt": {
+      "Placeholder": "您想要生成什么内容？"
+    }
+  },
+  "FacePile": {
+    "DisplayName": {
+      "You": "（您自己）"
+    }
+  },
+  "FeatureCard": {
+    "Close": "关闭",
+    "HoverBadge": "将鼠标悬停以播放",
+    "Maximize": "最大化",
+    "Minimize": "最小化",
+    "Progress": "进度"
+  },
+  "FileAlreadyExists": {
+    "Cancel": "取消",
+    "ConfirmLabel": "替换",
+    "Message": "此位置中已存在同名的文件。是否要替换它？",
+    "Title": "文件已存在"
+  },
+  "FillStrokePicker": {
+    "ContentType": {
+      "Gradient": {
+        "Tooltip": "渐变"
+      },
+      "NoColor": {
+        "Tooltip": "没有任何颜色"
+      },
+      "Pattern": {
+        "Tooltip": "图案"
+      },
+      "SolidColor": {
+        "Tooltip": "纯色"
+      }
+    },
+    "Fill": {
+      "Title": "选择填充样式",
+      "Tooltip": "选择填充样式"
+    },
+    "Gradient": "渐变",
+    "NoColor": "无",
+    "Pattern": "图案",
+    "SolidColor": "颜色",
+    "Stroke": {
+      "Title": "选择描边样式",
+      "Tooltip": "选择描边样式"
+    }
+  },
+  "FireflyCreditsLimits": {
+    "Limits": "1 个积分，3 张图像。<sp-link href=\"{{GUIDELINES_URL}}\" target=\"_blank\">了解详情</sp-link>"
+  },
+  "FirstTimeZoomShortcutsUsed": {
+    "Message": {
+      "MacOs": "Photoshop 可使用浏览器上的快捷键来缩放画布。您可以在浏览器的视图菜单中更改缩放级别。",
+      "Windows": "Photoshop 可使用浏览器上的快捷键来缩放画布。您可以在浏览器的菜单中更改缩放级别。"
+    }
+  },
+  "FontPicker": {
+    "PlaceholderText": "多种字体",
+    "SelectFont": "选择字体",
+    "SelectStyle": "选择样式"
+  },
+  "FreeTransform": {
+    "Bounds": {
+      "Label": {
+        "Height": "高度",
+        "Rotation": "旋转",
+        "Width": "宽度",
+        "X": "X",
+        "Y": "Y"
+      }
+    },
+    "NotOnAdjLayers": {
+      "Message": "变换对调整图层不起作用。请选择其他图层以变换。"
+    },
+    "NoValidBounds": {
+      "Message": "无法变换，因为初始边界矩形为空。"
+    }
+  },
+  "Gamut": {
+    "Channels": {
+      "CMYK": {
+        "Black": "黑色",
+        "CMYK": "CMYK",
+        "Cyan": "青色",
+        "Magenta": "洋红",
+        "Yellow": "黄色"
+      },
+      "Duotone": {
+        "Duotone": "双色调"
+      },
+      "Grayscale": {
+        "Gray": "灰色"
+      },
+      "Lab": {
+        "a": "a",
+        "b": "b",
+        "Lightness": "明度"
+      },
+      "RGB": {
+        "Blue": "蓝色",
+        "Green": "绿色",
+        "Red": "红色",
+        "RGB": "RGB"
+      }
+    }
+  },
+  "GaussianBlurPanel": {
+    "Slider": {
+      "Label": "模糊"
+    }
+  },
+  "GenAI": {
+    "CheckedDNIDialog": {
+      "Body": "此图像的 Content Credentials 表示不应将其用作参考图像。",
+      "Cancel": "取消",
+      "SelectAnotherImage": "选择其他图像"
+    },
+    "ConsentCreditDialog": {
+      "Content": {
+        "ByClickingAgreeUserGuidelines": "Most standard generative features use 1 credit per generation unless you have a plan that gives you unlimited access. Check your generative credits balance or plan details anytime from your account menu. <sp-link href=\"{{GUIDELINES_URL}}\" target=\"_blank\">Learn more about generative credits.</sp-link>."
+      },
+      "Heading": {
+        "GenerativeAIAdobeApps": "生成式积分"
+      }
+    },
+    "ConsentDialog": {
+      "Agree": "同意",
+      "Cancel": "取消",
+      "Confirm": "确认",
+      "Content": {
+        "ByClickingAgreeUserGuidelines": "单击“同意”，即表示您同意<sp-link href=\"{{GUIDELINES_URL}}\" target=\"_blank\">用户指南</sp-link>。",
+        "YouCanCreateInNewWays": "您可以使用生成式 AI 技术以新的方式创建。"
+      },
+      "Heading": {
+        "GenerativeAIAdobeApps": "Adobe 应用程序中的生成式 AI"
+      }
+    },
+    "ConsentDialogCredit": {
+      "Agree": "确定"
+    },
+    "FFCredits": {
+      "Message": "生成式积分已用完。您可以等待每月积分重置或升级您的计划以获取更多积分。",
+      "Upgrade": "升级"
+    },
+    "RateLimitDialog": {
+      "Confirm": "确定",
+      "Content": "我们迫不及待地想为您生成更多内容。您可以在几个小时后重试。",
+      "Heading": "放慢速度"
+    },
+    "RateResultDialog": {
+      "AddNote": "添加注释（可选）",
+      "Cancel": "取消",
+      "Content": {
+        "1": "我会将此效果用于我的项目。",
+        "2": "该效果与我的文本提示匹配。",
+        "3": "该效果看起来令人信服。",
+        "4": "该效果看起来与我图像的其余部分十分融合。"
+      },
+      "Headline": "对结果进行评分",
+      "IncludeImageData": "在反馈中包含图像和图层数据",
+      "Rate": {
+        "Agree": "同意",
+        "Disagree": "不同意",
+        "Neutral": "非彩色",
+        "StronglyAgree": "完全同意",
+        "StronglyDisagree": "完全不同意"
+      },
+      "SendFeedback": "发送反馈"
+    },
+    "RefImage": {
+      "ConsentDialog": {
+        "Content": {
+          "ReferenceImagesHelpYouApply": "参考图像可有助于您将相似的样式或样式应用至生成的图像。您必须有权使用第三方图像，且您的上传历史记录将以缩略图的形式存储。"
+        },
+        "Heading": {
+          "ReferenceImage": "参考图像"
+        }
+      },
+      "ErrorLoadingReferenceImage": "无法加载您的参考图像",
+      "OutOfCreditDialog": {
+        "Button": {
+          "Cancel": "取消",
+          "Upgrade": "升级"
+        },
+        "Content": {
+          "ReferenceImagesHelpYouApply": "立即升级 Firefly 计划，以便获取更多积分，继续访问或等待每月重置。",
+          "ReferenceImagesHelpYouApplyDate": "立即升级 Firefly 计划，以便获取更多积分，继续访问或等待每月 {{DATE}} 重置。"
+        },
+        "Heading": {
+          "ReferenceImage": "您没有足够的积分完成此次生成式操作"
+        }
+      }
+    },
+    "ReportResultDialog": {
+      "AddNote": "添加注释（可选）",
+      "Cancel": "取消",
+      "Headline": "报告结果",
+      "IncludeImageData": "在反馈中包含图像和图层数据",
+      "Reports": {
+        "1": "有害内容",
+        "2": "非法内容",
+        "3": "冒犯性内容",
+        "4": "偏见性内容",
+        "5": "侵犯商标",
+        "6": "侵犯版权",
+        "7": "裸体/色情内容",
+        "8": "暴力/血腥内容"
+      },
+      "SelectAllApply": "选择所有适用项（必填）：",
+      "SendFeedback": "发送反馈"
+    },
+    "ThankYouFeedback": "感谢您提供反馈，帮助我们改进产品。"
+  },
+  "GenBackground": {
+    "Coachmark": {
+      "Description": "使用生成式 AI 为摄影图像创建新背景，例如人物、产品和时装秀摄影。",
+      "Title": "生成背景",
+      "TitleBeta": "生成背景 (Beta)"
+    }
+  },
+  "GenerateImage": {
+    "Button": {
+      "Title": {
+        "AllLayers": "可见图层",
+        "CurrentLayer": "当前图层"
+      }
+    },
+    "Composition": {
+      "Strength": {
+        "Label": "强度",
+        "Tooltip": "调整轮廓和深度粘附的强度"
+      },
+      "Tooltip": "添加参考图像以匹配其轮廓和深度"
+    },
+    "composition-references": {
+      "group": {
+        "Abstract": {
+          "title": "摘要"
+        },
+        "Drawing": {
+          "title": "图画"
+        },
+        "Photography": {
+          "title": "摄影"
+        }
+      }
+    },
+    "ContentType": {
+      "Art": "艺术",
+      "Auto": "自动",
+      "Photo": "照片"
+    },
+    "Effects": {
+      "Tooltip": "向图像添加样式效果"
+    },
+    "image-style-zeros": {
+      "group": {
+        "3D": {
+          "title": "3D"
+        },
+        "Acrylic_and_Oil": {
+          "title": "丙烯酸和油"
+        },
+        "Architectural_sketch": {
+          "title": "建筑草图"
+        },
+        "Color_and_Lighting": {
+          "title": "颜色和光照"
+        },
+        "Digital_illustration": {
+          "title": "数字插图"
+        },
+        "Dramatic_lighting": {
+          "title": "引人注目的光照"
+        },
+        "Flat": {
+          "title": "平滑"
+        },
+        "Geometric": {
+          "title": "几何"
+        },
+        "Graphic": {
+          "title": "图形"
+        },
+        "Landscapes": {
+          "title": "风景"
+        },
+        "Lighting_effects": {
+          "title": "光照效果"
+        },
+        "Neon": {
+          "title": "霓虹灯"
+        },
+        "Pencil": {
+          "title": "铅笔"
+        },
+        "Photo_manipulation": {
+          "title": "照片操控"
+        },
+        "Photo_studio": {
+          "title": "摄影棚"
+        },
+        "Popular": {
+          "title": "常用"
+        },
+        "Texture": {
+          "title": "纹理"
+        },
+        "Watercolor": {
+          "title": "水彩"
+        }
+      }
+    },
+    "Inspirations": {
+      "Prompt": {
+        "1": "迷幻艺术，酷猫数字插图，矢量图形",
+        "2": "绿色的背景，黄色的梨子，还带有绿叶",
+        "3": "目光深邃、留着非洲式头发的女性",
+        "4": "一只蓝鸟停驻在玫瑰丛中，有白色玫瑰和粉色玫瑰，选择性聚焦；贺卡以花卉为背景",
+        "5": "戴着墨镜的霓虹灯狗和脖子上系着心形围巾的莫霍克人；海报，印刷品，明信片",
+        "6": "装饰精美的房间墙上挂着图片和植物",
+        "7": "复古车，沙漠路，烈日",
+        "8": "柠檬水，清新，汁水飞溅，蓝色背景，超写实风格",
+        "9": "广角构图，图中，在星空和月亮下，雾蒙蒙的森林里，一个女孩从后面拿着一根蜡烛",
+        "10": "猎豹在阴凉处休息，看着日落，旁边有一群大象路经此地",
+        "11": "从惊涛骇浪中飞出一搜充满未来感的大船，一群鸟四处飞翔；深色背景上呈现变化无常的暖色调",
+        "12": "动漫风格的龙在日出时分飞越岛屿",
+        "13": "迈阿密海滩城市景观，矗立着棕榈，还有几辆老式汽车",
+        "14": "星空下，美人鱼在海藻林中游向长满青苔的水下城堡",
+        "15": "美味奶昔搭配樱桃和鲜奶油，明亮的纯红色背景",
+        "16": "室内摄影，建筑设计，樱花简约，现代时尚",
+        "17": "日落时分，从大海里走出一群透明的马",
+        "18": "生动逼真的池塘旋涡波浪环绕着睡莲，编织成抽象的金色图案",
+        "19": "中景镜头肖像照，照片中的人物有一双美丽的眼睛，身穿皮夹克和黑色衬衫，站在一栋古朴的建筑前，周围种着花卉植物，还有美丽的萤火虫，令人愉悦，数码单反长焦高清照片",
+        "20": "古印度雕像；科幻艺术；未来主义感；在美丽多彩的稀有花卉丛中拍摄的电影",
+        "21": "超特写微距摄影，画面描绘一只彩色蝴蝶沿着一片树叶行走，那片树叶周围铺满了落叶",
+        "22": "一只柴犬站在火星上，天空中有一颗行星，还有美丽的云朵",
+        "23": "一张老者特写，他身穿牛仔夹克、头戴牛仔帽，面带微笑",
+        "24": "一只毛茸茸的灰色花布猫在山上嬉戏，周围有花草树木，神奇的春日，软聚焦",
+        "25": "一片郁郁葱葱的田野中，一株高耸枯萎的柳树若隐若现，暮色柔和的光线环绕着这片田野。野花和常春藤盘绕着柳树的根部，夜空中的第一颗星星倒映在附近一条宁静的河流中。这幅图像让人联想到奇幻的电影氛围，在简洁的风景画中融合了神秘的魅力与一丝迷人的魔法。",
+        "26": "荷兰色彩鲜艳的郁金香花田，从下方拍摄的白色小屋",
+        "28": "一个人用口香糖吹出大泡泡，他们坐在泡泡里面",
+        "29": "在一座有彩色玻璃窗的旧豪宅里，一只巴洛克风格的灰色法国斗牛犬，头戴王冠，浑身闪闪发光，坐在宝座上",
+        "30": "具有旋转叶形图案的纹理壁纸，带有彩色画笔笔触和金色斑点",
+        "31": "卡通女性角色，脸上带着悠闲的笑容，穿着黑色连帽衫，深绿色的眼睛，棕色波浪长发。手里抱着一只乌龟。戴着黑色耳机。3D 渲染，大眼睛，数字绘画，故事书写实主义，电影效果",
+        "32": "一张复古风格的海报，上面有一辆旅行拖车在亚利桑那州的沙漠中",
+        "33": "白色小厨房和餐厅，采用镜像房间风格，真实的光照效果，浅琥珀色和灰色，不对称平衡，优雅，表情动人，注重材质",
+        "34": "护肤瓶俯视图照片，瓶上有阳光和贝壳标签；化妆品模型",
+        "35": "热带岛屿上的海滨小屋",
+        "36": "天空中的岛屿",
+        "37": "现代未来主义城市景观，画面中有一群直立行走的长颈鹿家族，它们看起来可爱而友善；3D 插图",
+        "38": "奶油番茄汤美食摄影。在桌子中间放着一碗番茄汤，搭配新鲜的奶油，上面覆盖着酥脆的面包片和一小撮罗勒，左边是一盘新鲜的番茄，右边是香草。高角度拍摄，灵感来自编辑摄影",
+        "39": "一座古老的灯塔在夜间亮起，背景是汹涌澎湃的海浪，天空中还有一些海鸥，分层纸",
+        "40": "童话般的森林，里面有一条粉红色的小溪，光线在阳光下“跳舞”；雾色迷人；梦幻世界的艺术照片",
+        "41": "纽约天际线分层 3D 弹出窗口，创意十足，明亮",
+        "42": "水果。营造一种电影质感，冷色调，霓虹灯",
+        "43": "年长的男人，留着长长的大白胡子。男人的胡髭很突出。肖像下面是浅棕色天鹅绒",
+        "45": "蓝色海浪飞溅在闪闪发光的白色大理石上，现实主义照片，高分辨率",
+        "46": "从上方拍摄，一张干净且富有创意的办公桌，桌子上有笔记本电脑、笔记本、彩色钢笔、多肉植物、一杯茶；令人愉悦的氛围，工作室，温暖",
+        "47": "一只恐龙在史前植被中朝观众跑来，背景是一颗小行星撞击地球，采用纪录片风格，形象逼真，冷色调",
+        "48": "一位年长的女士，站在海滩上看着日落；空旷的海滩，暖色",
+        "49": "夜空中，有一个火红纱线制成的月亮，周围有金黄色丝线制成的星星",
+        "50": "一张复古海报，画面中有太阳，精神景观，复古岩石，深米色和蔚蓝色，沙漠波浪，厚重的阴影",
+        "51": "伦敦的豪华黑色现代联排别墅，位于经典联排别墅之间",
+        "52": "一张鸟瞰图，图中有绿松石清水和珊瑚礁，附近有一个树屋；无人机拍摄",
+        "53": "手拿杯子的产品模型，里面有一个白色空间，用于放置品牌或标志，简单的蓝色背景，无文本，高品质",
+        "54": "一片水下水母森林，生物发光的花朵在水面上浮现出柔和的色彩",
+        "55": "毛伊岛上一片瀑布在阳光下闪耀着光芒，红外摄影",
+        "56": "一艘海盗船在水下，鲨鱼在周围游来游去",
+        "57": "一位身穿羊毛外套的中景镜头肖像，背景是旧金山金门大桥",
+        "58": "戴着太阳镜的长颈鹿，3D 模型",
+        "59": "时尚女性穿着白色阔腿裤、横条纹毛衣和仿褐色猎豹图案外套，戴着大墨镜，在意大利的城市街道上摆着酷酷的造型；全身照",
+        "60": "雾蒙蒙的海滩，海水冲刷着海岸，光线明亮",
+        "61": "一只 1960 年复古风金属闪亮银茶壶，一个绿色玻璃水瓶，奶油色餐桌上呈现大地色调，奶油色背景墙，温暖而充满阳光，乡村风格，电影效果，鸟瞰图，长阴影",
+        "62": "照片中的女孩留着中等长度的黑发，穿着颜色淡雅的休闲服装，手里捧着一束亮黄色的含羞草花，站在简约风格的房间里，房间里有着白色的墙壁和一扇大窗户，柔和的自然光填满房间，她的表情欢乐而满足。",
+        "63": "木桌上的咖啡袋设计模型照片，深色背景产品照片，质朴的灯光，散景效果，桌子上散落着咖啡豆",
+        "64": "饮料摄影，凯匹林纳 (Caipirinha) 鸡尾酒，加入酸橙和甘蔗，聚焦于巴西卡莎萨 (cachaça)、混杂的酸橙和冰块，选择性聚焦隔离玻璃，温暖的夏日余晖落在露台上。",
+        "65": "实物模型产品照片，大理石桌子，深色的工作室背景",
+        "66": "桌子上的模型产品照片，3D，纯粉红色样式",
+        "67": "白色汽水罐模型照片，飞溅的水产品照片，蓝色背景漂浮在空中",
+        "68": "把牛奶倒入杯子里，制作拿铁艺术",
+        "69": "一只考拉坐在椅子上，穿着人类的衣服，手里拿着一台旧相机",
+        "70": "水平底座上有一组设计独特的防晒霜瓶；创意背景中有沙子、贝壳和棕榈叶阴影",
+        "71": "一位年轻的职业女性的肖像照",
+        "72": "孔雀羽毛壁纸图案；色彩鲜艳",
+        "73": "梳妆台靠近一面镶有灯光的镜子",
+        "74": "冬日里造型可爱的小屋，烟囱冒出滚滚烟雾；夜景",
+        "75": "深色常春藤墙上有玫瑰样式的霓虹灯指示牌",
+        "77": "百货商店橱窗里摆放着时尚的人体模型和大帽子",
+        "78": "一位老人坐在地铁里看书的涂鸦，窗外是城市天际线",
+        "79": "雨夜中撑伞赶路的行人",
+        "80": "简约的中世纪现代公寓内饰，还有一盆仙人掌",
+        "81": "艺术工作室，有一个可欣赏热带雨林的窗户",
+        "83": "一名女子足球运动员拿着足球的照片，背景为灰色纹理",
+        "84": "女性造型耳环；波西米亚时尚概念",
+        "85": "来自后方的专业芭蕾舞演员；在灯光模糊的舞台上翩翩起舞",
+        "86": "桌子上摆着一本空白杂志的模型，上面放着花瓶；从上方拍摄",
+        "87": "紫色气球金属色字母拼出“happy birthday”（生日快乐）；反射着彩色光线",
+        "88": "树上的鸟巢里有五颜六色的鸟蛋；蝴蝶翩翩飞舞",
+        "89": "泡泡浴中的橡皮鸭",
+        "90": "池边樱花林立，池塘里锦鱼游泳",
+        "91": "铺着薰衣草地板的房间",
+        "92": "空旷的热带海滩景色",
+        "93": "一辆华丽的深紫色调超级跑车，配备碳纤维部件和四排气管，法国 Rivera 滨海公路，快速运动模糊，概念艺术",
+        "94": "在月球上，有一位穿着航天服的复古人，采用洋红色和绿色双色调",
+        "95": "摩托车激光爆炸设计全息图 3D 模型",
+        "96": "一只长着彩虹角的黑色独角兽在苍翠的山谷中奔跑，雄伟而奇幻",
+        "97": "花豹，抽象线条背景，还有花朵和鸟类 - 艺术概念",
+        "98": "年轻的女子，特写，散景，头像，魅力十足，肖像，白色连衣裙，长发，羞怯的微笑，头戴花冠；金色的",
+        "99": "一位年轻的金发女人斜靠在桌子上，对着镜头微笑，面部特征刻画得很详细，细腻的眼睛，彩色拍立得，背景是 1980 年",
+        "100": "美人鱼特写，彩虹色的鳞片，完美无瑕的深色皮肤，注视着镜头，富有光泽的糖果色长发，高清，8K，电影效果，戏剧性光线",
+        "101": "一张微距照片，照片中，一名男子侧脸看着镜头，镜头被细小的春雨淋湿。浪漫的场景。",
+        "102": "一间豪华的木屋，配有现代家具，从一面巨大的玻璃墙可以看到森林的景色",
+        "103": "具有橙白色和黑色条纹的皇家孟加拉虎在夜晚的森林中奔跑，满月照耀着云层",
+        "104": "一个未来派城市，有华丽的白色建筑和塔楼位于橙色沙丘的边上；宁静；风景",
+        "105": "在一间有沙发和垫子的房间里，墙壁上画着色彩缤纷的壁画，装饰着华丽的刺绣，乡村风格，粉红色和祖母绿，花卉图案，喜马拉雅艺术",
+        "106": "白色背景中闪亮的黑色圆形艺术花架，花架水平放置，插有牡丹花",
+        "107": "棕榈泉市的一个色彩鲜艳的中世纪风格现代住宅，有游泳池和仙人掌",
+        "108": "日落时分，玫瑰园中的大理石井台；色彩精美的艺术图像",
+        "109": "猫头鹰在空心树上看书",
+        "110": "红色雨靴在水坑里跳舞，水花飞溅，地面上有落叶",
+        "111": "灯光昏暗的酒吧，有一张台球桌"
+      },
+      "Title": "提示灵感",
+      "TryThis": "尝试此功能"
+    },
+    "ReferenceImage": {
+      "Title": {
+        "Gallery": "图库"
+      }
+    },
+    "StyleReference": {
+      "Tooltip": "添加参考图像以匹配其样式"
+    },
+    "Styles": {
+      "image-styles": {
+        "art": {
+          "title": "艺术"
+        },
+        "backlighting": {
+          "title": "逆光"
+        },
+        "bw": {
+          "title": "黑白"
+        },
+        "closeup": {
+          "title": "特写"
+        },
+        "cool_colors": {
+          "title": "冷色调"
+        },
+        "dramatic_light": {
+          "title": "舞台光线"
+        },
+        "golden": {
+          "title": "金色"
+        },
+        "golden_hour": {
+          "title": "黄金时间"
+        },
+        "graphic": {
+          "title": "图形"
+        },
+        "harsh_light": {
+          "title": "刺眼光线"
+        },
+        "knolling": {
+          "title": "排列"
+        },
+        "landscape_photography": {
+          "title": "风景摄影"
+        },
+        "long-time_exposure": {
+          "title": "长时间曝光"
+        },
+        "low_lighting": {
+          "title": "低光线"
+        },
+        "macrophotography": {
+          "title": "宏观摄影"
+        },
+        "monochromatic": {
+          "title": "单色"
+        },
+        "multiexposure": {
+          "title": "多次曝光"
+        },
+        "muted_color": {
+          "title": "柔和色"
+        },
+        "pastel_color": {
+          "title": "粉彩色"
+        },
+        "photo": {
+          "title": "照片"
+        },
+        "photographed_through_window": {
+          "title": "透过窗户拍摄"
+        },
+        "shallow_depth_of_field": {
+          "title": "浅景深"
+        },
+        "shot_from_above": {
+          "title": "从上方拍摄"
+        },
+        "shot_from_below": {
+          "title": "从下方拍摄"
+        },
+        "studio_light": {
+          "title": "室内灯光"
+        },
+        "surface_detail": {
+          "title": "表面细节"
+        },
+        "surreal_lighting": {
+          "title": "超现实主义光线"
+        },
+        "toned_image": {
+          "title": "阶调图像"
+        },
+        "vibrant_colors": {
+          "title": "明亮色"
+        },
+        "warm_tone": {
+          "title": "暖色调"
+        },
+        "wide_angle": {
+          "title": "广角"
+        }
+      }
+    },
+    "Tags": {
+      "ClearEffects": "清除效果"
+    },
+    "Title": {
+      "Composition": "排版",
+      "CompositionBeta": "构图 (beta)",
+      "ContentType": "内容类型",
+      "Effects": "效果",
+      "Generate": "生成",
+      "Prompt": "提示",
+      "ReferenceImage": "参考图像",
+      "Reset": "复位",
+      "Style": "样式"
+    },
+    "Tooltip": {
+      "AddReferenceImage": "添加参考图像",
+      "AddStyle": "添加效果"
+    }
+  },
+  "GenerativeAI": {
+    "Enablement": {
+      "Message": {
+        "FileFormat": "此功能目前不适用于此图像模式。",
+        "MaxVariations": "生成更多变体会超出最大限制。",
+        "NoInternet": "请连接到互联网以使用此功能。",
+        "NoSheet": "请选择一个图层以使用此功能。",
+        "SheetIsClipped": "此功能不适用于剪贴图层。",
+        "TooManySheets": "生成操作将超出图层的最大限制。",
+        "Unspecified": "此功能目前不适用"
+      }
+    },
+    "Onboarding": {
+      "GenExpand": {
+        "Tooltip": {
+          "Content": "移动手柄以调整图像大小"
+        }
+      },
+      "GenFill": {
+        "Tooltip": {
+          "Content": "在画布上建立选区以使用生成式填充"
+        }
+      }
+    }
+  },
+  "Genfill": {
+    "ContentReferenceImage": {
+      "Card": {
+        "Tooltip": {
+          "Delete": "移除参考图像",
+          "PreviewNotAvailable": "图像预览不可用"
+        }
+      },
+      "Panel": {
+        "Button": {
+          "ChooseRefImage": "选择参考图像",
+          "ReplaceRefImage": "替换参考图像"
+        },
+        "CheckingImage": {
+          "Description": "检查图像的 Content Credentials 使用限制"
+        },
+        "Dropzone": {
+          "Title": "上传您自己的参考图像以匹配其内容"
+        },
+        "Title": "参考图像",
+        "TitleBeta": "参考图像 (Beta)"
+      },
+      "RTT": {
+        "Description": "可同时使用参考图像和提示来生成更具体的图像。如果您让提示留空，我们将根据周围环境填充选区。",
+        "Title": "参考图像",
+        "TitleBeta": "参考图像 (Beta)"
+      }
+    }
+  },
+  "GenfillDiscoverMarquee": {
+    "CtaText": "生成",
+    "PromptText": {
+      "Default": "外太空"
+    },
+    "Region1": {
+      "ChoiceA": "UFO",
+      "ChoiceB": "宇航员",
+      "ChoiceC": "小行星"
+    },
+    "Region2": {
+      "ChoiceA": "星系",
+      "ChoiceB": "流星",
+      "ChoiceC": "流星"
+    },
+    "Region3": {
+      "ChoiceA": "穿着航天服的英雄",
+      "ChoiceB": "披着彩虹斗篷的英雄",
+      "ChoiceC": "披着红色斗篷的英雄"
+    },
+    "RegionPromptText": "创建...",
+    "ResetText": "重试",
+    "TryIt": "试用！"
+  },
+  "GlobalError": {
+    "MessageDialog": {
+      "Cancel": "忽略",
+      "Choice": "您可以忽略，也可以重新加载页面。",
+      "Confirm": "重新加载",
+      "Message": "抱歉，出现未知错误。",
+      "Report": "您还可以向我们报告错误。",
+      "Secondary": "报告",
+      "Title": "未知错误"
+    }
+  },
+  "GoldenTicket": {
+    "Dialog": {
+      "Headline": "需要执行的操作",
+      "Text": "您已获得高级功能的访问权限。请刷新页面以访问。"
+    },
+    "Toast": {
+      "Refresh": "刷新",
+      "SaveACopySuccess": "已成功保存 {{DOCUMENT_NAME}} 的副本。"
+    }
+  },
+  "GoogleDisclosure": {
+    "Text": "Photoshop Web 版在使用通过 Google API 收到的信息并将其传输到任何其他应用程序时，会遵循 <sp-link quiet size='m' href='https://developers.google.com/terms/api-services-user-data-policy' target='_blank'>Google API 服务用户数据策略</sp-link>，包括有限使用要求。",
+    "Title": "Google API 使用披露"
+  },
+  "GoogleDrivePicker": {
+    "Progress": {
+      "Import": "正在导入您的 Google Drive 资源..."
+    }
+  },
+  "GoogleOneTapLogin": {
+    "Error": {
+      "Unknown": "出现意外错误。"
+    }
+  },
+  "HarmonizeContextBar": {
+    "More": "生成更多变体"
+  },
+  "Header": {
+    "Download": {
+      "PNG": "下载为 PNG",
+      "PSD": "下载为 PSD"
+    },
+    "Help": {
+      "CommunityForum": "社区论坛",
+      "CookiesPref": "Cookies 首选项",
+      "Privacy": "隐私",
+      "PsUserGuide": "Photoshop 用户指南",
+      "ReportAbuse": "举报滥用",
+      "SendFeedback": "发送反馈",
+      "TermsOfUse": "使用条款"
+    },
+    "OpenIn": "打开方式",
+    "RequestEditAccess": "请求编辑访问权限",
+    "Zoom": {
+      "FillScreen": "填充屏幕",
+      "FitToScreen": "适合屏幕",
+      "Percent100": "100%",
+      "Percent200": "200%",
+      "ZoomIn": "放大",
+      "ZoomOut": "缩小"
+    }
+  },
+  "HistoryPanel": {
+    "Action": {
+      "ClearHistory": "清除历史记录",
+      "CreateSnapshot": "创建快照",
+      "Delete": "删除",
+      "MoreMenu": "历史记录操作",
+      "NewDocument": "新建文档...",
+      "NewSnapshot": "新快照",
+      "Revert": "恢复",
+      "RevertDocument": "恢复文档"
+    },
+    "Entry": {
+      "CameraRaw": "亮度和颜色"
+    },
+    "Progress": {
+      "NewDocument": "正在创建新文档..."
+    },
+    "Snapshot": {
+      "EnterSnapshotName": "输入快照名称",
+      "Title": "快照"
+    },
+    "State": {
+      "DefaultName": "编辑",
+      "Description": {
+        "CoeditingConflict": "由于与其他编辑器发生冲突，因此无法应用更改。"
+      },
+      "Title": "编辑"
+    },
+    "Title": "历史记录"
+  },
+  "HomePage": {
+    "DropZone": {
+      "DragAndDropYourImage": {
+        "SectionLabel": "或<sp-link id=\"drop-zone-link\" data-e2e=\"drop-zone-link\" quiet>从您的计算中选择一张</sp-link>图像以开始。",
+        "Title": "拖放您的图像"
+      },
+      "FileUploadButton": "上传文件"
+    },
+    "DynamicLayouts": {
+      "CreateSection": {
+        "Title": "开始尝试新功能"
+      },
+      "ExploreMoreTutorials": {
+        "Title": "了解并探索更多"
+      },
+      "InstallPWA": {
+        "Subtitle": "安装应用程序",
+        "Title": "一键返回 Photoshop"
+      },
+      "IPhoneRelease": {
+        "Title": "使用 Photoshop iPhone 版随时随地进行编辑"
+      },
+      "LiveCoEditing": {
+        "Subtitle": "加入此仅限受邀 Beta 版的候选名单",
+        "Title": "使用实时共同编辑协同工作"
+      },
+      "StartSomethingNewAdobeStock": {
+        "Subtitle": "从各种免费的图库图像中进行选择",
+        "Title": "从 Adobe Stock 添加"
+      },
+      "StartSomethingNewGenerateImage": {
+        "Subtitle": "通过文字描述创建图像",
+        "Title": "生成图像"
+      },
+      "StartSomethingNewStartFromScratch": {
+        "Subtitle": "创建新的空白文档",
+        "Title": "从头开始"
+      },
+      "StartSomethingNewUploadAnImage": {
+        "Subtitle": "拖放或选择一个导入",
+        "Title": "上传图像"
+      },
+      "SuggestionsSection": {
+        "CollapsibleCTA": {
+          "Hide": "隐藏建议",
+          "Show": "显示建议"
+        },
+        "Title": "欢迎使用 Photoshop，<strong>{{userName}}</strong>"
+      }
+    },
+    "SideNav": {
+      "Create": "创建",
+      "PswFiles": "文件",
+      "PswHome": "主页"
+    }
+  },
+  "HoverLayerBounds": {
+    "Label": {
+      "Masked": "面具",
+      "Original": "原图"
+    }
+  },
+  "HVAItem": {
+    "Adjust": {
+      "Description": "像专业人士一样对图像进行调整",
+      "Title": "调整图像"
+    },
+    "Edit": {
+      "Description": "编辑和自定义图像",
+      "Title": "即时编辑"
+    },
+    "GenerativeAI": {
+      "Description": "输入提示以生成令人惊叹的结果",
+      "Title": "使用生成式填充创建"
+    },
+    "GenerativeExpand": {
+      "Description": "快速扩展任何图像并调整其大小",
+      "Title": "扩展图像"
+    },
+    "OBEAdjust": {
+      "Description": "轻松调整图像中的对象",
+      "Title": "调整图像的一部分"
+    },
+    "OBERemoveObject": {
+      "Description": "选择并移除对象",
+      "Title": "移除对象"
+    },
+    "RemoveObject": {
+      "Description": "轻松移除图像中的对象",
+      "Title": "移除对象"
+    },
+    "RemoveObjectGenAI": {
+      "Description": "更改图像并移除干扰元素",
+      "Title": "使用生成式 AI 移除对象"
+    }
+  },
+  "IdeaReportDialog": {
+    "ButtonLabelViewReport": "查看提交",
+    "ErrorDialogDescription": "尝试提交您的想法时出错。请填写表单并重试。",
+    "MainDialogBugFormDescription": "将您的想法添加到 Photoshop 版社区中。",
+    "MainDialogHeading": "提交想法",
+    "MainDialogHelpTextDescription": "与我们分享您的想法或反馈。请向我们提供尽可能多的信息，包括您从更改中看到的任何好处。",
+    "MainDialogLabelConfirm": "提交",
+    "MessageFailure": "您的提交未通过。请重试或访问我们的社区。",
+    "MessageStillProcessing": "提交您的想法需要一些时间。处理完毕后，它将显示在我们的 Photoshop Web 版社区中。"
+  },
+  "ImageMode": {
+    "bitmap": "位图",
+    "cmyk": "CMYK",
+    "duotone": "双色调",
+    "gray_scale": "灰度",
+    "hsb": "HSB",
+    "hsl": "HSL",
+    "indexed": "索引",
+    "lab": "Lab",
+    "multi": "多个",
+    "none": "无",
+    "rgb": "RGB",
+    "Unknown": "未知",
+    "xyz": "XYZ"
+  },
+  "ImageSizeDialog": {
+    "Cancel": "取消",
+    "DiskSize": {
+      "ToolTip": "大小表示保存为单个图层时的文档大小。"
+    },
+    "InterpolationType": {
+      "Automatic": "自动",
+      "Bicubic": "两次立方",
+      "BicubicSharper": "两次立方（较锐利）",
+      "BicubicSmoother": "两次立方（较平滑）",
+      "Bilinear": "两次线性",
+      "NearestNeighbor": "邻近",
+      "PreserveDetails": "保留细节",
+      "Subtext": {
+        "Bicubic": "更平滑的渐变",
+        "BicubicSharper": "减少",
+        "BicubicSmoother": "放大",
+        "NearestNeighbor": "硬边缘",
+        "PreserveDetails": "放大"
+      }
+    },
+    "Label": {
+      "Dimensions": "宽 x 高",
+      "DiskSize": "图像大小",
+      "FitTo": "调整为",
+      "Height": "高度",
+      "Resample": {
+        "Mode": "模式",
+        "Title": "重新取样"
+      },
+      "Resolution": "分辨率",
+      "ResolutionUnits": "分辨率单位",
+      "Units": "单位",
+      "Width": "宽度",
+      "ZoomIn": "放大",
+      "ZoomOut": "缩小"
+    },
+    "Lockbutton": {
+      "ConstrainAspectRatio": "限制纵横比",
+      "DoNotConstrainAspectRatio": "不约束长宽比"
+    },
+    "Ok": "确定",
+    "PresetPicker": {
+      "Custom": "自定义",
+      "Original": "原始"
+    },
+    "Resample": {
+      "Title": "插入像素信息"
+    },
+    "Title": {
+      "ImageSize": "图像大小"
+    },
+    "Units": {
+      "Centimeters": "厘米",
+      "Inches": "英寸",
+      "Millimeters": "毫米",
+      "Percent": "百分比",
+      "Picas": "派卡",
+      "Pixels": "像素",
+      "PixelsPerCentimeter": "ppcm",
+      "PixelsPerInch": "ppi",
+      "Points": "点"
+    }
+  },
+  "Importer": {
+    "GoogleDrive": {
+      "Consent": {
+        "Attribution": "Google Drive 是 Google Inc. 的商标。使用此商标须遵守 Google 许可的规定。",
+        "Cancel": "取消",
+        "Confirm": "允许",
+        "Content": "请允许 Photoshop Web 版打开 Google Drive™ 文件。",
+        "Fail": "无法打开 Google Drive 文件",
+        "Title": "需要同意"
+      }
+    },
+    "ProgressDialog": {
+      "Label": {
+        "LoadingDocument": "加载文档"
+      },
+      "Title": {
+        "CreatingDocument": "创建文档",
+        "LoadingDocument": "加载文档"
+      }
+    }
+  },
+  "ImportZone": {
+    "Description": {
+      "DragAndDropOrSelect": "拖放或选择一个导入"
+    },
+    "Heading": {
+      "ImportAnImage": "导入图像以开始",
+      "UploadAnImage": "上传图像",
+      "WelcomeWithName": "欢迎使用 Photoshop，<strong>{{userName}}</strong>"
+    },
+    "Message": {
+      "OrSelectSampleFile_one": "或选择示例图像",
+      "OrSelectSampleFile_other": "或选择示例图像"
+    },
+    "UploadImageMenuLabel": "上传图像"
+  },
+  "InputDeviceDialog": {
+    "Cards": {
+      "Mouse": "鼠",
+      "Trackpad": "触控板"
+    },
+    "Title": "您现在使用的是什么？"
+  },
+  "InstallPWA": {
+    "Card": {
+      "Description": "从下载文件夹中保存 Photoshop Web 应用程序，以便更快地访问它。",
+      "Title": "在下载文件夹中找到该应用程序"
+    }
+  },
+  "IntentModal": {
+    "Tutorials": {
+      "Adjust": {
+        "OBEAdjustObject": {
+          "Title": "调整颜色"
+        }
+      },
+      "Combine": {
+        "AddObjectsGenAI": {
+          "Title": "添加新内容"
+        }
+      },
+      "EditorUITour": {
+        "Title": "Photoshop 指引"
+      },
+      "Retouch": {
+        "OBERemoveObject": {
+          "Title": "移除干扰"
+        }
+      }
+    }
+  },
+  "IntentModalHome": {
+    "Button": {
+      "Confirm": "开始使用 Photoshop"
+    },
+    "Text": {
+      "ViewAllTutorials1": "找不到您需要的内容？",
+      "ViewAllTutorials2": "查看所有教程"
+    },
+    "Title": "让我们将您的想法变为现实。您想从何处开始？"
+  },
+  "Intercept": {
+    "Error": {
+      "Toast": "打开调查时出错。请稍后重试。"
+    },
+    "Picker": {
+      "Label": "选择响应"
+    },
+    "Response": {
+      "ExtremelyDissatisfied": "非常不满意",
+      "ExtremlySatisfied": "非常满意",
+      "ModeratelyDissatisfied": "比较不满意",
+      "ModeratelySatisfied": "比较满意",
+      "Neutral": "中性色",
+      "SlightlyDissatisfied": "略微不满意",
+      "SlightlySatisfied": "略微满意"
+    },
+    "Trigger": {
+      "Button": {
+        "NoThanks": "取消",
+        "StartNow": "提交"
+      },
+      "Heading": "总体而言，您对 Photoshop Web 版使用体验的满意度或不满意程度如何？"
+    },
+    "Trigger2": {
+      "Body": "即使您已参加此调查，请分享您的最新反馈！",
+      "Button": {
+        "NoThanks": "不，谢谢",
+        "StartNow": "立即开始"
+      },
+      "Header": "参与一个 5 分钟的调查来告诉我们您的体验如何。"
+    }
+  },
+  "Keyboardshortcuts": {
+    "Abbreviation": {
+      "Delete": "Del"
+    },
+    "AutoColor": "自动颜色",
+    "AutoContrast": "自动对比度",
+    "AutoTone": "自动色调",
+    "BringForward": "前移一层",
+    "BringToFront": "置为顶层",
+    "ContentAwareFill": "内容识别填充",
+    "Copy": "复制",
+    "CopyFromAllVisibleLayers": "从所有可见图层复制内容",
+    "CreateReleaseClippingMask": "创建/释放剪贴蒙版",
+    "Cut": "剪切",
+    "CycleBlendBackwards": "循环切换混合模式（后退）",
+    "CycleBlendForward": "循环切换混合模式（前进）",
+    "DefaultColors": "默认前景颜色和背景颜色",
+    "Delete": "删除",
+    "Deselect": "取消选择",
+    "Export": "导出",
+    "FileInfo": "文件信息",
+    "FillWithBackground": "使用背景填充",
+    "FillWithForeground": "使用前景填充",
+    "Grid": "显示/隐藏网格",
+    "Group": "图层分组",
+    "Guides": "显示/隐藏参考线",
+    "ImageSize": "图像大小",
+    "InvertImage": "反转图像",
+    "InvertSelection": "反相选区",
+    "MergeLayers": "合并图层",
+    "MergeVisible": "合并可见图层",
+    "NewLayer": "新建图层",
+    "NewLayerCopy": "通过复制新建图层",
+    "NewLayerCut": "通过剪切新建图层",
+    "Paste": "粘贴",
+    "QuickMaskMode": "以快速蒙版模式编辑",
+    "Redo": "重做",
+    "RefineEdge": {
+      "CycleViewModesBackward": "调整边缘：在视图模式中向后循环",
+      "CycleViewModesForward": "调整边缘：在视图模式中向前循环",
+      "ViewMode": {
+        "Ants": "调整边缘视图模式：闪烁虚线",
+        "Black": "调整边缘视图模式：黑底",
+        "BlackWhite": "调整边缘视图模式：黑白",
+        "Overlay": "调整边缘视图模式：叠加",
+        "White": "调整边缘视图模式：白底"
+      }
+    },
+    "Reselect": "重新选择",
+    "Rulers": "显示/隐藏标尺",
+    "Save": "保存",
+    "SelectAll": "全选",
+    "SelectAllLayers": "选择全部图层",
+    "SelectBottomLayer": "选择底部图层",
+    "SelectionAdd": "添加到选区（对于选择工具）",
+    "SelectionIntersect": "与选区交叉（对于选择工具）",
+    "SelectionSubtract": "从选区中减去（对于选择工具）",
+    "SelectTopLayer": "选择顶部图层",
+    "SendBackward": "后移一层",
+    "SendToBack": "置为底层",
+    "ShowSettings": "显示设置",
+    "StartRefineEdge": "开始调整边缘（对于选择工具）",
+    "StartSearch": "开始搜索",
+    "SwitchColors": "切换前景颜色和背景颜色",
+    "SwitchToMoveTool": "切换到移动工具",
+    "ToggleFullscreen": "切换全屏",
+    "ToggleShortcuts": "切换快捷键",
+    "Undo": "还原",
+    "Ungroup": "取消图层分组",
+    "Zoom100": "缩放到 100%",
+    "Zoom200": "缩放到 200%",
+    "ZoomIn": "放大",
+    "ZoomOut": "缩小",
+    "ZoomToFit": "缩放以适合"
+  },
+  "Layer": {
+    "PanelLayer": {
+      "EnterLayerName": "输入图层名称",
+      "HideLayer": "隐藏图层",
+      "LayerEffects": {
+        "Title": "图层效果"
+      },
+      "Message": {
+        "RenameNotPossible": "无法重命名该图层"
+      },
+      "Properties": {
+        "Title": "图层属性"
+      },
+      "ShowLayer": "显示图层",
+      "UnlinkLayer": "取消图层链接",
+      "UnlockGroup": "解锁组",
+      "UnlockLayer": "解锁图层",
+      "Visibility": {
+        "ContextMenu": {
+          "Header": "可见性操作",
+          "HideSelectedLayers": "隐藏选定图层",
+          "HideThisLayer": "隐藏此图层",
+          "ShowHideOthers": "显示/隐藏所有其他图层",
+          "ShowSelectedLayers": "显示选定图层",
+          "ShowThisLayer": "显示此图层"
+        }
+      }
+    }
+  },
+  "LayerActions": {
+    "AddLayerMask": "添加图层蒙版",
+    "AddMaskToSelection": "添加蒙版到选区",
+    "AddNewLayer": "添加新图层",
+    "AdjustmentLayers": {
+      "Title": "调整图层"
+    },
+    "ArrangeLayers": {
+      "BringForward": "前移一层",
+      "BringToFront": "置为顶层",
+      "SendBackward": "后移一层",
+      "SendToBack": "置为底层",
+      "Title": "排列图层"
+    },
+    "ConvertToLayers": "转换为图层",
+    "ConvertToSmartObject": "转换为智能对象",
+    "CopyLayer": "复制图层",
+    "CreateClippingMask": "创建剪贴蒙版",
+    "Delete": "删除",
+    "DeleteGroup": "删除组",
+    "DeleteLayer": "删除图层",
+    "DeleteMask": "删除蒙版",
+    "DisableLayerMask": "禁用图层蒙版",
+    "Duplicate": "复制",
+    "DuplicateGroup": "复制组",
+    "DuplicateLayer": "复制图层",
+    "EditOriginal": "编辑原始内容",
+    "EditSmartObject": "编辑智能对象",
+    "EnableLayerMask": "启用图层蒙版",
+    "Flatten": "拼合",
+    "FlattenImage": "拼合图像",
+    "FlattenLayer": "拼合图层",
+    "GroupLayers": "图层编组",
+    "GroupMore": {
+      "Header": "组操作",
+      "Menu": "组操作"
+    },
+    "HideThisLayer": "隐藏本图层",
+    "IntersectMaskWithSelection": "蒙版与选区交叉",
+    "LargeLayerThumbnails": "大图层缩览图",
+    "LargeThumbnails": "大图层缩览图",
+    "LayerEffects": {
+      "Header": "图层效果",
+      "Title": "图层效果"
+    },
+    "LayerMore": {
+      "Header": "图层操作",
+      "Menu": "图层操作"
+    },
+    "LinkLayerMask": "链接图层蒙版",
+    "LinkLayers": "链接图层",
+    "LoadAsSelection": "作为选区载入",
+    "Lock": "锁定",
+    "LockGroup": "锁定组",
+    "LockLayer": "锁定图层",
+    "MaskMore": {
+      "Header": "蒙版操作",
+      "Menu": "蒙版操作"
+    },
+    "MergeDown": "向下合并",
+    "MergeGroup": "合并组",
+    "MergeLayers": "合并图层",
+    "MergeVisible": "合并可见图层",
+    "MultipleMore": {
+      "Header": "图层操作",
+      "Menu": "图层操作"
+    },
+    "PasteLayer": "粘贴",
+    "RefineEdge": "调整边缘",
+    "ReleaseClippingMask": "释放剪贴蒙版",
+    "SelectAll": "全选",
+    "ShowHideOthers": "显示/隐藏所有其他图层",
+    "ShowThisLayer": "显示本图层",
+    "SubtractMaskFromSelection": "从选区中减去蒙版",
+    "UngroupLayers": "取消图层编组",
+    "UnlinkLayerMask": "取消图层蒙版的链接",
+    "UnlinkLayers": "取消图层链接",
+    "Unlock": "解锁",
+    "UnlockGroup": "解锁组",
+    "UnlockLayer": "解锁图层"
+  },
+  "LayerEffects": {
+    "Angle": {
+      "Label": "角度"
+    },
+    "Antialias": {
+      "Label": "消除锯齿",
+      "Tooltip": "平滑等高线"
+    },
+    "Bevel": {
+      "Altitude": {
+        "Label": "高度"
+      },
+      "Depth": {
+        "Label": "深度"
+      },
+      "Direction": {
+        "Down": "向下",
+        "Title": "方向",
+        "Up": "向上"
+      },
+      "GlossCurve": {
+        "Label": "光泽等高线",
+        "Tooltip": "向阴影添加曲线"
+      },
+      "Highlights": {
+        "Blendmode": {
+          "Title": "高光模式",
+          "Tooltip": "设置高光的混合模式"
+        },
+        "Color": {
+          "Title": "高光颜色",
+          "Tooltip": "设置高光的颜色"
+        }
+      },
+      "Shadows": {
+        "Blendmode": {
+          "Tooltip": "设置阴影的混合模式"
+        },
+        "BlendMode": {
+          "Label": "阴影模式"
+        },
+        "Color": {
+          "Title": "阴影颜色",
+          "Tooltip": "设置阴影的颜色"
+        },
+        "Opacity": {
+          "Title": "不透明度"
+        }
+      },
+      "Size": {
+        "Label": "大小"
+      },
+      "Soften": {
+        "Label": "软化"
+      },
+      "Style": {
+        "Emboss": "浮雕效果",
+        "InnerBevel": "内斜面",
+        "Label": "样式",
+        "OuterBevel": "外斜面",
+        "PillowEmboss": "枕状浮雕",
+        "StrokeEmboss": "描边浮雕",
+        "Tooltip": "选取斜面位置"
+      },
+      "Technique": {
+        "ChiselHard": "雕刻清晰",
+        "ChiselSoft": "雕刻柔和",
+        "Label": "方法",
+        "Smooth": "平滑",
+        "Tooltip": "选取斜面格式"
+      },
+      "Texture": {
+        "Depth": {
+          "Title": "深度",
+          "Tooltip": "设置纹理的密度"
+        },
+        "Invert": {
+          "Label": "反相",
+          "Tooltip": "反相纹理"
+        }
+      },
+      "UseGlobalLight": {
+        "Label": "使用全局光",
+        "Tooltip": "使用全局光源的当前设置"
+      },
+      "UseShape": {
+        "Label": "等高线",
+        "Tooltip": "对斜面应用等高线"
+      },
+      "UseTexture": {
+        "Label": "纹理",
+        "Tooltip": "对斜面应用纹理"
+      }
+    },
+    "Blending": {
+      "Label": {
+        "BlendMode": "混合模式"
+      }
+    },
+    "Blur-Size": {
+      "Label": "大小"
+    },
+    "Choke": {
+      "Label": "阻塞",
+      "Tooltip": "进行模糊处理前缩小图层蒙版"
+    },
+    "Contour": {
+      "Label": "等高线",
+      "Placeholder": "选择",
+      "Tooltip": "增加不透明度的变化"
+    },
+    "ContourPresets": {
+      "ImportContour": "导入轮廓",
+      "ResetToDefault": "重置为默认轮廓"
+    },
+    "Distance": {
+      "Label": "距离",
+      "Tooltip": "设置阴影的位移"
+    },
+    "DropShadow": {
+      "UseGlobalLight": {
+        "Label": "使用全局光",
+        "Tooltip": "使用全局光源的当前设置"
+      }
+    },
+    "Glow": {
+      "Direction": {
+        "Center": "居中",
+        "Edge": "边缘",
+        "Title": "源"
+      },
+      "Filltype": {
+        "Tooltip": "设置发光内容"
+      },
+      "InnerGlowColor": "内发光颜色",
+      "OuterGlowColor": "外发光颜色",
+      "SetColor": "设置发光颜色",
+      "Technique": {
+        "Label": "方法",
+        "Precise": "精确",
+        "Softer": "柔和",
+        "Tooltip": "用于柔化蒙版的方法"
+      }
+    },
+    "InnerShadow": {
+      "Color": "内阴影颜色"
+    },
+    "Jitter": {
+      "Label": "抖动",
+      "Tooltip": "随机化发光中的渐变"
+    },
+    "Noise": {
+      "Label": "杂色",
+      "Tooltip": "向发光不透明度添加杂色"
+    },
+    "Opacity": {
+      "Label": "不透明度"
+    },
+    "Overlay": {
+      "Blendmode": {
+        "Tooltip": "设置叠加的混合模式"
+      },
+      "Color": {
+        "Label": "设置叠加颜色",
+        "Tooltip": "叠加颜色"
+      }
+    },
+    "OverlayGradient": {
+      "AlignWithLayer": {
+        "Label": "与图层对齐"
+      },
+      "Dither": {
+        "Label": "仿色",
+        "Tooltip": "仿色渐变"
+      },
+      "Gradient": {
+        "Label": "渐变"
+      },
+      "GradientPresets": {
+        "DeleteGradient": "删除选定的渐变",
+        "ImportGradient": "导入渐变",
+        "RenameGradient": "重命名选定的渐变",
+        "ResetToDefault": "重置为默认渐变"
+      },
+      "Method": {
+        "Classic": "经典",
+        "Label": "方法",
+        "Linear": "线性",
+        "Perceptual": "可感知",
+        "Tooltip": "设置渐变颜色将如何显示在画布上"
+      },
+      "Reversed": {
+        "Label": "反转渐变方向"
+      },
+      "Style": {
+        "Angle": "角度",
+        "Diamond": "菱形",
+        "Label": "样式",
+        "Linear": "线性",
+        "Radial": "径向",
+        "Reflected": "对称"
+      }
+    },
+    "OverlayPattern": {
+      "LinkWithLayer": {
+        "Label": "与图层链接"
+      },
+      "Pattern": {
+        "DeletePattern": "删除选定的图案",
+        "ImportPattern": "导入图案",
+        "Label": "图案",
+        "Placeholder": "选择",
+        "RenamePattern": "重命名选定的图案",
+        "ResetToDefault": "重置为默认图案"
+      }
+    },
+    "Range": {
+      "Label": "范围",
+      "Tooltip": "对范围应用等高线"
+    },
+    "Satin": {
+      "Color": "光泽颜色",
+      "Distance": {
+        "Label": "距离"
+      },
+      "Invert": {
+        "Label": "反转",
+        "Tooltip": "反向效果"
+      },
+      "SetColor": "设置光泽的颜色"
+    },
+    "Scale": {
+      "Label": "比例"
+    },
+    "Shadow": {
+      "Color": "投影颜色",
+      "SetColor": "设置阴影颜色"
+    },
+    "Spread": {
+      "Label": "扩展",
+      "Tooltip": "进行模糊处理前扩大图层蒙版"
+    },
+    "Stroke": {
+      "Color": "描边颜色",
+      "Filltype": {
+        "Color": "颜色",
+        "Gradient": "渐变",
+        "Label": "填充类型",
+        "Pattern": "图案",
+        "Tooltip": "设置描边内容"
+      },
+      "Overprint": {
+        "Label": "叠印",
+        "Tooltip": "根据当前图层内容混合描边"
+      },
+      "Position": {
+        "Center": "居中",
+        "Inside": "内部",
+        "Label": "位置",
+        "Outside": "外部"
+      },
+      "SetColor": "设置描边颜色",
+      "Size": {
+        "Label": "大小"
+      }
+    }
+  },
+  "LayereffectsProperties": {
+    "AdvancedSettings": {
+      "Title": "高级设置"
+    },
+    "DeleteAllEffects": "删除所有效果",
+    "DeleteEffects": "删除效果",
+    "Details": {
+      "BackToOverview": "返回到图层效果概述",
+      "DeleteEffect": "删除效果",
+      "RestoresToDefault": "恢复此效果的默认设置"
+    },
+    "EditLayerEffectProperties": "编辑图层效果属性",
+    "Effects": {
+      "AddEffect": "添加效果"
+    },
+    "HideEffects": "隐藏效果",
+    "IndividualLayerEffectVisibility": "单一图层效果可见性",
+    "LayerEffects": {
+      "Header": "图层效果"
+    },
+    "LayerEffectsNotYetAvaible": "编辑此图层效果尚不可用",
+    "NoLayerFx": {
+      "Subtitle": "尝试添加描边、颜色叠加或投影",
+      "SubtitleGlow": "尝试添加描边、颜色叠加、外发光或投影"
+    },
+    "ShowEffects": "显示效果"
+  },
+  "LayerProperties": {
+    "AdjustmentBar": {
+      "ColorRangeOption": {
+        "blues": "调整蓝色",
+        "cyans": "调整青色",
+        "greens": "调整绿色",
+        "magentas": "调整洋红色",
+        "master": "调整所有颜色",
+        "reds": "调整红色",
+        "yellows": "调整黄色"
+      }
+    },
+    "BlackAndWhite": {
+      "Label": {
+        "Blues": "蓝色",
+        "Cyans": "青色",
+        "Greens": "绿色",
+        "Magentas": "洋红",
+        "Reds": "红色",
+        "Tint": "色调",
+        "Yellows": "黄色"
+      },
+      "Reset": "重置"
+    },
+    "Blending": {
+      "Label": {
+        "Blend": "混合",
+        "Opacity": "不透明度"
+      },
+      "ScopedOperation": {
+        "BlendingChange": "混合更改"
+      },
+      "Title": "外观"
+    },
+    "BrightnessContrast": {
+      "Label": {
+        "Brightness": "亮度",
+        "Contrast": "对比度"
+      },
+      "Reset": "重置"
+    },
+    "ColorBalance": {
+      "Label": {
+        "CyanRed": "青色/红色",
+        "MagentaGreen": "洋红/绿色",
+        "PreserveLuminosity": "保留明度",
+        "Tone": "色调",
+        "YellowBlue": "黄色/蓝色"
+      },
+      "Reset": "重置",
+      "Tone": {
+        "Highlights": "高亮",
+        "Midtones": "中间色调",
+        "Shadows": "阴影"
+      }
+    },
+    "Exposure": {
+      "Label": {
+        "Exposure": "曝光",
+        "Gamma": "灰度系数",
+        "Offset": "位移"
+      },
+      "Reset": "重置"
+    },
+    "HueSaturation": {
+      "Label": {
+        "Colorize": "着色",
+        "ColorRange": "颜色范围",
+        "ColorRangeOption": {
+          "blues": "蓝色",
+          "cyans": "青色",
+          "greens": "绿色",
+          "magentas": "洋红",
+          "master": "全图",
+          "reds": "红色",
+          "yellows": "黄色"
+        },
+        "Hue": "色相",
+        "Lightness": "明度",
+        "Saturation": "饱和度"
+      },
+      "Reset": "重置"
+    },
+    "LayerBounds": {
+      "Label": {
+        "FlipHorizontal": "水平翻转",
+        "FlipVertical": "垂直翻转",
+        "H": "H",
+        "Rotate90clockwise": "顺时针旋转 90°",
+        "Rotate90counterClockwise": "逆时针旋转 90°",
+        "W": "W",
+        "X": "X",
+        "Y": "Y"
+      },
+      "Lockbutton": {
+        "ConstrainAspectRatio": "限制纵横比",
+        "DoNotConstrainAspectRatio": "不限制纵横比"
+      },
+      "Title": "尺寸"
+    },
+    "LayerEffectsProperties": {
+      "Title": "效果"
+    },
+    "LayerMask": {
+      "Label": {
+        "Density": "密度",
+        "Feather": "羽化"
+      }
+    },
+    "LayerMaskProperties": {
+      "Title": "图层蒙版"
+    },
+    "LayerType": {
+      "Title": "文本"
+    },
+    "Levels": {
+      "Label": {
+        "OutputLevels": "输出色阶"
+      },
+      "OutputLevel": {
+        "Highs": "设置输出色阶 - 高光",
+        "Lows": "设置输出色阶 - 低光"
+      },
+      "SetBlackLevel": "设置黑色色阶",
+      "SetGrayLevel": "设置灰色色阶",
+      "SetWhiteLevel": "设置白色色阶",
+      "Unsupported": "此图像模式尚不支持色阶"
+    },
+    "PlacedLayerProperties": {
+      "Label": {
+        "EditSmartObject": "编辑智能对象",
+        "Rotation": "角度"
+      },
+      "Title": "嵌入的智能对象"
+    },
+    "Shape": {
+      "Stroke": {
+        "Alignment": {
+          "Center": "居中",
+          "Inside": "内部",
+          "Outside": "外部",
+          "Title": "对齐"
+        },
+        "Cap": {
+          "Butt": "端面",
+          "Projecting": "投影",
+          "Round": "圆形"
+        },
+        "Join": {
+          "Bevel": "斜面",
+          "Miter": "斜接",
+          "Round": "圆形"
+        },
+        "Line": {
+          "Cap": {
+            "Butt": "端面",
+            "Projecting": "投影",
+            "Round": "圆形",
+            "Title": "线段端点"
+          },
+          "Join": {
+            "Bevel": "斜面",
+            "Miter": "斜接",
+            "Round": "圆形",
+            "Title": "线段合并"
+          }
+        }
+      },
+      "Style": {
+        "SwitchColors": "切换",
+        "Tooltip": {
+          "Fill": "填充",
+          "Stroke": "描边"
+        }
+      }
+    },
+    "ShapeBounds": {
+      "Label": {
+        "BottomLeftRadius": "左下角半径",
+        "BottomRightRadius": "右下角半径",
+        "CornerRadius": "角半径",
+        "FlipHorizontal": "水平翻转",
+        "FlipVertical": "垂直翻转",
+        "H": "H",
+        "NumberOfSides": "边数",
+        "ResetTransform": "复位变换",
+        "Rotation": "角度",
+        "Sides": "边数",
+        "StarRatio": "星形比例",
+        "StrokeWidth": "描边宽度",
+        "Style": "样式",
+        "TopLeftRadius": "左上角半径",
+        "TopRightRadius": "右上角半径",
+        "W": "W",
+        "X": "X",
+        "Y": "Y"
+      },
+      "Lockbutton": {
+        "ConstrainAspectRatio": "限制纵横比",
+        "DoNotConstrainAspectRatio": "不限制纵横比"
+      },
+      "RadiusLockButton": {
+        "Label": "将半径值链接到一起"
+      },
+      "Transform": "变换"
+    },
+    "ShapeEllipseProperties": {
+      "Title": "椭圆形"
+    },
+    "ShapeLineProperties": {
+      "Title": "线条形状"
+    },
+    "ShapeMultipleProperties": {
+      "Title": "形状"
+    },
+    "ShapePolygonProperties": {
+      "Title": "多边形"
+    },
+    "ShapeRectangleProperties": {
+      "Title": "矩形"
+    },
+    "ShapeTriangleProperties": {
+      "Title": "三角形"
+    },
+    "SolidColorFill": {
+      "Title": "纯色填充"
+    },
+    "SyntheticFill": {
+      "Generate": "生成",
+      "NoPrompt": "（无提示）",
+      "Prompt": "提示",
+      "Title": "生成式图层",
+      "Variation": {
+        "Menu": {
+          "BadResult": "结果不佳",
+          "DeleteVariation": "删除变体",
+          "GenerateSimilar": "生成类似内容",
+          "GoodResult": "结果满意",
+          "ReportVariation": "报告变体"
+        },
+        "More": "更多"
+      },
+      "Variations": "变体",
+      "XofY": "{{index}}，共 {{total}}"
+    },
+    "Unsupported": "此功能尚不可用",
+    "Variations": {
+      "Title": "变化"
+    },
+    "Vibrance": {
+      "Label": {
+        "Saturation": "饱和度",
+        "Vibrance": "自然饱和度"
+      },
+      "Reset": "重置"
+    }
+  },
+  "LayersPanel": {
+    "LayersTree": {
+      "Title": "图层"
+    }
+  },
+  "LayerTypeProperties": {
+    "AdjustStyle": {
+      "HorizontalScale": "水平缩放",
+      "VerticalScale": "垂直缩放"
+    },
+    "AllCaps": "全部大写",
+    "AutoKerning": {
+      "Metrics": "度量标准",
+      "Optical": "视觉"
+    },
+    "AutoLeading": "自动",
+    "BaselineShift": "基线偏移",
+    "CenterAlign": "居中对齐",
+    "Font": {
+      "Label": {
+        "Fill": "填充颜色"
+      }
+    },
+    "FontSize": "字体大小",
+    "FullJustify": "两端对齐",
+    "FullJustifyCenterAll": "全部两端对齐",
+    "FullJustifyLeft": "左对齐",
+    "FullJustifyRight": "右对齐",
+    "JustifyDisabled": "通过在画布上拖动文本工具来添加段落文本，以对齐文本",
+    "Kerning": "字距微调",
+    "Leading": "行距",
+    "LeftAlign": "左对齐",
+    "MoreOptionsTitle": "更多选项",
+    "Paragraph": {
+      "Dimensions": "尺寸"
+    },
+    "RightAlign": "右对齐",
+    "SmallCaps": "小型大写字母",
+    "Strikethrough": "删除线",
+    "Subscript": "下标",
+    "Superscript": "上标",
+    "Tracking": "字距调整",
+    "Unit": {
+      "Pt": "点"
+    }
+  },
+  "LazyLoad": {
+    "Error": {
+      "PleaseCheck": "请检查您的互联网连接或刷新页面。",
+      "SorrySomething": "抱歉，出现问题"
+    }
+  },
+  "LCECSATIntercept": {
+    "Feedback": {
+      "Submitted": "您的反馈意见已成功提交。"
+    },
+    "Trigger": {
+      "Body": "您是具有实时共同编辑特殊访问权限的受邀用户，我们十分重视您的反馈意见。诚邀您参加这项短短 1 分钟的调查，帮助我们改进此功能！",
+      "Button": {
+        "NoThanks": "不，谢谢",
+        "StartNow": "立即开始"
+      },
+      "Heading": "我们希望得到您的意见！"
+    }
+  },
+  "Learn": {
+    "AdjustImageMiniTour": {
+      "AdjustmentLayer": {
+        "Content": "您可以在此处添加更多调整图层，例如<b>黑白</b>或<b>曝光</b>。",
+        "Title": "创建新的调整图层"
+      },
+      "LayersPanel": {
+        "Content": "调整图层是 Photoshop 奇妙魔力的重要部分。调整图层允许您对图像应用颜色和色调更改，但保持原始图像不变。我们已经在<b>图层</b>面板中选择了<b>亮度/对比度</b>图层，帮助您开始自定义图像。",
+        "Title": "使用调整图层轻松进行编辑"
+      },
+      "Sliders": {
+        "Content": "<b>属性</b>菜单会显示选定调整图层的控件。拖动滑块以尝试。默认情况下，调整层会影响它下面的所有图层。",
+        "Title": "调整滑块"
+      }
+    },
+    "Buttons": {
+      "Skip": {
+        "Label": "跳过"
+      },
+      "StartDemo": {
+        "Label": "开始演示"
+      },
+      "StartTour": {
+        "Label": "开始导览"
+      }
+    },
+    "CloudSync": {
+      "Content": "如果您在同步完成之前离开，将无法从其他设备访问文档的最新版本。您仍可访问此设备上的最新更改，并返回此处以恢复同步。",
+      "DontShowAgain": "不再显示",
+      "Ok": "确定",
+      "Title": "您正在同步到云"
+    },
+    "EmphasizedLabel": {
+      "New": "新增"
+    },
+    "GenerativeExpand": {
+      "Expand": {
+        "Content_v1": "使用<b>裁切</b>工具拖动各个角并扩展图像周围的高度和宽度。",
+        "Title": "扩展图像"
+      },
+      "GenExpandButton": {
+        "Content_v1": "展开画布后，从上下文任务栏中选择<b>生成式扩展</b>。",
+        "Title_v3": "选择“生成式扩展”"
+      },
+      "HitExpand": {
+        "Content_v2": "当您准备好为提示生成图像时，请选择<b>扩展</b>。"
+      },
+      "HitGenerate": {
+        "Title_v2": "开始生成图像"
+      },
+      "Prompt": {
+        "Content": "描述要生成的内容。如果将提示留空，Photoshop 将为您生成。",
+        "Title_v1": "创建提示"
+      },
+      "Results": {
+        "Content": "使用箭头浏览结果，或使用新提示生成更多变体。",
+        "SecondaryDoneButtonTitle": "结束导览",
+        "Title_v1": "选择变体"
+      },
+      "Start": {
+        "Content_v1": "首先扩展图像，然后生成对象、背景和场景。",
+        "Title_v1": "扩展您可以创建的内容的边界。"
+      }
+    },
+    "GenerativeFill": {
+      "GenFillButton": {
+        "Content_v1": "建立选区后，从上下文任务栏中选择<b>生成式填充</b>选项。",
+        "Title_v1": "选择生成式填充"
+      },
+      "HitFill": {
+        "Content_v1": "当您准备好为提示生成图像时，请选择<b>填充</b>。"
+      },
+      "HitGenerate": {
+        "Title_v1": "开始生成图像"
+      },
+      "Prompt": {
+        "Content_v1": "描述要生成的内容。如果将提示留空，Photoshop 将为您生成。",
+        "Title_v1": "创建提示"
+      },
+      "Results": {
+        "Content_v1": "使用箭头浏览结果，或使用新提示生成更多变体。",
+        "Title_v1": "选择变体"
+      },
+      "SecondaryDoneButtonTitle": "结束导览",
+      "Selection": {
+        "Content_v1": "要开始使用，请选取“套索”或“矩形选框”等<b>选择</b>工具，然后在图像中建立选区。",
+        "Title": "建立选区"
+      },
+      "Start": {
+        "Content": "修改现有内容，并使用<b>生成式填充</b>生成对象、背景和场景。",
+        "Title_v1": "文本提示在几秒钟内实现震撼的艺术效果"
+      }
+    },
+    "GenerativeFillDemo": {
+      "AssetFilename": "山脉.psd",
+      "Astronaut": "宇航员",
+      "GenFillButton": {
+        "Content_v1": "建立选区后，从上下文任务栏中选择<b>生成式填充</b>选项。",
+        "Title_v1": "选择生成式填充"
+      },
+      "HitGenerate": {
+        "Title_v1": "开始生成图像"
+      },
+      "Layer0": "图层 0",
+      "Moon": "月亮",
+      "Progress": {
+        "Generating": "正在生成"
+      },
+      "Prompt": {
+        "Content": "<span style=\"white-space: normal;\">从下拉菜单中选择要生成的提示。<sp-link quiet href=\"#\">升级计划</sp-link>以使用或生成您自己的图像。</span>",
+        "Title_v1": "选择提示"
+      },
+      "Results": {
+        "Content_v2": "使用箭头浏览结果，或使用新提示生成更多变体。",
+        "Done": {
+          "Title": "完成演示"
+        },
+        "Title_v1": "选择变体"
+      },
+      "SelectADemoPrompt": "选择演示提示",
+      "SelectExpand": {
+        "Content": "当您准备好为提示生成图像时，请选择<b>填充</b>。"
+      },
+      "Selection": {
+        "Content_v2": "要开始使用，请选取“套索”或“矩形选框”等<b>选择</b>工具，然后在图像中建立选区。<br><br><b>注意：</b>我们已经为您建立了选区",
+        "Title": "建立选区"
+      },
+      "Spaceship": "宇宙飞船",
+      "Start": {
+        "Content": "<span style=\"white-space: normal;\">修改现有内容并使用<b>生成式填充</b>生成对象、背景和场景。</b><br /><br /><b>注意：</b>这是一个演示，所有显示的资产均为示例资产。<sp-link quiet href=\"#\">升级计划</sp-link>以使用或生成您自己的图像。</span>",
+        "Title_v1": "文本提示在几秒钟内实现震撼的艺术效果"
+      }
+    },
+    "GenerativeFillTour": {
+      "ContinueButtonTitle": "继续",
+      "ContinueContent": "使用箭头浏览结果，或使用其他提示生成更多结果。<br><br>如果对结果感到满意，您可以结束教程或继续学习如何使用<b>生成式扩展</b>。",
+      "SecondaryDoneButtonTitle": "结束导览"
+    },
+    "Home": {
+      "Bookmark": {
+        "Content": {
+          "MacOS": "将此页面添加到您的书签 (<b>⌘+D</b>) 以快速访问 Photoshop Web 版",
+          "Windows": "将此页面添加到您的书签 (<b>Ctrl+D</b>) 以快速访问 Photoshop Web 版"
+        },
+        "Title": "将此页面添加为书签"
+      },
+      "PWA": {
+        "BrowserNotificationsConfirmationButtons": {
+          "Cancel": "取消",
+          "Confirm": "确认"
+        },
+        "Install": {
+          "Content": {
+            "Commerce": "使用您的地址栏中的图标来下载我们的浏览器应用程序。这支持您一键式从桌面打开 Photoshop Web 版。",
+            "Default": "我们的浏览器应用程序支持您只需单击一下即可从桌面打开 Photoshop Web 版。"
+          },
+          "Title": "获取该应用程序"
+        },
+        "Notification": {
+          "Content": "打开浏览器通知以了解 Photoshop Web 版中的最新功能。",
+          "Title": "保持最新"
+        },
+        "Welcome": {
+          "Content": "您可以在主页开始使用新文档、访问最近使用的文件、了解新功能以及查找帮助。",
+          "Title": "欢迎使用 Photoshop！"
+        }
+      }
+    },
+    "IndicateAdjustmentPresetsCreatesLayers": {
+      "Content": "每个<b>调整预设</b>都会创建调整图层组。通过单击每个图层上的<b>属性图标</b>，您可以<b>编辑</b>效果每个部分的滑块。<br><br>要移除预设，您可以单击<b>调整</b>面板中的<b>恢复</b>，或者在<b>图层</b>面板中删除图层组。",
+      "DoneButtonTitle": "知道了",
+      "Title": "调整预设创建图层"
+    },
+    "IndicateBookmark": {
+      "Content": {
+        "MacOS": "将此页面添加到书签 <b style=\"white-space: nowrap\">(CMD + D)</b> 以快速访问 Photoshop Web 版。",
+        "Windows": "将此页面添加到书签 <b style=\"white-space: nowrap\">(CTRL + D)</b> 以快速访问 Photoshop Web 版。"
+      },
+      "DoneButtonTitle": "完成",
+      "Title": "将此页面添加为书签"
+    },
+    "IndicateExport": {
+      "Content": "编辑完图像后，请将其导出到您的设备。",
+      "DoneButtonTitle": "知道了",
+      "Return": {
+        "Content": "单击下载以完成导出。",
+        "DoneButtonTitle": "知道了",
+        "Title": "立即下载"
+      },
+      "Title": "导出图像"
+    },
+    "IndicateQuickActionsCreateLayers": {
+      "Content": "每个<b>快速操作</b>都会在<b>图层面板</b>中创建一个图层。要隐藏或显示您的效果，您可以使用切换图层的可见性（眼睛图标）。<br><br>要移除您的效果，您可以使用<b>快速操作面板</b>中的<b>恢复</b>按钮或在<b>图层面板</b>中删除图层。",
+      "DoneButtonTitle": "知道了",
+      "Title": "快速操作创建图层"
+    },
+    "QuickActions": {
+      "EffectsFingertips": {
+        "Content": "凭借我们的新<b>快速操作</b>面板，可以轻松为您的图像添加滤镜等效果。确保在<b>图层</b>面板中选中了原始图像，然后选择一个效果，以查看它在您的图像上展示出来的效果。",
+        "Title": "效果触手可及"
+      }
+    },
+    "RemoveAnObject": {
+      "Finish": {
+        "Content": "您正在学习 Photoshop Web 版的基础知识。",
+        "Title": "您的操作看起来很轻松！"
+      },
+      "GenerativeFill": {
+        "Content": "选择<b>生成式填充</b>工具。<br /><br />将提示留空，然后按<b>填充</b>按钮。只有您选择的图像部分才会移除。",
+        "Title": "使用生成式填充"
+      },
+      "Intro": {
+        "Content": "让我们来了解如何使用<b>生成式填充</b>的强大功能，轻松移除图像中的对象或人物。",
+        "Title": "使用生成式填充移除图像中的内容"
+      },
+      "RefineSelection": {
+        "Content": "选择 {{PLUS_BUTTON}} 添加到您的选区，然后选择 {{MINUS_BUTTON}} 以移除。<br /> <br />对所做选择感到满意后，请转到下一步。",
+        "Title": "需要优化您的选区？"
+      },
+      "Select": {
+        "Content": "使用<b>套索</b>工具选择要移除的区域。不要担心做得不够完美。",
+        "Title": "建立选区"
+      },
+      "Variation": {
+        "Content": "查看不同的变体，以选择您最喜欢的变体。<br /><br />选择 {{PLUS_BUTTON}} 按钮，以便生成更多变体。",
+        "Title": "选择变体或生成更多变体"
+      }
+    },
+    "SpotHealMiniTour": {
+      "SpotHealingBrushTool": {
+        "Content": "使用污点修复画笔工具轻刷对象即可轻松移除对象。设置画笔大小，使其稍大于要删除的点。单击污点并在区域上拖动以隐藏它们。",
+        "DoneButtonTitle": "完成",
+        "Title": "污点修复画笔工具"
+      }
+    }
+  },
+  "LearnCenter": {
+    "KBSC": {
+      "NoResults": "未找到键盘快捷键",
+      "NoResultsDescription": "尝试调整搜索词"
+    },
+    "Recents": {
+      "EmptyRecents": "无最近使用的教程",
+      "StartLearning": "开始学习"
+    },
+    "Tutorials": {
+      "Adjust": {
+        "AdjustLightingColors": {
+          "Title": "调整整体光线和颜色"
+        },
+        "MakeEyeColorPop": {
+          "Title": "让您的眼睛颜色更加鲜明"
+        },
+        "OBEAdjustObject": {
+          "Title": "更改特定区域的颜色"
+        },
+        "QuickActions": {
+          "Title": "使用快速操作简化编辑"
+        }
+      },
+      "Combine": {
+        "AddImagePlace": {
+          "Title": "添加其他图像"
+        },
+        "AddObjectsGenAI": {
+          "Title": "生成场景中的内容"
+        },
+        "CombineImagesBlend": {
+          "Title": "合并两个图像"
+        },
+        "GenerateBackground": {
+          "Title": "生成新背景"
+        },
+        "ReplaceBackground": {
+          "Title": "替换背景"
+        }
+      },
+      "Design": {
+        "AddText": {
+          "Title": "向图像添加文本"
+        },
+        "ColorPicker": {
+          "Title": "从图像中选择一种颜色"
+        },
+        "CreateSticker": {
+          "Title": "创建贴纸效果"
+        },
+        "FillAreaWithColor": {
+          "Title": "用颜色填充所选区域"
+        },
+        "LayerEffects": {
+          "Title": "应用图层效果以增强文本效果"
+        }
+      },
+      "Done": "完成",
+      "EditorUITour": {
+        "Title": "Photoshop 指引"
+      },
+      "Filter": {
+        "All": "全部",
+        "Completed": "已完成",
+        "Filter": {
+          "SortBy": "排序方式"
+        },
+        "Incomplete": "未完成",
+        "MostRecent": "最近项目",
+        "SortBy": "排序方式",
+        "Status": "状态",
+        "TitleAsc": "标题（升序）",
+        "TitleDesc": "标题（降序）"
+      },
+      "Generate": {
+        "ChangingSkyWithGenAI": {
+          "Title": "使用生成式 AI 更改天空"
+        },
+        "GenerateImage": {
+          "Title": "生成图像"
+        },
+        "GenerativeFillRefImage": {
+          "Title": "使用参考图像生成对象"
+        }
+      },
+      "Kind": {
+        "HandsOn": "实操教程",
+        "Video": "视频教程 &middot;{{duration}}分钟"
+      },
+      "MostKnow": {
+        "PSOnboarding": {
+          "Title": "Photoshop Web 版入门演示"
+        },
+        "UnderstandingLayers": {
+          "Title": "了解图层"
+        },
+        "UnderstandingMasks": {
+          "Title": "了解蒙版"
+        },
+        "UnderstandingSelections": {
+          "Title": "了解选区"
+        }
+      },
+      "New": "新建",
+      "NoResults": "未找到教程",
+      "NoResultsDescription": "请尝试调整搜索词或筛选器以获得更好的结果",
+      "ResizeAndRotate": {
+        "CropImage": {
+          "Title": "裁切图像"
+        },
+        "ExpandImageWithGenAI": {
+          "Title": "使用生成式 AI 扩展图像"
+        },
+        "ResizeImage": {
+          "Title": "调整整个图像的大小"
+        },
+        "ResizeRotateLayer": {
+          "Title": "调整或旋转图层"
+        }
+      },
+      "Retouch": {
+        "CloneStamp": {
+          "Title": "使用仿制图章工具复制区域"
+        },
+        "OBERemoveObject": {
+          "Title": "快速选择和移除对象"
+        },
+        "Remove": {
+          "Title": "通过轻刷干扰元素来删除它们"
+        },
+        "RemoveWithGenAI": {
+          "Title": "使用生成式 AI 移除大区域"
+        },
+        "SpotHealingBrush": {
+          "Title": "修饰小细节"
+        }
+      },
+      "Topic": {
+        "Adjust": {
+          "SubTitle": "编辑亮度和颜色",
+          "Title": "调整"
+        },
+        "Combine": {
+          "SubTitle": "替换背景或合并多个图像",
+          "Title": "组合"
+        },
+        "Design": {
+          "SubTitle": "使用文字、颜色和形状",
+          "Title": "设计"
+        },
+        "Generate": {
+          "SubTitle": "使用生成式 AI 来生成整个图像或部分图像",
+          "Title": "生成"
+        },
+        "GetStarted": {
+          "Title": "开始使用"
+        },
+        "HowTo": {
+          "SubTitle": "用于最常见任务的核心工具和功能",
+          "Title": "操作方法"
+        },
+        "MustKnow": {
+          "SubTitle": "工作区和核心功能",
+          "Title": "必知"
+        },
+        "ResizeAndRotate": {
+          "SubTitle": "裁剪、旋转和更改图像大小",
+          "Title": "调整大小和旋转"
+        },
+        "Retouch": {
+          "SubTitle": "移除内容或优化细节",
+          "Title": "移除和修饰"
+        }
+      }
+    }
+  },
+  "LearningCenter": {
+    "Button": "学习中心",
+    "CompletedAllTopicTutorials": {
+      "Label": "恭喜！您已完成全部 {{topic}} 教程。继续探索其他类别。"
+    },
+    "CompletedOneTopicTutorial": {
+      "Label": "您已完成 {{topic}} 的 {{percentage}}%。"
+    },
+    "FirstClosed": {
+      "Tooltip": "您可以在此处再次找到学习中心。"
+    },
+    "NavBar": {
+      "Tooltip": "了解如何使用 Photoshop Web 版"
+    }
+  },
+  "LearningCenterCategory": {
+    "CategoryTitle": {
+      "BrowseByTopic": "按主题浏览",
+      "GetStarted": "开始使用",
+      "KeyboardShortcuts": "键盘快捷键",
+      "ViewAllTutorials": "所有教程",
+      "ViewRecent": "查看最近打开的文件"
+    },
+    "Search": {
+      "KBSC": {
+        "Label": "搜索键盘快捷键"
+      },
+      "Tutorials": {
+        "Label": "搜索教程"
+      }
+    },
+    "SearchResults": "搜索结果",
+    "SideNavBar": {
+      "Resources": {
+        "Discord": "Discord",
+        "PhotoshopUserGuide": "Photoshop 用户指南",
+        "ReportBug": "报告错误",
+        "SubmitIdea": "提交想法",
+        "SupportCommunity": "支持社区",
+        "Title": "资源"
+      },
+      "Title": "学习"
+    },
+    "SideNavTitle": {
+      "BrowseByTopic": "按主题浏览",
+      "GetStarted": "开始使用",
+      "KeyboardShortcuts": "键盘快捷键",
+      "ViewAllTutorials": "查看所有教程",
+      "ViewRecent": "查看最近打开的文件"
+    }
+  },
+  "LearnPopover": {
+    "Button": {
+      "Back": "返回",
+      "Continue": "继续",
+      "Done": "完成",
+      "Next": "下一步",
+      "Skip": "跳过",
+      "SkipTour": "跳过导览",
+      "Upgrade": "升级",
+      "UploadImage": "上传图像"
+    },
+    "Header": {
+      "Count": "###/+++"
+    }
+  },
+  "LeftTaskbar": {
+    "AddImage": "添加图像",
+    "Adjust": "调整",
+    "AllAdjustments": "所有调整",
+    "BackgroundColor": "背景颜色",
+    "Eyedropper": "滴管",
+    "ForegroundColor": "前景色",
+    "Generative": "生成式",
+    "Marquee": "选取框",
+    "Paint": "颜料",
+    "QuickActions": "快速操作",
+    "Retouch": "修饰",
+    "Select": "选择",
+    "Shapes": "形状",
+    "SizePosition": "大小和位置",
+    "Switch": {
+      "Description": "切换颜色",
+      "Title": "切换"
+    },
+    "Text": "文本",
+    "TextToImage": {
+      "EffectCategory": {
+        "Popular": "常用",
+        "Selected": "选定"
+      }
+    },
+    "Tooltip": {
+      "GenerativeAI": {
+        "TryGenerativeTools": "新增！一站式查找热门的生成式 AI 功能"
+      }
+    },
+    "Type": "文字"
+  },
+  "Legal": {
+    "CopyrightTerm": "© {{YEAR}} Adobe. All rights reserved.",
+    "Link": {
+      "CookiePreferences": "Cookie 首选项",
+      "Privacy": "隐私",
+      "PrivacyCpra": "不得出售或共享我的个人信息",
+      "ReportAbuse": "举报滥用",
+      "TermsOfUse": "使用条款"
+    },
+    "Title": "法律",
+    "Trademarks": "Adobe, the Adobe logo, and Photoshop are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners.",
+    "TrademarksLink": "Adobe, the Adobe logo, and Photoshop are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners. 有关第三方软件的第三方声明、条款和条件位于 <sp-link quiet href=\"{{GO_LEGAL_THIRDPARY_LOC}}\" target=\"_blank\">{{GO_LEGAL_THIRDPARY_LOC}}</sp-link>，并纳入文本作为参考。"
+  },
+  "LegalDialog": {
+    "Close": "关闭",
+    "Headline": "法律声明"
+  },
+  "LightroomFilePicker": {
+    "Error": {
+      "Import": "无法导入您的 Lightroom 资产。请重试"
+    },
+    "Progress": {
+      "Import": "正在导入您的 Lightroom 资产..."
+    }
+  },
+  "LoaderProgress": {
+    "Collapse": "查看更少",
+    "Failed": {
+      "General": {
+        "ActionButton": {
+          "Reload": "重新加载"
+        },
+        "Label": "加载失败",
+        "Text": "重新加载此页面以重试"
+      }
+    }
+  },
+  "LoadingErrorDialog": {
+    "ApolloException": {
+      "Message": "请尝试重新加载页面或尝试打开其他文档。"
+    },
+    "Button": {
+      "BackToHome": "返回主页",
+      "SignIn": "登录"
+    },
+    "Default": {
+      "Heading": "我们无法打开您的文档。",
+      "Message": {
+        "ReloadOrSignIn": "请尝试重新加载页面或登录您的帐户。",
+        "ReloadOrSignInAnother": "请尝试重新加载页面或登录其他帐户。",
+        "SignIn": "请检查 URL 或尝试打开其他文档。"
+      }
+    },
+    "SignInRequired": {
+      "Heading": "登录以访问此文档",
+      "Message": "您需要登录才能打开此文档。"
+    }
+  },
+  "MicrosoftDisclosure": {
+    "Text": "有关第三方软件的第三方声明、条款和条件位于 <sp-link quiet size='m' href='https://www.adobe.com/go/thirdparty' target='_blank'>https://www.adobe.com/go/thirdparty_cn</sp-link>，并纳入文本作为参考。Portions utilize Microsoft Windows Media Technologies. Copyright (c) 2006 Microsoft Corporation. All Rights Reserved.",
+    "Title": "Microsoft 法律披露条款"
+  },
+  "Modal": {
+    "AdobeCameraRaw": {
+      "Title": "亮度和颜色 (Adobe Camera Raw)"
+    },
+    "FreeTransform": {
+      "Cancel": "取消",
+      "Distort": "扭曲",
+      "Done": "完成",
+      "FlipHorizontal": "水平翻转",
+      "FlipVertical": "垂直翻转",
+      "Free": "自由变换",
+      "Perspective": "透视",
+      "Skew": "斜切"
+    },
+    "GaussianBlur": {
+      "Title": "高斯模糊"
+    },
+    "Navbar": {
+      "Redo": "重做",
+      "Undo": "还原"
+    },
+    "RefineEdge": {
+      "Title": "调整边缘"
+    },
+    "Type": {
+      "Cancel": "取消",
+      "Done": "完成",
+      "FontColor": "字体颜色",
+      "MoreOptions": "更多选项"
+    }
+  },
+  "ModalNavbar": {
+    "Cancel": "取消",
+    "Done": "完成"
+  },
+  "Navbar": {
+    "Badge": {
+      "Tooltip": {
+        "Content": "将 Ps 图标拖动到书签栏中，以便下次更轻松地访问 Photoshop Web 版。",
+        "Header": "Photoshop"
+      }
+    },
+    "DownloadMenu": {
+      "Download": "下载"
+    },
+    "HelpMenu": {
+      "Help": "帮助"
+    },
+    "Menu": {
+      "BackToHome": "返回主页",
+      "Edit": {
+        "ContentAwareFill": "内容识别填充",
+        "Copy": "复制",
+        "CopyMerged": "合并拷贝",
+        "Crop": "裁切",
+        "Cut": "剪切",
+        "Fill": "填充",
+        "FreeTransform": "自由变换",
+        "Paste": "粘贴",
+        "Redo": "重做",
+        "Title": "编辑",
+        "Transform": {
+          "FlipHorizontal": "水平翻转",
+          "FlipVertical": "垂直翻转",
+          "Rotate180": "旋转 180°",
+          "Rotate90ccw": "逆时针旋转 90°",
+          "Rotate90cw": "顺时针旋转 90°",
+          "Title": "变换"
+        },
+        "Undo": "还原"
+      },
+      "ExportAs": "导出为",
+      "ExportAsName": "导出为",
+      "Fill": {
+        "50Gray": "50% 灰色",
+        "BackgroundColor": "背景颜色",
+        "Black": "黑色",
+        "ForegroundColor": "前景颜色",
+        "White": "白色"
+      },
+      "Filter": {
+        "CameraRaw": {
+          "filter": "亮度和颜色"
+        },
+        "GaussianBlur": "高斯模糊",
+        "Invert": "反相",
+        "Title": "滤镜"
+      },
+      "GetDesktopApp": "获取桌面应用程序",
+      "GetDesktopBetaApp": "安装 Photoshop (Beta)",
+      "GetPwaApp": "获取浏览器应用程序",
+      "Image": {
+        "AutoColor": "自动颜色",
+        "AutoContrast": "自动对比度",
+        "AutoTone": "自动色调",
+        "Rotation": {
+          "FlipHorizontal": "水平翻转",
+          "FlipVertical": "垂直翻转",
+          "Rotate180": "旋转 180°",
+          "Rotate90ccw": "逆时针旋转 90°",
+          "Rotate90cw": "顺时针旋转 90°",
+          "Title": "图像旋转"
+        },
+        "Title": "图像"
+      },
+      "ImageSize": "图像大小...",
+      "Import": "导入...",
+      "ImportName": "导入",
+      "InvitePeople": "邀请人员...",
+      "Layer": {
+        "ClipThumbnailsToDocumentBounds": "将缩略图剪切到文档边界",
+        "ClipThumbnailsToLayerBounds": "将缩略图剪切到图层边界",
+        "Delete": {
+          "HiddenLayers": "隐藏图层",
+          "Layer": "图层",
+          "Title": "删除"
+        },
+        "DuplicateLayer": "复制图层",
+        "GroupLayers": "图层分组",
+        "Harmonize": "协调",
+        "New": {
+          "Group": "组",
+          "Layer": "图层",
+          "LayerViaCopy": "通过拷贝的图层",
+          "LayerViaCut": "通过剪切的图层",
+          "Title": "新建"
+        },
+        "NewAdjustmentLayer": {
+          "Title": "新建调整图层"
+        },
+        "NewLayerEffect": {
+          "Title": "新建图层效果"
+        },
+        "Title": "图层",
+        "UngroupLayers": "取消图层分组"
+      },
+      "New": "新建...",
+      "NewName": "新建",
+      "Open": "打开...",
+      "OpenInDesktop": "在桌面应用程序中打开",
+      "OpenInDesktopBeta": "在 Photoshop 中打开 (Beta)",
+      "OpenInIPad": {
+        "Fresco": "在 Fresco 中打开",
+        "Photoshop": "在 Photoshop 中打开"
+      },
+      "OpenName": "打开",
+      "Rename": "重命名...",
+      "Save": "保存",
+      "SaveAs": "存储为...",
+      "SaveAsName": "另存为",
+      "SaveInPhotoshop": "在 Photoshop 中保存...",
+      "SaveToCloud": "保存到云",
+      "Select": {
+        "All": "全部",
+        "Deselect": "取消选择",
+        "Grow": "扩大选取",
+        "Inverse": "反向",
+        "QuickMaskMode": "快速蒙版模式",
+        "RefineEdge": "调整边缘",
+        "Reselect": "重新选择",
+        "Similar": "类似",
+        "Subject": "主体",
+        "Title": "选择",
+        "TransformSelection": "变换选区"
+      },
+      "SendToLightroom": "发送至 Lightroom...",
+      "Settings": {
+        "Name": "设置",
+        "Title": "设置..."
+      },
+      "Title": "主菜单",
+      "View": {
+        "GuidesGridsRulerSettings": "参考线、网格、标尺设置...",
+        "Show": {
+          "ContextBar": "上下文栏",
+          "ContextualTaskBar": "上下文任务栏",
+          "Grid": "网格",
+          "Guides": "参考线",
+          "Rulers": "标尺",
+          "SelectionBar": "选区栏"
+        },
+        "Snap": {
+          "Title": "对齐"
+        },
+        "SnapTo": {
+          "All": "全部",
+          "DocumentBounds": "文档边界",
+          "Grid": "网格",
+          "Guides": "参考线",
+          "Layers": "图层",
+          "None": "无",
+          "Title": "对齐至"
+        },
+        "Title": "视图"
+      }
+    },
+    "PsTitle": "Photoshop",
+    "RequestAccessButton": {
+      "Text": "请求编辑访问权限",
+      "TextSent": "请求已发送"
+    },
+    "Search": {
+      "Title": "搜索工具和功能"
+    },
+    "UpgradeButton": {
+      "Tooltip": "升级以创建、导入和编辑您自己的图像，并可访问 Photoshop Web 版所有强大工具"
+    }
+  },
+  "NavBar": {
+    "RequestAccess": {
+      "Toast": {
+        "Description": "如果获得编辑访问权限，我们将向您发送电子邮件。",
+        "Header": "请求已发送"
+      }
+    }
+  },
+  "NewCommandDialog": {
+    "Title": {
+      "StartWithBlankFile": {
+        "RecentlyUsed": "最近使用"
+      }
+    }
+  },
+  "NewDocModal": {
+    "Category": {
+      "AllQuickActions": "所有快速操作",
+      "CustomSize": "自定大小",
+      "DocumentSizes": "文档大小",
+      "QuickStart": "快速入门"
+    },
+    "CustomSize": {
+      "Lockbutton": {
+        "ConstrainAspectRatio": "限制纵横比",
+        "DoNotConstrainAspectRatio": "不限制纵横比"
+      },
+      "Name": {
+        "Title": "文档名称"
+      },
+      "Preset": {
+        "Title": "预设"
+      },
+      "SavedPreset": {
+        "Title": "保存的预设"
+      },
+      "SavePreset": {
+        "Cancel": "取消",
+        "Error": {
+          "NameExists": "名称已存在",
+          "NotBlank": "名称不能为空"
+        },
+        "Name": "保存的预设名称",
+        "Save": "存储",
+        "SavedName": "保存的 {{index}}",
+        "Title": "保存预设"
+      },
+      "Title": "创建自定义空白文档"
+    },
+    "DocumentSizes": {
+      "Title": "创建空白文档"
+    },
+    "FromDevice": {
+      "CopyLink": "复制链接",
+      "CopyLinkToSend": "您还可以复制要发送到手机的链接",
+      "Instructions": "扫描二维码以从您的手机导入文件",
+      "Open": "打开",
+      "RestartImportFlowLink": "导入文件",
+      "RetryButton": "重试",
+      "Subtitle": "从手机导入",
+      "Title": "从手机创建文档",
+      "TransferError": "尝试从您的手机导入时出现问题。请重试。",
+      "UntitledDocument": "无标题文档",
+      "UploadedFileAlt": "您上传的文件"
+    },
+    "FromStock": {
+      "Error": "出现错误。请稍后重试。",
+      "Title": "从 Adobe Stock 添加"
+    },
+    "GenAICard": {
+      "OverlayButtonLabel": {
+        "ChooseImageToStart": "选择一张图像以开始",
+        "GenerateNow": "立即生成"
+      }
+    },
+    "Import": {
+      "Title": "导入"
+    },
+    "ImportCategory": {
+      "FromDevice": "从手机",
+      "FromFFGenerations": "Firefly 历史记录",
+      "FromStock": "Adobe Stock",
+      "GoogleDrive": "Google Drive",
+      "LightroomPhotos": "Lightroom Photos"
+    },
+    "QuickActions": {
+      "Title": "从快速操作创建"
+    },
+    "QuickActionsCard": {
+      "OverlayButtonLabel": "选择图像"
+    },
+    "QuickStart": {
+      "Dropzone": {
+        "Header": "上传图像"
+      },
+      "GenAICard": {
+        "GenerativeImage": {
+          "Subtitle": "根据详细的文本描述生成图像。",
+          "Title": "生成图像"
+        },
+        "GenExpand": {
+          "Subtitle": "使用文本提示扩展图像。",
+          "Title": "生成式扩展"
+        },
+        "GenFill": {
+          "Subtitle": "添加或移除带文本提示的对象。",
+          "Title": "生成式填充"
+        }
+      },
+      "GenAIHeading": "挖掘生成式 AI 的强大功能",
+      "InstantEdit": "即时编辑",
+      "Title": "从图像创建"
+    },
+    "Search": {
+      "Results": {
+        "CustomSize": "自定义大小",
+        "DocuSizes": "文档大小",
+        "GenerativeAI": "生成式  AI",
+        "Import": "导入",
+        "QuickActions": "快速操作"
+      }
+    },
+    "Tabs": {
+      "FilmAndVideo": "电影和视频",
+      "Screen": "Web 和移动设备",
+      "WebAndMobile": "Web 和移动设备"
+    }
+  },
+  "NewDocument": {
+    "Presets": {
+      "Type": {
+        "FilmAndVideo": "电影和视频",
+        "Print": "打印",
+        "Saved": "已保存",
+        "Screen": "Web 和移动设备",
+        "Social": "社交媒体"
+      }
+    }
+  },
+  "NewDocumentDialog": {
+    "BackgroundContents": {
+      "Black": "黑色",
+      "Custom": "自定义",
+      "Select": "选择背景内容",
+      "SelectColor": "选择颜色",
+      "Title": "背景内容",
+      "Transparent": "透明",
+      "White": "白色"
+    },
+    "Button": {
+      "Create": "创建"
+    },
+    "ColorMode": {
+      "RGB8bit": "RGB 8 位",
+      "Title": "颜色模式",
+      "Tooltip": {
+        "Comingsoon": "颜色模式即将推出！"
+      }
+    },
+    "Filename": {
+      "Title": "未命名-1"
+    },
+    "Height": "高度",
+    "Orientation": {
+      "Landscape": "横向",
+      "Portrait": "纵向",
+      "Title": "取向"
+    },
+    "Presets": {
+      "Name": {
+        "1000_pixel_grid": "1000 像素网格",
+        "1080p": "1080p",
+        "2000_pixel_grid": "2000 像素网格",
+        "2L_Landscape": "2L 横向",
+        "2L_Portrait": "2L 纵向",
+        "720p": "720p",
+        "A3": "A3",
+        "A4": "A4",
+        "A5": "A5",
+        "A6": "A6",
+        "Android_1080p": "Android 1080p",
+        "Apple_Watch_38mm": "Apple Watch 38mm",
+        "Apple_Watch_40mm": "Apple Watch 40mm",
+        "Apple_Watch_41mm": "Apple Watch 41mm",
+        "Apple_Watch_42mm": "Apple Watch 42mm",
+        "Apple_Watch_44mm": "Apple Watch 44mm",
+        "Apple_Watch_45mm": "Apple Watch 45mm",
+        "B3": "B3",
+        "B3_(JIS)": "B3 (JIS)",
+        "B4": "B4",
+        "B4_(JIS)": "B4 (JIS)",
+        "B5": "B5",
+        "B5_(JIS)": "B5 (JIS)",
+        "C4": "C4",
+        "C5": "C5",
+        "C6": "C6",
+        "Cineon_Full": "Cineon 全量",
+        "Cineon_Half": "Cineon 半量",
+        "Custom": "自定义",
+        "DCI_2K_1080p": "DCI 2K 1080p",
+        "DCI_4K_2160p": "DCI 4K 2160p",
+        "DCI_8K_4320p": "DCI 8K 4320p",
+        "DefaultPhotoshopDesktopSize": "默认 Photoshop 桌面大小",
+        "Desktop_HD_Design": "台式机高清设计",
+        "DL": "DL",
+        "DVCPRO_HD_1080p": "DVCPRO HD 1080p",
+        "DVCPRO_HD_720p": "DVCPRO HD 720p",
+        "Facebook_Cover": "Facebook 封面",
+        "Facebook_Post": "Facebook 帖子",
+        "Facebook_story": "Facebook 故事",
+        "Film_(2K)": "胶片 (2K)",
+        "Film_(4K)": "胶片 (4K)",
+        "Film_(8K)": "胶片 (8K)",
+        "Four_Cut_Landscape": "四剪横向",
+        "Four_Cut_Portrait": "四剪纵向",
+        "FUHDTV/8K_4320p": "FUHDTV/8K 4320p",
+        "Google_Pixel_7/6_Pro": "Google Pixel 7/6 Pro",
+        "HDTV_1080p": "HDTV 1080p",
+        "HDV_1080p": "HDV 1080p",
+        "HDV/HDTV_720p": "HDV/HDTV 720p",
+        "iMac_27": "iMac 27",
+        "Instagram_Post_Square": "Instagram 帖子，方形",
+        "Instagram_post,_Landscape": "Instagram 帖子，横向",
+        "Instagram_post,_Portrait": "Instagram 帖子，纵向",
+        "Instagram_Reel": "Instagram reel",
+        "Instagram_Story": "Instagram 故事",
+        "iOS_Settings": "iOS 设置",
+        "iOS_Spotlight": "iOS Spotlight",
+        "iPad_10-2_in": "iPad 10.2 英寸",
+        "iPad_9-7_in": "iPad 9.7 英寸",
+        "iPad_Air_10-5_in": "iPad Air 10.5 英寸",
+        "iPad_App_Icon": "iPad 应用程序图标",
+        "iPad_Mini": "iPad Mini",
+        "iPad_Mini_7-9_in": "iPad Mini 7.9 英寸",
+        "iPad_Pro_10-5_in": "iPad Pro 10.5 英寸",
+        "iPad_Pro_11_in": "iPad Pro 11 英寸",
+        "iPad_Pro_12-9_in": "iPad Pro 12.9 英寸",
+        "iPhone_11": "iPhone 11",
+        "iPhone_11_Pro": "iPhone 11 Pro",
+        "iPhone_11_Pro_Max": "iPhone 11 Pro Max",
+        "iPhone_13_mini": "iPhone 13 mini",
+        "iPhone_13/12_Pro": "iPhone 13/12 Pro",
+        "iPhone_13/12_Pro_Max": "iPhone 13/12 Pro Max",
+        "iPhone_14_Plus": "iPhone 14 Plus",
+        "iPhone_14/13/12": "iPhone 14/13/12",
+        "iPhone_15": "iPhone 15",
+        "iPhone_15_Plus": "iPhone 15 Plus",
+        "iPhone_15/14_Pro": "iPhone 15/14 Pro",
+        "iPhone_15/14_Pro_Max": "iPhone 15/14 Pro Max",
+        "iPhone_5": "iPhone 5",
+        "iPhone_8/7/6": "iPhone 8/7/6",
+        "iPhone_8/7/6_Plus": "iPhone 8/7/6 Plus",
+        "iPhone_App_icon": "iPhone 应用程序图标",
+        "iPhone_X/XS": "iPhone X/XS",
+        "iPhone_XR": "iPhone XR",
+        "iPhone_XS_Max": "iPhone XS Max",
+        "L_Landscape": "L 横向",
+        "L_Portrait": "L 纵向",
+        "Landscape,_10_x_8": "横向，10 x 8",
+        "Landscape,_3_x_2": "横向，3 x 2",
+        "Landscape,_6_x_4": "横向，6 x 4",
+        "Landscape,_7_x_5": "横向，7 x 5",
+        "Legal": "法律文件用纸 (Legal)",
+        "Letter": "美国信纸 (Letter)",
+        "Mac_Icon_128": "Mac 图标 128",
+        "Mac_Icon_16": "Mac 图标 16",
+        "Mac_Icon_256": "Mac 图标 256",
+        "Mac_Icon_32": "Mac 图标 32",
+        "Mac_Icon_48": "Mac 图标 48",
+        "Mac_Icon_512": "Mac 图标 512",
+        "MacBook_Pro_13": "MacBook Pro 13",
+        "MacBook_Pro_15": "MacBook Pro 15",
+        "Mobile_Design": "手机设计",
+        "NTSC_D1": "NTSC D1",
+        "NTSC_D1_Sq-_Pixel": "NTSC D1 方形像素",
+        "NTSC_D1_Wide_Sq-_Pixel": "NTSC D1 宽方形像素",
+        "NTSC_D1_Widescreen": "NTSC D1 宽银幕",
+        "NTSC_DV": "NTSC DV",
+        "NTSC_DV_Widescreen": "NTSC DV 宽银幕",
+        "PAL_D1/DV": "PAL D1/DV",
+        "PAL_D1/DV_Sq-_Pixel": "PAL D1/DV 方形像素",
+        "PAL_D1/DV_Wide_Sq-_Pixel": "PAL D1/DV 宽方形像素",
+        "PAL_D1/DV_Widescreen": "PAL D1/DV 宽银幕",
+        "Portrait,_2_x_3": "纵向，2 x 3",
+        "Portrait,_4_x_6": "纵向，4 x 6",
+        "Portrait,_5_x_7": "纵向，5 x 7",
+        "Portrait,_8_x_10": "纵向，8 x 10",
+        "Postcard": "明信片",
+        "Postcard_(JIS)": "明信片 (JIS)",
+        "Poster": "海报",
+        "PSWDefault": "默认值",
+        "Six_Cut_Landscape": "六剪横向",
+        "Six_Cut_Portrait": "六剪纵向",
+        "Square": "方形",
+        "Surface_Pro_3": "Surface Pro 3",
+        "Surface_Pro_4": "Surface Pro 4",
+        "Surface_Pro_7+/7/6": "Surface Pro 7+/7/6",
+        "Surface_Pro_X/9/8": "Surface Pro X/9/8",
+        "Tabloid": "小报用纸 (Tabloid)",
+        "TikTok_video": "TikTok 视频",
+        "Twitter_Post": "Twitter 帖子",
+        "UHDTV/4K_2160p": "UHDTV/4K 2160p",
+        "Web_Large": "网页（大）",
+        "Web_Medium": "Web（中）",
+        "Web_Minimum": "Web（最小尺寸）",
+        "Web_Most_Common": "Web（最常用尺寸）",
+        "Web_Small": "Web（小）",
+        "X_Twitter_header": "X (Twitter) 标题",
+        "X_Twitter_post": "X (Twitter) 帖子",
+        "YouTube_Banner": "YouTube 横幅",
+        "YouTube_Thumbnail": "YouTube 缩略图"
+      }
+    },
+    "Resolution": "分辨率",
+    "ResolutionUnit": {
+      "ppcm": "ppcm",
+      "ppi": "ppi",
+      "Select": "选择分辨率单位"
+    },
+    "Tabs": {
+      "MostCommon": "最常用",
+      "Print": "打印",
+      "Recent": "最近",
+      "Saved": "已保存",
+      "Social": "社交媒体"
+    },
+    "Units": {
+      "Centimeters": {
+        "Title": "厘米",
+        "Unit": "厘米"
+      },
+      "Inches": {
+        "Title": "英寸",
+        "Unit": "英寸"
+      },
+      "Millimeters": {
+        "Title": "毫米",
+        "Unit": "毫米"
+      },
+      "Picas": {
+        "Title": "派卡",
+        "Unit": "pc"
+      },
+      "Pixels": {
+        "Title": "像素",
+        "Unit": "像素"
+      },
+      "Points": {
+        "Title": "点",
+        "Unit": "点"
+      },
+      "Select": "为新文档选择一个单位",
+      "Title": "单位"
+    },
+    "Width": "宽度"
+  },
+  "NewDocumentPreset": {
+    "NoSavedPresets": {
+      "Description": "创建并保存自定义预设后，它将显示在此处",
+      "Title": "没有保存的预设"
+    },
+    "OverlayButton": {
+      "CreateDocument": "创建文档",
+      "Delete": "删除"
+    }
+  },
+  "Notification": {
+    "Card": {
+      "Close": "关闭",
+      "TryItNow": "快来试试吧",
+      "XofY": "{{index}}，共 {{total}}"
+    }
+  },
+  "NullActions": {
+    "EditBackground": {
+      "GenerateBackground": "生成背景",
+      "GenerateBackgroundBeta": "生成背景 (Beta)",
+      "GenerateBgTooltip": "编写描述您首选背景的详细提示",
+      "Harmonize": "协调",
+      "ImportBackground": "导入背景",
+      "SolidColor": "纯色",
+      "SolidColorTooltip": "用颜色填充背景",
+      "Title": "编辑背景"
+    },
+    "ImportImage": "导入图像",
+    "Mask": {
+      "AddToMask": "添加到蒙版",
+      "DisableMask": "禁用蒙版",
+      "EnableMask": "启用蒙版",
+      "InvertMask": "反相蒙版",
+      "RefineMask": "调整蒙版",
+      "ResetMask": "重置蒙版",
+      "SubtractFromMask": "从蒙版中去除",
+      "ViewMask": "查看蒙版"
+    },
+    "RemoveBackground": "移除背景",
+    "SelectSubject": "选择主体"
+  },
+  "OBE": {
+    "Toast": {
+      "MetaCafFailure": "无法填充。请重新选择，然后重试。"
+    }
+  },
+  "OBEOnboarding": {
+    "AdjustObject": {
+      "Description": "使用对象选择工具来选择图像中的任何对象，然后调整颜色、光线等。",
+      "Title": "对您的对象进行调整"
+    },
+    "RemoveObject": {
+      "Description": "使用改进的对象选择工具，您可以快速轻松地移除对象。",
+      "ImportPage": {
+        "CTA": "开始使用"
+      },
+      "Title": "轻松地选择和移除对象"
+    }
+  },
+  "OnboardingNudge": {
+    "AddImage": {
+      "Content": "选择图像以开始使用。"
+    },
+    "DoAction": {
+      "Content": "选择要应用于选区的操作。"
+    },
+    "DocumentPage": {
+      "ImportImage": {
+        "Content": "导入图像以开始学习本教程。"
+      },
+      "TryLCE": {
+        "Content": "导入图像以开始使用实时共同编辑。"
+      }
+    },
+    "GenerateImage": {
+      "Content": "通过详细的描述生成图像。"
+    },
+    "ImportImage": {
+      "Content": "导入图像以开始。"
+    },
+    "SelectAction": {
+      "Content": "建立选区以开始编辑图像。"
+    },
+    "WatchAVideoButton": {
+      "Label": "观看视频"
+    }
+  },
+  "OrgAccessRequest": {
+    "Toast": {
+      "FAILED": "访问请求失败"
+    }
+  },
+  "PagedModal": {
+    "BackButton": {
+      "Label": "背面"
+    }
+  },
+  "PanZoomController": {
+    "ZoomIn": "放大",
+    "ZoomOut": "缩小"
+  },
+  "PaywallCard": {
+    "AdobeFonts": {
+      "Heading": "Adobe 字体",
+      "SubHeading": "访问 20,000 多种字体或导入您自己的字体，以获得无限的排版选项。"
+    },
+    "CloneStamp": {
+      "Heading": "仿制图章",
+      "SubHeading": "可以隐藏不需要的图像，只需使用笔刷等工具克隆图像的具有背景纹理的其他区域即可。"
+    },
+    "ContentAwareFill": {
+      "Heading": "内容识别填充",
+      "SubHeading": "用从图像的其他部分采样的内容无缝地填充图像的选定部分。"
+    },
+    "GenerateImage": {
+      "Heading": "生成图像",
+      "SubHeading": "构思和创建新资源。在几分钟内快速浏览数十个想法，并将多个图像组合成新的内容。每月 100 个生成式积分。"
+    },
+    "GenerativeExpand": {
+      "Heading": "生成式扩展",
+      "SubHeading": "使用裁剪工具展开画布并调整图像大小，以使用无缝混合的新内容填充空白区域。每月 100 个生成式积分。"
+    },
+    "GenerativeFill": {
+      "Heading": "生成式填充",
+      "SubHeading": "使用简单的文本提示来添加或移除内容，以获得惊人的效果。每月 100 个生成式积分。"
+    },
+    "LightenDarken": {
+      "Heading": "变亮和变暗",
+      "SubHeading": "在不影响色相或饱和度的情况下，使图像的区域变亮或变暗。在一个区域上画的笔触越多，它就会变得越亮或越暗。"
+    },
+    "MagicWand": {
+      "Heading": "魔棒",
+      "SubHeading": "快速轻松地隔离图像的对象或区域，并使用有针对性的编辑工具对图像进行调整。"
+    },
+    "ObjectSelect": {
+      "Heading": "对象选择",
+      "SubHeading": "以更高的精度快速选择人和对象（如宠物、汽车等）。只需在对象周围描画一圈即可选择对象。"
+    },
+    "PhotoshopiPhone": {
+      "Heading": "iPhone 版 Photoshop",
+      "SubHeading": "使用终极图像编辑应用程序解锁更多创意功能 - 现在可在 iPhone 上使用。"
+    },
+    "RemoveTool": {
+      "Heading": "移除工具",
+      "SubHeading": "只需使用笔刷轻轻扫过整个对象，即可轻松将其移除，并自动填充背景。"
+    },
+    "SpotHeal": {
+      "Heading": "污点修复",
+      "SubHeading": "快速轻松地移除图像中不需要的斑点、标记或小对象。"
+    }
+  },
+  "PaywallDialog": {
+    "AlreadyHaveAccount": "已有帐户？",
+    "Button": {
+      "SignIn": "登录",
+      "StartFreeTrial": "开始免费试用",
+      "SwitchAccount": "切换帐户",
+      "ViewAllPlans": "查看所有计划"
+    },
+    "Heading": "使用 Photoshop Web 最大程度地发挥您的创造力",
+    "SubHeading": "解锁 Photoshop 强大的创意功能：",
+    "UseAnotherAccount": "使用其他帐户？"
+  },
+  "PostUpsell": {
+    "Dialog": {
+      "CreateGenAI": {
+        "Content": "使用简单的文本提示创建、添加、移除或替换图像",
+        "CTA": "开始生成",
+        "Title": "使用生成式 AI 进行创作"
+      },
+      "Edit": {
+        "Title": "编辑您自己的图像"
+      },
+      "EditYourOwnImages": {
+        "Content": "修饰、合并、增强等以获得您想要的外观",
+        "CTA": "导入图像",
+        "Title": "编辑您自己的图像"
+      },
+      "Learn": {
+        "Content": "通过我们的分步教程了解 Photoshop",
+        "CTA": "继续学习",
+        "Title": "了解更多关于 Photoshop 的信息"
+      },
+      "MaybeLater": "以后再说",
+      "WelcomeToPhotoshop": "欢迎使用 Photoshop！"
+    }
+  },
+  "ProgressCircle": {
+    "Label": "进度"
+  },
+  "ProgressDialog": {
+    "Cancel": "取消",
+    "Tip": "提示"
+  },
+  "PropertiesLayerFxPanel": {
+    "Title": "效果"
+  },
+  "PropertiesPanel": {
+    "EnterLayerName": "输入图层名称",
+    "Message": {
+      "RenameNotPossible": "无法重命名该图层"
+    },
+    "MultipleLayers": "多个",
+    "NoLayer": "无",
+    "Title": "属性"
+  },
+  "QuickAction": {
+    "Toast": {
+      "QuickActionApplied": "应用了快速操作"
+    }
+  },
+  "QuickActions": {
+    "Auto": {
+      "AutoColor": {
+        "Title": "自动颜色"
+      },
+      "AutoContrast": {
+        "Title": "自动对比度"
+      },
+      "AutoTone": {
+        "Title": "自动色调"
+      }
+    },
+    "Background": {
+      "BlurBackground": {
+        "Title": "模糊背景"
+      },
+      "MakeBWBackground": {
+        "Title": "黑白背景"
+      },
+      "RemoveBackground": {
+        "RenamePreviousLayer": "原始图层",
+        "Title": "移除背景"
+      }
+    },
+    "Category": {
+      "Auto": {
+        "Title": "自动"
+      },
+      "Background": {
+        "Title": "背景"
+      },
+      "Effects": {
+        "Title": "效果"
+      },
+      "Film": {
+        "Title": "胶片"
+      },
+      "Lighting": {
+        "Title": "光照"
+      },
+      "Subject": {
+        "Title": "主体"
+      }
+    },
+    "Effects": {
+      "Alias": {
+        "Title": "锯齿"
+      },
+      "DuotoneBlue": {
+        "Title": "双色调 — 蓝色"
+      },
+      "EdgyPortrait": {
+        "Title": "鲜明肖像"
+      },
+      "LateSunset": {
+        "Title": "晚霞"
+      },
+      "Pastel": {
+        "Title": "柔和"
+      },
+      "Posterize": {
+        "Title": "色调分离"
+      },
+      "SteelBlue": {
+        "Title": "钢青色"
+      },
+      "Sunburst": {
+        "Title": "旭日色"
+      }
+    },
+    "Film": {
+      "ColorNegative": {
+        "Title": "彩色负片"
+      },
+      "CoolFilter": {
+        "Title": "冷色滤镜"
+      },
+      "FilmGrain": {
+        "Title": "胶片颗粒"
+      },
+      "Sepia": {
+        "Title": "深褐"
+      },
+      "Sharpen": {
+        "Title": "锐化"
+      },
+      "Vintage": {
+        "Title": "老式"
+      },
+      "WarmFilter": {
+        "Title": "暖色滤镜"
+      }
+    },
+    "Lighting": {
+      "BoostShadows": {
+        "Title": "调高阴影"
+      },
+      "Darken": {
+        "Title": "变暗"
+      },
+      "Lighten": {
+        "Title": "变亮"
+      },
+      "MediumConstrast": {
+        "Title": "中对比度"
+      },
+      "Vignette": {
+        "Title": "晕影"
+      }
+    },
+    "Subject": {
+      "BWSubject": {
+        "Title": "黑白主体"
+      },
+      "GlowSubject": {
+        "Title": "发光主体"
+      },
+      "PopSubject": {
+        "Title": "热门主题"
+      },
+      "StickerSubject": {
+        "Title": "贴纸主题"
+      }
+    }
+  },
+  "QuickActionsHelp": {
+    "Tooltip": {
+      "OpacityInput": "使用<b>不透明度</b>输入随时更改强弱度"
+    }
+  },
+  "QuickActionsPanel": {
+    "NotAvailableForEmptyLayer": "不可用于空图层",
+    "NotAvailableForMultiSelection": "不适用于多个选定图层",
+    "NotAvailableForSelectedLayer": "不适用于您选择的图层类型",
+    "ToggleLayerVisibilityOn": "切换图层可见性以应用<b>快速操作</b>"
+  },
+  "QuickActionsPanelCard": {
+    "Actions": {
+      "Amount": "程度",
+      "ApplyAgain": "再次应用",
+      "Revert": "恢复"
+    },
+    "Image": {
+      "AltPrefix": "预览图像"
+    },
+    "Settings": {
+      "Amount": "数量"
+    }
+  },
+  "QuickMaskMode": {
+    "Banner": {
+      "Button": {
+        "Title": "退出快速蒙版"
+      },
+      "Text": "以快速蒙版模式编辑。按 Q 退出并应用蒙版作为选区。"
+    }
+  },
+  "RateExperienceDialog": {
+    "Headline": "请针对每个类别评价此实时共同编辑会话体验：",
+    "Question": {
+      "1": "1. 与创意同事合作时，实时共同编辑可帮助我提高效率",
+      "2": "2. 总体而言，我对自己的实时共同编辑体验很满意",
+      "3": "3. 创建实时共同编辑文档或与他人共享实时共同编辑文档极其简单",
+      "4": "4. 打开或访问实时共同编辑文档非常简单",
+      "5": "5. 使用实时共同编辑时，Photoshop 的处理速度和响应速度都很快",
+      "6": "6. 如果现在可以在 Photoshop 中使用实时共同编辑功能，我会以其当前状态再次使用它"
+    },
+    "Rate": {
+      "Agree": "同意",
+      "Disagree": "不同意",
+      "Neutral": "非彩色",
+      "NotApplicable": "不适用",
+      "StronglyAgree": "完全同意",
+      "StronglyDisagree": "完全不同意"
+    }
+  },
+  "RecaptchaDialog": {
+    "Button": {
+      "Continue": "继续",
+      "SignIn": "使用 Adobe ID 登录"
+    },
+    "ErrorToast": {
+      "Setup": "reCaptcha 服务当前不可用。请重试或登录。",
+      "Verification": "验证错误。请重试或登录。"
+    },
+    "Text": {
+      "Alternative": "以访客身份继续"
+    },
+    "Textfield": {
+      "Label": "您的姓名",
+      "Placeholder": "John Doe、Jane Doe 等"
+    },
+    "Title": "做出评论"
+  },
+  "Recents": {
+    "AllFiles": {
+      "Label": "查看全部的文件"
+    },
+    "Error": "无法加载最近的文件。请检查您的互联网连接或刷新页面。",
+    "Loading": "正在加载最近的文件...",
+    "MoreFiles": {
+      "Label": "查看文件中的更多内容"
+    }
+  },
+  "RefineEdgePanel": {
+    "EdgeDetection": {
+      "Radius": {
+        "Label": "半径"
+      },
+      "SmartRadius": {
+        "Label": "智能半径"
+      },
+      "Title": "边缘检测"
+    },
+    "GlobalRefinements": {
+      "Contrast": {
+        "Label": "对比度"
+      },
+      "Feather": {
+        "Label": "羽化"
+      },
+      "ShiftEdge": {
+        "Label": "移动边缘"
+      },
+      "Smooth": {
+        "Label": "平滑"
+      },
+      "Title": "全局调整"
+    },
+    "Output": {
+      "DecontaminateColors": {
+        "Label": "净化颜色"
+      },
+      "DecontaminateColorsAmount": {
+        "Label": "数量"
+      },
+      "OutputAs": {
+        "Label": "输出为",
+        "LayerMask": "图层蒙版",
+        "NewLayer": "新建图层",
+        "NewLayerWithMask": "带有蒙版的新图层",
+        "Selection": "选区"
+      },
+      "Title": "输出"
+    },
+    "Title": "属性",
+    "ViewMode": {
+      "BlackAndWhite": "黑白",
+      "Label": "视图模式",
+      "MarchingAnts": "闪烁虚线",
+      "OnBlack": "黑底",
+      "OnWhite": "白底",
+      "Overlay": "叠加",
+      "Title": "视图模式"
+    }
+  },
+  "RenameDocument": {
+    "Button": {
+      "Cancel": "取消",
+      "Rename": "重命名"
+    },
+    "Empty": {
+      "Name": {
+        "Message": "抱歉，名称不能为空。"
+      }
+    },
+    "Invalid": {
+      "Name": {
+        "Message": "抱歉，此名称包含无效字符。"
+      }
+    },
+    "Label": {
+      "Filename": "文件名"
+    },
+    "Restricted": {
+      "Name": {
+        "Message": "抱歉，此名称受到限制。"
+      }
+    },
+    "Title": "重命名文档",
+    "Too": {
+      "Long": {
+        "Name": {
+          "Message": "抱歉，此名称过长。"
+        }
+      }
+    }
+  },
+  "RenamePreset": {
+    "Button": {
+      "Cancel": "取消",
+      "Rename": "重命名"
+    },
+    "Title": "重命名选定预设"
+  },
+  "ReplaceLayerMask": {
+    "Cancel": "取消",
+    "ConfirmLabel": "替换",
+    "Message": "目标图层已经有一个图层蒙版。是否要替换它？",
+    "Title": "替换图层蒙版"
+  },
+  "ReportAbuse": {
+    "Dialog": {
+      "Cancel": "取消",
+      "CopyrightViolationPart1": "要举报版权侵权行为，请遵循 DMCA 部分",
+      "CopyrightViolationPart2": "",
+      "Defamation": "诽谤",
+      "DescribeConcernPlaceholder": "描述问题",
+      "DescriptionOfConcern": "请提供您问题的描述",
+      "email": "您的电子邮件*",
+      "EmailPlaceholder": "输入您的电子邮件",
+      "MainMessagePart1": "如果您认为此内容违反了 Adobe",
+      "MainMessagePart2": "，您可以通过填写此快速表单来报告此内容。",
+      "name": "您的姓名*",
+      "NamePlaceholder": "输入您的姓名",
+      "OffensiveContent": "侮辱性内容",
+      "Other": "其他",
+      "RacistOrHate": "种族歧视或煽动性内容",
+      "ReportAbuse": "举报滥用",
+      "Required": "必填",
+      "SexuallyExplicit": "色情内容",
+      "TermsOfUse": "使用条款",
+      "Title": "举报滥用",
+      "Trademark": "商标侵权",
+      "whyReporting": "为什么要报告此内容？*"
+    }
+  },
+  "ReportAbuseDialog": {
+    "Cancel": "取消",
+    "ContentOption": {
+      "Defamation": "诽谤",
+      "Hate": "种族歧视或仇恨内容",
+      "Offensive": "冒犯性内容",
+      "Other": "其他",
+      "Pornography": "色情内容",
+      "Trademark": "商标侵权"
+    },
+    "Copyright": {
+      "Label": "要举报版权侵权行为，请遵循 DMCA 部分"
+    },
+    "EmailField": {
+      "Label": "您的电子邮件",
+      "Placeholder": "输入您的电子邮件"
+    },
+    "MainMessagePart1": "如果您认为此内容违反了 Adobe",
+    "MainMessagePart2": "，您可以通过填写此快速表单来报告此内容。",
+    "NameField": {
+      "Label": "您的姓名",
+      "Placeholder": "输入您的姓名"
+    },
+    "ReportDescription": {
+      "Label": "请提供您问题的描述",
+      "Placeholder": "描述问题"
+    },
+    "Required": "必需的",
+    "TermsOfUse": "使用条款",
+    "Title": "举报滥用",
+    "Toast": {
+      "Error3210": "电子邮件地址无效。",
+      "Error500": "服务不可用，请重试。",
+      "GeneralError": "报告无效。",
+      "Success": "已成功提交报告"
+    },
+    "WhyReport": {
+      "Label": "为什么要报告此内容？"
+    }
+  },
+  "RequestAccess": {
+    "AccessRequestDialog": {
+      "Confirm": "确定",
+      "Headline": "已发送访问请求",
+      "Text": "如果获得编辑访问权限，我们将向您发送电子邮件。"
+    },
+    "Notifcation": "您的访问请求已发送。"
+  },
+  "Resolution": {
+    "ppcmShort": "ppcm",
+    "ppiShort": "ppi"
+  },
+  "Richtooltips": {
+    "ACRFilter": {
+      "Content": "使用亮度和颜色工具编辑图层。"
+    },
+    "BlackWhite": {
+      "Content": "使用调整图层使图像变为黑白。",
+      "Heading": "黑白"
+    },
+    "BrightnessContrast": {
+      "Content": "使用调整图层轻松调亮或调暗图像。",
+      "Heading": "亮度/对比度"
+    },
+    "Caf": {
+      "Content": "通过选择您要移除的对象周围的像素，轻松移除图像中不需要的对象。",
+      "Heading": "内容识别填充"
+    },
+    "CameraRaw": {
+      "filter": {
+        "Heading": "亮度和颜色 (Adobe Camera Raw)"
+      }
+    },
+    "ColorBalance": {
+      "Content": "使用调整图层实现正确的颜色平衡。",
+      "Heading": "色彩平衡"
+    },
+    "Curves": {
+      "Content": "使用调整图层更改图像中的亮度、对比度和颜色值。",
+      "Heading": "曲线"
+    },
+    "Exposure": {
+      "Content": "使用调整图层调整高光、阴影和中间色调。",
+      "Heading": "曝光"
+    },
+    "GaussianBlur": {
+      "Content": "向图层添加模糊滤镜。",
+      "Heading": "高斯模糊"
+    },
+    "HueSaturation": {
+      "Content": "使用调整图层使所有颜色或仅特定颜色更鲜艳、柔和、更暗或更亮。",
+      "Heading": "色相/饱和度"
+    },
+    "Invert": {
+      "Content": "切换黑白区域，允许您创建照片的负片效果或图像的颜色反转版本。",
+      "Heading": "反相"
+    },
+    "Levels": {
+      "Content": "使用调整图层校正图像中的色调范围和色彩平衡。",
+      "Heading": "色阶"
+    },
+    "RemoveBackground": {
+      "Content": "轻松删除图像中的背景。",
+      "Heading": "移除背景"
+    },
+    "SelectSubject": {
+      "Content": "轻松快速地选择图像的主题。",
+      "Heading": "选择主体"
+    },
+    "Vibrance": {
+      "Content": "使用调整图层提升图像中较暗的颜色。",
+      "Heading": "自然饱和度"
+    }
+  },
+  "ScrollCarousel": {
+    "Next": "下一个",
+    "Previous": "上一个"
+  },
+  "Search": {
+    "Keywords": {
+      "GenAI": "生成式 AI",
+      "Import": "导入",
+      "lr": "lr",
+      "qr": "qr"
+    },
+    "Label": "搜索",
+    "NoResults": {
+      "Description": "检查拼写或尝试扩大搜索范围",
+      "Title": "没有结果"
+    }
+  },
+  "Selection": {
+    "Intersect": {
+      "Title": "与选区交叉",
+      "Tooltip": {
+        "MacOS": "按住 Shift + Option 键进行交叉",
+        "Win": "按住 Shift + Alt 键进行交叉"
+      }
+    },
+    "NewSelection": {
+      "Title": "新选区"
+    },
+    "SelectLess": {
+      "Title": "选择更少",
+      "Tooltip": {
+        "Alt": "按住 Alt 键以选择更少",
+        "Default": "选择更少",
+        "Option": "按住 Option 键以选择更少"
+      }
+    },
+    "SelectMore": {
+      "Title": "选择更多",
+      "Tooltip": {
+        "Default": "选择更多",
+        "Shift": "按住 Shift 键以选择更多"
+      }
+    }
+  },
+  "SemiModal": {
+    "Crop": {
+      "Cancel": "取消",
+      "Dialog": {
+        "RequestAccess": "此功能已被您的管理员关闭。是否要请求访问？"
+      },
+      "Done": "完成",
+      "GenerativeExpand": {
+        "IfLeaveThisBlank": "如果将此项留空，我们将根据周围环境填充选区",
+        "Placeholder": "您想要生成什么内容？（可选）",
+        "Title": "生成式扩展",
+        "ToolTip": "展开包含或不包含文本提示的图像"
+      },
+      "Toast": {
+        "TurnedOff": "此功能已关闭。有关详细信息，请与您的管理员联系。"
+      }
+    },
+    "RemoveTool": {
+      "Cancel": "取消",
+      "Remove": "移除"
+    }
+  },
+  "Service": {
+    "Error": {
+      "BadGateway": "服务不可用",
+      "BadRequest": "无效请求",
+      "Forbidden": "禁止访问",
+      "InternalServerError": "内部服务器错误",
+      "NotFound": "未找到",
+      "NotImplemented": "功能尚未实施",
+      "ServiceUnavailable": "服务不可用",
+      "TooManyRequests": "服务正忙",
+      "Unauthorized": "未授权",
+      "Unknown": "出现未知错误"
+    }
+  },
+  "SettingsDialog": {
+    "About": {
+      "Contributors": {
+        "AdobeManagement": "Adobe 管理",
+        "CommunityManagement": "社区管理",
+        "DesignManagement": "设计管理",
+        "EngineeringContributors": "工程参与者",
+        "HelpSearchAndDiscover": "帮助（“发现”面板）和搜索",
+        "SpecialThanks": {
+          "Content": "特别感谢 Photoshop 生态系统团队、Adobe 各技术和设计团队、我们出色的预发布测试人员提供的宝贵反馈，还要感谢您 — 我们的客户！",
+          "Title": "特别鸣谢"
+        },
+        "Title": "参与者",
+        "WebDesign": "Web 设计",
+        "WebEngineering": "Web 工程",
+        "WebEngineeringManagement": "Web 工程管理",
+        "WebInternationalization": "Web 国际化",
+        "WebMarketingManagement": "Web 营销管理",
+        "WebProductManagement": "Web 产品管理",
+        "WebProgramManagement": "Web 程序管理",
+        "WebQualityEngineering": "Web 质量工程",
+        "WebResearch": "Web 研究"
+      },
+      "Description": "一流的编辑和设计工具，可创建、修改、优化图像并将图像合成到您喜欢的内容中。可直接从您的浏览器使用。",
+      "Title": "关于 Photoshop"
+    },
+    "Account": {
+      "ManageAccount": "管理帐户",
+      "SignOut": "注销"
+    },
+    "Category": {
+      "About": "关于",
+      "Account": "帐户",
+      "Debug": "调试",
+      "Features": "功能",
+      "General": "常规",
+      "GridsGuidesAndRulers": "参考线、网格和标尺",
+      "Help": "帮助",
+      "Label": "类别",
+      "TechnologyPreviews": "技术预览"
+    },
+    "General": {
+      "Interface": {
+        "ColorTheme": "颜色主题",
+        "Dark": "黑暗",
+        "DownloadModels": "下载模型",
+        "Language": "语言",
+        "LayerSize": "图层大小",
+        "Light": "光线",
+        "Reset": "将页面重置为默认大小",
+        "ShowLabels": "显示标签",
+        "Title": "界面",
+        "Toolbar": "工具栏",
+        "UseSystemSetting": "使用系统设置"
+      },
+      "Messaging": {
+        "Reset": "重置消息传递和对话框",
+        "ResetDone": "已重置所有对话框和提示。"
+      },
+      "Models": {
+        "Description": "模型是某些工具运行所需添加的资源。",
+        "ObjectSelection": {
+          "Cancel": "取消",
+          "Delete": "删除",
+          "Download": "下载",
+          "Downloading": "正在下载..."
+        }
+      },
+      "Toast": {
+        "MLModels": {
+          "DeleteComplete": "已删除模型",
+          "DeleteError": "删除 ML 模型数据时出现问题。请重试。",
+          "DownloadComplete": "已下载模型",
+          "DownloadError": "下载 ML 模型数据时出现问题。请重试。"
+        }
+      }
+    },
+    "GridsGuidesAndRulers": {
+      "Color": "颜色",
+      "Grid": {
+        "Title": "网格"
+      },
+      "GridSpacing": "间距",
+      "GridSubdivisions": "次分隔线",
+      "Guides": {
+        "Title": "参考线"
+      },
+      "Rulers": {
+        "Title": "标尺"
+      },
+      "RulerUnits": "单位",
+      "SmartGuides": {
+        "Title": "智能参考线"
+      }
+    },
+    "Help": {
+      "BugReport": {
+        "Title": "反馈"
+      },
+      "Discord": "Discord",
+      "EnableHelpContent": {
+        "ContextualHelpTips": "上下文帮助提示",
+        "HelpMode": "帮助模式",
+        "Title": "启用帮助内容",
+        "Tooltip": "通过开启或关闭帮助模式来显示或隐藏所有提示和视频",
+        "ToolVideos": "工具视频",
+        "WorkflowVideos": "工作流程视频"
+      },
+      "FeedbackReport": {
+        "Button": "提供反馈"
+      },
+      "GenerativeAITerms": "生成式 AI 术语",
+      "KeyboardShortcuts": "键盘快捷键",
+      "PhotoshopUserGuide": "Photoshop 用户指南",
+      "ReportBug": "报告错误",
+      "ResetAllDialogs": "重置所有对话框和提示",
+      "ResetDone": "已重置所有对话框和提示。",
+      "Resources": {
+        "Title": "资源"
+      },
+      "SubmitIdea": "提交想法",
+      "SupportCommunity": "支持社区"
+    },
+    "LanguageDialog": {
+      "Cancel": "取消",
+      "ChangeLanguage": "更改语言",
+      "ReloadNeeded": "应用程序需要重新加载才能使更改生效。"
+    },
+    "RefreshNeeded": {
+      "Button": "刷新",
+      "NotNow": "暂不",
+      "Refresh": "刷新",
+      "Toast": "您需要刷新页面才能应用更改。"
+    },
+    "Tab": {
+      "Interface": {
+        "InterfaceSize": "界面大小",
+        "Scale": {
+          "Large": "大",
+          "Medium": "中"
+        }
+      }
+    },
+    "TechnologyPreviews": {
+      "Title": "技术预览"
+    },
+    "Title": "应用程序设置"
+  },
+  "ShapePresets": {
+    "Layername": {
+      "Arrow": "箭头",
+      "Circle": "圆形",
+      "DoubleArrow": "双箭头",
+      "Gear": "齿轮",
+      "Hexagon": "六边形",
+      "Line": "直线",
+      "Oval": "椭圆形",
+      "Polygon": "多边形",
+      "Rectangle": "矩形",
+      "Star": "星形"
+    }
+  },
+  "ShapeQuickActionsPanel": {
+    "Title": {
+      "Presets": "预设"
+    }
+  },
+  "ShapeTool": {
+    "AlignEdges": "对齐边缘",
+    "ArrowHeadAtEnd": "终点",
+    "ArrowHeadAtStart": "起点",
+    "ArrowHeadConcavity": "凹度",
+    "ArrowHeadLength": "长度",
+    "Arrowheads": "箭头",
+    "ArrowHeadWidth": "宽度",
+    "CornerRadius": "角半径",
+    "CreateOptions": {
+      "FixedSize": "固定大小",
+      "Freeform": "自由格式",
+      "FreeformRadius": "半径",
+      "Height": "高度",
+      "ProportionalSize": "按比例大小",
+      "StarRatio": "星形比例",
+      "Symmetric": "对称",
+      "Unconstrained": "不受约束",
+      "Width": "宽度"
+    },
+    "CreatFromCenter": "从中心",
+    "Fill": {
+      "Label": "填充"
+    },
+    "LineWeight": "直线宽度",
+    "NumberOfSides": "侧面",
+    "SmoothStarIndents": "平滑星形缩进",
+    "Stroke": {
+      "Alignment": "对齐",
+      "Label": "描边",
+      "LineCap": "线段端点",
+      "LineJoin": "线段合并"
+    },
+    "Style": {
+      "Label": "样式"
+    }
+  },
+  "Shortcuts": {
+    "Win": {
+      "AltKey": "Alt",
+      "ControlKey": "Ctrl",
+      "ShiftKey": "Shift"
+    }
+  },
+  "ShowOpenFilePicker": {
+    "Brushes": "画笔",
+    "Contours": "轮廓",
+    "Gradients": "渐变",
+    "Images": "图像",
+    "Patterns": "图案"
+  },
+  "SignInDialog": {
+    "Button": {
+      "BackToHome": "返回主页",
+      "Cancel": "不，谢谢",
+      "CreateAccount": "创建帐户",
+      "SignIn": "登录"
+    },
+    "Default": {
+      "Heading": "登录以访问更多功能并继续免费编辑",
+      "Message": "登录帐户后，即可使用强大的编辑工具、新一代生成式 AI、免费 Adobe 图库图像等资源尽情创作。"
+    },
+    "GenAI": {
+      "Heading": "免费访问生成式 AI 功能",
+      "Message": "登录帐户或创建一个新帐户，即可解锁 10 个免费积分，用于体验 Photoshop 或其他 Adobe 产品中的生成式 AI 功能。"
+    }
+  },
+  "SkillCelebrationCard": {
+    "AllCompleted": "继续提高 Photoshop 技能",
+    "ExploreMore": "跟踪进度并探索 Photoshop",
+    "FourSkillsCompleted": "太棒了！您就快成为 Photoshop 专业人士了。",
+    "OneSkillCompleted": "本教程将为您奠定良好的基础！",
+    "ThreeSkillsCompleted": "您的进步很大！",
+    "TwoSkillsCompleted": "干得漂亮！"
+  },
+  "SkillList": {
+    "EditorUITour": {
+      "Title": "观看新手导览"
+    },
+    "EditWithSelection": {
+      "Title": "使用选项编辑"
+    },
+    "Progress": {
+      "Complete": "<div class=\"spectrum-Heading spectrum-Heading--sizeXS\" data-e2e=\"progress-percent\">{{totalProgress}}%</div> 已完成"
+    },
+    "ProgressLabel": "总体技能进度",
+    "RestartButton": {
+      "Title": "重新启动"
+    },
+    "SelectSkillLevel": {
+      "Title": "选择您的技能水平"
+    },
+    "StartButton": {
+      "Title": "起点"
+    },
+    "UseGenAI": {
+      "Title": "使用生成式 AI"
+    }
+  },
+  "SkillsCard": {
+    "ExploreMore": "探索更多入门方法",
+    "Title": "开始使用 Photoshop"
+  },
+  "Slider": {
+    "Px": "像素"
+  },
+  "SmartObjects": {
+    "Edit": {
+      "InfoDialog": {
+        "Button": {
+          "Confirm": "确定"
+        },
+        "Title": "编辑智能对象",
+        "TitleInfo": "编辑智能对象后，保存文件以提交更改。这些更改将在返回至 {{FILENAME}} 时反映出来。"
+      }
+    }
+  },
+  "SolidColorFill": {
+    "FillColor": {
+      "Title": "填充颜色"
+    },
+    "HexValueLabel": "纯色的十六进制值",
+    "SelectColor": "选择颜色"
+  },
+  "Stage": {
+    "Actions": {
+      "CropFromSelection": "从选区裁切",
+      "HideContextualTaskBar": "隐藏上下文任务栏",
+      "HideSelectionBar": "隐藏选区栏",
+      "SelectSimilar": "选择相似元素"
+    },
+    "DropUrl": {
+      "FetchError": "无法加载 URL。"
+    },
+    "Loading": {
+      "AdditionalMessage": "仍在加载..."
+    }
+  },
+  "Stardust": {
+    "ProgressDialog": {
+      "Label": {
+        "HidingDistractions": "正在移除干扰...",
+        "Identify": "识别画布上的对象。完成后，单击对象以进行编辑。",
+        "Remove": "正在移除选区..."
+      }
+    }
+  },
+  "StardustContextBar": {
+    "RefreshDistractions": {
+      "Tooltip": "刷新移除干扰"
+    },
+    "Remove": {
+      "Brush": "在要移除的图像上刷动",
+      "Distractor": "移除干扰",
+      "Null": "没有人物被认定为干扰因素",
+      "Refresh": "刷新以查找干扰"
+    },
+    "Select": {
+      "Click": "单击图像以选择要编辑的区域",
+      "Remove": "移去"
+    },
+    "SelectDetails": "选择细节"
+  },
+  "StaticPaywall": {
+    "Benefits": {
+      "Benefit2": "直接在 Web 浏览器中创建精美的照片、丰富的图形和令人惊叹的艺术作品",
+      "Benefit3": "使用教程、免费资产、Adobe Express 模板和字体探索您的创造力",
+      "GenfillBenefit": "使用由生成式 AI 支持的简单文本提示快速创建、添加、移除或替换图像"
+    },
+    "FreeTrial": "开始 7 天免费试用",
+    "Heading": "使用 Photoshop Web 最大程度地发挥您的创造力",
+    "KeepLearning": "继续学习",
+    "SubheadingTool": "解锁 Photoshop 强大的创意功能：",
+    "TryPhotoshopNow": "立即试用 Photoshop"
+  },
+  "Stock": {
+    "AddFromAdobeStock": "从 Adobe Stock 添加",
+    "Categories": {
+      "Animals": "动物",
+      "Architecture": "建筑",
+      "Celestial": "天人合一",
+      "Fabric": "织物",
+      "Food": "食物",
+      "Glitch": "花屏",
+      "Gradients": "渐变",
+      "Grain": "颗粒",
+      "Halftones": "半色调",
+      "Iridescence": "幻彩",
+      "Marks": "标记",
+      "Metal": "金属",
+      "Nature": "自然",
+      "Paint": "颜料",
+      "Paper": "纸",
+      "Plastic": "塑料效果",
+      "Prisms": "棱镜",
+      "Shadows": "阴影",
+      "Stone": "石头",
+      "Water": "水滴"
+    },
+    "CategoryList": {
+      "ViewAll": "查看全部"
+    },
+    "Error": "出现错误。请稍后重试。",
+    "GenerativeAIContent": "生成式 AI 内容",
+    "NoResults": "未找到结果。",
+    "NumberResults_one": "\"{{query, string}}\" 的 {{count, number}} 个结果",
+    "NumberResults_other": "\"{{query, string}}\" 的 {{count, number}} 个结果",
+    "NumberResultsCategory": "{{numberResults, number}} 个结果",
+    "SearchPlaceholder": "搜索照片",
+    "StockDownloadError": "添加图像时出错。请稍后重试。",
+    "StockDownloadProgressTitle": "正在从 Adobe Stock 添加图像"
+  },
+  "StudentsBenefitsDialog": {
+    "Description": {
+      "P1": "使用终极图像编辑和设计应用程序创建丰富的图像、精美的图形并培养您的技能。",
+      "P2": "符合条件的 K-12 基础教育及颁发文凭的高校在读学生，可免费访问 Photoshop Web 版的所有强大工具、新一代 AI、教程等资源，为期 6 个月，且无需使用信用卡。",
+      "P3": "要兑换 6 个月免费试用：",
+      "P6": "试用期结束后，我们会通知您！"
+    },
+    "Error": "无法验证学生身份。请重试。",
+    "FreeTrial": "开始 6 个月免费试用",
+    "HeaderSubtitle": "开始使用 Photoshop 学生版！",
+    "HeaderTitle": "登录或创建帐户",
+    "Heading": "学生可免费使用 <span class=\"gradient-text\">Photoshop Web 版</span> 6 个月！",
+    "List": {
+      "L1": "登录或创建帐户",
+      "L2": "验证您的学校信息",
+      "L3": "直接跳转到 Photoshop Web 版——无需下载"
+    }
+  },
+  "StudentsBenefitsVerify": {
+    "Toast": {
+      "ActionLabel": "重新加载",
+      "Error": "抱歉，您不符合享受此优惠的条件。",
+      "Info": "您已注册此优惠。请重新加载页面以继续。"
+    }
+  },
+  "StudentsErrorDialog": {
+    "Description": {
+      "P1": "您仍可享受 6 个月的 Photoshop 免费试用",
+      "P2": "要解锁 Photoshop 强大的创意功能："
+    },
+    "Heading": "抱歉，您的学校帐户不符合享受此优惠的条件",
+    "List": {
+      "L1": "登录到个人帐户或创建一个帐户<span class=\"bold\">（使用您的个人电子邮件，而不是学校电子邮件）</span>",
+      "L2": "输入您的学校信息，即可获得访问资格！"
+    },
+    "SwitchAccount": "切换帐户"
+  },
+  "StudentsSignInDialog": {
+    "Error": "登录失败。请重试。"
+  },
+  "StudentsVerificationDialog": {
+    "Field": {
+      "FirstName": "名字",
+      "GraduationDate": "预计毕业日期",
+      "LastName": "姓氏",
+      "SchoolName": "学校名称",
+      "SchoolType": {
+        "College": "大学",
+        "Elementary": "小学",
+        "HighSchool": "高中",
+        "Title": "学校类型"
+      }
+    },
+    "Heading": {
+      "Required": "（所有字段均为必填字段）",
+      "Title": "请提供信息以验证您的学生身份"
+    },
+    "Info": "只需最后一步即可开启 6 个月免费试用！",
+    "Submit": "提交"
+  },
+  "StudentsWelcomeDialog": {
+    "Description": {
+      "P1": "使用终极图像编辑和设计应用程序 Photoshop 创建丰富的图像、精美的图形并培养您的技能。",
+      "P2": "符合条件的学生可以有更多时间学习并访问 Photoshop Web 版的所有强大工具、新一代 AI、教程、Adobe Stock 等，免费试用 6 个月！",
+      "P3": "我们正在验证您的学生身份，并在试用期结束时通知您。"
+    },
+    "GetStarted": "开始使用",
+    "Heading": "欢迎使用面向学生的 <span class=\"gradient-text\">Photoshop Web 版</span>！"
+  },
+  "SyntheticFillContextBar": {
+    "Cancel": "取消",
+    "CreateNewLayer": "创建新图层",
+    "EditPromptForSomethingDifferent": "编辑您的提示以生成其他内容",
+    "Generate": "生成",
+    "IfLeaveThisBlank": "如果将此项留空，我们将根据周围环境填充选区",
+    "Link": {
+      "CheckBalance": "查看生成式积分余额",
+      "GenerativeAITerms": "生成式 AI 术语",
+      "LearnMoreCredits": "详细了解生成式积分"
+    },
+    "More": "根据当前提示生成更多变体",
+    "Placeholder": {
+      "AddAPrompt": "添加提示",
+      "WhatWouldYouLike": "您想要生成什么内容？"
+    },
+    "Result": {
+      "Bad": "结果不佳",
+      "DeleteVariation": "删除变体",
+      "Good": "结果满意",
+      "ReportVariation": "报告变体"
+    },
+    "Variations": {
+      "Next": "下一个变体",
+      "Previous": "上一个变体"
+    }
+  },
+  "SyntheticFillPropertiesMoreMenu": {
+    "Link": {
+      "CheckBalance": "查看生成式积分余额",
+      "GenerativeAITerms": "生成式 AI 术语",
+      "LearnMoreCredits": "详细了解生成式积分"
+    }
+  },
+  "Taskbar": {
+    "Adjust": "调整",
+    "Comments": {
+      "HideCommentsPanel": "隐藏注释面板",
+      "ShowCommentsPanel": "显示注释面板"
+    },
+    "ContextMenu": {
+      "PanelsHeader": "面板",
+      "ResetPanels": "重置位置"
+    },
+    "Harmonize": "协调",
+    "History": {
+      "HideHistoryPanel": "隐藏历史记录面板",
+      "ShowHistoryPanel": "显示历史记录面板"
+    },
+    "Layer": {
+      "HideLayersPanel": "隐藏图层面板",
+      "ShowLayersPanel": "显示图层面板"
+    },
+    "Properties": {
+      "HideLayerPropertiesPanel": "隐藏图层属性面板",
+      "ShowLayerPropertiesPanel": "显示图层属性面板"
+    },
+    "QuickActions": "快速操作"
+  },
+  "Text2Image": {
+    "Generate": "正在生成图像"
+  },
+  "Text2ImageDialog": {
+    "Placeholder": "您想要生成什么内容？"
+  },
+  "TextPreset": {
+    "OperationName": "文本预设"
+  },
+  "TextQuickActionsPanel": {
+    "Button": {
+      "AddText": "添加文本"
+    },
+    "Styles": {
+      "AddAHeading": "添加标题",
+      "AddASubheading": "添加副标题",
+      "AddBodyText": "添加正文文本"
+    },
+    "Title": {
+      "Presets": "预设",
+      "Styles": "样式"
+    }
+  },
+  "ThumbnailPanel": {
+    "DetectObject": "检测对象",
+    "ShowLess": "显示更少",
+    "ShowMore": "显示更多"
+  },
+  "Tool": {
+    "Adjustment": {
+      "Settings": {
+        "Exposure": "曝光",
+        "ExposureToolTip": "设置描边的曝光度",
+        "ProtectTones": "保护色调",
+        "ProtectTonesToolTip": "最小化阴影和高光中的修剪，并防止颜色发生色相偏移"
+      }
+    },
+    "Brushtool": {
+      "Settings": {
+        "Angle": {
+          "Title": "角度"
+        },
+        "BlendMode": {
+          "Title": "混合模式"
+        },
+        "BrushSize": {
+          "Title": "画笔大小"
+        },
+        "Flow": {
+          "Title": "流量"
+        },
+        "Roundness": {
+          "Title": "圆度"
+        },
+        "Smoothing": {
+          "Title": "平滑",
+          "Tooltip": "设置笔触的平滑度。使用较高的值可以降低画笔笔触的抖动。"
+        },
+        "Spacing": {
+          "Title": "间距"
+        }
+      }
+    },
+    "CloneTools": {
+      "Settings": {
+        "SampleMode": {
+          "AllLayers": "所有图层",
+          "CurrentAndBelow": "当前和下方",
+          "CurrentLayer": "当前图层",
+          "Label": "示例",
+          "Tooltip": "仿制样本模式"
+        },
+        "SetSource": {
+          "Label": "设置源"
+        }
+      }
+    },
+    "Eyedropper": {
+      "Settings": {
+        "Radius": {
+          "ElevenByEleven": "11 x 11 平均",
+          "FiftyOneByFiftyOne": "51 x 51 平均",
+          "FiveByFive": "5 x 5 平均",
+          "HundredOneByHundredOne": "101 x 101 平均",
+          "Label": "样本大小",
+          "OneByOne": "取样点",
+          "ThirtyOneByThirtyOne": "31 x 31 平均",
+          "ThreeByThree": "3 x 3 平均",
+          "Tooltip": "滴管取样的最大像素数目"
+        },
+        "SampleLayer": {
+          "AllLayers": "所有图层",
+          "AllLayersNoAdjustment": "所有图层（非调整）",
+          "CurrentAndBelow": "当前和下方",
+          "CurrentAndBelowNoAdjustment": "当前及以下（非调整）",
+          "CurrentLayer": "当前图层",
+          "Label": "示例",
+          "Tooltip": "滴管工具样本模式"
+        }
+      }
+    },
+    "HealingBrush": {
+      "Settings": {
+        "Aligned": {
+          "Title": "对齐",
+          "Tooltip": "对每个笔触使用相同的位移"
+        },
+        "Diffusion": {
+          "Title": "扩散"
+        },
+        "IgnoreAdjustmentLayers": {
+          "Title": "忽略调整图层",
+          "Tooltip": "打开以在修复时忽略调整图层"
+        }
+      }
+    },
+    "MagicLasso": {
+      "ObjecFinder": {
+        "Refresh": {
+          "Tooltip": "刷新对象查找器",
+          "TooltipRefreshing": "正在刷新..."
+        }
+      },
+      "Settings": {
+        "Style": {
+          "CreateTexture": "套索",
+          "Label": "模式",
+          "Marquee": "矩形"
+        }
+      }
+    },
+    "MagicWand": {
+      "Settings": {
+        "Contiguous": {
+          "Title": "连续的",
+          "Tooltip": "只对连续像素取样"
+        },
+        "SampleSize": {
+          "ElevenByEleven": "11 x 11 平均",
+          "FiftyOneByFiftyOne": "51 x 51 平均",
+          "FiveByFive": "5 x 5 平均",
+          "HundredOneByHundredOne": "101 x 101 平均",
+          "Label": "样本大小",
+          "OneByOne": "取样点",
+          "ThirtyOneByThirtyOne": "31 x 31 平均",
+          "ThreeByThree": "3 x 3 平均",
+          "Tooltip": "工具取样的最大像素数目"
+        },
+        "Tolerance": {
+          "Amount": "容差量",
+          "Title": "容差",
+          "Tooltip": "设置颜色取样时的范围"
+        }
+      }
+    },
+    "MarqueeSelect": {
+      "Settings": {
+        "Style": {
+          "FixedRatio": "固定比例",
+          "FixedSize": "固定大小",
+          "Label": "选框样式",
+          "Normal": "正常",
+          "Title": "样式",
+          "Tooltip": "设置选框工具如何绘制"
+        }
+      }
+    },
+    "Move": {
+      "ContextMenu": {
+        "Actions": {
+          "BringForward": "前移一层",
+          "BringToFront": "置为顶层",
+          "Copy": "复制",
+          "Cut": "剪切",
+          "Paste": "粘贴",
+          "SendBackward": "下移一层",
+          "SendToBack": "置为底层"
+        },
+        "Header": "操作"
+      },
+      "Settings": {
+        "Align": {
+          "BottomEdges": "底对齐",
+          "HorizontalCenters": "水平居中对齐",
+          "Label": "对齐",
+          "LeftEdges": "左对齐",
+          "RightEdges": "右对齐",
+          "TopEdges": "顶对齐",
+          "VerticalCenters": "垂直居中对齐"
+        },
+        "AlignTo": {
+          "Canvas": "画布",
+          "Label": "对齐到",
+          "PickerLabel": "对齐到",
+          "Selection": "选区"
+        },
+        "AutoSelect": {
+          "Group": "分组",
+          "Label": "选择组或图层",
+          "Layer": "图层",
+          "None": "无",
+          "Title": "自动选择",
+          "Tooltip": "通过单击可见像素自动选择组或图层"
+        },
+        "Distribute": {
+          "BottomEdges": "按底分布",
+          "HorizontalCenters": "水平居中分布",
+          "Horizontally": "水平分布",
+          "Label": "分布",
+          "LeftEdges": "按左分布",
+          "RightEdges": "按右分布",
+          "TopEdges": "按顶分布",
+          "VerticalCenters": "垂直居中分布",
+          "Vertically": "垂直分布"
+        },
+        "DistributeSpacing": {
+          "Label": "分布间距"
+        },
+        "ShowLayerBoundsHover": {
+          "Label": "悬停时显示图层边界"
+        },
+        "ShowTransformControls": {
+          "Label": "显示变换控件",
+          "Tooltip": "在选中的图层上显示变换控件"
+        }
+      }
+    },
+    "Name": {
+      "Brush": "画笔",
+      "Burn": "加深",
+      "CloneStamp": "仿制图章",
+      "Crop": "裁剪",
+      "Dodge": "减淡",
+      "EllipticalMarquee": "椭圆选框",
+      "Eraser": "橡皮擦",
+      "Eyedropper": "滴管",
+      "GenerateImage": "生成图像",
+      "GenerativeExpand": "生成式扩展",
+      "GenerativeFill": "生成式填充",
+      "Gradient": "渐变",
+      "HealingBrush": "修复画笔",
+      "Import": "导入",
+      "Lasso": "套索",
+      "MagicLasso": "对象选择",
+      "MagicWand": "魔棒",
+      "Move": "移动",
+      "MoveShapes": "移动形状",
+      "PaintBucket": "油漆桶",
+      "QuickSelect": "快速选择",
+      "RectangularMarquee": "矩形选框",
+      "Remove": "移除",
+      "SelectionBrush": "选区画笔",
+      "ShapeEllipse": "椭圆",
+      "ShapeLine": "直线",
+      "ShapePolygon": "多边形",
+      "ShapeRectangle": "矩形",
+      "ShapeTriangle": "三角形",
+      "Smudge": "涂抹",
+      "Sponge": "海绵",
+      "SpotHealingBrush": "污点修复画笔",
+      "Transform": {
+        "MacOs": "变换"
+      },
+      "Type": "类型"
+    },
+    "PathSelect": {
+      "Settings": {
+        "SelectMode": {
+          "ActiveLayers": "现用图层",
+          "AllLayers": "所有图层",
+          "Title": "选择",
+          "Tooltip": "选择现用图层或所有图层中的形状"
+        }
+      }
+    },
+    "QuickSelect": {
+      "Settings": {
+        "EnhanceEdges": {
+          "Title": "增强边缘",
+          "Tooltip": "自动增强选区边缘"
+        },
+        "Spacing": {
+          "Title": "间距"
+        }
+      }
+    },
+    "RefineEdge": {
+      "Settings": {
+        "SelectionMode": {
+          "Add": {
+            "ExpandsDetectionArea": "扩展检测区域"
+          },
+          "Subtract": {
+            "RestoresOriginalEdge": "恢复原始边缘"
+          }
+        }
+      }
+    },
+    "RemoveTool": {
+      "RemoveAfterEachStroke": {
+        "Title": "每次笔触后移除",
+        "Tooltip": "移除单个笔触后的区域"
+      },
+      "ResetAllStrokes": {
+        "Title": "重置",
+        "Tooltip": "重置所有笔触"
+      },
+      "SampleAllLayers": {
+        "Tooltip": "从所有可见图层中进行内容取样"
+      }
+    },
+    "Select": {
+      "Marquee": {
+        "Settings": {
+          "Constraint": {
+            "Height": {
+              "Title": "高度"
+            },
+            "Swap": {
+              "Title": "替换宽度和高度",
+              "Tooltip": "高度和宽度互换"
+            },
+            "Width": {
+              "Title": "宽度"
+            }
+          }
+        }
+      }
+    },
+    "Settings": {
+      "Antialias": {
+        "Title": "消除锯齿",
+        "Tooltip": "平滑边缘转换"
+      },
+      "BrushHardness": {
+        "Title": "画笔硬度"
+      },
+      "BrushPresets": {
+        "DiscoverNewBrushes": "发现新画笔",
+        "DiscoverNewBrushesOnline": "发现新画笔",
+        "ImportBrushes": "从文件导入",
+        "ManageBrushes": "管理画笔",
+        "ResetToDefault": "重置为默认画笔",
+        "Selected": "选定",
+        "Title": "画笔预设"
+      },
+      "BrushSize": {
+        "Title": "画笔大小"
+      },
+      "BrushSizeHardness": {
+        "Title": "画笔大小和硬度"
+      },
+      "Color": {
+        "EndColor": "结束颜色",
+        "StartColor": "开始颜色",
+        "Title": "颜色"
+      },
+      "Feather": "羽化",
+      "FeatherAmount": "羽化量",
+      "FeatherTooltip": "软化选区的边",
+      "ManageBrushes": {
+        "DeleteBrush": "删除画笔",
+        "DeleteFolder": "删除文件夹",
+        "EnterBrushName": "输入画笔名称",
+        "Title": "管理画笔",
+        "Toast": {
+          "Failed": "未加载画笔",
+          "Success": "画笔已加载",
+          "Wait": "这可能需要几秒钟时间"
+        }
+      },
+      "MoreOptions": {
+        "Label": "更多选项"
+      },
+      "Opacity": {
+        "Title": "不透明度"
+      },
+      "Px": "像素",
+      "RefineEdge": "调整边缘",
+      "SampleAllLayers": {
+        "Title": "对所有图层取样",
+        "Tooltip": "从复合图像中进行颜色取样"
+      },
+      "Size": "大小",
+      "SizeToolTip": "设置画笔大小",
+      "UsePressureForOpacity": {
+        "Title": "对不透明度使用压力",
+        "Tooltip": "始终对“不透明度”使用“压力”。在关闭时，“画笔预设”控制压力。"
+      },
+      "UsePressureForSize": {
+        "Title": "对大小使用压力",
+        "Tooltip": "始终对“大小”使用“压力”。在关闭时，“画笔预设”控制压力"
+      }
+    },
+    "Smudge": {
+      "Settings": {
+        "FingerPainting": {
+          "Label": "手指绘画",
+          "Tooltip": "用前景色手指绘画"
+        },
+        "SmudgeToolTip": "设置描边强度",
+        "Strength": "强度"
+      }
+    },
+    "Sponge": {
+      "Settings": {
+        "Flow": "流量",
+        "FlowToolTip": "设置饱和度更改速率",
+        "Mode": {
+          "Label": "模式",
+          "Tooltip": "绘画模式"
+        },
+        "Vibrance": "自然饱和度",
+        "VibranceToolTip": "最小化修剪以获得完全饱和色或不饱和色"
+      }
+    },
+    "Spotheal": {
+      "Settings": {
+        "SampleMode": {
+          "Label": "类型",
+          "Tooltip": "设置源取样类型"
+        },
+        "SamplingMethod": {
+          "ContentAware": "内容识别",
+          "CreateTexture": "创建纹理",
+          "ProximityMatch": "近似匹配"
+        }
+      }
+    }
+  },
+  "Toolbar": {
+    "Actions": {
+      "SelectSubject": "选择主体"
+    },
+    "AdjustmentTools": {
+      "DarkenBurn": "变暗（加深）",
+      "LightenDodge": "变亮（减淡）",
+      "SaturationSponge": "饱和度（海绵）"
+    },
+    "AdjustSection": {
+      "Basic": {
+        "GaussianBlur": "高斯模糊"
+      }
+    },
+    "Collapsed": {
+      "Header": {
+        "Close": "关闭"
+      }
+    },
+    "Panel": {
+      "ActionButton": {
+        "ToolTipHide": "隐藏工具视频",
+        "ToolTipShow": "观看快速工具视频"
+      }
+    },
+    "Tooltip": {
+      "Burn": {
+        "Content": "选择性地使图像中的区域变暗",
+        "FullToolbarHeading": "变暗（加深工具）"
+      },
+      "CloneStamp": {
+        "Content": "用图像另一部分的像素进行绘制",
+        "Heading": "仿制图章工具"
+      },
+      "Crop": {
+        "Content": "裁切边缘并拉直图像",
+        "Heading": "裁剪工具"
+      },
+      "Dodge": {
+        "Content": "使图像中的区域变亮",
+        "FullToolbarHeading": "变亮（减淡工具）"
+      },
+      "EllipticalMarquee": {
+        "Content": "建立椭圆和圆形选区",
+        "Heading": "椭圆选框工具"
+      },
+      "Eraser": {
+        "Content": "擦除图层上的像素",
+        "Heading": "橡皮擦工具"
+      },
+      "Eyedropper": {
+        "Content": "对颜色进行取样，供图像中使用",
+        "Heading": "滴管工具"
+      },
+      "GenerateImage": {
+        "Content": "使用文本提示生成复杂的创意图像",
+        "Heading": "生成图像工具"
+      },
+      "GenerativeExpand": {
+        "Content": "使用生成的内容扩展图像的尺寸",
+        "Heading": "生成式扩展工具"
+      },
+      "GenerativeFill": {
+        "Content": "移除、添加或修改图像中的对象",
+        "Heading": "生成式填充工具"
+      },
+      "Gradient": {
+        "Content": "创建颜色之间的渐变混合",
+        "Heading": "渐变工具"
+      },
+      "Healingbrush": {
+        "Content": "用图像另一部分的像素来修复瑕疵",
+        "Heading": "修复画笔工具"
+      },
+      "Import": {
+        "Content": "将计算机中的图像添加到画布",
+        "Heading": "导入工具"
+      },
+      "Lasso": {
+        "Content": "手绘选区",
+        "Heading": "套索工具"
+      },
+      "MagicWand": {
+        "Content": "根据颜色选择区域",
+        "Heading": "魔棒工具"
+      },
+      "Move": {
+        "Content": "移动选区或图层",
+        "Heading": "移动工具"
+      },
+      "ObjectSelectionTool": {
+        "Content": "查找并自动选择对象",
+        "Heading": "对象选择工具"
+      },
+      "Paintbrush": {
+        "Content": "使用可自定义的画笔绘制笔触",
+        "Heading": "画笔工具"
+      },
+      "Paintbucket": {
+        "Content": "用前景色填充颜色相近的区域",
+        "Heading": "油漆桶工具"
+      },
+      "PathSelect": {
+        "Content": "使用路径选区移动形状",
+        "Heading": "移动形状工具"
+      },
+      "QuickSelection": {
+        "Content": "建立检测图像边缘的选区",
+        "Heading": "快速选择工具"
+      },
+      "RectangularMarquee": {
+        "Content": "创建矩形或方形选区",
+        "Heading": "矩形选框工具"
+      },
+      "Remove": {
+        "Content": "使用画笔轻松移除图像中的对象",
+        "Heading": "移除工具"
+      },
+      "ShapeEllipse": {
+        "Content": "绘制椭圆和圆形",
+        "Heading": "椭圆工具"
+      },
+      "ShapeLine": {
+        "Content": "绘制线条",
+        "Heading": "直线工具"
+      },
+      "ShapePolygon": {
+        "Content": "绘制多边形",
+        "Heading": "多边形工具"
+      },
+      "ShapeRectangle": {
+        "Content": "绘制矩形",
+        "Heading": "矩形工具"
+      },
+      "ShapeTriangle": {
+        "Content": "绘制三边形状",
+        "Heading": "三角形工具"
+      },
+      "Smudge": {
+        "Content": "涂抹和混合颜色",
+        "Heading": "涂抹工具"
+      },
+      "Sponge": {
+        "Content": "更改图像中区域的颜色饱和度",
+        "FullToolbarHeading": "饱和度（海绵工具）"
+      },
+      "Spotheal": {
+        "Content": "去除污点和不必要的小元素",
+        "Heading": "污点修复画笔工具"
+      },
+      "Transform": {
+        "Content": "对像素和矢量图层进行缩放、旋转、倾斜、扭曲、变形或应用透视",
+        "Heading": "变换工具"
+      },
+      "Type": {
+        "Content": "添加文字",
+        "Heading": "文字工具"
+      }
+    }
+  },
+  "ToolbarMenu": {
+    "Adjust": "调整",
+    "Select": "选择"
+  },
+  "ToolbarSection": {
+    "BackButton": {
+      "Label": "背面"
+    }
+  },
+  "Tools": {
+    "PathSelect": {
+      "Title": "移动形状工具"
+    }
+  },
+  "ToolSettings": {
+    "AdvancedSettings": {
+      "Title": "高级设置"
+    },
+    "Close": "关闭",
+    "MoveToToolbarPanel": "移动到工具栏面板",
+    "Shapes": {
+      "AlignAndDistribute": "对齐并分布",
+      "StrokeOptions": "描边选项"
+    }
+  },
+  "TreeView": {
+    "ToggleGroup": "切换组"
+  },
+  "TryLCEDialog": {
+    "Button": {
+      "Title": "快来试试吧"
+    },
+    "Description": "在 Photoshop 中与他人共同创作，并根据您的反馈帮助塑造该功能。",
+    "Headline": "您不在候补名单上",
+    "Subtitle": "了解 Photoshop 实时共同编辑 (beta)！"
+  },
+  "TryLCETour": {
+    "Step1": {
+      "Tooltip": "在此处开始实时共同编辑！"
+    },
+    "Step2": {
+      "Tooltip": "选择邀请人员"
+    },
+    "Step3Eligible": {
+      "Tooltip": "beta 版中的新增功能！"
+    },
+    "Step3Ineligible": {
+      "Button1": "使用示例",
+      "Button2": "上传文件",
+      "Description": "要启用实时共同编辑，请上传其他文件或使用示例图像。",
+      "Title": "文件包含不兼容的内容"
+    },
+    "Step4": {
+      "Tooltip": "现在，您可以与他人共享您的文件。"
+    },
+    "Step5": {
+      "Tooltip": "您也可以从此处使用 Photoshop (Beta) 桌面应用程序打开文件。"
+    }
+  },
+  "UnifiedDownloadMenu": {
+    "DownloadToDevicePanel": {
+      "CopyLinkButtonLabel": "复制链接",
+      "CopyLinkDescription": "或复制链接以发送到手机",
+      "ErrorBody": "无法创建二维码。请重试。",
+      "ErrorButtonLabel": "创建",
+      "ErrorTitle": "无法创建二维码",
+      "ExpiredBody": "二维码已过期。请创建新的二维码。",
+      "ExpiredButtonLabel": "创建",
+      "ExpiredTitle": "过期的二维码",
+      "LoadingAriaLabel": "正在为您的手机创建二维码",
+      "Subtitle": "扫描二维码以将文件下载到您的手机",
+      "Title": "发送至手机"
+    },
+    "Options": {
+      "DownloadOnComputer": {
+        "Subtitle": "保存到本地设备",
+        "Title": "在计算机上下载"
+      },
+      "DownloadOnPhone": {
+        "Subtitle": "扫描二维码以下载",
+        "Title": "在手机上下载"
+      },
+      "ExportVideo": {
+        "Subtitle": "生成视频并本地保存",
+        "Title": "导出视频"
+      },
+      "QuickExportAsJPEG": {
+        "Text": "快速导出为 JPEG"
+      },
+      "QuickExportAsPNG": {
+        "Text": "快速导出为 PNG"
+      },
+      "QuickExportAsPSD": {
+        "Text": "快速导出为 PSD"
+      },
+      "QuickExportAsTIFF": {
+        "Text": "快速导出为 TIFF"
+      },
+      "QuickExportAsWebP": {
+        "Text": "快速导出为 WebP"
+      }
+    }
+  },
+  "UnifiedShareMenu": {
+    "Options": {
+      "GetBrowserApp": {
+        "SubText": "一键返回 Photoshop",
+        "Text": "获取浏览器应用程序"
+      },
+      "GetDesktopApp": {
+        "SubText": "在 Photoshop 桌面版中编辑",
+        "Text": "获取桌面应用程序"
+      },
+      "GetDesktopBetaApp": {
+        "SubText": "在 Photoshop 桌面 Beta 版中编辑",
+        "Text": "安装 Photoshop (Beta)"
+      },
+      "InvitePeople": {
+        "SubText": "共享链接",
+        "Text": "邀请人员"
+      },
+      "OpenInExpress": {
+        "Button": "发送至 Adobe Express",
+        "DocSaved": "文档已保存",
+        "SubText": "使用图像创建社交内容",
+        "Text": "发送至 Adobe Express"
+      },
+      "OpenInPhotoshop": {
+        "SubText": "在 Photoshop 桌面版中编辑",
+        "Text": "在桌面应用程序中打开"
+      },
+      "OpenInPhotoshopBeta": {
+        "SubText": "在 Photoshop 桌面 Beta 版中编辑",
+        "Text": "在 Photoshop 中打开 (Beta)"
+      }
+    },
+    "ShareButton": {
+      "Text": "共享",
+      "Tooltip": "共享文档"
+    }
+  },
+  "Unsupported": {
+    "Document": {
+      "ActionButton": "立即申请",
+      "CancelButton": "取消",
+      "Content": {
+        "Line1": "要访问此文件，请申请加入我们的封测计划。",
+        "Line2": "您将以专属方式访问新功能，并可以与我们和社区分享您的反馈。（需要预发布协议。）"
+      },
+      "Title": "立即申请访问权限"
+    }
+  },
+  "UnsupportedAccount": {
+    "Blocked": {
+      "Description": "Photoshop Web 版目前在您所在的国家/地区不可用。",
+      "Heading": "访问被阻止"
+    },
+    "EDU": {
+      "Description": "Photoshop Web 版目前不支持学校帐户。使用个人帐户继续访问该应用程序。",
+      "Heading": "帐户不受支持（尚未！）",
+      "More": "有关受支持帐户的更多信息"
+    }
+  },
+  "UnsupportedBrowser": {
+    "Banner": {
+      "CopyLink": "复制链接",
+      "LearnMore": "了解详情",
+      "Text": "此浏览器尚不支持 Photoshop Web 版。您可以查看文档或添加注释。要编辑或保存更改，请在最新版本的 Chrome、Edge 或 Firefox 中打开。"
+    },
+    "Button": {
+      "Continue": "继续查看文件",
+      "Copy": "复制 URL"
+    },
+    "Description": "要打开此 Photoshop 云文档，请切换到受支持的浏览器，如最新版本的 Chrome、Edge 或 Firefox。或者，选择“继续”以在“文件”中查看文档并添加注释。",
+    "Dialog": {
+      "Browser": {
+        "Body": "此浏览器尚不支持 Photoshop Web 版。要编辑图像，请复制 URL 并将其粘贴到最新版本的 Chrome、Edge 或 Firefox 中。",
+        "Cancel": "取消",
+        "Copied": "已复制到剪贴板",
+        "LearnMore": "详细了解系统要求",
+        "Secondary": "复制 URL",
+        "Title": "浏览器不受支持"
+      },
+      "CreateNew": {
+        "Confirm": "了解详情",
+        "Copied": "已复制到剪贴板",
+        "CopyURL": "复制 URL 并将其粘贴到最新版本的 Chrome、Edge 或 Firefox 中。",
+        "Secondary": "复制 URL",
+        "Title": "浏览器不受支持",
+        "UseSupported": "要创建或编辑文档，请使用受支持的浏览器。",
+        "ViewOrComment": "您仍可以查看或评论现有文档。"
+      },
+      "Install": {
+        "Chrome": "安装 Chrome",
+        "Edge": "安装 Edge",
+        "Firefox": "安装 Firefox"
+      }
+    },
+    "Heading": "不受支持的浏览器",
+    "Help": "有关浏览器支持的更多信息"
+  },
+  "UnsupportedChromePrivacyMode": {
+    "Body": "您的 Chrome 窗口可能处于隐身状态，或者您已启用隐私设置“关闭所有窗口时删除数据”。将此设置更改为“允许站点保存数据”并刷新 Photoshop Web。如果您的浏览器设置为托管，请联系您的 IT 管理员。",
+    "Dialog": {
+      "Body": "\n          <p style=\"margin-top: 0;\">您的 Chrome 窗口可能处于隐身状态，或者您已启用设置“关闭所有窗口时删除数据”。\n          <p style=\"margin-bottom: 0;\">将此设置更改为“允许站点保存数据”，然后刷新 Photoshop Web。如果您的浏览器设置为托管，请联系您的 IT 管理员。\n          ",
+      "CallToAction": "了解更多信息",
+      "Title": "Chrome 正在限制 Photoshop 可以使用的磁盘空间大小"
+    }
+  },
+  "UnsupportedDevice": {
+    "Banner": {
+      "Text": "此设备不支持 Photoshop Web 版。要编辑或保存更改，请在计算机浏览器中打开 Photoshop，或者从 App Store 下载 Photoshop。"
+    },
+    "Button": {
+      "Continue": "继续查看文件",
+      "Copy": "复制 URL"
+    },
+    "Description": "要打开此 Photoshop 云文档，请切换到使用最新版本 Chrome、Edge 或 Firefox 的笔记本电脑或台式电脑。或者，选择“继续”以在“文件”中查看文档并添加注释。",
+    "Heading": "不受支持的设备",
+    "Help": "有关浏览器支持的更多信息"
+  },
+  "UnsupportedFeatures": {
+    "Banner": {
+      "Title": "您的设备不满足 Photoshop Web 版的最低系统要求，或者浏览器当前可能处于不受支持的隐私或无痕浏览浏览器模式。"
+    }
+  },
+  "UnsupportedFeaturesDialog": {
+    "Banner": {
+      "Title": "您的设备或浏览器不完全受支持"
+    },
+    "Body": "此设备不满足 Photoshop Web 版的最低系统要求，或者浏览器当前可能处于不受支持的隐私或无痕浏览模式。"
+  },
+  "UnsupportedFeaturesWarning": {
+    "Banner": {
+      "Title": "您的设备不满足 Photoshop Web 版的最低系统要求，或者浏览器当前可能处于隐私或无痕浏览模式。性能可能会受到负面影响。"
+    }
+  },
+  "UnsupportedFileType": {
+    "Import": {
+      "Button": {
+        "OK": "确定"
+      },
+      "Title": "无法导入文件"
+    },
+    "Open": {
+      "Body": {
+        "NotSupported": "不支持此格式。请尝试其他文件。"
+      },
+      "Title": "无法打开文件"
+    },
+    "Place": {
+      "Body": {
+        "LearnMore": "了解详情",
+        "NotSupported": "Photoshop Web 版不支持此格式。",
+        "ReasonFileFormat": "不支持的文件格式"
+      }
+    }
+  },
+  "UnsupportedMultipleFiles": {
+    "Import": {
+      "Body": {
+        "NotSupported": "您现在一次只能导入一个文件。"
+      },
+      "Button": {
+        "OK": "确定"
+      },
+      "Title": "无法一次导入多个文件"
+    },
+    "Open": {
+      "Body": {
+        "NotSupported": "您现在一次只能打开一个文件。"
+      },
+      "Title": "无法一次打开多个文件"
+    }
+  },
+  "UnsupportedOnMobile": {
+    "Banner": {
+      "Title": "此设备不支持 Photoshop Web 版"
+    },
+    "Dialog": {
+      "CreateNew": {
+        "Ok": "确定"
+      }
+    }
+  },
+  "UnsupportedOperation": {
+    "Delete": {
+      "CannotDeleteLayer": "无法删除图层。",
+      "CannotDeleteMask": "无法删除蒙版。",
+      "LayerContentNotDirectlyEditable": "图层内容无法直接编辑。"
+    }
+  },
+  "UnsupportedSafari": {
+    "Banner": {
+      "Text": "此版本的 Safari 不支持 Photoshop Web 版。您可以查看或添加注释。要编辑和保存更改，请更新到 Safari 18.3 或更高版本，或者在 Chrome、Edge 或 Firefox 中打开。"
+    },
+    "Beta": {
+      "Text": "Safari 中的 Photoshop Web 版当前处于 beta 阶段，这可能会影响性能。要获得最佳的 Photoshop Web 体验，请使用 Google Chrome、Microsoft Edge 或 Firefox。我们感谢您的耐心等待，并欢迎您提供反馈，帮助我们改进。"
+    }
+  },
+  "UpgradeDialog": {
+    "CCE": {
+      "SwitchProfile": {
+        "Cancel": "取消",
+        "Confirm": "切换配置文件",
+        "Text": "要使用 Photoshop Web 版，请联系您的管理员或登录您的个人配置文件。"
+      }
+    },
+    "RequestAccess": "您的组织未启用 Photoshop Web 版。请联系您的管理员以请求访问。"
+  },
+  "UpgradeFinished": {
+    "Card": {
+      "Button": {
+        "GotIt": "知道了"
+      },
+      "Description": "您现在可以无限制地访问 Photoshop 的高级功能和强大工具。",
+      "Title": {
+        "Subscribed": "祝贺您！您已升级。",
+        "Trial": "您的免费试用现在开始！"
+      }
+    }
+  },
+  "UploadFileComponent": {
+    "Button": {
+      "UploadFile": "上传文件"
+    },
+    "Choice": {
+      "GoogleDrive": "Google Drive™",
+      "Lightroom": "Adobe Lightroom",
+      "UploadFromComputer": "从计算机上传",
+      "UploadFromPhone": "从手机上传"
+    },
+    "GoogleDrive": {
+      "Attribution": "Google Drive is a trademark of Google Inc. Use of this trademark is subject to Google Permissions."
+    }
+  },
+  "UploadPage": {
+    "AuthError": {
+      "Body": "此二维码已过期。请扫描新的二维码以继续。",
+      "Title": "过期的二维码"
+    },
+    "Default": {
+      "Body": "选择一张照片以在 Photoshop 中编辑",
+      "Button": "选择照片",
+      "Title": "导入照片以进行编辑"
+    },
+    "Error": {
+      "Body": "我们无法上传您的图像。请选择其他照片并重试。",
+      "Title": "上传失败"
+    },
+    "InvalidType": {
+      "Title": "图像不受支持"
+    },
+    "Uploaded": {
+      "Alt": "已上传文件",
+      "Body": "在计算机上打开 Photoshop 进行编辑",
+      "Title": "上传完成"
+    },
+    "Uploading": {
+      "Body": "上传图像并创建新文档",
+      "Title": "正在上传图像……"
+    }
+  },
+  "UserError": {
+    "Dialog": {
+      "CancelLabel": "关闭",
+      "ConfirmLabel": "提交报告"
+    },
+    "Form": {
+      "Description": "我们的团队已收到通知。如果您愿意帮忙，告诉我们发生了什么。",
+      "WhatHappened": "发生什么情况？"
+    },
+    "ialog": {
+      "Headline": "告诉我们发生了什么"
+    },
+    "Toast": {
+      "Message": "感谢您的报告！"
+    }
+  },
+  "UserExperienceLevel": {
+    "Dialog": {
+      "Beginner": "我刚入门",
+      "Cancel": "取消",
+      "Expert": "我可以教课",
+      "Intermediate": "我在驾驭的路上",
+      "Submit": "提交",
+      "Subtitle": "您的选择将帮助我们定制您的应用程序体验。",
+      "Title": "您在 Adobe Photoshop 方面有多少经验？"
+    }
+  },
+  "UserFeedback": {
+    "Dialog": {
+      "CancelLabel": "关闭",
+      "ConfirmLabel": "提交反馈",
+      "Headline": "帮助我们改进"
+    },
+    "Form": {
+      "Email": "电子邮件",
+      "EmailPlaceholder": "输入您的电子邮件地址",
+      "Feedback": "您的反馈",
+      "FeedbackHelp": "请尽可能提供多的细节",
+      "Name": "名称",
+      "NamePlaceholder": "输入您的姓名",
+      "WhatHappenedHelp": "请尽可能提供多的细节"
+    },
+    "Toast": {
+      "Message": "感谢您提供的反馈意见！"
+    }
+  },
+  "UserStorageMissing": {
+    "MessageDialog": {
+      "Admin": "请使用其他帐户登录或与管理员联系以解决问题。",
+      "ConfirmLabel": "切换帐户",
+      "StorageEntitlement": "您将无法使用您登录的帐户保存云文档。",
+      "Title": "缺少存储权限"
+    }
+  },
+  "Utils": {
+    "HumanRelativeDate": {
+      "ExactHours": "### 小时前",
+      "ExactMinutes": "### 分钟前",
+      "ExactSeconds": "### 秒前",
+      "FewSeconds": "几秒前",
+      "Hour": "一小时前",
+      "Minute": "一分钟前"
+    }
+  },
+  "Variations": {
+    "Menu": {
+      "BadResult": "结果不佳",
+      "CreateNewLayer": "创建新图层",
+      "DeleteVariation": "删除变体",
+      "GoodResult": "结果满意",
+      "ReportVariation": "报告变体"
+    },
+    "Remove": "移除变体",
+    "Select": "选择变体"
+  },
+  "Video": {
+    "Title": {
+      "HideQuickVideo": "隐藏视频",
+      "HideVideo": "隐藏视频",
+      "WatchQuickVideo": "观看快速视频",
+      "WatchVideo": "观看视频"
+    }
+  },
+  "VideoHelp": {
+    "HideInAppVideoTutorial": "隐藏视频",
+    "ShowInAppVideoTutorial": "观看快速视频"
+  },
+  "VideoPlayer": {
+    "CaptionsLabel": "题注",
+    "FeaturedLabel": "当前播放的视频",
+    "FeatureLabel": "弹出窗口",
+    "FullscreenLabel": "全屏",
+    "MuteLabel": "静音",
+    "NoneLabel": "无",
+    "PauseLabel": "暂停",
+    "PlayLabel": "播放",
+    "ReplayLabel": "重放",
+    "VolumeLabel": "音量"
+  },
+  "Viewer": {
+    "Comments": {
+      "ToggleComments": "切换注释"
+    },
+    "Info": "信息",
+    "Timeline": {
+      "ToggleTimeline": "切换时间线"
+    }
+  },
+  "WhatsNew": {
+    "AdobeStock": {
+      "Description": "探索免费的精选 Adobe Stock 资源，以增强您的项目或快速启动您的创作过程。",
+      "Title": "Adobe Stock"
+    },
+    "Dialog": {
+      "Title": "Photoshop 的新增功能"
+    },
+    "GenerateImage": {
+      "Card": {
+        "Description": "从详细的提示开始，添加参考图像，或选择提示灵感以开始。"
+      },
+      "Title": {
+        "GenerateImage": "创建您想象的内容"
+      }
+    },
+    "LCE_Card": {
+      "Description": "加入此仅限邀请 Beta 的候补名单。登录后，在 Photoshop 中与其他人同时创建，并通过您的反馈帮助塑造该功能。",
+      "Title": "实时共同编辑"
+    },
+    "LearningCenter": {
+      "Description": "全新的集中式学习中心可以更轻松地在查找 Photoshop Web 版的帮助和学习内容。",
+      "Title": "学习中心"
+    },
+    "ObjectSelection": {
+      "Description": "我们改进了<b>选择</b>面板。现在，可以更轻松地选择、编辑或移除图像中的特定对象。",
+      "Title": "对象选择"
+    },
+    "PhotoshopMobile": {
+      "Description": "探索新的创意，随时随地进行编辑，并访问您的文件，以便与全新 iPhone 版 Photoshop 轻松共享。包含在您的会员资格中。",
+      "Title": "iPhone 版 Photoshop"
+    },
+    "SelectDetails": {
+      "Description": "快速且精确地区分头发、配饰和服装等复杂细节，以便您可以调整光照、颜色等元素，从而打造理想的外观效果。",
+      "Title": "选择细节"
+    },
+    "whatsnew_live_co_editing": {
+      "Cards": {
+        "LCE": {
+          "CTA": "加入等待名单",
+          "Title": "实时共同编辑"
+        }
+      }
+    }
+  },
+  "WhatsnewDialog": {
+    "Icon": {
+      "Hover": {
+        "Tooltip": "Photoshop 的新增功能"
+      }
+    },
+    "Tabs": {
+      "CTA": "快来试试吧",
+      "CTA_LCE": "加入等待名单",
+      "CTA_PS_MOBILE": "下载应用程序"
+    }
+  },
+  "ZoomMenu": {
+    "FullScreenMode": "全屏模式",
+    "StandardScreenMode": "标准屏幕模式",
+    "Zoom": {
+      "FillScreen": "填充屏幕",
+      "FitToScreen": "适合屏幕",
+      "Percent100": "100%",
+      "Percent200": "200%",
+      "ZoomIn": "放大",
+      "ZoomOut": "缩小"
+    },
+    "Zoomlevel": "缩放级别"
+  }
+}

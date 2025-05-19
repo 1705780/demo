@@ -1,0 +1,6819 @@
+{
+  "AbuseReport": {
+    "Toast": {
+      "Success": "Changing this line to test forked enterprise change for testing"
+    }
+  },
+  "ACRService": {
+    "Dialog": {
+      "RequestAccessButton": "Request access",
+      "RequestAccessCancel": "취소",
+      "RequestAccessHeadline": "액세스 요청"
+    },
+    "Toast": {
+      "AccessRequested": "액세스 요청 전송됨. 요청이 승인되면 페이지를 다시 로드해야 합니다.",
+      "AccessRequestFailed": "액세스를 요청하지 못했습니다. 나중에 다시 시도하십시오.",
+      "AlreadyEntitled": {
+        "Label": "지금 다시 불러오기",
+        "Message": "액세스 요청이 수락되었습니다. 페이지를 다시 로드하세요."
+      }
+    }
+  },
+  "ActionMenu": {
+    "More": "더 보기"
+  },
+  "Actions": {
+    "CameraRawFilter": {
+      "Title": "Light and color"
+    },
+    "DocActions": {
+      "BackToAEM": "AEM으로 돌아가기",
+      "Compare": {
+        "Tooltip": "원본 표시"
+      },
+      "GetDesktopApp": "데스크탑 앱 다운로드",
+      "GetDesktopBetaApp": "Photoshop (Beta) 설치",
+      "OpenApp": "앱 열기",
+      "OpenDesktopApp": "데스크탑 앱 열기",
+      "OpenDesktopBetaApp": "Photoshop (Beta)에서 열기",
+      "Redo": "다시 실행",
+      "ReportAbuse": "오용 신고",
+      "Title": {
+        "Compare": "비교"
+      },
+      "Toast": {
+        "ShowingOriginal": "원본 표시 중"
+      },
+      "Undo": "실행 취소",
+      "Upgrade": "업그레이드",
+      "ViewOnly": "보기 전용",
+      "ViewOnlyReason": {
+        "CCT": "파일을 편집하려면 Photoshop을 구독해야 합니다. 구독을 활성화하려면 관리자에게 문의하십시오.",
+        "CloseDesktopApp": "데스크탑 앱을 닫고 페이지를 다시 로드하여 이 문서 편집",
+        "EditedBy": {
+          "Name": "이 문서는 ### 님이 편집 중입니다.",
+          "Unknown": "이 문서는 현재 다른 사람이 편집 중입니다."
+        },
+        "Or": " 또는 ",
+        "SignIn": "로그인",
+        "SwitchAccounts": "계정 전환",
+        "ToEdit": " 이 문서 편집",
+        "Upgrade": "업그레이드"
+      }
+    },
+    "DownloadButton": {
+      "Text": "다운로드"
+    },
+    "GaussianBlur": {
+      "Title": "가우시안 흐림 효과"
+    },
+    "SelectSubject": {
+      "Title": "피사체 선택"
+    },
+    "SendToLightroomButton": {
+      "Text": "Lightroom으로 보내기"
+    },
+    "SolidColor": {
+      "Title": "단색"
+    },
+    "ToolActions": {
+      "Adjust": "조정",
+      "CopyToNewLayer": {
+        "NotAvailable": "선택한 레이어 유형에는 사용할 수 없습니다",
+        "Title": "새로운 레이어로 복사하기"
+      },
+      "CreateMask": "마스크 만들기",
+      "Deselect": "선택 해제",
+      "Dialog": {
+        "RequestAccess": "이 기능은 관리자에 의해 꺼져 있습니다. 액세스를 요청하시겠습니까?"
+      },
+      "Generate": {
+        "Cancel": "취소",
+        "Expand": "확대",
+        "Fill": "칠",
+        "Generate": "생성",
+        "GenerativFill": "생성형 채우기",
+        "ModifyExistingContent": "기존 콘텐츠를 수정하고 개체, 배경, 장면 생성",
+        "Placeholder": "무엇을 생성하시겠습니까?(선택 사항)",
+        "Tooltip": "해당 표준 생성형 기능은 무제한 접근을 제공하는 플랜이 없을 경우 생성마다 1 크레딧을 사용합니다. 각 생성은 이미지 3개을 출력합니다."
+      },
+      "InvertSelection": "선택 영역 반전",
+      "Mode": {
+        "Title": "모드"
+      },
+      "MoreActions": "추가 액션",
+      "RefineEdge": "가장자리 다듬기",
+      "Toast": {
+        "TurnedOff": "이 기능이 꺼져 있습니다. 자세한 내용은 관리자에게 문의하십시오."
+      },
+      "TransformSelection": "선택 영역 변형"
+    }
+  },
+  "AddImage": {
+    "ImportImage": "장치에서 업로드"
+  },
+  "AdjustmentCategory": {
+    "BlackAndWhite": "흑백",
+    "Cinematic": "시네마틱",
+    "Creative": "크리에이티브",
+    "Landscape": "가로",
+    "PhotoRepair": "사진 복구",
+    "Portraits": "인물"
+  },
+  "AdjustmentLayer": {
+    "BlackAndWhite": "흑백",
+    "BrightnessContrast": "밝기/대비",
+    "ChannelMixer": "채널 혼합",
+    "ColorBalance": "색상 균형",
+    "ColorLookup": "색상 검색",
+    "Curves": "곡선",
+    "Exposure": "노출",
+    "GradientMap": "그레이디언트 맵",
+    "HueSaturation": "색조/채도",
+    "Invert": "반전",
+    "Levels": "레벨",
+    "PhotoFilter": "사진 필터",
+    "Posterize": "포스터화",
+    "SelectiveColor": "선택 색상",
+    "SolidColor": "단색",
+    "Threshold": "한계값",
+    "Vibrance": "활기"
+  },
+  "AdjustmentPreset": {
+    "BlackAndWhite": "흑백",
+    "BlackAndWhiteNegative": "흑백 네거티브",
+    "Brighter": "더 밝게",
+    "ClassicBlackAndWhite": "클래식 흑백",
+    "ColorPop": "색상 팝",
+    "Cool": "차가움",
+    "CrossProcess": "크로스 처리",
+    "Darken": "어둡게 하기",
+    "Darker": "더 어둡게",
+    "DarkFade": "어두운 페이드",
+    "DarkMystery": "어두운 미스터리",
+    "Faded": "빛바램",
+    "Lighten": "밝게 하기",
+    "Matte": "매트",
+    "Neutral": "중간색",
+    "OperationName": "사전 설정 조정",
+    "Pop": "팝",
+    "Sepia": "세피아",
+    "SoftContrast": "부드러운 대비",
+    "SoftSepia": "부드러운 세피아",
+    "SplitTone": "스플릿 톤",
+    "Strong": "강하게",
+    "StrongContrast": "강한 대비",
+    "Sunshine": "햇살",
+    "WarmContrast": "따뜻한 대비",
+    "XRay": "X-레이"
+  },
+  "AdjustmentPresetCard": {
+    "Actions": {
+      "Apply": "적용",
+      "Revert": "되돌리기"
+    }
+  },
+  "AdjustmentPresetPanel": {
+    "Button": {
+      "More": "+"
+    }
+  },
+  "AdvancedSettings": {
+    "Title": "고급 설정"
+  },
+  "App": {
+    "SignIn": {
+      "Error": "로그인하는 동안 오류가 발생했습니다. 다시 시도하십시오."
+    },
+    "Startup": {
+      "LCELoginDialog": {
+        "Confirm": "로그인",
+        "Content": "로그인하여 공동 편집자들의 실시간 편집을 보세요.",
+        "Title": "조회 전용 액세스를 갖고 있음"
+      },
+      "ToastInfo": {
+        "ApplyForBeta": "이 파일에 액세스하려면, 저희 비공개 베타 프로그램에 참가하세요. <br/><br/>새로운 기능에 대한 전용 액세스 및 저희와 커뮤니티에 피드백 공유를 할 수 있습니다. (출시 전 동의서가 요구됩니다.)",
+        "LearnMore": "자세히 알아보기",
+        "PsWebSupport": "웹용 Photoshop은 이 장치를 지원하지 않습니다. 편집 또는 변경 사항을 저장하려면 컴퓨터 브라우저에서 열거나 앱 스토어에서 Photoshop을 다운 받으세요.",
+        "PsWebSupportCoediting": "이 기기에서는 동시 공동 편집이 지원되지 않습니다. 실시간으로 협업을 진행하려면, 최신 버전의 지원되는 브라우저에서 이 문서를 여세요."
+      }
+    },
+    "SwitchProfile": {
+      "Error": "프로필을 전환 할 수 없습니다. 페이지를 새로 고침하고 다시 시도 해주세요.",
+      "Refresh": "새로 고침"
+    },
+    "UpdateRecommended": {
+      "Message": "Photoshop 새 버전을 사용할 수 있습니다.",
+      "UpdateNow": "지금 업데이트"
+    },
+    "UpdateRequired": {
+      "Message": "Photoshop 새 버전을 사용할 수 있습니다. 최신 버전의 애플리케이션을 사용하기 위해 새로고침해주세요.",
+      "ReloadButton": "다시 불러오기",
+      "Title": "앱 업데이트 필요"
+    }
+  },
+  "AssetBrowser": {
+    "Tab": {
+      "Deleted": "삭제됨",
+      "Files": "파일",
+      "Projects": "Projects",
+      "SharedWithYou": "나와 공유됨"
+    }
+  },
+  "BlendMode": {
+    "Behind": "배경",
+    "BurnInH": "H에서 번 효과 적용하기",
+    "BurnInM": "M에서 번 효과 적용하기",
+    "BurnInS": "S에서 번 효과 적용하기",
+    "CalculationAdd": "계산 추가",
+    "CalculationSubtract": "계산 빼기",
+    "Clear": "지우기",
+    "Color": "색상",
+    "ColorBurn": "색상 번",
+    "ColorDodge": "색상 닷지",
+    "CustomTable": "사용자 지정 테이블",
+    "Darken": "어둡게 하기",
+    "DarkerColor": "어두운 색상",
+    "DecreaseVibrance": "생동감 감소",
+    "Desaturate": "채도 감소",
+    "Difference": "차이",
+    "Dissolve": "디졸브",
+    "Divide": "나누기",
+    "DodgeH": "닷지 H",
+    "DodgeHX": "닷지 HX",
+    "DodgeM": "닷지 M",
+    "DodgeMX": "닷지 MX",
+    "DodgeS": "닷지 S",
+    "DodgeSX": "닷지 SX",
+    "Exclusion": "제외",
+    "HardLight": "하드 라이트",
+    "HardMix": "하드 혼합",
+    "Height": "높이",
+    "Hue": "색조",
+    "IncreaseVibrance": "생동감 증가",
+    "Lighten": "밝게 하기",
+    "LighterColor": "밝은 색상",
+    "LinearBurn": "선형 번",
+    "LinearDodge": "선형 닷지(추가)",
+    "LinearHeight": "선형 높이",
+    "LinearLight": "선형 라이트",
+    "Luminosity": "광도",
+    "Multiply": "곱하기",
+    "Normal": "표준",
+    "Overlay": "오버레이",
+    "PassThrough": "통과",
+    "PinLight": "핀 라이트",
+    "Revert": "되돌리기",
+    "Saturate": "채도 증가",
+    "Saturation": "채도",
+    "Screen": "스크린",
+    "SoftLight": "소프트 라이트",
+    "Subtract": "빼기",
+    "TestHook": "테스트 후크",
+    "Threshold": "임계값",
+    "VividLight": "선명한 라이트"
+  },
+  "BodyParserLabel": {
+    "Accessories": "액세서리",
+    "Arms": "팔",
+    "Background": "배경",
+    "Beard": "턱수염",
+    "Coat": "코트",
+    "Dress": "드레스",
+    "Ears": "귀",
+    "Eyebrows": "눈썹",
+    "Eyes": "눈",
+    "Face": "얼굴",
+    "Glasses": "안경",
+    "Hair": "머리카락",
+    "Hands": "손",
+    "Hat": "모자",
+    "Legs": "다리",
+    "LowerClothes": "하의",
+    "Mouth": "입",
+    "Neck": "목",
+    "Nose": "코",
+    "Pupil": "눈동자",
+    "Shoes": "신발",
+    "Teeth": "치아",
+    "UpperClothes": "상의"
+  },
+  "BugReportDialog": {
+    "ButtonLabelViewReport": "보고서 보기",
+    "ButtonLabelVisitCommunity": "Adobe 커뮤니티 방문",
+    "ErrorDialogCancel": "취소",
+    "ErrorDialogDescription": "보고서를 제출하는 중에 오류가 발생했습니다. 양식을 작성하고 다시 시도하십시오.",
+    "ErrorDialogLinkLabel": "커뮤니티 방문",
+    "ErrorDialogTitle": "제출할 수 없음",
+    "FileErrorsFileSizeExceeded": "최대 파일 크기 {maxFileSize}MB",
+    "FileErrorsNumberOfFilesExceeded": "최대 파일 수: {filesAddedLimit}",
+    "FileErrorsUnsupportedFileMessage": "지원되지 않는 파일 형식",
+    "MainDialogBugFormDescription": "Photoshop 커뮤니티에 보고서를 추가합니다.",
+    "MainDialogHeading": "버그 보고",
+    "MainDialogHeadingDropZone": "이미지 끌어다 놓기",
+    "MainDialogHeadingFileList": "첨부된 이미지",
+    "MainDialogHelpTextDescription": "재현 단계, 예상 및 실제 결과, 찾은 해결 방법을 포함하여 문제를 설명합니다.",
+    "MainDialogHelpTextSubject": "간결하고 설명이 되는 제목 추가",
+    "MainDialogIllustratedMessageDescription": "또는 장치에서 파일 선택",
+    "MainDialogLabelCancel": "취소",
+    "MainDialogLabelConfirm": "보고",
+    "MainDialogLabelDescription": "설명",
+    "MainDialogLabelSelectTopic": "주제 선택",
+    "MainDialogLabelSizeMB": "MB",
+    "MainDialogLabelSubject": "제목",
+    "MainDialogLabelTopic": "주제",
+    "MainDialogLabelUpload": "이미지 업로드",
+    "MainDialogTitleRemove": "파일 제거",
+    "MessageFailure_New": "보고서가 제출되지 않았습니다. 다시 시도하거나 커뮤니티를 방문하십시오.",
+    "MessageStillProcessing_New": "버그 보고서를 제출하는 데 시간이 좀 걸립니다. 처리되면 웹용 Photoshop 커뮤니티에 표시됩니다.",
+    "MessageSuccess": "피드백을 제공해 주셔서 감사합니다.",
+    "UploadDisclaimer": "개인 정보를 업로드하지 마십시오. 파일을 업로드하면 Adobe 검토자가 파일에 액세스하여 데이터를 수집 및 검토하고 당사의 제품 및 서비스를 개선 및 개발할 수 있도록 사용 정보를 수집할 수 있습니다.",
+    "UploadPolicy": "이미지를 업로드하면 Adobe <sp-link variant=secondary href=\"{{TERMS_LINK}}\" target=\"_blank\">이용 약관</sp-link> 및 <sp-link variant=\"secondary\" href=\"{{PRIVACY_URL}}\" target=\"_blank\">개인정보 처리방침</sp-link>에 동의하는 것입니다."
+  },
+  "BumperPage": {
+    "Button": {
+      "CheckStatus": "상태 확인"
+    },
+    "Description": "현재 웹용 Photoshop를 사용할 수 없습니다. 나중에 다시 시도하십시오.",
+    "Heading": "문제 발생"
+  },
+  "CameraRawPanel": {
+    "AutoTone": {
+      "BlackAndWhite": "흑백",
+      "Title": "자동"
+    },
+    "ChrominanceNr": {
+      "Detail": "세부",
+      "NoiseReduction": "색상 노이즈 감소",
+      "Smoothness": "매끄러움"
+    },
+    "Color": {
+      "Effects": {
+        "Vignette": {
+          "Style": {
+            "AsShot": "밝은 영역 우선순위",
+            "Auto": "색상 우선순위",
+            "Daylight": "페인트 오버레이"
+          }
+        }
+      },
+      "Temp": "임시",
+      "Tint": "색조",
+      "Title": "색상",
+      "WB": {
+        "AsShot": "원본값",
+        "Auto": "자동",
+        "Cloudy": "흐림",
+        "Custom": "사용자 정의",
+        "Daylight": "일광",
+        "Flash": "플래시",
+        "Fluorescent": "형광",
+        "Picker": "WB",
+        "Shade": "음영",
+        "Tungsten": "텅스텐"
+      },
+      "WhiteBalance": "화이트 밸런스"
+    },
+    "ColorMix": {
+      "Hue": "색조",
+      "Luminance": "광도",
+      "Saturation": "채도",
+      "Title": "색상 혼합"
+    },
+    "Detail": {
+      "Title": "세부"
+    },
+    "Effects": {
+      "Title": "효과",
+      "Vignette": {
+        "Style": "스타일"
+      }
+    },
+    "Grain": {
+      "Amount": "그레인",
+      "Roughness": "거칠음",
+      "Size": "크기"
+    },
+    "Light": {
+      "Blacks": "검정 계열",
+      "Clarity": "선명도",
+      "Contrast": "대비",
+      "Dehaze": "디헤이즈",
+      "Exposure": "노출",
+      "Highlights": "밝은 영역",
+      "Saturation": "채도",
+      "Shadows": "어두운 영역",
+      "Texture": "텍스처",
+      "Title": "조명",
+      "Vibrance": "활기",
+      "Whites": "흰색 계열"
+    },
+    "LuminanceNr": {
+      "Contrast": "대비",
+      "Detail": "세부",
+      "NoiseReduction": "노이즈 감소"
+    },
+    "Optics": {
+      "EnableLensCorrections": "렌즈 교정 사용",
+      "RemoveChromaticAberration": "색 수차 제거",
+      "Title": "광학"
+    },
+    "Sharpening": {
+      "Detail": "세부",
+      "Masking": "마스크",
+      "Radius": "반경"
+    },
+    "Sharpness": {
+      "Sharpening": "선명 효과"
+    },
+    "Title": "Light and color",
+    "Vignette": {
+      "Amount": "비네팅",
+      "Feather": "페더",
+      "Highlights": "밝은 영역",
+      "Midpoint": "중간점",
+      "Roundness": "원형율"
+    }
+  },
+  "CIS": {
+    "UserAuth": {
+      "Captcha": {
+        "ErrorToast": "필요한 서비스를 현재 사용할 수 없습니다. 다시 시도하거나 로그인하십시오.",
+        "Progress": "계산중..."
+      }
+    }
+  },
+  "Clipboard": {
+    "BrowserSupportError": "브라우저에서 외부 응용 프로그램으로 복사 및 붙여넣기를 지원하지 않습니다.",
+    "PermissionError": "잘라내고 복사하고 붙여넣으려면 클립보드 권한을 활성화해야 합니다."
+  },
+  "CloudSync": {
+    "Toast": {
+      "ConnectionRestored": "연결 복원됨",
+      "NetworkDisconnected": "저장할 수 없습니다. 연결을 확인하고 다시 시도하십시오."
+    }
+  },
+  "Coediting": {
+    "Conflict": {
+      "ActionLabel": "작업 내역 패널 표시",
+      "Notification_one": "{{DISPLAY_NAME}}님과 충돌하여 최근 변경 내용이 되돌려졌습니다.",
+      "Notification_other": "{{DISPLAY_NAME}}님과 충돌하여 최근 변경 내용이 되돌려졌습니다.",
+      "UnknownUser": "공동 작업자"
+    },
+    "Dialog": {
+      "ViewOnly": {
+        "Confirm": "확인",
+        "Headline": "조회 및 댓글 전용 액세스를 갖고 있음",
+        "Text": "문서를 편집할 수는 없지만, 공동 편집자들의 실시간 편집은 확인할 수 있습니다."
+      }
+    },
+    "Entitlement": {
+      "Notification": "파일 편집에는 Photoshop 구독이 필요합니다."
+    },
+    "FeatureFlags": {
+      "Dialog": {
+        "AppSettings": "열기 설정",
+        "Headline": "문서를 열 수 없음",
+        "Text": "동시 공동 편집이 현재 활성화가 아닙니다.<p>활성화하기 위해서는 앱 세팅을 연 후, (<kbd>{{kbsc}}</kbd>) <b style=\"white-space: nowrap;\">기술 미리 보기</b>의 <b style=\"white-space: nowrap;\">동시 공동 편집</b>을 켜세요. 완료한 후. 페이지를 새로 고침하세요.</p>"
+      }
+    },
+    "IncompatibleDocContentDialog": {
+      "Content": "현재 이 문서를 공동 편집할 수 없습니다. 조회 및 댓글 엑세스만 부여되며 추가 업데이트는 볼 수 없습니다.",
+      "Title": "Photoshop 버전이 지원되지 않음"
+    },
+    "Offline": {
+      "Dialog": {
+        "Cancel": "취소",
+        "Confirm": "다운로드",
+        "Headline": "오프라인 상태임",
+        "Text": "수정 사항을 저장하려면 문서의 사본을 장치에 다운로드하세요."
+      }
+    },
+    "SessionDisconnected": {
+      "ConfirmLabel": "다른 이름으로 저장...",
+      "ConnectionError": "네트워크 또는 시간 초과 오류로 인해 세션이 종료되었습니다.",
+      "Headline": "동시 공동 편집 세션이 종료되었습니다",
+      "NoUnsyncedChanges": "조회 및 댓글 엑세스만 가질 수 잇습니다. 편집을 게속하려면 다시 로드하세요.",
+      "SaveAsNew": "새 문서로 저장하여 수정 사항을 유지할 수 있습니다.",
+      "SecondaryLabel": "취소",
+      "UnknownError": "연결 오류로 세션이 종료되었습니다.",
+      "UnsyncedChanges": "일부 수정 사항이 동기화 되지 않고 사라질 수 있습니다. 조회 및 댓글 엑세스만 있습니다."
+    }
+  },
+  "CoeditingPaywall": {
+    "Description": {
+      "P1ViewAndComment": "구독하지 않으면 댓글과 실시간 편집 보기만 할 수 있습니다.",
+      "P1ViewOnly": "구독하지 않으면 실시간 편집 보기만 할 수 있습니다.",
+      "P2": "Photoshop의 강력한 크리에이티브 능력을 해방하고 문서를 공동 편집자들과 편집하세요.",
+      "P3": "7일 무료 체험판으로 시작해보세요."
+    },
+    "FreeTrial": "7일 무료 체험판 시작",
+    "Heading": "7일 무료 체험판으로 동시 공동 편집 활성화",
+    "ViewAllPlans": "모든 플랜 보기"
+  },
+  "CollapsibleGrid": {
+    "Expand": "모두 보기"
+  },
+  "ColorPicker": {
+    "AdjustmentTint": {
+      "Title": "색조 색상 선택",
+      "Tooltip": "색조 색상 선택"
+    },
+    "Background": {
+      "Title": "배경색"
+    },
+    "ColorMode": {
+      "CMYK": "CMYK",
+      "HideSliders": "슬라이더 숨기기",
+      "HSB": "HSB",
+      "LAB": "LAB",
+      "Label": "색상 모드",
+      "RGB": "RGB",
+      "ShowSliders": "슬라이더 표시"
+    },
+    "EditSwatch": {
+      "Back": {
+        "Tooltip": "색상 피커로 돌아가기"
+      },
+      "Cancel": "취소",
+      "EditSwatch": "색상 견본 편집",
+      "Save": "저장",
+      "SwatchName": "색상 견본 이름"
+    },
+    "Foreground": {
+      "Title": "전경색"
+    },
+    "Swatch": {
+      "AddSwatch": "색상 견본 추가",
+      "Delete": "삭제",
+      "DeleteAll": "모든 색상 견본 삭제",
+      "DeleteAllDialog": {
+        "Cancel": "취소",
+        "ConfirmLabel": "삭제",
+        "Message": "모든 색상 견본을 삭제합니다. 이 작업은 실행 취소할 수 없습니다.",
+        "Title": "모든 색상 견본을 삭제하시겠습니까?"
+      },
+      "DeleteSelectedSwatches": "선택된 견본 삭제",
+      "Edit": "편집",
+      "NewSwatch": "색상 견본"
+    },
+    "SwatchMode": {
+      "Swatches": "색상 견본"
+    },
+    "TextInput": {
+      "CMYK": {
+        "C": "C",
+        "K": "K",
+        "M": "M",
+        "Y": "Y"
+      },
+      "CurrentColor": "현재 색상",
+      "DefaultBlack": "검은색 설정",
+      "DefaultWhite": "흰색 설정",
+      "Error": "유효한 색상 코드가 필요합니다.",
+      "Hex": "HEX",
+      "HSB": {
+        "B": "B",
+        "H": "H",
+        "S": "S"
+      },
+      "LAB": {
+        "A": "A",
+        "B": "B",
+        "L": "L"
+      },
+      "NewColor": "새 색상",
+      "RGB": {
+        "B": "B",
+        "G": "G",
+        "R": "R"
+      },
+      "SampleAColor": "스포이드 도구를 사용하여 색상 샘플링"
+    },
+    "Type": {
+      "Title": "색상 선택",
+      "Tooltip": "색상 선택"
+    }
+  },
+  "CommentsPanel": {
+    "Title": "주석"
+  },
+  "Component": {
+    "FacePile": {
+      "More": "더 보기..."
+    }
+  },
+  "Components": {
+    "ComboSlider": {
+      "OpenSlider": "슬라이더 열기"
+    }
+  },
+  "ConfirmDeleteBrushesFolder": {
+    "Cancel": "취소",
+    "ConfirmLabel": "삭제",
+    "Message": "폴더 안의 모든 브러시를 삭제합니다. 이 작업은 실행 취소할 수 없습니다.",
+    "Title": "### 삭제"
+  },
+  "ConfirmDeleteGradient": {
+    "Cancel": "취소",
+    "ConfirmLabel": "삭제",
+    "Message": "선택한 모든 그레이디언트를 삭제합니다. 이 작업은 실행 취소할 수 없습니다.",
+    "Title": "그레이디언트 삭제"
+  },
+  "ConfirmDeletePattern": {
+    "Cancel": "취소",
+    "ConfirmLabel": "삭제",
+    "Message": "선택한 모든 패턴을 삭제합니다. 이 작업은 실행 취소할 수 없습니다.",
+    "Title": "패턴 삭제"
+  },
+  "ConfirmResetBrushes": {
+    "Cancel": "취소",
+    "ConfirmLabel": "재설정",
+    "Message": "불러온 모든 브러시를 삭제합니다. 이 작업은 실행 취소할 수 없습니다.",
+    "Title": "기본 브러시로 재설정."
+  },
+  "ConfirmResetContours": {
+    "Cancel": "취소",
+    "ConfirmLabel": "재설정",
+    "Message": "불러온 모든 윤곽선을 삭제합니다. 이 작업은 실행 취소할 수 없습니다.",
+    "Title": "기본 윤곽선으로 재설정"
+  },
+  "ConfirmResetGradients": {
+    "Cancel": "취소",
+    "ConfirmLabel": "재설정",
+    "Message": "불러온 모든 그레이디언트를 삭제합니다. 이 작업은 실행 취소할 수 없습니다.",
+    "Title": "기본 그레이디언트로 재설정"
+  },
+  "ConfirmResetPatterns": {
+    "Cancel": "취소",
+    "ConfirmLabel": "재설정",
+    "Message": "불러온 모든 패턴을 삭제합니다. 이 작업은 실행 취소할 수 없습니다.",
+    "Title": "기본 패턴으로 재설정"
+  },
+  "ConflictAvoidanceDialog": {
+    "Body": {
+      "Options1": "파일 보기만 가능합니다.",
+      "Options2": {
+        "NoUsername": "다른 사용자가 수정하고 있습니다. 직접 수정하려면 사본을 저장하거나 다른 사용자가 수정을 완료할 때까지 기다린 후 다시 시도하십시오.",
+        "Username": "###이(가) 수정하고 있습니다. 직접 수정하려면 사본을 저장하거나 다른 사용자가 수정을 완료할 때까지 기다린 후 다시 시도하십시오."
+      }
+    },
+    "Title": "다른 사용자가 파일을 수정하고 있습니다"
+  },
+  "ContextBarLayerControls": {
+    "NumberOfSelectedLayers_one": "{{count}}개 선택됨",
+    "NumberOfSelectedLayers_other": "{{count}}개 선택됨",
+    "Properties": "레이어 속성",
+    "ShowSelectedLayer": "선택한 레이어 표시",
+    "ShowSelectedLayers": "선택한 레이어 표시",
+    "ShowSelectedMask": "선택한 마스크 표시"
+  },
+  "CropPanel": {
+    "AspectRatio": {
+      "Button": {
+        "Title": "회전"
+      }
+    },
+    "Label": {
+      "Height": "높이",
+      "Units": "단위",
+      "Width": "폭"
+    },
+    "Lockbutton": {
+      "ConstrainAspectRatio": "종횡비 제한",
+      "DoNotConstrainAspectRatio": "종횡비를 제한하지 않음"
+    },
+    "Presets": {
+      "Title": "사전 설정"
+    },
+    "Reset": {
+      "Button": {
+        "Title": "재설정"
+      }
+    },
+    "Rotate": {
+      "Label": "회전"
+    },
+    "Straighten": {
+      "Button": {
+        "Title": "똑바르게 하기"
+      }
+    },
+    "Swapbutton": {
+      "SwapDimensions": "폭 및 높이 바꾸기"
+    },
+    "Units": {
+      "Centimeters": "센티미터",
+      "Inches": "인치",
+      "Millimeters": "밀리미터",
+      "Pixels": "픽셀"
+    }
+  },
+  "CropPanelPresetCard": {
+    "Dimensions": {
+      "Title": "{{RATIO_WIDTH}} x {{RATIO_HEIGHT}}"
+    }
+  },
+  "CropPresetCategory": {
+    "Facebook": {
+      "Facebook": "Facebook",
+      "Title": {
+        "Post": "게시물",
+        "Profil": {
+          "photo": "프로필 사진"
+        },
+        "Story": "스토리"
+      }
+    },
+    "Instagram": {
+      "Instagram": "Instagram",
+      "Title": {
+        "Landscape": "가로",
+        "Portrait": "세로",
+        "Profile": {
+          "photo": "프로필 사진"
+        },
+        "Square": "정사각형",
+        "Story": "스토리"
+      }
+    },
+    "LinkedIn": {
+      "LinkedIn": "LinkedIn",
+      "Title": {
+        "Landscape": "LinkedIn",
+        "Profile": {
+          "photo": "프로필 사진"
+        }
+      }
+    },
+    "Photos": {
+      "Dimensions": {
+        "Title": "###:+++"
+      },
+      "Photos": "사진",
+      "Square": {
+        "Title": "정사각형"
+      }
+    },
+    "Tiktok": {
+      "TikTok": "TikTok",
+      "Title": {
+        "Clip": "클립"
+      }
+    },
+    "Twitter": {
+      "Title": {
+        "Cover": {
+          "photo": "커버 사진"
+        },
+        "Landscape": "가로",
+        "Profile": {
+          "photo": "프로필 사진"
+        }
+      },
+      "Twitter": "Twitter"
+    },
+    "YouTube": {
+      "Title": {
+        "Thumbnail": "축소판"
+      },
+      "YouTube": "YouTube"
+    }
+  },
+  "CSAT": {
+    "RateExperienceDialog": {
+      "Cancel": "취소",
+      "Headline": "동시 공동 편집 평가하기",
+      "SendFeedback": "피드백 보내기"
+    }
+  },
+  "CurvesProperties": {
+    "Curves": {
+      "Delete": "삭제",
+      "DragOnImage": "이미지에 드래그",
+      "Draw": "그리기",
+      "InputField": "입력",
+      "OutputField": "출력",
+      "Points": "포인트",
+      "Reset": "재설정",
+      "Tooltip": {
+        "DragOnImage": "이미지를 클릭하고 드래그하여 곡선을 수정합니다.",
+        "Draw": "드래그하여 곡선 수정",
+        "Points": "점을 편집하여 곡선 수정"
+      },
+      "Unsupported": "이 이미지 모드에서 곡선은 지원되지 않습니다"
+    }
+  },
+  "Dialog": {
+    "Close": "닫기",
+    "DontShowAgain": "다시 표시 안 함",
+    "FeatureUnsupportedForCoediting": {
+      "Cancel": "취소",
+      "Headline": "이 기능은 지원되지 않음",
+      "SaveAs": "다른 이름으로 저장...",
+      "Text": "일부 기능들은 동시 공동 편집이 적용되면 지원되지 않습니다. 해당 기능들을 사용하기 위해서는 다른 문서로 저장하면 됩니다.  <sp-link href=”{{LEARN_MORE_URL}}” target=”_blank”>자세히 알아보기</sp-link>"
+    },
+    "Menu": "메뉴"
+  },
+  "DiscoverCoachmarkCard": {
+    "Button": {
+      "GotIt": "확인",
+      "Upgrade": "업그레이드"
+    },
+    "HoTAbortDialog": {
+      "Content2": "<p style='margin-top: 0;'>도움말 패널에서 더 많은 학습 리소스에 액세스하고, 샘플 파일을 사용하여 작업하고, 단계별 지침을 받을 수 있습니다.</p><p style='margin-bottom: 0;'>Photoshop의 강력한 모든 도구를 이용하고 창의력을 극대화할 수 있습니다.지금 업그레이드하세요. 처음 7일은 무료입니다.</p>",
+      "Title": "실습 자습서로 계속 학습"
+    }
+  },
+  "DiscoverMode": {
+    "Footer": {
+      "AdChoices": "AdChoices",
+      "Cookies": "쿠키",
+      "Language": "언어: ",
+      "PrivacyPolicy": "개인정보 처리방침",
+      "TermsOfUse": "이용 약관"
+    }
+  },
+  "DiscoverPage": {
+    "BenefitsSection": {
+      "Benefit2": "웹 브라우저에서 바로 멋진 사진, 풍부한 그래픽, 놀라운 예술 작품 만들기",
+      "Benefit3": "웹, 데스크탑, 모바일에서 Photoshop을 사용하여 언제 어디서나 작업할 수 있습니다.",
+      "Benefit4": "자습서, 무료 에셋, Adobe Express 템플릿, 글꼴로 창의력 발휘",
+      "Benefit5": "Photoshop 웹 편집기에서 바로 강력한 Adobe Camera Raw를 활용하십시오",
+      "Benefit6": "맞춤형 브러시를 만들고 구독을 통해 모든 Adobe Fresco와 Kyle의 브러시를 살펴보십시오.",
+      "GenfillBenefit": "생성형 AI를 통해 지원되는 간단한 텍스트 프롬프트로 이미지를 빠르게 생성, 추가, 제거 또는 바꾸기",
+      "HeaderFreeTrial": "시작할 준비가 되셨나요? 7일 무료 체험판을 시작하세요.",
+      "TryNow": "지금 사용해 보기"
+    },
+    "Button": {
+      "BuyNow": "지금 구매",
+      "FreeTrial": "무료 체험판 시작",
+      "LearnMore": "자세히 알아보기",
+      "StudentFreeTrial": "학생용 체험판 시작",
+      "TryDemo": "생성형 채우기 체험하기"
+    },
+    "CreditQuota": {
+      "LowCredits": "생성 크레딧이 적습니다. 계정에서 잔액을 확인하거나 플랜을 업그레이드 할 수 잇습니다.",
+      "OutOfCredits": "생성 크레딧이 없습니다. 플랜을 업그레이드하여 크레딧을 더 획득할 수 있습니다.",
+      "Upgrade": "업그레이드"
+    },
+    "Dynamic": {
+      "CreateOnYourOwn": {
+        "Description": "사진을 선택하고 앱 내에서 DIY 경험을 통해 나만의 사진을 만들어 보세요.",
+        "First": {
+          "PrimaryCTA": "차를 선택합니다"
+        },
+        "Second": {
+          "PrimaryCTA": "개를 선택합니다"
+        },
+        "Title": "샘플 이미지로 직접 만들어 보세요"
+      },
+      "ExtendFreeTrialForStudents": {
+        "Description": "현재 인증된 기관의 학생이라면 웹용 Photoshop을 구독하여 일회성 6개월 체험판을 획득할 수 있으며 모든 강력한 도구와 교육 튜토리얼에 액세스하여 기술을 쌓아갈 수 있습니다.",
+        "PrimaryCTA": "자세히 알아보기",
+        "Title": "학생을 위한 연장된 무료 체험판"
+      },
+      "GenFillDemo": {
+        "Description": "텍스트 프롬프트에서 놀라운 예술 작품을 순식간에 만들어보세요. 생성형 AI로 상상할 수 있는 모든 것을 만들거나 사라지게 하세요.",
+        "PrimaryCTA": "생성형 채우기 시작하기",
+        "ShortTitle": "가이드와 함께하는 투어",
+        "Title": "생성형 채우기 체험하기"
+      },
+      "GetAFeel": {
+        "Description": "실습을 통해 브라우저에서 바로 멋진 이미지와 그래픽을 만드는 방법을 알아보세요.",
+        "PrimaryCTA": "둘러보기 시작",
+        "Title": "Photoshop에 대해 알아봅니다"
+      },
+      "GetStarted": {
+        "Title": "시작 방법을 선택하세요"
+      },
+      "Remove": {
+        "Description": "단 몇 번의 클릭만으로 사람, 주의를 산만하게 하는 요소, 불완전한 부분을 제거하는 방법을 살펴봅니다.",
+        "PrimaryCTA": "지금 보기",
+        "Title": "이미지에서 무엇이든 제거하는 방법 보기"
+      },
+      "Welcome": {
+        "Description": "웹용 Photoshop은 간소화된 인터페이스로 강력한 편집 도구를 제공합니다. 여기에서 앱을 미리 보세요. 로그인하여 7일 무료 체험해보세요.",
+        "DescriptionStudent": "웹용 Photoshop은 간소화된 인터페이스로 강력한 편집 도구를 제공합니다. 여기에서 앱을 미리 보세요. <b>로그인하여 무료 체험, 학생들은 6개월 무료입니다</b>.",
+        "PrimaryCTA": "무료 체험판 시작",
+        "PrimaryCTAStudent": "학생입니다",
+        "SecondaryCTA": "무료 체험판 시작",
+        "Title": "Photoshop을 시작합니다",
+        "TitleStudent": "<span style=\"background-image: linear-gradient(90deg, rgba(48,167,254) 0%, rgba(99, 56, 238) 100%); background-clip: text; color: transparent;\">Photoshop</span>에 오신걸 환영합니다"
+      }
+    },
+    "GenerativeAIBanner": {
+      "Description": "생성형 AI를 통해 지원되는 간단한 텍스트 프롬프트로 Adobe Photoshop에서 곧바로 이미지를 빠르게 생성, 추가, 제거 또는 바꾸기",
+      "Title": "생성형 채우기로 더 크게 꿈꾸십시오."
+    },
+    "Recent": "최근",
+    "SignInSection": {
+      "ContinueWithAdobe": "Adobe로 계속하기",
+      "ContinueWithApple": "Apple로 계속하기",
+      "ContinueWithGoogle": "Google로 계속하기",
+      "Footer": "다른",
+      "FooterSignIn": "로그인 방법 보기",
+      "HeaderFreeTrial": "지금 등록하여 무료 체험판 획득",
+      "SubHeader": "Adobe Photoshop"
+    },
+    "TicketEntitlement": {
+      "Notification": "무료 액세스 권한이 만료되었습니다. 계속 파일을 편집하려면 Photoshop 구독이 필요합니다."
+    },
+    "TutorialCards": {
+      "BringOutColors": {
+        "Desc": "색상 연출"
+      },
+      "ColorAdjustments": {
+        "Desc": "선택 색상 조정"
+      },
+      "CreateArtwork": {
+        "Desc": "여러 개의 이미지로 아트워크 만들기"
+      },
+      "GenAICard": {
+        "Desc": "놀라운 예술을 만들어 내는 텍스트 프롬프트",
+        "Title": "데모 자습서"
+      },
+      "GetStarted": {
+        "Desc": "웹용 Photoshop 시작하기"
+      },
+      "GetStartedButton": "튜토리얼 시작",
+      "HideImperfections": {
+        "Desc": "작은 흠집 숨기기"
+      },
+      "RemoveObject": {
+        "Desc": "큰 개체 제거"
+      },
+      "StylizePoster": {
+        "Desc": "포스터에 세련된 스타일 가미"
+      },
+      "Title": "실습 자습서",
+      "WhatsDifferent": {
+        "Desc": "웹용 Photoshop의 차이점"
+      }
+    },
+    "Tutorials": {
+      "Header": "실습 자습서로 학습 시작"
+    }
+  },
+  "DiscoverPanel": {
+    "Panel": {
+      "Comments": {
+        "Title": "주석  패널"
+      },
+      "ContextBar": {
+        "Title": "상황별 작업 표시줄"
+      },
+      "Discover": {
+        "Title": "도움말"
+      },
+      "Layers": {
+        "Title": "레이어  패널"
+      },
+      "Properties": {
+        "Title": "속성  패널"
+      },
+      "Taskbar": {
+        "Title": "작업 표시줄"
+      },
+      "Tools": {
+        "Title": "도구 패널"
+      },
+      "ToolSettings": {
+        "Title": "도구 설정"
+      }
+    },
+    "Shortcuts": {
+      "Category": {
+        "Auto": "자동",
+        "Color": "색상",
+        "Essential": "기본 요소",
+        "File": "파일",
+        "Fill": "채우기",
+        "Filter": "필터",
+        "GuidesGridsRulers": "안내선, 격자 및 눈금자",
+        "Layer": "레이어",
+        "LeftPanelToolbar": "왼쪽 패널 도구 모음",
+        "Orientation": "방향",
+        "RefineEdge": "가장자리 다듬기",
+        "Selection": "선택",
+        "SelectionTools": "선택 도구",
+        "Tools": "도구",
+        "Zoom": "돋보기"
+      }
+    },
+    "Tool": {
+      "Title": {
+        "Adjust": "조정",
+        "QuickActions": "빠른 작업"
+      },
+      "Tooltip": {
+        "Adjust": "조정",
+        "Brush": "브러시 도구(B)",
+        "Burn": "어둡게(번) 도구(O)",
+        "CloneStamp": "복제 도장 도구(S)",
+        "Crop": "자르기 도구(C)",
+        "Dodge": "밝게(닷지) 도구(O)",
+        "Ellipse": "타원 도구(U)",
+        "EllipticalMarquee": "타원형 선택 도구(M)",
+        "Eraser": "지우개 도구(E)",
+        "Eyedropper": "스포이드 도구(I)",
+        "GenExpand": "생성형 확장 도구",
+        "GenFill": "생성형 채우기 도구",
+        "GenImage": "이미지 생성 도구",
+        "Gradient": "그레이디언트 도구(G)",
+        "HealingBrush": "복구 브러시 도구(J)",
+        "Import": "가져오기 도구",
+        "Lasso": "올가미 도구(L)",
+        "Line": "선 도구(U)",
+        "MagicLasso": "개체 선택 도구(W)",
+        "MagicWand": "자동 선택 도구(W)",
+        "Move": "이동 도구(V)",
+        "PaintBucket": "페인트 통 도구(G)",
+        "PathSelection": "모양 이동 도구(A)",
+        "Polygon": "다각형 도구(U)",
+        "QuickActions": "빠른 작업",
+        "QuickSelect": "빠른 선택 도구(W)",
+        "Rectangle": "사각형 도구(U)",
+        "RectangularMarquee": "사각형 선택 윤곽 도구(M)",
+        "RemoveTool": "제거 도구",
+        "Smudge": "손가락 도구",
+        "Sponge": "채도, 스폰지 도구 (O)",
+        "SpotHealingBrush": "스폿 복구 브러시 도구(J)",
+        "Transform": {
+          "MacOs": "변형 도구(⌥ + ⌘ + T)",
+          "Win": "변형 도구(Alt+Ctrl+T)"
+        },
+        "Triangle": "삼각형 도구(U)",
+        "Type": "문자 도구(T)"
+      }
+    },
+    "UpgradeDialog": {
+      "Upgrade": "업그레이드"
+    }
+  },
+  "Doc": {
+    "AquirePresence": {
+      "Error": {
+        "Heading": "문서의 편집 상태를 확인하는 중에 오류가 발생했습니다. 다시 로드하고 다시 시도하십시오.",
+        "Reload": "다시 불러오기"
+      }
+    },
+    "CanEditToast": {
+      "ActionLabel": "문서 편집",
+      "Message": "이제 문서를 편집할 수 있습니다"
+    },
+    "ConfirmEditToast": {
+      "Message": "이제 이 문서의 변경 사항을 편집하고 저장할 수 있습니다"
+    },
+    "Entitlement": {
+      "Notification": "파일을 편집하려면 Photoshop을 구독해야 합니다."
+    },
+    "Export": {
+      "Error": {
+        "Unknown": "내보낼 수 없음"
+      },
+      "ProgressDialog": {
+        "Label": {
+          "SaveAsCloud": "문서 사본 생성 중",
+          "SavingDocument": "문서 저장 중",
+          "SendToAEM": "Adobe Experience Manager으로 전송 중",
+          "SendToLR": "Lightroom으로 보내는 중",
+          "SigningExportedImage": "내보낸 이미지에 서명 중",
+          "UploadingDocument": "문서 업로드 중"
+        }
+      },
+      "SaveToLightroom": {
+        "Open": "열기",
+        "Ready": "Lightroom 사진이 준비되었습니다.",
+        "Success": "성공적으로 Adobe Lightroom으로 전송되었습니다. 사진이 준비되면 알림을 받게 됩니다."
+      },
+      "SigningError": {
+        "Unknown": "문서를 내보냈지만 Content Credentials를 게시하거나 첨부할 수 없습니다."
+      },
+      "SigningSuccess": {
+        "Generic": "문서를 성공적으로 내보냈으며 Content Credentials가 적용되었습니다."
+      },
+      "Success": {
+        "Generic": "문서를 내보냄"
+      }
+    },
+    "Filename": {
+      "Untitled": "제목 없음"
+    },
+    "NewDocVersionToast": {
+      "ActionLabel": "검색 업데이트",
+      "Message": "새로운 편집으로 새 버전의 문서가 출시되었습니다."
+    },
+    "Open": {
+      "Error": {
+        "Create": "문서를 만들 수 없음"
+      },
+      "ProgressDialog": {
+        "Label": {
+          "LoadingDocument": "문서 로드 중",
+          "PreparingDocument": "문서 준비 중"
+        }
+      }
+    },
+    "OpenInDesktop": {
+      "MessageDialog": {
+        "Button": {
+          "Cancel": "취소",
+          "Confirm": "데스크탑 앱에서 열기",
+          "ConfirmNotInstalled": "데스크탑 앱 설치"
+        },
+        "Messsage": "계속 편집하려면 Photoshop 데스크탑 앱으로 전환해야 합니다. 웹용 Photoshop은 보기 전용 모드로 전환됩니다. 변경을 완료한 후 이 페이지를 새로 고치면 계속 진행할 수 있습니다.",
+        "MesssageNotInstalled": "계속 편집하려면 Photoshop 데스크탑 앱을 설치해야 합니다. 웹용 Photoshop은 보기 전용 모드로 전환됩니다. 데스크탑에서 변경을 완료한 후 여기로 돌아오면 웹에서 편집을 계속할 수 있습니다.",
+        "Title": "데스크탑 앱에서 열기",
+        "TitleNotInstalled": "데스크탑 앱 설치"
+      },
+      "ProgressDialog": {
+        "Label": {
+          "Saving": "문서 저장",
+          "SavingToCloud": "클라우드에 저장 중"
+        }
+      }
+    },
+    "OpenInDesktopBeta": {
+      "MessageDialog": {
+        "Button": {
+          "Cancel": "취소",
+          "Confirm": "Photoshop (Beta)에서 열기",
+          "ConfirmNotInstalled": "Photoshop (Beta) 설치"
+        },
+        "Messsage": "문서를 Photoshop (Beta) 앱에서 여는 중입니다.<br /><br />현재 세션을 계속 열어둘 경우, 다른 색으로 2개의 아바타를 갖게 됩니다.<br /><br />Photoshop (Beta)에서 계속 여시겠습니까?",
+        "MesssageNotInstalled": "계속 편집하려면 최신 버전의 Photoshop (Beta) 앱을 설치해야 합니다. 변경을 완료한 후, 이 페이지를 새로 고침하세요.",
+        "Title": "Photoshop (Beta)에서 열기",
+        "TitleNotInstalled": "Photoshop (Beta) 설치"
+      }
+    },
+    "OpenInViewOnlyToast": {
+      "Message": {
+        "Name": "### 이(가) 파일을 수정하는 중에는 파일 보기만 가능합니다.",
+        "Unknown": "다른 사용자가 파일을 수정하는 중에는 파일 보기만 가능합니다."
+      }
+    },
+    "PlaceFile": {
+      "NewLayerName": "새로운 레이어"
+    },
+    "QuickMaskMode": {
+      "Exit": "빠른 마스크 모드가 종료되었습니다."
+    },
+    "RenditionPreview": {
+      "Error": "미리 보기 렌디션을 불러올 수 없음"
+    },
+    "Save": {
+      "Error": {
+        "Unknown": "예상하지 못한 오류가 발생했습니다. 다시 시도하십시오."
+      },
+      "LowBandwidth": "연결 속도가 느립니다. 계속 편집할 수 있지만 문서를 저장하는 데 시간이 더 걸릴 수 있습니다."
+    },
+    "SaveACopyAndOpenInNewTab": {
+      "ProgressDialog": {
+        "Message": "준비가 되면 알림을 받게 됩니다.",
+        "Title": "문서 저장 중"
+      },
+      "SuccessDialog": {
+        "Button": {
+          "Cancel": "취소",
+          "Open": "열기"
+        },
+        "Message": "이제 문서를 열 수 있습니다.",
+        "Title": "저장 완료"
+      }
+    },
+    "SaveToLightroom": {
+      "Error": "Lightroom으로 보내는 동안 오류가 발생했습니다. 다시 시도하세요."
+    },
+    "SavingOffline": "오프라인 상태이므로 현재 편집 내용을 저장할 수 없습니다. 온라인 상태가 되면 다시 시도하십시오.",
+    "TicketEntitlement": {
+      "Notification": "무료 액세스 권한이 만료되었습니다. 계속 파일을 편집하려면 Photoshop 구독이 필요합니다."
+    },
+    "UnsupportedColorMode": "해당 색상 모드는 아직 웹용 Photoshop에서 지원되지 않습니다."
+  },
+  "DocAction": {
+    "LiveEditing": {
+      "AnonymousUser": "익명"
+    }
+  },
+  "DocumentInfoPanel": {
+    "Canvas": {
+      "ColorMode": "색상 모드",
+      "Height": "높이",
+      "Size": "크기",
+      "Title": "캔버스",
+      "Width": "폭"
+    },
+    "ColorMode": "색상 모드",
+    "Created": "만든 날짜",
+    "File": {
+      "Created": "생성됨",
+      "Modified": "수정됨",
+      "PSCloucDocument": "PS 클라우드 문서",
+      "Title": "파일",
+      "Type": "유형"
+    },
+    "FileSize": "파일 크기",
+    "FileSizeToolTip": "크기는 레이어, 채널, 마스크 및 기타 요소가 포함된 레이어가 있는 Photoshop 문서를 나타냅니다. 또한 클라우드에 있는 문서의 크기를 나타냅니다.",
+    "Height": "높이",
+    "LightroomAsset": "Lightroom 사진",
+    "Modified": "수정됨",
+    "PSCloudDocument": "Photoshop 클라우드 문서",
+    "PSCoeditingAsset": "공동 편집 Photoshop 문서",
+    "Px": "픽셀",
+    "Resolution": "해상도",
+    "Title": "문서 정보",
+    "Type": "유형",
+    "Width": "폭"
+  },
+  "DocumentMenu": {
+    "CloudSync": {
+      "Details": {
+        "ChangesWillBeSavedShortly": "변경 사항이 곧 자동으로 저장되거나 언제든지 수동으로 저장({{kbsc}})할 수 있습니다.",
+        "ChangesWillBeSavedToTheCloudShortly": "변경 사항이 곧 클라우드에 저장되거나 언제든지 수동으로 동기화({{kbsc}})될 수 있습니다.",
+        "Disconnected": "연결이 끊어짐",
+        "InProgress": "진행 중",
+        "LastSaved": "마지막으로 저장됨",
+        "LastSynced": "마지막 동기화됨",
+        "Reconnect": "다시 연결하는 중...",
+        "Saved": "파일 저장됨",
+        "SaveError": "저장 오류",
+        "SavePending": "저장 보류 중",
+        "Saving": "저장 중...",
+        "SorrySomething": "죄송합니다. 문제가 발생했습니다",
+        "Synced": "클라우드에 파일 동기화 완료",
+        "Syncing": "클라우드에 변경 사항을 동기화 중...",
+        "SyncPending": "동기화 보류 중"
+      },
+      "Popover": {
+        "Syncing": "클라우드에 동기화 중..."
+      },
+      "Status": {
+        "ChangesWillBeSavedShortly": "변경 사항이 곧 저장됩니다.",
+        "ChangesWillBeSyncedShortly": "변경 사항이 곧 동기화됩니다",
+        "Disconnected": "연결이 끊어짐",
+        "Error": "오류",
+        "Saved": "저장됨",
+        "Saving": "저장 중...",
+        "Synced": "클라우드에 동기화 완료",
+        "Syncing": "클라우드에 변경 사항을 동기화 중..."
+      }
+    },
+    "DocumentInfo": "문서 정보...",
+    "VersionHistory": "버전 기록",
+    "Versions": {
+      "Original": "원본",
+      "RevertUnavailable": "[돌아가기]는 문서가 저장 완료되면 사용할 수 있습니다.",
+      "RevertUnavailableSyncing": "[실행 취소]는 문서가 클라우드 동기화가 완료된 후 가능합니다.",
+      "SaveNowNew": "지금 저장"
+    }
+  },
+  "DPInterventionCard": {
+    "Button": {
+      "Gotit": "확인"
+    }
+  },
+  "DPSelector": {
+    "DocumentMenu": "문서 메뉴",
+    "EditBackground": {
+      "Colors": "색상",
+      "CustomColor": "사용자 정의   색상",
+      "Image": "이미지"
+    },
+    "Header": {
+      "AccountMenu": "계정 메뉴",
+      "DownloadButton": "다운로드",
+      "FeedbackMenu": "피드백 메뉴",
+      "FreeTrial": "무료 체험판",
+      "GetDesktop": "데스크탑 다운로드",
+      "Help": "도움말",
+      "MainMenu": "주메뉴",
+      "OpenIn": "열기",
+      "OpenInDesktop": "데스크탑에서 열기",
+      "Redo": "다시 실행",
+      "RequestAccess": "액세스 요청",
+      "ShareMenu": "공유 메뉴",
+      "SigninButton": "로그인",
+      "Toolbar": "도구 모음",
+      "Undo": "실행 취소",
+      "Upgrade": "업그레이드",
+      "ZoomMenu": "확대/축소 메뉴"
+    },
+    "Layeractions": {
+      "AddLayerMask": "레이어 마스크 추가",
+      "AdjustmentLayers": "조정 레이어",
+      "ArrangeLayers": "레이어 정렬",
+      "Blending": {
+        "Opacity": "혼합 모드 불투명도"
+      },
+      "CreateClippingMask": "클리핑 마스크 만들기",
+      "Delete": "삭제",
+      "DisableLayerMask": "레이어 마스크 비활성화",
+      "EnableLayerMask": "레이어 마스크 사용 가능",
+      "LayerEffects": "레이어 효과",
+      "LayerVisibility": "레이어 가시성",
+      "NewLayer": "새 레이어 추가",
+      "ReleaseClippingMask": "클리핑 마스크 해제"
+    },
+    "Properties": {
+      "FontFillColor": "글꼴 채우기 색상",
+      "FontPicker": "글꼴 선택기",
+      "FontSize": "글꼴 크기",
+      "HueSaturation": {
+        "Hue": "색조 슬라이더",
+        "Reset": "재설정 버튼",
+        "Saturation": "채도 슬라이더"
+      }
+    },
+    "SectionToolbar": {
+      "Adjust": "조정",
+      "GenerativeTools": "생성형",
+      "Paint": "페인트",
+      "Retouch": "리터치",
+      "Select": "선택",
+      "Shapes": "모양",
+      "SizePosition": "크기 및 위치"
+    },
+    "Taskbar": {
+      "Comments": "주석",
+      "LayerProperties": "레이어 속성",
+      "Layers": "레이어"
+    },
+    "TextQuickActions": {
+      "Presets": "사전 설정",
+      "Styles": "스타일"
+    },
+    "ToolActions": {
+      "ContentAwareFill": "내용 인식 채우기",
+      "CreateMaskFromSelection": "선택 영역에서 마스크 만들기",
+      "Deselect": "선택 해제",
+      "InvertSelection": "선택 영역 반전",
+      "SelectLess": "선택 축소",
+      "SelectMore": "선택 확대"
+    },
+    "Toolbar": {
+      "Action": {
+        "BlackWhite": "흑백",
+        "BrightnessContrast": "밝기 대비",
+        "CameraRawFilter": "Light and color",
+        "ColorBalance": "색상 균형",
+        "curves": "곡선",
+        "Exposure": "노출",
+        "GaussianBlur": "가우시안 흐림 효과",
+        "HueSaturation": "색조 채도",
+        "levels": "레벨",
+        "SelectSubject": "피사체 선택",
+        "Vibrance": "활기"
+      },
+      "ColorPicker": "색상 피커",
+      "ColorPickerBackground": "배경색 피커",
+      "ColorPickerForeground": "전경색 피커",
+      "ColorSwitch": "색상 전환"
+    },
+    "ToolSettings": {
+      "BrushHardness": "브러시 경도 설정",
+      "BrushSize": "브러시 크기 설정",
+      "BrushSizeHardness": "브러시 크기 및 경도 설정"
+    }
+  },
+  "EditorUI": {
+    "Help": {
+      "Description": "팁과 요령을 더 알고 싶거나 이 둘러보기를 다시 진행하고 싶을 경우, 도움말 메뉴를 사용하면 됩니다.",
+      "Title": "언제든지 도움을 받을 수 있습니다"
+    },
+    "Mouse": {
+      "Pan": "스페이스 바를 누른 채 클릭 및 드래그하여 캔버스 내를 이동할 수 있습니다.\n",
+      "ZoomIn": "CTRL 버튼을 누른 채 위로 스크롤하여 캔버스를 확대할 수 있습니다.",
+      "ZoomOut": "CTRL 버튼을 누른 채 밑으로 스크롤하여 캔버스를 축소할 수 있습니다.\n"
+    },
+    "Trackpad": {
+      "Pan": "두 손가락으로 스와이프하여 캔버스 내를 이동할 수 있습니다.\n",
+      "ZoomIn": "두 손가락을 벌려서 캔버스를 확대할 수 있습니다.",
+      "ZoomOut": "두 손가락을 오므려서 캔버스를 축소할 수 있습니다.\n"
+    }
+  },
+  "EditorUITour": {
+    "MultiCards": {
+      "Button": {
+        "FinishTour": "투어 종료",
+        "ReadyToMove": "계속하실 준비는 되셨습니까?"
+      },
+      "ContextualTaskBar": {
+        "Description": "현재 작업에서 가장 관련성이 높은 다음 단계를 찾으세요.",
+        "Title": "4. 상황별 작업 표시줄"
+      },
+      "Layers": {
+        "Description": "여기서 레이어를 관리하세요. 레이어는 투명한 시트로 겹쳐져 이미지의 일부를 따로 편집할 수 있도록 해줍니다.",
+        "Title": "3. 레이어"
+      },
+      "Toolbar": {
+        "Description": "이미지 편집을 위해 각 범주에서 다수의 옵션을 제공하는 다양한 도구를 사용해보세요.",
+        "Title": "2. 도구"
+      },
+      "UndoRedo": {
+        "Description": "<b>실행 취소</b>로 마지막 작업을 되돌리고 <b>재실행</b>으로 복구하세요.",
+        "Title": "1. 실행 취소 및 다시 실행"
+      }
+    }
+  },
+  "EffectKind": {
+    "BevelEmboss": "경사와 엠보스",
+    "Color Overlay": "색상 오버레이",
+    "Drop Shadow": "그림자 효과",
+    "Gradient Overlay": "그레이디언트 오버레이",
+    "Inner Glow": "내부 광선",
+    "Inner Shadow": "내부 그림자",
+    "Master": "마스터",
+    "None": "없음",
+    "Outer Glow": "외부 광선",
+    "Pattern Overlay": "패턴 오버레이",
+    "Satin": "새틴",
+    "Stroke": "획",
+    "Unknown": "알 수 없는 효과"
+  },
+  "Error": {
+    "Unknown": "알 수 없는 오류가 발생했습니다"
+  },
+  "ExportProgress": {
+    "Completed": "지금 내보내는 중",
+    "Failed": "내보내지 못했습니다. 다시 시도해 주세요.",
+    "Started": "문서 내보내기를 준비하는 중입니다."
+  },
+  "ExportToPhonePage": {
+    "AuthError": {
+      "Body": "이 QR 코드는 만료되었습니다. 계속하려면 새 QR 코드를 스캔하세요.",
+      "Title": "만료된 QR 코드"
+    },
+    "DownloadButton": {
+      "Text": "다운로드"
+    },
+    "Downloaded": {
+      "Alt": "다운로드 된 파일"
+    },
+    "Downloading": {
+      "Body": "이미지 다운로드 중",
+      "Title": "이미지를 다운로드 중..."
+    },
+    "Error": {
+      "Body": "이미지를 다운로드 하지 못했습니다. 컴퓨터에서 새 QR 코드를 생성 해보세요.",
+      "Title": "다운로드 실패"
+    }
+  },
+  "ExportVideoDialog": {
+    "AspectRatio": {
+      "Portrait": "세로 (9:16)",
+      "Title": "종횡비",
+      "Widescreen": "와이드스크린(16:9)"
+    },
+    "Cancel": "취소",
+    "Close": "닫기",
+    "Download": "다운로드",
+    "Error": "오류가 발생했습니다. 다른 프롬프트 또는 나중에 다시 시도하세요.",
+    "Generate": "생성",
+    "Generating": "비디오 생성 중",
+    "Heading": "비디오 내보내기",
+    "Motion": {
+      "Default": "기본값",
+      "Handheld": "휴대용",
+      "PanLeft": "왼쪽으로 이동",
+      "PanRight": "오른쪽으로 이동",
+      "Static": "정적",
+      "TiltDown": "아래로 기울이기",
+      "TiltUp": "위로 기울이기",
+      "Title": "동작",
+      "ZoomIn": "확대",
+      "ZoomOut": "축소"
+    },
+    "Prompt": {
+      "Placeholder": "무엇을 생성하시겠습니까?"
+    }
+  },
+  "FacePile": {
+    "DisplayName": {
+      "You": "(사용자)"
+    }
+  },
+  "FeatureCard": {
+    "Close": "닫기",
+    "HoverBadge": "재생하려면 위에 마우스를 올리시오",
+    "Maximize": "최대화",
+    "Minimize": "최소화",
+    "Progress": "진행률"
+  },
+  "FileAlreadyExists": {
+    "Cancel": "취소",
+    "ConfirmLabel": "대체",
+    "Message": "같은 이름의 파일이 이미 이 위치에 있습니다. 기존 파일을 바꾸시겠습니까?",
+    "Title": "파일이 이미 있음"
+  },
+  "FillStrokePicker": {
+    "ContentType": {
+      "Gradient": {
+        "Tooltip": "그레이디언트"
+      },
+      "NoColor": {
+        "Tooltip": "색상 없음"
+      },
+      "Pattern": {
+        "Tooltip": "패턴"
+      },
+      "SolidColor": {
+        "Tooltip": "단색"
+      }
+    },
+    "Fill": {
+      "Title": "채우기 스타일 선택",
+      "Tooltip": "채우기 스타일 선택"
+    },
+    "Gradient": "그레이디언트",
+    "NoColor": "없음",
+    "Pattern": "패턴",
+    "SolidColor": "색상",
+    "Stroke": {
+      "Title": "획 스타일 선택",
+      "Tooltip": "획 스타일 선택"
+    }
+  },
+  "FireflyCreditsLimits": {
+    "Limits": "1 크레딧 당 이미지 3개. <sp-link href=\"{{GUIDELINES_URL}}\" target=\"_blank\">더 알아보기</sp-link>"
+  },
+  "FirstTimeZoomShortcutsUsed": {
+    "Message": {
+      "MacOs": "Photoshop은 브라우저의 바로 가기를 사용하여 캔버스를 확대/축소합니다. 브라우저의 보기 메뉴에서 확대/축소 레벨을 변경할 수 있습니다.",
+      "Windows": "Photoshop은 브라우저의 바로 가기를 사용하여 캔버스를 확대/축소합니다. 브라우저의 메뉴에서 확대/축소 레벨을 변경할 수 있습니다."
+    }
+  },
+  "FontPicker": {
+    "PlaceholderText": "여러 글꼴",
+    "SelectFont": "글꼴 선택",
+    "SelectStyle": "확인을 선택합니다."
+  },
+  "FreeTransform": {
+    "Bounds": {
+      "Label": {
+        "Height": "높이",
+        "Rotation": "회전",
+        "Width": "폭",
+        "X": "X",
+        "Y": "Y"
+      }
+    },
+    "NotOnAdjLayers": {
+      "Message": "변형은 조정 레이어에서 작동하지 않습니다. 변형하려는 다른 레이어를 선택하십시오."
+    },
+    "NoValidBounds": {
+      "Message": "초기 테두리 사각형이 비어 있으므로 변형할 수 없습니다."
+    }
+  },
+  "Gamut": {
+    "Channels": {
+      "CMYK": {
+        "Black": "검정색",
+        "CMYK": "CMYK",
+        "Cyan": "청록색",
+        "Magenta": "자홍색",
+        "Yellow": "노란색"
+      },
+      "Duotone": {
+        "Duotone": "이중톤"
+      },
+      "Grayscale": {
+        "Gray": "회색"
+      },
+      "Lab": {
+        "a": "a",
+        "b": "b",
+        "Lightness": "밝기"
+      },
+      "RGB": {
+        "Blue": "파란색",
+        "Green": "초록색",
+        "Red": "빨간색",
+        "RGB": "RGB"
+      }
+    }
+  },
+  "GaussianBlurPanel": {
+    "Slider": {
+      "Label": "흐리게"
+    }
+  },
+  "GenAI": {
+    "CheckedDNIDialog": {
+      "Body": "이 이미지의 Content Credentials는 참조 이미지로 사용할 수 없음을 나타냅니다.",
+      "Cancel": "취소",
+      "SelectAnotherImage": "다른 이미지 선택"
+    },
+    "ConsentCreditDialog": {
+      "Content": {
+        "ByClickingAgreeUserGuidelines": "Most standard generative features use 1 credit per generation unless you have a plan that gives you unlimited access. Check your generative credits balance or plan details anytime from your account menu. <sp-link href=\"{{GUIDELINES_URL}}\" target=\"_blank\">Learn more about generative credits.</sp-link>."
+      },
+      "Heading": {
+        "GenerativeAIAdobeApps": "생성 크레딧"
+      }
+    },
+    "ConsentDialog": {
+      "Agree": "동의",
+      "Cancel": "취소",
+      "Confirm": "확인",
+      "Content": {
+        "ByClickingAgreeUserGuidelines": "\"동의\"를 클릭하면 Adobe <sp-link href=\"{{GUIDELINES_URL}}\" target=\"_blank\">사용자 지침</sp-link>에 동의하는 것입니다.",
+        "YouCanCreateInNewWays": "생성형 AI 기술을 통해 새로운 방식으로 창작할 수 있습니다."
+      },
+      "Heading": {
+        "GenerativeAIAdobeApps": "Adobe 앱의 생성형 AI"
+      }
+    },
+    "ConsentDialogCredit": {
+      "Agree": "확인"
+    },
+    "FFCredits": {
+      "Message": "생성 크레딧이 없습니다. 월간 크레딧 재설정까지 기다리거나 플랜을 업그레이드하여 크레딧을 더 획득할 수 있습니다.",
+      "Upgrade": "업그레이드"
+    },
+    "RateLimitDialog": {
+      "Confirm": "확인",
+      "Content": "더 많은 콘텐츠를 생성하고 싶습니다. 몇 시간 후에 다시 시도하세요.",
+      "Heading": "천천히 하기"
+    },
+    "RateResultDialog": {
+      "AddNote": "메모 추가(선택 사항)",
+      "Cancel": "취소",
+      "Content": {
+        "1": "이 결과를 프로젝트에 사용하겠습니다.",
+        "2": "결과가 내 텍스트 프롬프트와 일치합니다.",
+        "3": "결과물이 그럴듯해 보입니다.",
+        "4": "결과물이 나머지 이미지와 잘 어울립니다."
+      },
+      "Headline": "결과물 평가",
+      "IncludeImageData": "피드백에 이미지 및 레이어 데이터 포함",
+      "Rate": {
+        "Agree": "동의",
+        "Disagree": "동의하지 않음",
+        "Neutral": "중간",
+        "StronglyAgree": "매우 동의함",
+        "StronglyDisagree": "매우 동의하지 않음"
+      },
+      "SendFeedback": "피드백 보내기"
+    },
+    "RefImage": {
+      "ConsentDialog": {
+        "Content": {
+          "ReferenceImagesHelpYouApply": "참조 이미지를 사용하면 생성한 이미지에 유사한 콘텐츠나 스타일을 적용할 수 있습니다. 서드파티 이미지를 사용할 권한이 있어야 하며 업로드 기록은 썸네일로 저장됩니다."
+        },
+        "Heading": {
+          "ReferenceImage": "참조 이미지"
+        }
+      },
+      "ErrorLoadingReferenceImage": "참조 이미지를 로드할 수 없음",
+      "OutOfCreditDialog": {
+        "Button": {
+          "Cancel": "취소",
+          "Upgrade": "업그레이드"
+        },
+        "Content": {
+          "ReferenceImagesHelpYouApply": "지금 Firefly 플랜을 업그레이드하여 더 많은 크레딧을 받고 계속 액세스하거나 월별 재설정까지 기다릴 수 있습니다.",
+          "ReferenceImagesHelpYouApplyDate": "지금 Firefly 플랜을 업그레이드하여 더 많은 크레딧을 받고 계속 엑세스하거나 {{DATE}}의 월별 재설정까지 기다리세요."
+        },
+        "Heading": {
+          "ReferenceImage": "생성 작업을 위한 크레딧이 부족합니다"
+        }
+      }
+    },
+    "ReportResultDialog": {
+      "AddNote": "메모 추가(선택 사항)",
+      "Cancel": "취소",
+      "Headline": "결과 보고",
+      "IncludeImageData": "피드백에 이미지 및 레이어 데이터 포함",
+      "Reports": {
+        "1": "유해 콘텐츠",
+        "2": "불법 콘텐츠",
+        "3": "혐오 콘텐츠",
+        "4": "편향된 콘텐츠",
+        "5": "상표 위반",
+        "6": "저작권 위반",
+        "7": "노출/성적인 콘텐츠",
+        "8": "폭력/유혈"
+      },
+      "SelectAllApply": "해당되는 모든 항목 선택(필수):",
+      "SendFeedback": "피드백 보내기"
+    },
+    "ThankYouFeedback": "Adobe 제품을 개선하는 데 도움이 되는 피드백을 보내주셔서 감사합니다."
+  },
+  "GenBackground": {
+    "Coachmark": {
+      "Description": "생성형 AI를 사용하여 인물 사진, 제품 또는 패션과 같은 사진의 새로운 배경을 만들 수 있습니다.",
+      "Title": "배경 생성",
+      "TitleBeta": "배경 생성(Beta)"
+    }
+  },
+  "GenerateImage": {
+    "Button": {
+      "Title": {
+        "AllLayers": "보이는 레이어",
+        "CurrentLayer": "현재 레이어"
+      }
+    },
+    "Composition": {
+      "Strength": {
+        "Label": "강도",
+        "Tooltip": "윤곽선 및 깊이 준수 강도 조정"
+      },
+      "Tooltip": "참조 이미지를 추가하여 윤곽선 및 깊이를 일치시키세요"
+    },
+    "composition-references": {
+      "group": {
+        "Abstract": {
+          "title": "추상"
+        },
+        "Drawing": {
+          "title": "그림"
+        },
+        "Photography": {
+          "title": "사진"
+        }
+      }
+    },
+    "ContentType": {
+      "Art": "아트",
+      "Auto": "자동",
+      "Photo": "포토"
+    },
+    "Effects": {
+      "Tooltip": "이미지에 스타일 효과 추가"
+    },
+    "image-style-zeros": {
+      "group": {
+        "3D": {
+          "title": "3D"
+        },
+        "Acrylic_and_Oil": {
+          "title": "아크릴 및 유화"
+        },
+        "Architectural_sketch": {
+          "title": "건축 스케치"
+        },
+        "Color_and_Lighting": {
+          "title": "색상 및 조명"
+        },
+        "Digital_illustration": {
+          "title": "디지털 일러스트레이션"
+        },
+        "Dramatic_lighting": {
+          "title": "드라마틱한 조명"
+        },
+        "Flat": {
+          "title": "평평하게"
+        },
+        "Geometric": {
+          "title": "기하학적"
+        },
+        "Graphic": {
+          "title": "그래픽"
+        },
+        "Landscapes": {
+          "title": "풍경"
+        },
+        "Lighting_effects": {
+          "title": "조명 효과"
+        },
+        "Neon": {
+          "title": "네온"
+        },
+        "Pencil": {
+          "title": "연필"
+        },
+        "Photo_manipulation": {
+          "title": "사진 조작"
+        },
+        "Photo_studio": {
+          "title": "사진 스튜디오"
+        },
+        "Popular": {
+          "title": "인기 항목"
+        },
+        "Texture": {
+          "title": "텍스처"
+        },
+        "Watercolor": {
+          "title": "수채화 효과"
+        }
+      }
+    },
+    "Inspirations": {
+      "Prompt": {
+        "1": "사이키데릭 아트, 멋진 고양이를 그린 디지털 그림, 벡터",
+        "2": "녹색 배경에 녹색 잎이 있는 노란 배",
+        "3": "그윽한 시선과 아프로 스타일의 여성",
+        "4": "흰색과 분홍색 장미가 있는 장미 덤불에 앉아 있는 파랑새, 셀렉티브 포커스, 꽃 배경의 인사 카드",
+        "5": "선글라스를 쓴 네온 개와 목에 하트가 묶인 스카프를 두른 모호크족, 포스터, 인쇄물, 엽서",
+        "6": "그림과 식물이 걸려 있는 장식된 방 벽",
+        "7": "빈티지 자동차, 사막 길, 따스한 태양",
+        "8": "레몬 워터, 신선, 스플래시, 파란색 배경, 초현실적",
+        "9": "별과 달 아래 밤 안개 낀 숲 속에서 뒤에서 촛불을 들고 있는 소녀의 와이드 앵글 구성",
+        "10": "그늘에서 쉬며 태양을 보고 있는 치타와 지나가고 있는 코끼리 무리",
+        "11": "새들이 날아다니는 폭풍우가 치는 바다에서 날아다니는 미래 분위기의 대형 선박, 어두운 배경 위에 분위기 있고 따뜻한 색상",
+        "12": "일출 동안 섬 위를 날아다니는 애니메이션 스타일의 용",
+        "13": "빈티지 자동차와 야자수가 늘어선 마이애미 해변 도시 풍경",
+        "14": "별이 빛나는 밤 아래 이끼 낀 수중 성을 향해 다시마숲에서 수영하는 인어",
+        "15": "휘핑 크림과 밝은 빨간색 배경의 체리를 넣고 맛있는 밀크셰이크",
+        "16": "인테리어 사진 건축 디자인 벚꽃 미니멀하고 모던 스타일리시",
+        "17": "해질녘에 바다에서 걸어 나오는 투명한 말",
+        "18": "추상적인 금색 패턴으로 짜여진 수련꽃 주위를 감싸며 사실적으로 소용돌이치는 연못 파도",
+        "19": "아름다운 눈, 가죽 재킷과 검은색 셔츠를 입고 아름다운 반딧불이 빛을 내는 꽃 식물이 있는 소박한 건물 앞에 서 있는 사람의 반신 인물 사진, DSLR 망원 HD 사진",
+        "20": "고대 인도 동상, 공상 과학 예술, 미래적 느낌, 아름답고 다채로운 희귀한 꽃이 있는 정글에서 영화식 촬영",
+        "21": "나뭇잎으로 둘러싸인 잎사귀를 따라 걷는 다양한 색깔의 나비의 슈퍼 클로즈업 매크로 사진",
+        "22": "하늘에 행성이 있는 아름다운 구름과 함께 화성에 서 있는 시바견",
+        "23": "데님 재킷과 데님 모자 차림에 웃고 있는 노인의 클로즈업",
+        "24": "꽃과 나무로 둘러싸인 산에서 놀고 있는 푹신한 회색 옥양목 고양이, 마법 같은 봄날, 부드러운 초점",
+        "25": "황혼의 부드러운 빛에 둘러싸인 무성한 들판에 우뚝 솟은 시든 버드나무가 우뚝 솟아 있습니다. 야생화와 담쟁이덩굴이 뿌리 주위를 휘감고 있으며, 밤하늘의 첫 번째 별은 근처의 잔잔한 강에 반사됩니다. 판타지 영화의 분위기를 불러일으키는 이 이미지는 간결한 풍경 묘사에 신비로운 매력과 매혹적인 터치를 합쳤습니다.",
+        "26": "네덜란드의 화려한 튤립의 밝은 들판과 아래에서 찍은 흰색 별장",
+        "28": "껌으로 거대한 비눗방울을 부는 사람, 그 비눗방울 안에 앉아 있는 사람들",
+        "29": "스테인드 글라스 창문이 있는 오래된 저택에서 왕관을 쓰고 반짝이로 뒤덮인 바로크 회색 프렌치 불독",
+        "30": "화려한 페인트 브러시 획과 금색 점이 있는 소용돌이치는 나뭇잎 패턴의 질감 있는 벽지",
+        "31": "검은색 후드티, 짙은 녹색 눈, 긴 갈색 웨이브 머리로 앞에 편안한 미소를 짓고 있는 만화 여성 캐릭터. 거북이를 안고 있음. 검은색 헤드폰 착용. 3D 렌더링, 큰 눈, 디지털 페인팅, 동화책 같은 사실주의, 영화",
+        "32": "애리조나 사막에 여행 트레일러가 있는 복고풍 포스터",
+        "33": "거울방 스타일의 작은 흰색 주방과 식당, 사실적인 조명, 밝은 호박색 및 회색, 비대칭 균형, 우아하고 감성적인 얼굴, 재질에 포커스",
+        "34": "햇빛이 비치고 조개껍데기가 붙은 라벨의 상위 뷰 사진 스킨케어 병, 화장품 모형",
+        "35": "열대 섬의 해변가 집",
+        "36": "하늘 위의 섬",
+        "37": "똑바로 서서 걷는 귀여운 기린 가족이 있는 현대적인 미래 도시 풍경, 3D 일러스트레이션",
+        "38": "토마토 크림 수프 음식 사진. 토마토 수프에는 테이블 중앙에 소용돌이 모양의 생크림이 있고, 그 위에 바삭바삭한 크루통과 바질 한 꼬집이 있습니다.",
+        "39": "배경에는 드라마틱한 파도가 부서지고 하늘에는 갈매기 몇 마리가 겹겹이 쌓인 밤에 켜져 있는 오래된 등대",
+        "40": "작은 분홍색 개울이 있는 동화 같은 숲, 햇살 아래 춤추는 조명, 아름다운 안개, 판타지 세계의 예술적인 사진",
+        "41": "창의적이고 밝은 뉴욕 스카이라인의 레이어드 3D 팝업",
+        "42": "과일. 시네마틱한 분위기와 쿨톤, 네온사인",
+        "43": "길고 흰 수염과 콧수염이 있는 나이든 남자. 남자의 턱수염과 콧수염이 눈에 띕니다. 연한 갈색 벨벳 인물 사진",
+        "45": "하얀 빛나는 대리석에 튀는 푸른 바다 파도, 사실적인 사진, 고해상도",
+        "46": "위에서 내려다본 깨끗하고 창의적인 업무용 책상에는 노트북, 노트, 색펜, 촉 책상의 다육 식물, 차 한 잔이 있습니다. 좋은 느낌, 스튜디오, 따뜻함",
+        "47": "공룡이 선사 시대 초목 사이에서 보는 이를 향해 달려가고 있으며 배경에는 소행성이 지구에 충돌하고 있습니다, 다큐멘터리 스타일, 사실적 사진, 차가운 색조",
+        "48": "해변에 서서 일몰을 바라보고 있는 나이든 여성, 텅 빈 해변, 따뜻한 색상",
+        "49": "모직 실로 만든 별과 밤하늘에 불타오르는 붉은 실로 만든 달",
+        "50": "태양, 영적인 풍경, 레트로 록, 짙은 베이지색과 하늘색, 사막의 파도, 무거운 음영을 위한 빈티지 포스터",
+        "51": "클래식 타운하우스 사이에 있는 런던의 럭셔리 블랙 모던 타운하우스",
+        "52": "청록색 맑은 물과 산호초 근처 나무 집의 항공 사진, 드론 샷",
+        "53": "컵을 들고 있는 손의 제품 모형, 브랜딩 또는 로고 배치를 위한 공백, 단순한 파란색 배경, 텍스트 없음, 고품질",
+        "54": "파스텔톤 물 위로 생물 발광 꽃이 피어나는 수중 해파리 숲",
+        "55": "마우이의 빛나는 빛의 폭포, 적외선 사진",
+        "56": "상어가 헤엄치는 물 밑 해적선",
+        "57": "샌프란시스코 금문교를 배경으로 모직 코트를 입은 사람의 상반신 인물 사진",
+        "58": "선글라스를 착용한 기린 3D 모델",
+        "59": "흰색 와이드 팬츠, 가로 줄무늬 스웨터, 가짜 갈색 치타 무늬 코트를 입고 큰 선글라스를 착용한 세련된 여성이 이탈리아 도시 거리에서 포즈를 취하는 전신 사진",
+        "60": "육지에서 물이 씻겨지는 안개가 자욱한 해변, 밝음",
+        "61": "1960년 빈티지 금속 반짝이는 은색 찻주전자, 녹색 유리 물병, 크림색 테이블의 흙빛 색조, 크림색 배경 벽, 따뜻하고 햇볕이 잘 드는 소박한 영화 모양, 조감도, 긴 그림자",
+        "62": "중간 길이의 검은 머리에 캐주얼한 파스텔 색상의 의상을 입고 밝은 노란색 미모사 꽃다발을 들고 있는 사람의 사진, 흰색 벽과 은은한 자연광이 공간을 가득 채우는 커다란 창문 하나가 있는 미니멀리스트 방에 서 있는 사진, 즐겁고 만족스러운 표정.",
+        "63": "어두운 배경의 제품 사진이 있는 나무 테이블 위에 있는 커피백 디자인 모형 사진 테이블 위에 있는 소박한 조명 보케 커피 콩",
+        "64": "음료 사진, 라임과 사탕수수를 곁들인 C카이피라냐 칵테일, 카샤샤, 뒤죽박죽 석회와 얼음 조각에 초점, 유리를 분리하는 선택적 초점, 파티오의 따뜻한 여름 일몰 조명.",
+        "65": "모형 제품 사진 대리석 테이블과 어두운 스튜디오 배경",
+        "66": "모형 제품 사진 테이블에 3D 솔리드 핑크 스타일",
+        "67": "흰색 소다로 공중에 떠 있는 물 제품 사진 파란색 배경의 모형 사진 스플래시를 만들 수 있음",
+        "68": "컵에 우유를 붓고 라떼 아트 만들기",
+        "69": "사람 옷을 입고 의자에 앉아 낡은 카메라를 들고 있는 코알라",
+        "70": "수평 받침대에 독특한 자외선 차단제 병 디자인 세트, 모래, 조개, 야자잎 그림자가 있는 창의적인 배경",
+        "71": "젊은 전문직 여성의 초상화",
+        "72": "공작새 깃털의 벽지 패턴, 밝은 색상",
+        "73": "조명이 늘어선 거울 근처 메이크업 세트",
+        "74": "굴뚝에서 연기가 피어오르는 겨울의 귀여운 오두막, 밤 풍경",
+        "75": "어두운 담쟁이덩굴 벽 위에 장미 네온사인",
+        "77": "세련된 마네킹과 큰 모자가 있는 백화점 창문",
+        "78": "창문에 도시 스카이라인이 보이는 지하철에 앉아 책을 읽는 노인의 낙서",
+        "79": "밤에 빗속에서 우산을 쓰고 걷는 사람들",
+        "80": "선인장이 있는 심플 미드 센츄리 모던 아파트 인테리어",
+        "81": "열대 우림의 창 전망이 보이는 아트 스튜디오",
+        "83": "회색 질감의 배경으로 축구공을 들고 있는 여자 축구 선수의 사진",
+        "84": "여성 모델링 귀걸이, 보헤미안 패션 컨셉",
+        "85": "뒤에 있는 전문 발레 댄서들, 흐릿한 조명 앞에서 무대에서 춤을 추는 모습",
+        "86": "꽃병과 함께 책상 위에 놓인 빈 잡지 모형, 위에서 촬영",
+        "87": "보라색 메탈릭 편지 풍선 스펠링 생일 축하, 다양한 색상의 빛 반사",
+        "88": "나무에 다양한 색깔의 알을 품고 둥지를 지음, 날아오르는 나비",
+        "89": "거품 목욕을 하는 고무 오리",
+        "90": "벚꽃이 늘어선 연못과 잉어가 헤엄치는 모습",
+        "91": "바닥이 라벤더로 장식된 방",
+        "92": "텅 빈 열대 해변의 풍경",
+        "93": "탄소 섬유 부품과 4중 배기 파이프, 프렌치 리베라 해안 도로, 빠른 모션 블러, 컨셉 아트의 멋진 짙은 보라색 튜닝 하이퍼카",
+        "94": "마젠타색과 녹색 이중톤으로 달에 우주복을 입은 복고풍의 남자",
+        "95": "3D로 오토바이 레이저 폭발 디자인 홀로그램",
+        "96": "푸르른 계곡에서 웅장하고 환상적으로 뛰어다니는 무지개 뿔이 달린 검은 유니콘",
+        "97": "꽃과 새가 있는 추상적인 선 배경의 표범 - 예술 컨셉",
+        "98": "젊은 여자, 클로즈업, 보케, 헤드샷, 화려함, 인물 사진, 흰색 드레스, 긴 머리, 수줍은 미소, 꽃 왕관, 금색",
+        "99": "테이블에 기대어 카메라를 향해 웃고 있는 젊은 금발 여성, 자세한 얼굴 특징, 상세한 눈, 컬러 폴라로이드, 1980년 설정",
+        "100": "인어 공주의 클로즈업, 무지개 빛깔의 비늘, 완벽한 검은 피부, 카메라를 바라봄, 캔디 색깔의 길고 빛나는 머리, 고화질, 8K, 영화 촬영, 극적인 조명",
+        "101": "가벼운 봄비에 젖은 카메라를 바라보며 옆모습 약간 보이는 남자의 매크로 사진. 로맨틱한 장면.",
+        "102": "큰 유리 벽에서 숲의 전경을 조망할 수 있는 현대적인 가구로 꾸며진 고급스러운 오두막",
+        "103": "숲속에서 강을 가로질러 달리는 주황색, 흰색, 검은색 줄무늬가 있는 로얄 벵골 호랑이, 밤, 보름달, 구름",
+        "104": "주황색 모래 언덕, 고요함, 풍경, 해안에 화려한 흰색 건물과 탑이 있는 미래 도시",
+        "105": "소파와 쿠션이 있는 방의 벽에 그려진 다채로운 벽화, 화려한 자수, 소박함, 분홍색과 에메랄드색, 꽃 패턴, 히말라야 예술",
+        "106": "흰색 배경에 모란이 있는 반짝이는 원형, 검은색 평평한 꽃꽂이 스탠드",
+        "107": "수영장과 선인장이 있는 팜스프링스의 다채로운 미드 센츄리 모던 집",
+        "108": "일몰 시간 장미 정원에 있는 대리석 우물, 섬세한 색상의 예술 이미지",
+        "109": "속이 빈 나무에서 책을 읽고 있는 부엉이",
+        "110": "빨간색 장화가 땅에 잎이 놓인 웅덩이에서 춤추며 물을 튀기고 있음",
+        "111": "풀 테이블이 있는 어두운 조명의 바"
+      },
+      "Title": "프롬프트로 영감 얻기",
+      "TryThis": "사용해 보기"
+    },
+    "ReferenceImage": {
+      "Title": {
+        "Gallery": "갤러리"
+      }
+    },
+    "StyleReference": {
+      "Tooltip": "참조 이미지를 추가하여 스타일을 일치시키세요"
+    },
+    "Styles": {
+      "image-styles": {
+        "art": {
+          "title": "아트"
+        },
+        "backlighting": {
+          "title": "후광"
+        },
+        "bw": {
+          "title": "흑백"
+        },
+        "closeup": {
+          "title": "클로즈업"
+        },
+        "cool_colors": {
+          "title": "쿨톤"
+        },
+        "dramatic_light": {
+          "title": "극적인 조명"
+        },
+        "golden": {
+          "title": "골든"
+        },
+        "golden_hour": {
+          "title": "골든 아워"
+        },
+        "graphic": {
+          "title": "그래픽"
+        },
+        "harsh_light": {
+          "title": "강한 조명"
+        },
+        "knolling": {
+          "title": "놀링"
+        },
+        "landscape_photography": {
+          "title": "풍경 사진 촬영"
+        },
+        "long-time_exposure": {
+          "title": "장시간 노출"
+        },
+        "low_lighting": {
+          "title": "어두운 조명"
+        },
+        "macrophotography": {
+          "title": "근접 사진"
+        },
+        "monochromatic": {
+          "title": "단색"
+        },
+        "multiexposure": {
+          "title": "다중 노출"
+        },
+        "muted_color": {
+          "title": "차분한 색상"
+        },
+        "pastel_color": {
+          "title": "파스텔 색상"
+        },
+        "photo": {
+          "title": "포토"
+        },
+        "photographed_through_window": {
+          "title": "창문을 통해 찍은 사진"
+        },
+        "shallow_depth_of_field": {
+          "title": "얕은 필드 깊이"
+        },
+        "shot_from_above": {
+          "title": "위에서 촬영"
+        },
+        "shot_from_below": {
+          "title": "아래에서 촬영"
+        },
+        "studio_light": {
+          "title": "스튜디오 조명"
+        },
+        "surface_detail": {
+          "title": "표면 세부 묘사"
+        },
+        "surreal_lighting": {
+          "title": "초현실적인 조명"
+        },
+        "toned_image": {
+          "title": "톤 적용 이미지"
+        },
+        "vibrant_colors": {
+          "title": "선명한 색상"
+        },
+        "warm_tone": {
+          "title": "웜톤"
+        },
+        "wide_angle": {
+          "title": "광각"
+        }
+      }
+    },
+    "Tags": {
+      "ClearEffects": "효과 지우기"
+    },
+    "Title": {
+      "Composition": "컴포지션",
+      "CompositionBeta": "컴포지션 (beta)",
+      "ContentType": "콘텐츠 유형",
+      "Effects": "효과",
+      "Generate": "생성",
+      "Prompt": "확인",
+      "ReferenceImage": "참조 이미지",
+      "Reset": "재설정",
+      "Style": "스타일"
+    },
+    "Tooltip": {
+      "AddReferenceImage": "참조 이미지 추가",
+      "AddStyle": "효과 추가"
+    }
+  },
+  "GenerativeAI": {
+    "Enablement": {
+      "Message": {
+        "FileFormat": "이 기능은 현재 이 이미지 모드에서 사용할 수 없습니다.",
+        "MaxVariations": "변형을 더 생성하면 최대 제한을 초과합니다.",
+        "NoInternet": "이 기능을 사용하려면 인터넷에 연결하십시오.",
+        "NoSheet": "이 기능을 사용하려면 레이어를 선택하십시오.",
+        "SheetIsClipped": "클립 레이어에서는 이 기능을 사용할 수 없습니다.",
+        "TooManySheets": "생성하면 최대 레이어 제한을 초과합니다.",
+        "Unspecified": "이 기능은 현재 사용할 수 없습니다."
+      }
+    },
+    "Onboarding": {
+      "GenExpand": {
+        "Tooltip": {
+          "Content": "핸들을 움직여 이미지 크기 조정"
+        }
+      },
+      "GenFill": {
+        "Tooltip": {
+          "Content": "생성형 채우기를 사용하기 위해 캔버스에서 선택 영역을 설정"
+        }
+      }
+    }
+  },
+  "Genfill": {
+    "ContentReferenceImage": {
+      "Card": {
+        "Tooltip": {
+          "Delete": "참조 이미지 제거",
+          "PreviewNotAvailable": "이미지 미리 보기를 사용할 수 없음"
+        }
+      },
+      "Panel": {
+        "Button": {
+          "ChooseRefImage": "참조 이미지 선택",
+          "ReplaceRefImage": "참조 이미지 바꾸기"
+        },
+        "CheckingImage": {
+          "Description": "이미지에 Content Credentials 사용 제한이 있는지 확인 중"
+        },
+        "Dropzone": {
+          "Title": "자신의 참조 이미지를 업로드하여 콘텐츠와 일치시키기"
+        },
+        "Title": "참조 이미지",
+        "TitleBeta": "참조 이미지(Beta)"
+      },
+      "RTT": {
+        "Description": "참조 이미지와 프롬프트를 모두 사용하여 보다 구체적인 이미지를 생성합니다. 프롬프트를 비워 두면 주변 환경에 따라 선택 항목이 채워집니다.",
+        "Title": "참조 이미지",
+        "TitleBeta": "참조 이미지(Beta)"
+      }
+    }
+  },
+  "GenfillDiscoverMarquee": {
+    "CtaText": "생성",
+    "PromptText": {
+      "Default": "외우주"
+    },
+    "Region1": {
+      "ChoiceA": "UFO",
+      "ChoiceB": "우주인",
+      "ChoiceC": "소행성"
+    },
+    "Region2": {
+      "ChoiceA": "갤럭시",
+      "ChoiceB": "유성",
+      "ChoiceC": "별똥별"
+    },
+    "Region3": {
+      "ChoiceA": "우주복을 입은 히어로",
+      "ChoiceB": "무지개색 망토를 두른 히어로",
+      "ChoiceC": "빨간 망토를 두른 히어로"
+    },
+    "RegionPromptText": "만들기...",
+    "ResetText": "다시 시도",
+    "TryIt": "시도하세요!"
+  },
+  "GlobalError": {
+    "MessageDialog": {
+      "Cancel": "무시",
+      "Choice": "무시하거나 페이지를 다시 로드할 수 있습니다.",
+      "Confirm": "다시 불러오기",
+      "Message": "알 수 없는 오류가 발생했습니다.",
+      "Report": "해당 오류를 당사에 보고하실 수도 있습니다.",
+      "Secondary": "보고서",
+      "Title": "알 수 없는 오류"
+    }
+  },
+  "GoldenTicket": {
+    "Dialog": {
+      "Headline": "작업 필요",
+      "Text": "프리미엄 기능에 대한 액세스가 제공되었습니다. 새로 고침하여 액세스 할 수 있습니다."
+    },
+    "Toast": {
+      "Refresh": "새로 고침",
+      "SaveACopySuccess": "{{DOCUMENT_NAME}}의 사본이 성공적으로 저장되었습니다."
+    }
+  },
+  "GoogleDisclosure": {
+    "Text": "웹용 Photoshop Google API에서 수신한 정보를 사용하고 다른 앱으로 전송하는 내용은 <sp-link quiet=\"\" size=\"m\" href=\"https://developers.google.com/terms/api-services-user-data-policy\" target=\"_blank\">Google API Services 사용자 데이터 정책</sp-link>제한 사용 요구 사항을 포함합니다.",
+    "Title": "Google API 사용 공개"
+  },
+  "GoogleDrivePicker": {
+    "Progress": {
+      "Import": "Google 드라이브 에셋을 가져오는 중..."
+    }
+  },
+  "GoogleOneTapLogin": {
+    "Error": {
+      "Unknown": "예기치 않은 오류가 발생했습니다."
+    }
+  },
+  "HarmonizeContextBar": {
+    "More": "Generate more variations"
+  },
+  "Header": {
+    "Download": {
+      "PNG": "PNG로 다운로드",
+      "PSD": "PSD로 다운로드"
+    },
+    "Help": {
+      "CommunityForum": "커뮤니티 포럼",
+      "CookiesPref": "쿠키 환경 설정",
+      "Privacy": "개인정보 처리",
+      "PsUserGuide": "Photoshop 사용 안내서",
+      "ReportAbuse": "오용 신고",
+      "SendFeedback": "피드백 보내기",
+      "TermsOfUse": "사용 약관"
+    },
+    "OpenIn": "열기",
+    "RequestEditAccess": "편집 권한 요청",
+    "Zoom": {
+      "FillScreen": "화면 채우기",
+      "FitToScreen": "화면에 맞추기",
+      "Percent100": "100%",
+      "Percent200": "200%",
+      "ZoomIn": "확대",
+      "ZoomOut": "축소"
+    }
+  },
+  "HistoryPanel": {
+    "Action": {
+      "ClearHistory": "작업 내역 지우기",
+      "CreateSnapshot": "스냅숏 만들기",
+      "Delete": "삭제",
+      "MoreMenu": "기록 작업",
+      "NewDocument": "새 문서...",
+      "NewSnapshot": "새 스냅숏",
+      "Revert": "되돌리기",
+      "RevertDocument": "문서 되돌리기"
+    },
+    "Entry": {
+      "CameraRaw": "Light and color"
+    },
+    "Progress": {
+      "NewDocument": "새 문서 생성 중..."
+    },
+    "Snapshot": {
+      "EnterSnapshotName": "스냅 사진 이름 입력",
+      "Title": "스냅샷"
+    },
+    "State": {
+      "DefaultName": "편집",
+      "Description": {
+        "CoeditingConflict": "다른 편집기와 충돌하여 변경 사항을 적용할 수 없습니다."
+      },
+      "Title": "편집"
+    },
+    "Title": "작업 내역"
+  },
+  "HomePage": {
+    "DropZone": {
+      "DragAndDropYourImage": {
+        "SectionLabel": "또는 컴퓨터에서 <sp-link id=\"drop-zone-link\" data-e2e=\"drop-zone-link\" quiet>선택</sp-link>하여 시작하세요.",
+        "Title": "이미지 끌어다 놓기"
+      },
+      "FileUploadButton": "파일 업로드"
+    },
+    "DynamicLayouts": {
+      "CreateSection": {
+        "Title": "새로운 작업 시작"
+      },
+      "ExploreMoreTutorials": {
+        "Title": "자세히 학습하고 알아보기"
+      },
+      "InstallPWA": {
+        "Subtitle": "앱 설치",
+        "Title": "단 한번의 클릭으로 Photoshop으로 돌아가기"
+      },
+      "IPhoneRelease": {
+        "Title": "이동 중에도 iPhone용 Photoshop으로 편집하세요"
+      },
+      "LiveCoEditing": {
+        "Subtitle": "대기열에 참가하여 비공개 베타에 참여하세요",
+        "Title": "동시 공동 편집으로 함께 일하세요"
+      },
+      "StartSomethingNewAdobeStock": {
+        "Subtitle": "다양한 무료 스톡 이미지에서 선택",
+        "Title": "Adobe Stock에서 추가 "
+      },
+      "StartSomethingNewGenerateImage": {
+        "Subtitle": "텍스트 설명으로 이미지 생성",
+        "Title": "이미지 생성하기"
+      },
+      "StartSomethingNewStartFromScratch": {
+        "Subtitle": "새 빈 문서 만들기",
+        "Title": "처음부터 시작"
+      },
+      "StartSomethingNewUploadAnImage": {
+        "Subtitle": "가져올 항목을 끌어다 놓거나 선택",
+        "Title": "이미지 업로드"
+      },
+      "SuggestionsSection": {
+        "CollapsibleCTA": {
+          "Hide": "제안 숨기기",
+          "Show": "제안 보기"
+        },
+        "Title": "Photoshop에 오신 것을 환영합니다, <strong>{{userName}}</strong> 님"
+      }
+    },
+    "SideNav": {
+      "Create": "만들기",
+      "PswFiles": "파일",
+      "PswHome": "홈"
+    }
+  },
+  "HoverLayerBounds": {
+    "Label": {
+      "Masked": "마스킹됨",
+      "Original": "원본"
+    }
+  },
+  "HVAItem": {
+    "Adjust": {
+      "Description": "프로처럼 이미지를 조정하세요",
+      "Title": "이미지 조정"
+    },
+    "Edit": {
+      "Description": "이미지 편집 및 사용자 정의",
+      "Title": "즉시 편집"
+    },
+    "GenerativeAI": {
+      "Description": "프롬프트를 입력하여 놀라운 결과물 생성합니다",
+      "Title": "생성형 채우기로 만들기"
+    },
+    "GenerativeExpand": {
+      "Description": "어떤 이미지든 빠르게 확장 및 크기 조정을 하세요",
+      "Title": "이미지 확장"
+    },
+    "OBEAdjust": {
+      "Description": "이미지에서 개체를 간편하게 수정",
+      "Title": "이미지 일부 조정"
+    },
+    "OBERemoveObject": {
+      "Description": "개체 선택 및 제거",
+      "Title": "개체 제거"
+    },
+    "RemoveObject": {
+      "Description": "이미지에서 개체를 간편하게 제거",
+      "Title": "개체 제거"
+    },
+    "RemoveObjectGenAI": {
+      "Description": "이미지를 변경하고 방해 요소를 제거",
+      "Title": "생성형 AI로 개체 제거"
+    }
+  },
+  "IdeaReportDialog": {
+    "ButtonLabelViewReport": "제출 상황 보기",
+    "ErrorDialogDescription": "아이디어를 제출하는 중에 오류가 발생했습니다. 양식을 작성하고 다시 시도하십시오.",
+    "MainDialogBugFormDescription": "Photoshop 커뮤니티에 아이디어를 추가합니다.",
+    "MainDialogHeading": "아이디어 제출",
+    "MainDialogHelpTextDescription": "아이디어나 피드백을 공유해 주십시오. 변경을 통해 얻을 수 있는 혜택을 포함하여 가능한 많은 정보를 제공해 주시기 바랍니다.",
+    "MainDialogLabelConfirm": "제출",
+    "MessageFailure": "제출되지 않았습니다. 다시 시도하거나 커뮤니티를 방문하십시오.",
+    "MessageStillProcessing": "아이디어를 제출하는 데 시간이 좀 걸립니다. 처리되면 웹용 Photoshop 커뮤니티에 표시됩니다."
+  },
+  "ImageMode": {
+    "bitmap": "비트맵",
+    "cmyk": "CMYK",
+    "duotone": "이중톤",
+    "gray_scale": "회색 음영",
+    "hsb": "HSB",
+    "hsl": "HSL",
+    "indexed": "인덱스",
+    "lab": "Lab",
+    "multi": "다중",
+    "none": "없음",
+    "rgb": "RGB",
+    "Unknown": "알 수 없음",
+    "xyz": "XYZ"
+  },
+  "ImageSizeDialog": {
+    "Cancel": "취소",
+    "DiskSize": {
+      "ToolTip": "크기는 문서를 단일 레이어로 저장할 때 크기를 나타냅니다."
+    },
+    "InterpolationType": {
+      "Automatic": "자동",
+      "Bicubic": "쌍입방",
+      "BicubicSharper": "쌍입방(더 선명하게)",
+      "BicubicSmoother": "쌍입방(더 매끄럽게)",
+      "Bilinear": "쌍선형",
+      "NearestNeighbor": "최단입점",
+      "PreserveDetails": "세부 사항 유지",
+      "Subtext": {
+        "Bicubic": "더 매끄러운 그레이디언트",
+        "BicubicSharper": "감소",
+        "BicubicSmoother": "확대",
+        "NearestNeighbor": "단단한 가장자리",
+        "PreserveDetails": "확대"
+      }
+    },
+    "Label": {
+      "Dimensions": "폭 x 높이",
+      "DiskSize": "이미지 크기",
+      "FitTo": "다음에 맞추기",
+      "Height": "높이",
+      "Resample": {
+        "Mode": "모드",
+        "Title": "리샘플링"
+      },
+      "Resolution": "해상도",
+      "ResolutionUnits": "해상도 단위",
+      "Units": "단위",
+      "Width": "폭",
+      "ZoomIn": "확대",
+      "ZoomOut": "축소"
+    },
+    "Lockbutton": {
+      "ConstrainAspectRatio": "종횡비 제한",
+      "DoNotConstrainAspectRatio": "종횡비를 제한하지 않음"
+    },
+    "Ok": "확인",
+    "PresetPicker": {
+      "Custom": "사용자 정의",
+      "Original": "원본"
+    },
+    "Resample": {
+      "Title": "픽셀 정보 보간"
+    },
+    "Title": {
+      "ImageSize": "이미지 크기"
+    },
+    "Units": {
+      "Centimeters": "센티미터",
+      "Inches": "인치",
+      "Millimeters": "밀리미터",
+      "Percent": "퍼센트",
+      "Picas": "파이카",
+      "Pixels": "픽셀",
+      "PixelsPerCentimeter": "ppcm",
+      "PixelsPerInch": "ppi",
+      "Points": "포인트"
+    }
+  },
+  "Importer": {
+    "GoogleDrive": {
+      "Consent": {
+        "Attribution": "Google Drive is a trademark of Google Inc. Use of this trademark is subject to Google Permissions.",
+        "Cancel": "취소",
+        "Confirm": "허용",
+        "Content": "Photoshop 웹 버전에서 Google 드라이브™ 파일을 열도록 허용하십시오.",
+        "Fail": "Google 드라이브 파일을 열지 못함",
+        "Title": "동의 필요"
+      }
+    },
+    "ProgressDialog": {
+      "Label": {
+        "LoadingDocument": "문서 로드 중"
+      },
+      "Title": {
+        "CreatingDocument": "문서 만들기",
+        "LoadingDocument": "문서 로드 중"
+      }
+    }
+  },
+  "ImportZone": {
+    "Description": {
+      "DragAndDropOrSelect": "가져올 항목을 끌어다 놓거나 선택"
+    },
+    "Heading": {
+      "ImportAnImage": "시작하려면 이미지를 가져오기",
+      "UploadAnImage": "이미지 업로드",
+      "WelcomeWithName": "Photoshop에 오신 것을 환영합니다, <strong>{{userName}}</strong> 님"
+    },
+    "Message": {
+      "OrSelectSampleFile_one": "또는 샘플 이미지 선택",
+      "OrSelectSampleFile_other": "또는 샘플 이미지 선택"
+    },
+    "UploadImageMenuLabel": "이미지 업로드"
+  },
+  "InputDeviceDialog": {
+    "Cards": {
+      "Mouse": "마우스",
+      "Trackpad": "트랙패드"
+    },
+    "Title": "현재 무엇을 사용하고 계신가요?"
+  },
+  "InstallPWA": {
+    "Card": {
+      "Description": "Photoshop 웹 앱을 다운로드 폴더에 저장하여 빠르게 엑세스하세요.",
+      "Title": "다운로드 폴더에서 앱을 찾으세요"
+    }
+  },
+  "IntentModal": {
+    "Tutorials": {
+      "Adjust": {
+        "OBEAdjustObject": {
+          "Title": "색상 조정"
+        }
+      },
+      "Combine": {
+        "AddObjectsGenAI": {
+          "Title": "새로운 항목 추가"
+        }
+      },
+      "EditorUITour": {
+        "Title": "Photoshop용 변환"
+      },
+      "Retouch": {
+        "OBERemoveObject": {
+          "Title": "산만한 부분 제거"
+        }
+      }
+    }
+  },
+  "IntentModalHome": {
+    "Button": {
+      "Confirm": "Photoshop으로 시작하기"
+    },
+    "Text": {
+      "ViewAllTutorials1": "필요한 것을 못 찾고 계신가요? ",
+      "ViewAllTutorials2": "모든 자습서 보기"
+    },
+    "Title": "상상을 현실로 만들어봅시다. 어디서 시작하시겠습니까?"
+  },
+  "Intercept": {
+    "Error": {
+      "Toast": "설문조사를 여는 중에 오류가 발생했습니다. 나중에 다시 시도하십시오."
+    },
+    "Picker": {
+      "Label": "응답 선택"
+    },
+    "Response": {
+      "ExtremelyDissatisfied": "매우 불만족함",
+      "ExtremlySatisfied": "매우 만족함",
+      "ModeratelyDissatisfied": "다소 불만족함",
+      "ModeratelySatisfied": "다소 만족함",
+      "Neutral": "중간",
+      "SlightlyDissatisfied": "약간 불만족함",
+      "SlightlySatisfied": "약간 만족함"
+    },
+    "Trigger": {
+      "Button": {
+        "NoThanks": "닫기",
+        "StartNow": "제출"
+      },
+      "Heading": "전반적으로 Photoshop 웹 버전에 대해 얼마나 만족하거나 불만족하십니까?"
+    },
+    "Trigger2": {
+      "Body": "본 설문조사에 이미 참여하셨더라도 최신 피드백을 공유해 주십시오.",
+      "Button": {
+        "NoThanks": "나중에",
+        "StartNow": "지금 시작"
+      },
+      "Header": "5분 분량의 설문조사를 통해 사용하신 소감을 알려주십시오."
+    }
+  },
+  "Keyboardshortcuts": {
+    "Abbreviation": {
+      "Delete": "Del"
+    },
+    "AutoColor": "자동 색상",
+    "AutoContrast": "자동 대비",
+    "AutoTone": "자동 톤",
+    "BringForward": "앞으로 가져오기",
+    "BringToFront": "맨 앞으로 가져오기",
+    "ContentAwareFill": "내용 인식 채우기",
+    "Copy": "복사",
+    "CopyFromAllVisibleLayers": "표시되는 모든 레이어에서 내용 복사",
+    "CreateReleaseClippingMask": "클리핑 마스크 만들기/해제",
+    "Cut": "잘라내기",
+    "CycleBlendBackwards": "혼합 모드 순환(뒤로)",
+    "CycleBlendForward": "혼합 모드 순환(앞으로)",
+    "DefaultColors": "기본 전경색과 배경색",
+    "Delete": "삭제",
+    "Deselect": "선택 해제",
+    "Export": "내보내기",
+    "FileInfo": "파일 정보",
+    "FillWithBackground": "배경으로 채우기",
+    "FillWithForeground": "전경 채우기",
+    "Grid": "그리드 표시/숨기기",
+    "Group": "레이어 그룹화",
+    "Guides": "가이드 표시/숨기기",
+    "ImageSize": "이미지 크기",
+    "InvertImage": "이미지 반전",
+    "InvertSelection": "선택 영역 반전",
+    "MergeLayers": "레이어 병합",
+    "MergeVisible": "보이는 레이어 병합",
+    "NewLayer": "새 레이어",
+    "NewLayerCopy": "복사를 통해 새 레이어 만들기",
+    "NewLayerCut": "잘라내기를 통해 새 레이어 만들기",
+    "Paste": "붙여넣기",
+    "QuickMaskMode": "빠른 마스크 모드로 편집",
+    "Redo": "다시 실행",
+    "RefineEdge": {
+      "CycleViewModesBackward": "가장자리 다듬기: 보기 모드 뒤로 전환",
+      "CycleViewModesForward": "가장자리 다듬기: 보기 모드 앞으로 전환",
+      "ViewMode": {
+        "Ants": "가장자리 다듬기 보기 모드: 점선",
+        "Black": "가장자리 다듬기 보기 모드: 검은색 바탕",
+        "BlackWhite": "가장자리 다듬기 보기 모드: 흑백",
+        "Overlay": "가장자리 다듬기 보기 모드: 오버레이",
+        "White": "가장자리 다듬기 보기 모드: 흰색 바탕"
+      }
+    },
+    "Reselect": "다시 선택",
+    "Rulers": "눈금자 표시/숨기기",
+    "Save": "저장",
+    "SelectAll": "모두 선택",
+    "SelectAllLayers": "모든 레이어 선택",
+    "SelectBottomLayer": "맨 아래 레이어 선택",
+    "SelectionAdd": "선택 영역에 추가(선택 도구용)",
+    "SelectionIntersect": "선택 영역과 교차(선택 도구용)",
+    "SelectionSubtract": "선택 영역에서 빼기(선택 도구용)",
+    "SelectTopLayer": "맨 위의 레이어 선택",
+    "SendBackward": "뒤로 보내기",
+    "SendToBack": "맨 뒤로 보내기",
+    "ShowSettings": "설정 표시",
+    "StartRefineEdge": "가장자리 다듬기 시작(선택 도구용)",
+    "StartSearch": "검색 시작",
+    "SwitchColors": "전경색과 배경색 전환",
+    "SwitchToMoveTool": "이동 도구로 전환",
+    "ToggleFullscreen": "전체 화면 전환",
+    "ToggleShortcuts": "바로 가기 전환",
+    "Undo": "실행 취소",
+    "Ungroup": "레이어 그룹 해제",
+    "Zoom100": "100%로 확대",
+    "Zoom200": "200%로 확대",
+    "ZoomIn": "확대",
+    "ZoomOut": "축소",
+    "ZoomToFit": "확대/축소하여 맞추기"
+  },
+  "Layer": {
+    "PanelLayer": {
+      "EnterLayerName": "레이어 이름 입력",
+      "HideLayer": "레이어 숨기기",
+      "LayerEffects": {
+        "Title": "레이어 효과"
+      },
+      "Message": {
+        "RenameNotPossible": "해당 레이어 이름을 변경할 수 없음"
+      },
+      "Properties": {
+        "Title": "레이어 속성"
+      },
+      "ShowLayer": "레이어 표시",
+      "UnlinkLayer": "레이어 연결 해제",
+      "UnlockGroup": "그룹 잠금 해제",
+      "UnlockLayer": "레이어 잠금 해제",
+      "Visibility": {
+        "ContextMenu": {
+          "Header": "가시성 작업",
+          "HideSelectedLayers": "선택한 레이어 숨기기",
+          "HideThisLayer": "선택 레이어 숨기기",
+          "ShowHideOthers": "다른 모든 레이어 표시/숨기기",
+          "ShowSelectedLayers": "선택한 레이어 표시",
+          "ShowThisLayer": "선택 레이어 표시"
+        }
+      }
+    }
+  },
+  "LayerActions": {
+    "AddLayerMask": "레이어 마스크 추가",
+    "AddMaskToSelection": "선택 영역에 마스크 추가",
+    "AddNewLayer": "새 레이어 추가",
+    "AdjustmentLayers": {
+      "Title": "조정 레이어"
+    },
+    "ArrangeLayers": {
+      "BringForward": "앞으로 가져오기",
+      "BringToFront": "맨 앞으로 가져오기",
+      "SendBackward": "뒤로 보내기",
+      "SendToBack": "맨 뒤로 보내기",
+      "Title": "레이어 정렬"
+    },
+    "ConvertToLayers": "레이어로 변환",
+    "ConvertToSmartObject": "고급 개체로 변환",
+    "CopyLayer": "레이어 복사",
+    "CreateClippingMask": "클리핑 마스크 만들기",
+    "Delete": "삭제",
+    "DeleteGroup": "그룹 삭제",
+    "DeleteLayer": "레이어 삭제",
+    "DeleteMask": "마스크 삭제",
+    "DisableLayerMask": "레이어 마스크 비활성화",
+    "Duplicate": "복제",
+    "DuplicateGroup": "그룹 복제",
+    "DuplicateLayer": "레이어 복제",
+    "EditOriginal": "원본 편집",
+    "EditSmartObject": "스마트 오브젝트 편집",
+    "EnableLayerMask": "레이어 마스크 사용 가능",
+    "Flatten": "병합",
+    "FlattenImage": "이미지 병합",
+    "FlattenLayer": "레이어 병합",
+    "GroupLayers": "레이어 그룹화",
+    "GroupMore": {
+      "Header": "그룹 작업",
+      "Menu": "그룹 작업"
+    },
+    "HideThisLayer": "선택 레이어 숨기기",
+    "IntersectMaskWithSelection": "마스크를 선택 영역과 교차",
+    "LargeLayerThumbnails": "큰 레이어 축소판",
+    "LargeThumbnails": "큰 레이어 축소판",
+    "LayerEffects": {
+      "Header": "레이어 효과",
+      "Title": "레이어 효과"
+    },
+    "LayerMore": {
+      "Header": "레이어 작업",
+      "Menu": "레이어 액션"
+    },
+    "LinkLayerMask": "레이어 마스크 연결",
+    "LinkLayers": "레이어 연결",
+    "LoadAsSelection": "선택 영역으로 불러오기",
+    "Lock": "잠금",
+    "LockGroup": "그룹 잠금",
+    "LockLayer": "레이어 잠그기",
+    "MaskMore": {
+      "Header": "마스크 작업",
+      "Menu": "마스크 작업"
+    },
+    "MergeDown": "아래 레이어와 병합",
+    "MergeGroup": "그룹 병합",
+    "MergeLayers": "레이어 병합",
+    "MergeVisible": "보이는 레이어 병합",
+    "MultipleMore": {
+      "Header": "레이어 작업",
+      "Menu": "레이어 작업"
+    },
+    "PasteLayer": "붙여넣기",
+    "RefineEdge": "가장자리 다듬기",
+    "ReleaseClippingMask": "클리핑 마스크 해제",
+    "SelectAll": "모두 선택",
+    "ShowHideOthers": "다른 모든 레이어 표시/숨기기",
+    "ShowThisLayer": "선택 레이어 표시",
+    "SubtractMaskFromSelection": "선택 영역에서 마스크 빼기",
+    "UngroupLayers": "레이어 그룹 해제",
+    "UnlinkLayerMask": "레이어 마스크 연결 해제",
+    "UnlinkLayers": "레이어 연결 해제",
+    "Unlock": "잠금 해제",
+    "UnlockGroup": "그룹 잠금 해제",
+    "UnlockLayer": "레이어 잠금 해제"
+  },
+  "LayerEffects": {
+    "Angle": {
+      "Label": "각도"
+    },
+    "Antialias": {
+      "Label": "앤티 앨리어스",
+      "Tooltip": "윤곽선을 매끄럽게 합니다."
+    },
+    "Bevel": {
+      "Altitude": {
+        "Label": "고도"
+      },
+      "Depth": {
+        "Label": "깊이"
+      },
+      "Direction": {
+        "Down": "아래로",
+        "Title": "방향",
+        "Up": "위로"
+      },
+      "GlossCurve": {
+        "Label": "광택 윤곽선",
+        "Tooltip": "음영에 곡선을 추가합니다."
+      },
+      "Highlights": {
+        "Blendmode": {
+          "Title": "하이라이트 모드",
+          "Tooltip": "하이라이트의 혼합 모드 설정"
+        },
+        "Color": {
+          "Title": "강조 색상",
+          "Tooltip": "하이라이트의 색상 설정"
+        }
+      },
+      "Shadows": {
+        "Blendmode": {
+          "Tooltip": "그림자의 혼합 모드 설정"
+        },
+        "BlendMode": {
+          "Label": "그림자 모드"
+        },
+        "Color": {
+          "Title": "그림자 색상",
+          "Tooltip": "그림자의 색상 설정"
+        },
+        "Opacity": {
+          "Title": "불투명도"
+        }
+      },
+      "Size": {
+        "Label": "크기"
+      },
+      "Soften": {
+        "Label": "부드럽게"
+      },
+      "Style": {
+        "Emboss": "엠보스",
+        "InnerBevel": "내부 경사",
+        "Label": "스타일",
+        "OuterBevel": "외부 경사",
+        "PillowEmboss": "쿠션 엠보스",
+        "StrokeEmboss": "획 엠보스",
+        "Tooltip": "경사 위치 선택"
+      },
+      "Technique": {
+        "ChiselHard": "거칠게 깎기",
+        "ChiselSoft": "부드럽게 깎기",
+        "Label": "기법",
+        "Smooth": "매끄럽게",
+        "Tooltip": "경사 구성 선택"
+      },
+      "Texture": {
+        "Depth": {
+          "Title": "깊이",
+          "Tooltip": "텍스처 강도 설정"
+        },
+        "Invert": {
+          "Label": "반전",
+          "Tooltip": "텍스처 반전"
+        }
+      },
+      "UseGlobalLight": {
+        "Label": "전체 조명 사용",
+        "Tooltip": "전체 광원에 현재 설정을 사용합니다."
+      },
+      "UseShape": {
+        "Label": "윤곽선",
+        "Tooltip": "경사에 윤곽선 적용"
+      },
+      "UseTexture": {
+        "Label": "텍스처",
+        "Tooltip": "경사에 텍스처 적용"
+      }
+    },
+    "Blending": {
+      "Label": {
+        "BlendMode": "혼합 모드"
+      }
+    },
+    "Blur-Size": {
+      "Label": "크기"
+    },
+    "Choke": {
+      "Label": "경계 감소",
+      "Tooltip": "흐림 효과 전에 레이어 마스크를 축소합니다."
+    },
+    "Contour": {
+      "Label": "윤곽선",
+      "Placeholder": "선택",
+      "Tooltip": "불투명도를 변경합니다."
+    },
+    "ContourPresets": {
+      "ImportContour": "윤곽선 가져오기",
+      "ResetToDefault": "기본 윤곽선으로 재설정"
+    },
+    "Distance": {
+      "Label": "거리",
+      "Tooltip": "그림자의 오프셋 설정"
+    },
+    "DropShadow": {
+      "UseGlobalLight": {
+        "Label": "전체 조명 사용",
+        "Tooltip": "전체 광원에 현재 설정을 사용합니다."
+      }
+    },
+    "Glow": {
+      "Direction": {
+        "Center": "중앙",
+        "Edge": "가장자리",
+        "Title": "소스"
+      },
+      "Filltype": {
+        "Tooltip": "광선 내용 설정"
+      },
+      "InnerGlowColor": "내부 광선 색상",
+      "OuterGlowColor": "외부 광선 색상",
+      "SetColor": "광선 색상 설정",
+      "Technique": {
+        "Label": "기법",
+        "Precise": "정밀",
+        "Softer": "더 부드럽게",
+        "Tooltip": "마스크를 부드럽게 하는 기법"
+      }
+    },
+    "InnerShadow": {
+      "Color": "내부 그림자 색상"
+    },
+    "Jitter": {
+      "Label": "지터",
+      "Tooltip": "광선의 그레이디언트를 임의 순서로 생성합니다."
+    },
+    "Noise": {
+      "Label": "노이즈",
+      "Tooltip": "광선 불투명도에 노이즈 추가"
+    },
+    "Opacity": {
+      "Label": "불투명도"
+    },
+    "Overlay": {
+      "Blendmode": {
+        "Tooltip": "오버레이 혼합 모드 설정"
+      },
+      "Color": {
+        "Label": "오버레이 색상 설정",
+        "Tooltip": "오버레이 색상"
+      }
+    },
+    "OverlayGradient": {
+      "AlignWithLayer": {
+        "Label": "레이어에 맞춤"
+      },
+      "Dither": {
+        "Label": "디더",
+        "Tooltip": "그레이디언트 디더"
+      },
+      "Gradient": {
+        "Label": "그레이디언트"
+      },
+      "GradientPresets": {
+        "DeleteGradient": "선택된 그레이디언트 삭제",
+        "ImportGradient": "그레이디언트 가져오기",
+        "RenameGradient": "선택한 그레이디언트 <br>이름 변경",
+        "ResetToDefault": "기본 그레이디언트로 재설정"
+      },
+      "Method": {
+        "Classic": "클래식",
+        "Label": "방법",
+        "Linear": "선형",
+        "Perceptual": "가시 범위",
+        "Tooltip": "캔버스에 그레이디언트 색상이 표시되는 방식 설정"
+      },
+      "Reversed": {
+        "Label": "그레이디언트 방향을 반전시킵니다."
+      },
+      "Style": {
+        "Angle": "각도",
+        "Diamond": "다이아몬드",
+        "Label": "스타일",
+        "Linear": "선형",
+        "Radial": "방사형",
+        "Reflected": "반사"
+      }
+    },
+    "OverlayPattern": {
+      "LinkWithLayer": {
+        "Label": "레이어와 연결"
+      },
+      "Pattern": {
+        "DeletePattern": "선택한 패턴 삭제",
+        "ImportPattern": "패턴 가져오기",
+        "Label": "패턴",
+        "Placeholder": "선택",
+        "RenamePattern": "선택한 패턴 이름 변경",
+        "ResetToDefault": "기본 패턴으로 재설정"
+      }
+    },
+    "Range": {
+      "Label": "범위",
+      "Tooltip": "범위에 윤곽선을 적용합니다."
+    },
+    "Satin": {
+      "Color": "새틴 색상",
+      "Distance": {
+        "Label": "거리"
+      },
+      "Invert": {
+        "Label": "반전",
+        "Tooltip": "효과를 반전시킴"
+      },
+      "SetColor": "새틴 색상 설정"
+    },
+    "Scale": {
+      "Label": "비율"
+    },
+    "Shadow": {
+      "Color": "그림자 색상",
+      "SetColor": "그림자의 색상 설정"
+    },
+    "Spread": {
+      "Label": "스프레드",
+      "Tooltip": "흐림 효과 전에 레이어 마스크를 확대합니다."
+    },
+    "Stroke": {
+      "Color": "획 색상",
+      "Filltype": {
+        "Color": "색상",
+        "Gradient": "그레이디언트",
+        "Label": "칠 유형",
+        "Pattern": "패턴",
+        "Tooltip": "획 내용을 설정합니다."
+      },
+      "Overprint": {
+        "Label": "중복 인쇄",
+        "Tooltip": "현재 레이어 내용에 대해 획 혼합"
+      },
+      "Position": {
+        "Center": "중앙",
+        "Inside": "안쪽",
+        "Label": "위치",
+        "Outside": "바깥쪽"
+      },
+      "SetColor": "획 색상을 설정합니다.",
+      "Size": {
+        "Label": "크기"
+      }
+    }
+  },
+  "LayereffectsProperties": {
+    "AdvancedSettings": {
+      "Title": "고급 설정"
+    },
+    "DeleteAllEffects": "모든 효과 삭제",
+    "DeleteEffects": "효과 삭제",
+    "Details": {
+      "BackToOverview": "레이어 효과 개요로 <br>돌아가기",
+      "DeleteEffect": "효과 삭제",
+      "RestoresToDefault": "이 효과의 기본 설정으로 복원합니다"
+    },
+    "EditLayerEffectProperties": "레이어 효과 속성 편집",
+    "Effects": {
+      "AddEffect": "효과 추가"
+    },
+    "HideEffects": "효과 숨기기",
+    "IndividualLayerEffectVisibility": "개별 레이어 효과 가시성",
+    "LayerEffects": {
+      "Header": "레이어 효과"
+    },
+    "LayerEffectsNotYetAvaible": "이 레이어 효과의 편집은 아직 사용할 수 없음",
+    "NoLayerFx": {
+      "Subtitle": "획, 색상 오버레이 또는 그림자 추가",
+      "SubtitleGlow": "획, 색상 오버레이, 외부 광선 또는 그림자 추가"
+    },
+    "ShowEffects": "효과 표시"
+  },
+  "LayerProperties": {
+    "AdjustmentBar": {
+      "ColorRangeOption": {
+        "blues": "파랑 계열 조정",
+        "cyans": "시안 계열 조정",
+        "greens": "초록 계열 조정",
+        "magentas": "마젠타 계열 조정",
+        "master": "모든 색상 조정",
+        "reds": "빨강 계열 조정",
+        "yellows": "노랑 계열 조정"
+      }
+    },
+    "BlackAndWhite": {
+      "Label": {
+        "Blues": "파랑 계열",
+        "Cyans": "녹청 계열",
+        "Greens": "녹색 계열",
+        "Magentas": "마젠타 계열",
+        "Reds": "빨강 계열",
+        "Tint": "색조",
+        "Yellows": "노랑 계열"
+      },
+      "Reset": "재설정"
+    },
+    "Blending": {
+      "Label": {
+        "Blend": "혼합",
+        "Opacity": "불투명도"
+      },
+      "ScopedOperation": {
+        "BlendingChange": "혼합 변경"
+      },
+      "Title": "모양"
+    },
+    "BrightnessContrast": {
+      "Label": {
+        "Brightness": "명도",
+        "Contrast": "대비"
+      },
+      "Reset": "재설정"
+    },
+    "ColorBalance": {
+      "Label": {
+        "CyanRed": "녹청/빨강",
+        "MagentaGreen": "마젠타/녹색",
+        "PreserveLuminosity": "광도 유지",
+        "Tone": "톤",
+        "YellowBlue": "노랑/파랑"
+      },
+      "Reset": "재설정",
+      "Tone": {
+        "Highlights": "밝은 영역",
+        "Midtones": "중간 색조",
+        "Shadows": "어두운 영역"
+      }
+    },
+    "Exposure": {
+      "Label": {
+        "Exposure": "노출",
+        "Gamma": "감마",
+        "Offset": "오프셋"
+      },
+      "Reset": "재설정"
+    },
+    "HueSaturation": {
+      "Label": {
+        "Colorize": "색상화",
+        "ColorRange": "색상 범위",
+        "ColorRangeOption": {
+          "blues": "파랑 계열",
+          "cyans": "녹청 계열",
+          "greens": "녹색 계열",
+          "magentas": "마젠타 계열",
+          "master": "마스터",
+          "reds": "빨강 계열",
+          "yellows": "노랑 계열"
+        },
+        "Hue": "색조",
+        "Lightness": "밝기",
+        "Saturation": "채도"
+      },
+      "Reset": "재설정"
+    },
+    "LayerBounds": {
+      "Label": {
+        "FlipHorizontal": "가로로 뒤집기",
+        "FlipVertical": "세로로 뒤집기",
+        "H": "H",
+        "Rotate90clockwise": "시계 방향으로 90° 회전",
+        "Rotate90counterClockwise": "시계 반대 방향으로 90° 회전",
+        "W": "W",
+        "X": "X",
+        "Y": "Y"
+      },
+      "Lockbutton": {
+        "ConstrainAspectRatio": "종횡비 제한",
+        "DoNotConstrainAspectRatio": "종횡비를 제한하지 않음"
+      },
+      "Title": "치수"
+    },
+    "LayerEffectsProperties": {
+      "Title": "효과"
+    },
+    "LayerMask": {
+      "Label": {
+        "Density": "농도",
+        "Feather": "페더"
+      }
+    },
+    "LayerMaskProperties": {
+      "Title": "레이어 마스크"
+    },
+    "LayerType": {
+      "Title": "텍스트"
+    },
+    "Levels": {
+      "Label": {
+        "OutputLevels": "출력 레벨"
+      },
+      "OutputLevel": {
+        "Highs": "높은 출력 레벨 설정",
+        "Lows": "낮은 출력 레벨 설정"
+      },
+      "SetBlackLevel": "블랙 레벨 설정",
+      "SetGrayLevel": "그레이 레벨 설정",
+      "SetWhiteLevel": "화이트 레벨 설정",
+      "Unsupported": "이 이미지 모드에서 레벨은 아직 지원되지 않습니다"
+    },
+    "PlacedLayerProperties": {
+      "Label": {
+        "EditSmartObject": "스마트 오브젝트 편집",
+        "Rotation": "각도"
+      },
+      "Title": "포함된 고급 개체"
+    },
+    "Shape": {
+      "Stroke": {
+        "Alignment": {
+          "Center": "중앙",
+          "Inside": "안쪽",
+          "Outside": "바깥쪽",
+          "Title": "맞춤"
+        },
+        "Cap": {
+          "Butt": "버트",
+          "Projecting": "돌출 사각형",
+          "Round": "원"
+        },
+        "Join": {
+          "Bevel": "경사",
+          "Miter": "마이터",
+          "Round": "원"
+        },
+        "Line": {
+          "Cap": {
+            "Butt": "버트",
+            "Projecting": "돌출 사각형",
+            "Round": "원",
+            "Title": "줄 단면"
+          },
+          "Join": {
+            "Bevel": "경사",
+            "Miter": "마이터",
+            "Round": "원형",
+            "Title": "선 연결"
+          }
+        }
+      },
+      "Style": {
+        "SwitchColors": "전환",
+        "Tooltip": {
+          "Fill": "칠",
+          "Stroke": "획"
+        }
+      }
+    },
+    "ShapeBounds": {
+      "Label": {
+        "BottomLeftRadius": "왼쪽 아래 반경",
+        "BottomRightRadius": "오른쪽 아래 반경",
+        "CornerRadius": "모퉁이 반경",
+        "FlipHorizontal": "가로로 뒤집기",
+        "FlipVertical": "세로로 뒤집기",
+        "H": "높이",
+        "NumberOfSides": "변의 수",
+        "ResetTransform": "변형 재설정",
+        "Rotation": "각도",
+        "Sides": "변의 수",
+        "StarRatio": "별 비율",
+        "StrokeWidth": "획 폭",
+        "Style": "스타일",
+        "TopLeftRadius": "왼쪽 위 반경",
+        "TopRightRadius": "오른쪽 위 반경",
+        "W": "W",
+        "X": "X",
+        "Y": "Y"
+      },
+      "Lockbutton": {
+        "ConstrainAspectRatio": "종횡비 제한",
+        "DoNotConstrainAspectRatio": "종횡비를 제한하지 않음"
+      },
+      "RadiusLockButton": {
+        "Label": "반경 값 연결"
+      },
+      "Transform": "변형"
+    },
+    "ShapeEllipseProperties": {
+      "Title": "모양 타원"
+    },
+    "ShapeLineProperties": {
+      "Title": "모양 선"
+    },
+    "ShapeMultipleProperties": {
+      "Title": "모양"
+    },
+    "ShapePolygonProperties": {
+      "Title": "모양 다각형"
+    },
+    "ShapeRectangleProperties": {
+      "Title": "모양 사각형"
+    },
+    "ShapeTriangleProperties": {
+      "Title": "모양 삼각형"
+    },
+    "SolidColorFill": {
+      "Title": "단색 칠"
+    },
+    "SyntheticFill": {
+      "Generate": "생성",
+      "NoPrompt": "(프롬프트 없음)",
+      "Prompt": "프롬프트",
+      "Title": "생성형 레이어",
+      "Variation": {
+        "Menu": {
+          "BadResult": "잘못된 결과",
+          "DeleteVariation": "변형 삭제",
+          "GenerateSimilar": "비슷하게 생성",
+          "GoodResult": "좋은 결과",
+          "ReportVariation": "변형 신고"
+        },
+        "More": "더 보기"
+      },
+      "Variations": "변형",
+      "XofY": "{{index}}/{{total}}"
+    },
+    "Unsupported": "이 기능은 아직 사용할 수 없습니다",
+    "Variations": {
+      "Title": "변경"
+    },
+    "Vibrance": {
+      "Label": {
+        "Saturation": "채도",
+        "Vibrance": "활기"
+      },
+      "Reset": "재설정"
+    }
+  },
+  "LayersPanel": {
+    "LayersTree": {
+      "Title": "레이어"
+    }
+  },
+  "LayerTypeProperties": {
+    "AdjustStyle": {
+      "HorizontalScale": "가로 비율",
+      "VerticalScale": "세로 비율"
+    },
+    "AllCaps": "모두 대문자",
+    "AutoKerning": {
+      "Metrics": "메트릭",
+      "Optical": "광학"
+    },
+    "AutoLeading": "자동",
+    "BaselineShift": "기준선 이동",
+    "CenterAlign": "가운데 정렬",
+    "Font": {
+      "Label": {
+        "Fill": "색상 채우기"
+      }
+    },
+    "FontSize": "글꼴 크기",
+    "FullJustify": "전체 강제 정렬",
+    "FullJustifyCenterAll": "전체 가운데 강제 정렬",
+    "FullJustifyLeft": "전체 왼쪽 강제 정렬",
+    "FullJustifyRight": "전체 오른쪽 강제 정렬",
+    "JustifyDisabled": "텍스트를 정렬하려면 캔버스의 텍스트 도구를 드래그하여 단락 텍스트를 추가하십시오.",
+    "Kerning": "커닝",
+    "Leading": "행간",
+    "LeftAlign": "왼쪽 정렬",
+    "MoreOptionsTitle": "추가 옵션",
+    "Paragraph": {
+      "Dimensions": "치수"
+    },
+    "RightAlign": "오른쪽 정렬",
+    "SmallCaps": "작은 대문자",
+    "Strikethrough": "취소선",
+    "Subscript": "아래 첨자",
+    "Superscript": "위 첨자",
+    "Tracking": "자간",
+    "Unit": {
+      "Pt": "pt"
+    }
+  },
+  "LazyLoad": {
+    "Error": {
+      "PleaseCheck": "인터넷 연결을 확인하거나 페이지를 새로 고치세요.",
+      "SorrySomething": "죄송합니다. 문제가 발생했습니다"
+    }
+  },
+  "LCECSATIntercept": {
+    "Feedback": {
+      "Submitted": "피드백이 성공적으로 제출되었습니다."
+    },
+    "Trigger": {
+      "Body": "동시 공동 편집에 대한 특별 액세스를 가진 초대 받은 유저의 피드백은 가치 있습니다. 1분 설문조사에 참여하여 해당 기능 개선을 도와주세요!",
+      "Button": {
+        "NoThanks": "나중에",
+        "StartNow": "지금 시작"
+      },
+      "Heading": "여러분의 의견을 들려주세요!"
+    }
+  },
+  "Learn": {
+    "AdjustImageMiniTour": {
+      "AdjustmentLayer": {
+        "Content": "<b>흑백</b> 또는 <b>노출</b>과 같은 조정 레이어를 추가할 수 있습니다.",
+        "Title": "새 조정 레이어 만들기"
+      },
+      "LayersPanel": {
+        "Content": "조정 레이어는 Photoshop의 놀라운 기능에서 중요한 부분입니다. 조정 레이어를 사용하면 원본 이미지를 그대로 남겨두면서 색상, 색조 조정을 변경할 수 있습니다. 이미지를 쉽게 사용자 지정할 수 있도록 이미 <b>레이어</b> 패널에서 <b>명도/대비</b> 레이어를 선택했습니다.",
+        "Title": "조정 레이어를 사용하여 간편하게 편집"
+      },
+      "Sliders": {
+        "Content": "<b>속성</b> 메뉴에 선택한 조정 레이어의 컨트롤이 표시됩니다. 슬라이더를 드래그해 봅니다. 기본적으로 조정 레이어는 그 아래의 모든 레이어에 영향을 주게 됩니다.",
+        "Title": "슬라이더 조정"
+      }
+    },
+    "Buttons": {
+      "Skip": {
+        "Label": "무시"
+      },
+      "StartDemo": {
+        "Label": "데모 시작"
+      },
+      "StartTour": {
+        "Label": "둘러보기 시작"
+      }
+    },
+    "CloudSync": {
+      "Content": "동기화 완료 전에 나갈 경우, 다른 장치에서 최신 버전의 문서에 엑세스 할 수 없습니다. 이 장치에서는 최근 변경 사항에 엑세스 할 수 있으며 동기화를 재개 할 수 있습니다.",
+      "DontShowAgain": "다시 표시 안 함",
+      "Ok": "확인",
+      "Title": "클라우드에 동기화 중"
+    },
+    "EmphasizedLabel": {
+      "New": "새 기능"
+    },
+    "GenerativeExpand": {
+      "Expand": {
+        "Content_v1": "<b>자르기</b> 도구를 사용하여 모서리를 드래그하여 이미지의 높이와 너비를 확장하십시오.",
+        "Title": "이미지 확장"
+      },
+      "GenExpandButton": {
+        "Content_v1": "캔버스를 확장하고 상황별 작업 막대에서 <b>생성형 확장</b>을 선택합니다.",
+        "Title_v3": "생성형 확장 선택"
+      },
+      "HitExpand": {
+        "Content_v2": "프롬프트로 이미지를 생성할 준비가 되면 <b>확장</b>을 선택합니다."
+      },
+      "HitGenerate": {
+        "Title_v2": "이미지 생성 시작"
+      },
+      "Prompt": {
+        "Content": "생성할 내용을 설명합니다. 프롬프트를 비워 두면 Photoshop에서 자동으로 생성합니다.",
+        "Title_v1": "프롬프트 생성"
+      },
+      "Results": {
+        "Content": "화살표를 사용하여 결과를 탐색하거나 새로운 프롬프트로 더 많은 변형을 생성할 수 있습니다.",
+        "SecondaryDoneButtonTitle": "투어 종료",
+        "Title_v1": "변형 선택"
+      },
+      "Start": {
+        "Content_v1": "먼저 이미지를 확장한 다음 개체, 배경, 장면을 생성합니다.",
+        "Title_v1": "창작의 경계를 확장하십시오."
+      }
+    },
+    "GenerativeFill": {
+      "GenFillButton": {
+        "Content_v1": "선택한 후 상황별 작업 막대에서 <b>생성형 채우기</b> 옵션을 선택합니다.",
+        "Title_v1": "생성형 채우기 선택"
+      },
+      "HitFill": {
+        "Content_v1": "프롬프트로 이미지를 생성할 준비가 되면 <b>채우기</b>를 선택합니다."
+      },
+      "HitGenerate": {
+        "Title_v1": "이미지 생성 시작"
+      },
+      "Prompt": {
+        "Content_v1": "생성할 내용을 설명합니다. 프롬프트를 비워 두면 Photoshop에서 자동으로 생성합니다.",
+        "Title_v1": "프롬프트 생성"
+      },
+      "Results": {
+        "Content_v1": "화살표를 사용하여 결과를 탐색하거나 새로운 프롬프트로 더 많은 변형을 생성할 수 있습니다.",
+        "Title_v1": "변형 선택"
+      },
+      "SecondaryDoneButtonTitle": "투어 종료",
+      "Selection": {
+        "Content_v1": "시작하려면 올가미 또는 사각형 윤곽과 같은 <b>선택</b> 도구를 선택하고 이미지 내에서 선택합니다.",
+        "Title": "선택하기"
+      },
+      "Start": {
+        "Content": "<b>생성형 채우기</b>를 사용하여 기존 콘텐츠를 수정하고 개체, 배경, 장면을 생성하십시오.",
+        "Title_v1": "몇 초 안에 놀라운 예술을 만들어 내는 텍스트 프롬프트"
+      }
+    },
+    "GenerativeFillDemo": {
+      "AssetFilename": "Mountains.psd",
+      "Astronaut": "우주인",
+      "GenFillButton": {
+        "Content_v1": "선택한 후 상황별 작업 막대에서 <b>생성형 채우기</b> 옵션을 선택합니다.",
+        "Title_v1": "생성형 채우기 선택"
+      },
+      "HitGenerate": {
+        "Title_v1": "이미지 생성 시작"
+      },
+      "Layer0": "레이어 0",
+      "Moon": "달",
+      "Progress": {
+        "Generating": "생성 중"
+      },
+      "Prompt": {
+        "Content": "<span style=\"white-space: normal;\">드롭다운에서 생성하려는 프롬프트를 선택하세요. <sp-link quiet href=\"#\">플랜으로 업그레이드</sp-link>하여 나만의 이미지를 사용하거나 생성하세요.</span>",
+        "Title_v1": "프롬프트 선택"
+      },
+      "Results": {
+        "Content_v2": "화살표를 사용하여 결과를 탐색하거나 새로운 프롬프트로 더 많은 변형을 생성할 수 있습니다.",
+        "Done": {
+          "Title": "데모 마치기"
+        },
+        "Title_v1": "변형 선택"
+      },
+      "SelectADemoPrompt": "데모 프롬프트 선택",
+      "SelectExpand": {
+        "Content": "프롬프트로 이미지를 생성할 준비가 되면 <b>채우기</b>를 선택합니다."
+      },
+      "Selection": {
+        "Content_v2": "시작하려면 올가미 또는 사각형 윤곽과 같은 <b>선택</b> 도구를 선택하고 이미지 내에서 선택합니다.<br><br><b>참고:</b> 이미 선택해 두었습니다.",
+        "Title": "선택하기"
+      },
+      "Spaceship": "우주선",
+      "Start": {
+        "Content": "<span style=\"white-space: normal;\"><b>생성형 채우기</b>를 사용하여 기존 콘텐츠를 수정하고 개체, 배경, 장면을 생성하세요.<br /><br /><b>참고: </b>이 자료는 데모이며 표시된 모든 에셋은 제공된 샘플 에셋입니다.<sp-link quiet href=\"#\">플랜으로 업그레이드</sp-link>하여 나만의 이미지를 사용하거나 생성하세요.</span>",
+        "Title_v1": "몇 초 안에 놀라운 예술을 만들어내는 텍스트 프롬프트"
+      }
+    },
+    "GenerativeFillTour": {
+      "ContinueButtonTitle": "계속",
+      "ContinueContent": "화살표를 사용하여 결과를 탐색하거나 다른 프롬프트로 더 많은 결과를 생성할 수 있습니다.<br><br>결과가 만족스러우면 투어를 끝내거나 <b>생성형 확장</b>을 사용하는 방법을 계속 알아볼 수 있습니다.",
+      "SecondaryDoneButtonTitle": "투어 종료"
+    },
+    "Home": {
+      "Bookmark": {
+        "Content": {
+          "MacOS": "해당 페이지를 북마크에 추가하여 (<b>⌘+D</b>) 웹용 Photoshop에 빠르게 엑세스할 수 있습니다.",
+          "Windows": "해당 페이지를 북마크에 추가하여 (<b>Ctrl+D</b>) 웹용 Photoshop에 빠르게 엑세스할 수 있습니다."
+        },
+        "Title": "이 페이지에 책갈피 지정"
+      },
+      "PWA": {
+        "BrowserNotificationsConfirmationButtons": {
+          "Cancel": "취소",
+          "Confirm": "확인"
+        },
+        "Install": {
+          "Content": {
+            "Commerce": "주소창에 있는 아이콘을 사용하여 브라우저 앱을 다운로드하세요. 데스크탑에서 단 한번의 클릭으로 Photoshop을 웹에서 간단하게 실행할 수 있습니다.",
+            "Default": "데스크탑에서 브라우저 앱을 통해 한 번의 클릭으로 웹용 Photoshop을 간단하게 실행할 수 있습니다."
+          },
+          "Title": "앱 다운로드"
+        },
+        "Notification": {
+          "Content": "브라우저 알림을 켜고 웹용 Photoshop의 새 기능을 빠르게 확인 수 있습니다.",
+          "Title": "최신 버전 유지"
+        },
+        "Welcome": {
+          "Content": "홈에서 새 문서를 시작하거나, 최근 파일에 액세스하거나, 새로운 기능에 대하여 배우거나 도움을 받을 수 있습니다.",
+          "Title": "Photoshop을 시작합니다!"
+        }
+      }
+    },
+    "IndicateAdjustmentPresetsCreatesLayers": {
+      "Content": "각 <b>조정 사전 설정</b>은 조정 레이어가 있는 그룹을 만듭니다. 각 레이어의 <b>속성 아이콘</b>을 클릭하여 효과의 각 부분에 대한 <b>슬라이더를 편집</b>할 수 있습니다.<br><br>사전 설정을 제거하려면 <b>조정 패널</b>에서 <b>되돌리기</b>를 클릭하거나 <b>레이어 패널</b>에서 레이어 그룹을 삭제할 수 있습니다.",
+      "DoneButtonTitle": "확인",
+      "Title": "조정 사전 설정으로 레이어 만들기"
+    },
+    "IndicateBookmark": {
+      "Content": {
+        "MacOS": "웹에서 Photoshop에 빠르게 액세스하려면 이 페이지를 북마크<b style=\"white-space: nowrap\">(CMD + D)</b>에 추가하세요.",
+        "Windows": "웹에서 Photoshop에 빠르게 액세스하려면 이 페이지를 북마크<b style=\"white-space: nowrap\">(CTRL + D)</b>에 추가하세요."
+      },
+      "DoneButtonTitle": "완료",
+      "Title": "이 페이지에 책갈피 지정"
+    },
+    "IndicateExport": {
+      "Content": "이미지 편집이 모두 완료되면 장치로 내보냅니다.",
+      "DoneButtonTitle": "확인",
+      "Return": {
+        "Content": "다운로드를 클릭하여 내보내기를 완료합니다.",
+        "DoneButtonTitle": "확인",
+        "Title": "지금 다운로드"
+      },
+      "Title": "이미지 내보내기"
+    },
+    "IndicateQuickActionsCreateLayers": {
+      "Content": "각 <b>빠른 작업</b>을 사용하면 <b>레이어 패널</b>에 레이어가 생성됩니다. 레이어 가시성('눈' 아이콘)을 전환하면 효과를 숨기거나 표시합니다.<br><br><b>빠른 작업 패널</b>의 <b>되돌리기</b> 버튼을 사용하거나 <b>레이어 패널</b>에서 레이어를 삭제하면 효과를 제거합니다.",
+      "DoneButtonTitle": "확인",
+      "Title": "빠른 작업 레이어 만들기"
+    },
+    "QuickActions": {
+      "EffectsFingertips": {
+        "Content": "<b>빠른 작업</b> 패널을 사용하면 이미지에 필터와 같은 효과를 손쉽게 추가할 수 있습니다. <b>레이어</b> 패널에서 원본 이미지를 선택한 다음 효과를 선택하여 이미지에서 어떻게 보이는지 확인하십시오.",
+        "Title": "간편하게 효과 적용"
+      }
+    },
+    "RemoveAnObject": {
+      "Finish": {
+        "Content": "웹용 Photoshop의 기초를 잘 배우고 있습니다.",
+        "Title": "정말 쉽게 하셨네요!"
+      },
+      "GenerativeFill": {
+        "Content": "<b>생성형 채우기</b> 도구를 선택합니다.<br /><br />프롬프트를 비워 두고 <b>채우기</b> 버튼을 누릅니다. 이미지에서 선택한 부분만 제거됩니다.",
+        "Title": "생성형 채우기 사용"
+      },
+      "Intro": {
+        "Content": "<b>생성형 채우기</b>의 기능을 사용하여 이미지에서 개체나 사람을 쉽게 제거하는 방법을 알아봅시다.",
+        "Title": "생성형 채우기를 사용하여 이미지에서 콘텐츠 제거"
+      },
+      "RefineSelection": {
+        "Content": "선택 항목에 추가하려면 {{PLUS_BUTTON}}을(를) 선택하고 제거하려면 {{MINUS_BUTTON}}을(를) 선택하세요. <br /> <br />선택 항목이 마음에 들면 다음 단계로 이동하세요.",
+        "Title": "선택 항목을 미세 조정해야 하나요?"
+      },
+      "Select": {
+        "Content": "<b>올가미</b> 도구를 사용하여 제거할 영역을 선택하세요. 완벽하지 않아도 괜찮습니다.",
+        "Title": "선택하기"
+      },
+      "Variation": {
+        "Content": "다양한 버전을 검토하여 마음에 드는 변형을 선택하세요.<br /><br />더 많은 변형을 생성하려면 {{PLUS_BUTTON}} 버튼을 누르세요.",
+        "Title": "변형 선택 또는 추가 생성"
+      }
+    },
+    "SpotHealMiniTour": {
+      "SpotHealingBrushTool": {
+        "Content": "스팟 복구 브러시 도구로 붓질하여 오브젝트를 손쉽게 제거합니다. 브러시 크기를 제거할 스팟보다 조금 크게 설정합니다. 숨기려면 스팟을 클릭하고 영역 위로 드래그합니다.",
+        "DoneButtonTitle": "완료",
+        "Title": "스팟 복구 브러시 도구"
+      }
+    }
+  },
+  "LearnCenter": {
+    "KBSC": {
+      "NoResults": "키보드 단축키가 없습니다",
+      "NoResultsDescription": "검색어를 변경해보세요"
+    },
+    "Recents": {
+      "EmptyRecents": "최근 튜토리얼 없음",
+      "StartLearning": "학습 시작"
+    },
+    "Tutorials": {
+      "Adjust": {
+        "AdjustLightingColors": {
+          "Title": "전체적인 조명과 색상 조정"
+        },
+        "MakeEyeColorPop": {
+          "Title": "눈 색상 돋보이게 하기"
+        },
+        "OBEAdjustObject": {
+          "Title": "특정 영역의 색상 변경"
+        },
+        "QuickActions": {
+          "Title": "빠른 작업으로 편집 간단화"
+        }
+      },
+      "Combine": {
+        "AddImagePlace": {
+          "Title": "다른 이미지 추가"
+        },
+        "AddObjectsGenAI": {
+          "Title": "장면에 새로운 요소 생성하기"
+        },
+        "CombineImagesBlend": {
+          "Title": "두 이미지 결합"
+        },
+        "GenerateBackground": {
+          "Title": "새 배경 생성하기"
+        },
+        "ReplaceBackground": {
+          "Title": "배경 교체"
+        }
+      },
+      "Design": {
+        "AddText": {
+          "Title": "이미지에 텍스트 추가"
+        },
+        "ColorPicker": {
+          "Title": "이미지에서 색상 선택"
+        },
+        "CreateSticker": {
+          "Title": "스티커 효과 만들기"
+        },
+        "FillAreaWithColor": {
+          "Title": "선택 영역을 색상으로 채우기"
+        },
+        "LayerEffects": {
+          "Title": "텍스트에 레이어 효과를 적용하여 증강"
+        }
+      },
+      "Done": "완료",
+      "EditorUITour": {
+        "Title": "Photoshop용으로 변환"
+      },
+      "Filter": {
+        "All": "모두",
+        "Completed": "완료됨",
+        "Filter": {
+          "SortBy": "정렬 기준"
+        },
+        "Incomplete": "미완성",
+        "MostRecent": "최근",
+        "SortBy": "정렬 기준",
+        "Status": "상태",
+        "TitleAsc": "제목 (오름차순)",
+        "TitleDesc": "제목(내림차순)"
+      },
+      "Generate": {
+        "ChangingSkyWithGenAI": {
+          "Title": "생성형 AI로 하늘을 바꾸세요"
+        },
+        "GenerateImage": {
+          "Title": "이미지 생성하기"
+        },
+        "GenerativeFillRefImage": {
+          "Title": "참조 이미지로 개체 생성"
+        }
+      },
+      "Kind": {
+        "HandsOn": "실습 자습서",
+        "Video": "비디오 튜토리얼 &middot; {{duration}}분"
+      },
+      "MostKnow": {
+        "PSOnboarding": {
+          "Title": "웹용 Photoshop 온보딩 둘러보기"
+        },
+        "UnderstandingLayers": {
+          "Title": "레이어에 대한 이해"
+        },
+        "UnderstandingMasks": {
+          "Title": "마스크에 대한 이해"
+        },
+        "UnderstandingSelections": {
+          "Title": "선택 영역 이해"
+        }
+      },
+      "New": "새로 만들기",
+      "NoResults": "튜토리얼을 찾지 못했습니다.",
+      "NoResultsDescription": "검색어 또는 필터를 변경하여 더 나은 결과를 얻으세요",
+      "ResizeAndRotate": {
+        "CropImage": {
+          "Title": "이미지 자르기"
+        },
+        "ExpandImageWithGenAI": {
+          "Title": "생성형 AI로 이미지를 확장"
+        },
+        "ResizeImage": {
+          "Title": "전체 이미지 크기 조정"
+        },
+        "ResizeRotateLayer": {
+          "Title": "레이어 크기 조정 또는 회전"
+        }
+      },
+      "Retouch": {
+        "CloneStamp": {
+          "Title": "[복제 도장] 도구로 영역 복제"
+        },
+        "OBERemoveObject": {
+          "Title": "개체를 빠르게 선택 및 제거"
+        },
+        "Remove": {
+          "Title": "방해 요소에 브러시를 적용하여 제거"
+        },
+        "RemoveWithGenAI": {
+          "Title": "생성형 AI로 넓은 범위 제거"
+        },
+        "SpotHealingBrush": {
+          "Title": "작은 세부 사항 리터치"
+        }
+      },
+      "Topic": {
+        "Adjust": {
+          "SubTitle": "조명과 색상 편집",
+          "Title": "조정"
+        },
+        "Combine": {
+          "SubTitle": "배경 변경 또는 여러 이미지 결합",
+          "Title": "결합"
+        },
+        "Design": {
+          "SubTitle": "유형, 색, 도형 사용",
+          "Title": "디자인"
+        },
+        "Generate": {
+          "SubTitle": "생성형 AI를 사용하여 전체 이미지 또는 일부 생성",
+          "Title": "생성"
+        },
+        "GetStarted": {
+          "Title": "시작하기"
+        },
+        "HowTo": {
+          "SubTitle": "중요 업무를 위한 주요 도구 및 기능",
+          "Title": "사용 방법"
+        },
+        "MustKnow": {
+          "SubTitle": "작업 영역 및 주 기능",
+          "Title": "알아야 할 사항"
+        },
+        "ResizeAndRotate": {
+          "SubTitle": "이미지 자르기, 회전, 크기 변경",
+          "Title": "크기 변경 및 회전"
+        },
+        "Retouch": {
+          "SubTitle": "콘텐츠 제거 또는 자세한 부분을 다듬기",
+          "Title": "제거 및 리터치"
+        }
+      }
+    }
+  },
+  "LearningCenter": {
+    "Button": "학습 센터",
+    "CompletedAllTopicTutorials": {
+      "Label": "축하합니다! {{topic}} 튜토리얼을 완료했습니다. 다른 항목에서 탐색을 계속하세요."
+    },
+    "CompletedOneTopicTutorial": {
+      "Label": "{{topic}} 항목을 {{percentage}}% 완료했습니다."
+    },
+    "FirstClosed": {
+      "Tooltip": "학습 센터는 여기에서 다시 확인 할 수 있습니다."
+    },
+    "NavBar": {
+      "Tooltip": "웹에서 Photoshop 사용하는 법 배우기"
+    }
+  },
+  "LearningCenterCategory": {
+    "CategoryTitle": {
+      "BrowseByTopic": "주제로 찾아보기",
+      "GetStarted": "시작하기",
+      "KeyboardShortcuts": "키보드 바로 가기",
+      "ViewAllTutorials": "모든 자습서",
+      "ViewRecent": "최근 보기"
+    },
+    "Search": {
+      "KBSC": {
+        "Label": "키보드 단축키 검색"
+      },
+      "Tutorials": {
+        "Label": "검색 튜토리얼"
+      }
+    },
+    "SearchResults": "검색 결과",
+    "SideNavBar": {
+      "Resources": {
+        "Discord": "Discord",
+        "PhotoshopUserGuide": "Photoshop 사용 안내서",
+        "ReportBug": "버그 보고",
+        "SubmitIdea": "아이디어 제출",
+        "SupportCommunity": "지원 커뮤니티",
+        "Title": "리소스"
+      },
+      "Title": "학습"
+    },
+    "SideNavTitle": {
+      "BrowseByTopic": "주제로 찾아보기",
+      "GetStarted": "시작하기",
+      "KeyboardShortcuts": "키보드 바로 가기",
+      "ViewAllTutorials": "모든 자습서 보기",
+      "ViewRecent": "최근 보기"
+    }
+  },
+  "LearnPopover": {
+    "Button": {
+      "Back": "뒤로",
+      "Continue": "계속",
+      "Done": "완료",
+      "Next": "다음",
+      "Skip": "무시",
+      "SkipTour": "건너뛰기",
+      "Upgrade": "업그레이드",
+      "UploadImage": "이미지 업로드"
+    },
+    "Header": {
+      "Count": "+++ 중 ###"
+    }
+  },
+  "LeftTaskbar": {
+    "AddImage": "이미지 추가",
+    "Adjust": "조정",
+    "AllAdjustments": "모든 조정",
+    "BackgroundColor": "배경색",
+    "Eyedropper": "스포이드",
+    "ForegroundColor": "전경색",
+    "Generative": "생성형",
+    "Marquee": "윤곽",
+    "Paint": "페인트",
+    "QuickActions": "빠른 작업",
+    "Retouch": "리터치",
+    "Select": "선택",
+    "Shapes": "모양",
+    "SizePosition": "크기 및 위치",
+    "Switch": {
+      "Description": "색상 전환",
+      "Title": "전환"
+    },
+    "Text": "텍스트",
+    "TextToImage": {
+      "EffectCategory": {
+        "Popular": "인기 항목",
+        "Selected": "선택됨"
+      }
+    },
+    "Tooltip": {
+      "GenerativeAI": {
+        "TryGenerativeTools": "신규! 인기 있는 생성형 AI 기능들을 한 곳에서 보기"
+      }
+    },
+    "Type": "문자"
+  },
+  "Legal": {
+    "CopyrightTerm": "© {{YEAR}} Adobe. All rights reserved.",
+    "Link": {
+      "CookiePreferences": "쿠키 환경 설정",
+      "Privacy": "개인정보 처리",
+      "PrivacyCpra": "내 개인 정보를 판매하거나 공유하지 말 것",
+      "ReportAbuse": "오용 신고",
+      "TermsOfUse": "사용 약관"
+    },
+    "Title": "공문서",
+    "Trademarks": "Adobe, the Adobe logo, and Photoshop are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners.",
+    "TrademarksLink": "Adobe, the Adobe logo, and Photoshop are either registered trademarks or trademarks of Adobe in the United States and/or other countries. All other trademarks are the property of their respective owners. 타사 고지 사항, 타사 소프트웨어에 대한 약관은 <sp-link quiet href=\"{{GO_LEGAL_THIRDPARY_LOC}}\" target=\"_blank\">{{GO_LEGAL_THIRDPARY_LOC}}</sp-link>에 있으며, 참고 사항으로 포함되어 있습니다."
+  },
+  "LegalDialog": {
+    "Close": "닫기",
+    "Headline": "법적 고지사항"
+  },
+  "LightroomFilePicker": {
+    "Error": {
+      "Import": "Lightroom 에셋을 가져오지 못했습니다. 다시 시도하세요."
+    },
+    "Progress": {
+      "Import": "Lightroom 에셋 가져오는 중..."
+    }
+  },
+  "LoaderProgress": {
+    "Collapse": "적게 보기",
+    "Failed": {
+      "General": {
+        "ActionButton": {
+          "Reload": "다시 불러오기"
+        },
+        "Label": "불러오기 실패",
+        "Text": "이 페이지를 다시 로드하여 다시 시도"
+      }
+    }
+  },
+  "LoadingErrorDialog": {
+    "ApolloException": {
+      "Message": "페이지를 다시 로드하거나 다른 문서를 시도하세요."
+    },
+    "Button": {
+      "BackToHome": "홈으로 돌아가기",
+      "SignIn": "로그인"
+    },
+    "Default": {
+      "Heading": "문서를 열 수 없습니다.",
+      "Message": {
+        "ReloadOrSignIn": "페이지를 다시 로드하거나 계정에 로그인하세요.",
+        "ReloadOrSignInAnother": "페이지를 다시 로드하거나 다른 계정으로 로그인하세요.",
+        "SignIn": "url을 확인하거나 다른 문서를 시도하세요."
+      }
+    },
+    "SignInRequired": {
+      "Heading": "로그인하여 문서에 액세스",
+      "Message": "이 문서를 열려면 로그인해야 합니다."
+    }
+  },
+  "MicrosoftDisclosure": {
+    "Text": "타사 소프트웨어에 대한 타사 고지 사항 및 이용 약관은 <sp-link quiet size='m' href='https://www.adobe.com/go/thirdparty' target='_blank'>https://www.adobe.com/go/thirdparty</sp-link>에 있으며, 참고 사항으로 포함되어 있습니다. 일부 기능은 Microsoft Windows Media 기술을 활용합니다. Copyright (c) 2006 Microsoft Corporation. All Rights Reserved.",
+    "Title": "Microsoft 법적 공개"
+  },
+  "Modal": {
+    "AdobeCameraRaw": {
+      "Title": "Light and color (Adobe Camera Raw)"
+    },
+    "FreeTransform": {
+      "Cancel": "취소",
+      "Distort": "왜곡",
+      "Done": "완료",
+      "FlipHorizontal": "가로로 뒤집기",
+      "FlipVertical": "세로로 뒤집기",
+      "Free": "자유 변형",
+      "Perspective": "원근",
+      "Skew": "기울이기"
+    },
+    "GaussianBlur": {
+      "Title": "가우시안 흐림 효과"
+    },
+    "Navbar": {
+      "Redo": "다시 실행",
+      "Undo": "실행 취소"
+    },
+    "RefineEdge": {
+      "Title": "가장자리 다듬기"
+    },
+    "Type": {
+      "Cancel": "취소",
+      "Done": "완료",
+      "FontColor": "글꼴 색상",
+      "MoreOptions": "추가 옵션"
+    }
+  },
+  "ModalNavbar": {
+    "Cancel": "취소",
+    "Done": "완료"
+  },
+  "Navbar": {
+    "Badge": {
+      "Tooltip": {
+        "Content": "다음에는 Ps 아이콘을 책갈피 표시줄로 드래그하여 Photoshop 웹 버전에 더 쉽게 방문할 수 있습니다.",
+        "Header": "Photoshop"
+      }
+    },
+    "DownloadMenu": {
+      "Download": "다운로드"
+    },
+    "HelpMenu": {
+      "Help": "도움말"
+    },
+    "Menu": {
+      "BackToHome": "홈으로 돌아가기",
+      "Edit": {
+        "ContentAwareFill": "내용 인식 채우기",
+        "Copy": "복사",
+        "CopyMerged": "병합하여 복사",
+        "Crop": "자르기",
+        "Cut": "잘라내기",
+        "Fill": "채우기",
+        "FreeTransform": "자유 변형",
+        "Paste": "붙여넣기",
+        "Redo": "다시 실행",
+        "Title": "편집",
+        "Transform": {
+          "FlipHorizontal": "가로로 뒤집기",
+          "FlipVertical": "세로로 뒤집기",
+          "Rotate180": "180도 회전°",
+          "Rotate90ccw": "시계 반대 방향으로 90° 회전",
+          "Rotate90cw": "시계 방향으로 90° 회전",
+          "Title": "변형"
+        },
+        "Undo": "실행 취소"
+      },
+      "ExportAs": "내보내기 형식",
+      "ExportAsName": "내보내기 형식",
+      "Fill": {
+        "50Gray": "50% 회색",
+        "BackgroundColor": "배경색",
+        "Black": "검정",
+        "ForegroundColor": "전경색",
+        "White": "흰색"
+      },
+      "Filter": {
+        "CameraRaw": {
+          "filter": "Light and color"
+        },
+        "GaussianBlur": "가우시안 흐림 효과",
+        "Invert": "반전",
+        "Title": "필터"
+      },
+      "GetDesktopApp": "데스크탑 앱 다운로드",
+      "GetDesktopBetaApp": "Photoshop (Beta) 설치",
+      "GetPwaApp": "브라우저 앱 다운로드",
+      "Image": {
+        "AutoColor": "자동 색상",
+        "AutoContrast": "자동 대비",
+        "AutoTone": "자동 톤",
+        "Rotation": {
+          "FlipHorizontal": "가로로 뒤집기",
+          "FlipVertical": "세로로 뒤집기",
+          "Rotate180": "180° 회전",
+          "Rotate90ccw": "시계 반대 방향으로 90° 회전",
+          "Rotate90cw": "시계 방향으로 90° 회전",
+          "Title": "이미지 회전"
+        },
+        "Title": "이미지"
+      },
+      "ImageSize": "이미지 크기...",
+      "Import": "불러오기...",
+      "ImportName": "불러오기",
+      "InvitePeople": "친구 초대...",
+      "Layer": {
+        "ClipThumbnailsToDocumentBounds": "문서 경계에 축소판 클립",
+        "ClipThumbnailsToLayerBounds": "레이어 경계에 축소판 클립",
+        "Delete": {
+          "HiddenLayers": "숨겨진 레이어",
+          "Layer": "레이어",
+          "Title": "삭제"
+        },
+        "DuplicateLayer": "레이어 복제",
+        "GroupLayers": "레이어 그룹화",
+        "Harmonize": "조합",
+        "New": {
+          "Group": "그룹",
+          "Layer": "레이어",
+          "LayerViaCopy": "복사한 레이어",
+          "LayerViaCut": "오린 레이어",
+          "Title": "새로 만들기"
+        },
+        "NewAdjustmentLayer": {
+          "Title": "새 조정 레이어"
+        },
+        "NewLayerEffect": {
+          "Title": "새 레이어 효과"
+        },
+        "Title": "레이어",
+        "UngroupLayers": "레이어 그룹 해제"
+      },
+      "New": "새로 만들기...",
+      "NewName": "새로 만들기",
+      "Open": "열기...",
+      "OpenInDesktop": "데스크탑 앱에서 열기",
+      "OpenInDesktopBeta": "Photoshop (Beta)에서 열기",
+      "OpenInIPad": {
+        "Fresco": "Fresco에서 열기",
+        "Photoshop": "Photoshop에서 열기"
+      },
+      "OpenName": "열기",
+      "Rename": "이름 바꾸기...",
+      "Save": "저장",
+      "SaveAs": "다른 이름으로 저장...",
+      "SaveAsName": "다른 이름으로 저장",
+      "SaveInPhotoshop": "Photoshop에서 저장...",
+      "SaveToCloud": "클라우드에 저장",
+      "Select": {
+        "All": "모두",
+        "Deselect": "선택 해제",
+        "Grow": "선택 영역 확장",
+        "Inverse": "반전",
+        "QuickMaskMode": "빠른 마스크 모드",
+        "RefineEdge": "가장자리 다듬기",
+        "Reselect": "다시 선택",
+        "Similar": "유사 영역 선택",
+        "Subject": "피사체",
+        "Title": "선택",
+        "TransformSelection": "선택 영역 변형"
+      },
+      "SendToLightroom": "Lightroom으로 보내기...",
+      "Settings": {
+        "Name": "설정",
+        "Title": "설정..."
+      },
+      "Title": "주메뉴",
+      "View": {
+        "GuidesGridsRulerSettings": "안내선, 격자, 눈금자 설정...",
+        "Show": {
+          "ContextBar": "컨텍스트 표시줄",
+          "ContextualTaskBar": "상황별 작업 표시줄",
+          "Grid": "그리드",
+          "Guides": "안내선",
+          "Rulers": "눈금자",
+          "SelectionBar": "선택 영역 표시줄"
+        },
+        "Snap": {
+          "Title": "스냅"
+        },
+        "SnapTo": {
+          "All": "모두",
+          "DocumentBounds": "문서 경계",
+          "Grid": "그리드",
+          "Guides": "안내선",
+          "Layers": "레이어",
+          "None": "없음",
+          "Title": "다음으로 스냅"
+        },
+        "Title": "보기"
+      }
+    },
+    "PsTitle": "Photoshop",
+    "RequestAccessButton": {
+      "Text": "편집 권한 요청",
+      "TextSent": "요청 전송됨"
+    },
+    "Search": {
+      "Title": "도구 및 기능 검색"
+    },
+    "UpgradeButton": {
+      "Tooltip": "업그레이드하여 웹용 Photoshop의 모든 강력한 도구를 활용하고 사용자의 이미지를 생성, 가져오기, 편집할 수 있습니다."
+    }
+  },
+  "NavBar": {
+    "RequestAccess": {
+      "Toast": {
+        "Description": "편집 권한이 부여되면 메일로 알려드리겠습니다.",
+        "Header": "요청 전송됨"
+      }
+    }
+  },
+  "NewCommandDialog": {
+    "Title": {
+      "StartWithBlankFile": {
+        "RecentlyUsed": "최근 사용"
+      }
+    }
+  },
+  "NewDocModal": {
+    "Category": {
+      "AllQuickActions": "모든 빠른 작업",
+      "CustomSize": "사용자 정의 크기",
+      "DocumentSizes": "문서 크기",
+      "QuickStart": "빠른 시작"
+    },
+    "CustomSize": {
+      "Lockbutton": {
+        "ConstrainAspectRatio": "종횡비 제한",
+        "DoNotConstrainAspectRatio": "종횡비를 제한하지 않음"
+      },
+      "Name": {
+        "Title": "문서 이름"
+      },
+      "Preset": {
+        "Title": "사전 설정"
+      },
+      "SavedPreset": {
+        "Title": "저장된 사전 설정"
+      },
+      "SavePreset": {
+        "Cancel": "취소",
+        "Error": {
+          "NameExists": "이름이 이미 있음",
+          "NotBlank": "이름은 비워 둘 수 없습니다"
+        },
+        "Name": "저장된 사전 설정 이름",
+        "Save": "저장",
+        "SavedName": "저장된 {{index}}",
+        "Title": "사전 설정 저장"
+      },
+      "Title": "사용자 지정 빈 문서 만들기"
+    },
+    "DocumentSizes": {
+      "Title": "빈 문서 만들기"
+    },
+    "FromDevice": {
+      "CopyLink": "링크 복사",
+      "CopyLinkToSend": "링크를 복사하여 휴대폰으로 전송 할 수도 있습니다",
+      "Instructions": "QR 코드를 스캔하여 휴대폰에서 파일을 가져오기",
+      "Open": "열기",
+      "RestartImportFlowLink": "파일 가져오기",
+      "RetryButton": "다시 시도",
+      "Subtitle": "휴대폰에서 가져오기",
+      "Title": "휴대폰에서 문서 만들기",
+      "TransferError": "휴대폰에서 항목을 가져오는 동안 오류가 발생했습니다. 다시 시도하십시오.",
+      "UntitledDocument": "무제 문서",
+      "UploadedFileAlt": "업로드된 파일"
+    },
+    "FromStock": {
+      "Error": "오류가 발생했습니다. 나중에 다시 시도하십시오.",
+      "Title": "Adobe Stock에서 추가 "
+    },
+    "GenAICard": {
+      "OverlayButtonLabel": {
+        "ChooseImageToStart": "시작할 이미지 선택",
+        "GenerateNow": "지금 생성하기"
+      }
+    },
+    "Import": {
+      "Title": "가져오기"
+    },
+    "ImportCategory": {
+      "FromDevice": "휴대폰",
+      "FromFFGenerations": "Firefly 기록",
+      "FromStock": "Adobe Stock",
+      "GoogleDrive": "Google 드라이브",
+      "LightroomPhotos": "Lightroom Photos"
+    },
+    "QuickActions": {
+      "Title": "빠른 작업에서 만들기"
+    },
+    "QuickActionsCard": {
+      "OverlayButtonLabel": "이미지 선택"
+    },
+    "QuickStart": {
+      "Dropzone": {
+        "Header": "이미지 업로드"
+      },
+      "GenAICard": {
+        "GenerativeImage": {
+          "Subtitle": "자세한 텍스트 설명으로 이미지를 생성합니다.",
+          "Title": "이미지 생성"
+        },
+        "GenExpand": {
+          "Subtitle": "텍스트 프롬프트로 이미지를 확장하세요.",
+          "Title": "생성형 확장"
+        },
+        "GenFill": {
+          "Subtitle": "텍스트 프롬프트로 개체를 추가하거나 제거하세요.",
+          "Title": "생성형 채우기"
+        }
+      },
+      "GenAIHeading": "생성형 AI의 기능 활용",
+      "InstantEdit": "즉시 편집",
+      "Title": "이미지에서 만들기"
+    },
+    "Search": {
+      "Results": {
+        "CustomSize": "사용자 지정 크기",
+        "DocuSizes": "문서 크기",
+        "GenerativeAI": "생성형 AI",
+        "Import": "가져오기",
+        "QuickActions": "빠른 작업"
+      }
+    },
+    "Tabs": {
+      "FilmAndVideo": "영화 및 비디오",
+      "Screen": "웹 및 모바일",
+      "WebAndMobile": "웹 및 모바일"
+    }
+  },
+  "NewDocument": {
+    "Presets": {
+      "Type": {
+        "FilmAndVideo": "영화 및 비디오",
+        "Print": "인쇄",
+        "Saved": "저장됨",
+        "Screen": "웹 및 모바일",
+        "Social": "소셜"
+      }
+    }
+  },
+  "NewDocumentDialog": {
+    "BackgroundContents": {
+      "Black": "검은색",
+      "Custom": "사용자 정의",
+      "Select": "배경 콘텐츠 선택",
+      "SelectColor": "색상 선택",
+      "Title": "배경 콘텐츠",
+      "Transparent": "투명도",
+      "White": "흰색"
+    },
+    "Button": {
+      "Create": "만들기"
+    },
+    "ColorMode": {
+      "RGB8bit": "RGB 8비트",
+      "Title": "색상 모드",
+      "Tooltip": {
+        "Comingsoon": "컬러 모드 곧 제공 예정!"
+      }
+    },
+    "Filename": {
+      "Title": "제목 없음-1"
+    },
+    "Height": "높이",
+    "Orientation": {
+      "Landscape": "가로",
+      "Portrait": "세로",
+      "Title": "방향"
+    },
+    "Presets": {
+      "Name": {
+        "1000_pixel_grid": "1000픽셀 격자",
+        "1080p": "1080p",
+        "2000_pixel_grid": "2000픽셀 격자",
+        "2L_Landscape": "2L 가로",
+        "2L_Portrait": "2L 세로",
+        "720p": "720p",
+        "A3": "A3",
+        "A4": "A4",
+        "A5": "A5",
+        "A6": "A6",
+        "Android_1080p": "Android 1080p",
+        "Apple_Watch_38mm": "Apple Watch 38mm",
+        "Apple_Watch_40mm": "Apple Watch 40mm",
+        "Apple_Watch_41mm": "Apple Watch 41mm",
+        "Apple_Watch_42mm": "Apple Watch 42mm",
+        "Apple_Watch_44mm": "Apple Watch 44mm",
+        "Apple_Watch_45mm": "Apple Watch 45mm",
+        "B3": "B3",
+        "B3_(JIS)": "B3(JIS)",
+        "B4": "B4",
+        "B4_(JIS)": "B4(JIS)",
+        "B5": "B5",
+        "B5_(JIS)": "B5(JIS)",
+        "C4": "C4",
+        "C5": "C5",
+        "C6": "C6",
+        "Cineon_Full": "Cineon 전체",
+        "Cineon_Half": "Cineon 절반",
+        "Custom": "사용자 정의",
+        "DCI_2K_1080p": "DCI 2K 1080p",
+        "DCI_4K_2160p": "DCI 4K 2160p",
+        "DCI_8K_4320p": "DCI 8K 4320p",
+        "DefaultPhotoshopDesktopSize": "기본 Photoshop 데스크탑 크기",
+        "Desktop_HD_Design": "데스크탑 HD 디자인",
+        "DL": "DL",
+        "DVCPRO_HD_1080p": "DVCPRO HD 1080p",
+        "DVCPRO_HD_720p": "DVCPRO HD 720p",
+        "Facebook_Cover": "Facebook 커버",
+        "Facebook_Post": "Facebook 게시물",
+        "Facebook_story": "Facebook 스토리",
+        "Film_(2K)": "필름(2K)",
+        "Film_(4K)": "필름(4K)",
+        "Film_(8K)": "필름(8K)",
+        "Four_Cut_Landscape": "4컷 가로",
+        "Four_Cut_Portrait": "4컷 세로",
+        "FUHDTV/8K_4320p": "FUHDTV/8K 4320p",
+        "Google_Pixel_7/6_Pro": "Google Pixel 7/6 Pro",
+        "HDTV_1080p": "HDTV 1080p",
+        "HDV_1080p": "HDV 1080p",
+        "HDV/HDTV_720p": "HDV/HDTV 720p",
+        "iMac_27": "iMac 27",
+        "Instagram_Post_Square": "Instagram 게시물, 정사각형",
+        "Instagram_post,_Landscape": "Instagram 게시물, 가로",
+        "Instagram_post,_Portrait": "Instagram 게시물, 세로",
+        "Instagram_Reel": "Instagram 릴스",
+        "Instagram_Story": "Instagram <br>스토리",
+        "iOS_Settings": "iOS 설정",
+        "iOS_Spotlight": "iOS 집중 조명",
+        "iPad_10-2_in": "iPad 10.2인치",
+        "iPad_9-7_in": "iPad 9.7인치",
+        "iPad_Air_10-5_in": "iPad Air 10.5인치",
+        "iPad_App_Icon": "iPad 앱 아이콘",
+        "iPad_Mini": "iPad Mini",
+        "iPad_Mini_7-9_in": "iPad Mini 7.9인치",
+        "iPad_Pro_10-5_in": "iPad Pro 10.5인치",
+        "iPad_Pro_11_in": "iPad Pro 11인치",
+        "iPad_Pro_12-9_in": "iPad Pro 12.9인치",
+        "iPhone_11": "iPhone 11",
+        "iPhone_11_Pro": "iPhone 11 Pro",
+        "iPhone_11_Pro_Max": "iPhone 11 Pro Max",
+        "iPhone_13_mini": "iPhone 13 mini",
+        "iPhone_13/12_Pro": "iPhone 13/12 Pro",
+        "iPhone_13/12_Pro_Max": "iPhone 13/12 Pro Max",
+        "iPhone_14_Plus": "iPhone 14 Plus",
+        "iPhone_14/13/12": "iPhone 14/13/12",
+        "iPhone_15": "iPhone 15",
+        "iPhone_15_Plus": "iPhone 15 Plus",
+        "iPhone_15/14_Pro": "iPhone 15/14 Pro",
+        "iPhone_15/14_Pro_Max": "iPhone 15/14 Pro Max",
+        "iPhone_5": "iPhone 5",
+        "iPhone_8/7/6": "iPhone 8/7/6",
+        "iPhone_8/7/6_Plus": "iPhone 8/7/6 Plus",
+        "iPhone_App_icon": "iPhone 앱 아이콘",
+        "iPhone_X/XS": "iPhone X/XS",
+        "iPhone_XR": "iPhone XR",
+        "iPhone_XS_Max": "iPhone XS Max",
+        "L_Landscape": "L 가로",
+        "L_Portrait": "L 세로",
+        "Landscape,_10_x_8": "가로, 10 x 8",
+        "Landscape,_3_x_2": "가로, 3 x 2",
+        "Landscape,_6_x_4": "가로, 6 x 4",
+        "Landscape,_7_x_5": "가로, 7 x 5",
+        "Legal": "Legal 용지",
+        "Letter": "Letter 용지",
+        "Mac_Icon_128": "Mac 아이콘 128",
+        "Mac_Icon_16": "Mac 아이콘 16",
+        "Mac_Icon_256": "Mac 아이콘 256",
+        "Mac_Icon_32": "Mac 아이콘 32",
+        "Mac_Icon_48": "Mac 아이콘 48",
+        "Mac_Icon_512": "Mac 아이콘 512",
+        "MacBook_Pro_13": "MacBook Pro 13",
+        "MacBook_Pro_15": "MacBook Pro 15",
+        "Mobile_Design": "모바일 디자인",
+        "NTSC_D1": "NTSC D1",
+        "NTSC_D1_Sq-_Pixel": "NTSC D1 사각형 픽셀",
+        "NTSC_D1_Wide_Sq-_Pixel": "NTSC D1 와이드<br>사각형 픽셀",
+        "NTSC_D1_Widescreen": "NTSC D1 와이드스크린",
+        "NTSC_DV": "NTSC DV",
+        "NTSC_DV_Widescreen": "NTSC DV 와이드스크린",
+        "PAL_D1/DV": "PAL D1/DV",
+        "PAL_D1/DV_Sq-_Pixel": "PAL D1/DV 사각형 픽셀",
+        "PAL_D1/DV_Wide_Sq-_Pixel": "PAL D1/DV 와이드사각형 픽셀",
+        "PAL_D1/DV_Widescreen": "PAL D1/DV 와이드스크린",
+        "Portrait,_2_x_3": "세로, 2 x 3",
+        "Portrait,_4_x_6": "세로, 4 x 6",
+        "Portrait,_5_x_7": "세로, 5 x 7",
+        "Portrait,_8_x_10": "세로, 8 x 10",
+        "Postcard": "Postcard",
+        "Postcard_(JIS)": "Postcard(JIS)",
+        "Poster": "포스터",
+        "PSWDefault": "기본값",
+        "Six_Cut_Landscape": "6컷 가로",
+        "Six_Cut_Portrait": "6컷 세로",
+        "Square": "사각형",
+        "Surface_Pro_3": "Surface Pro 3",
+        "Surface_Pro_4": "Surface Pro 4",
+        "Surface_Pro_7+/7/6": "Surface Pro 7+/7/6",
+        "Surface_Pro_X/9/8": "Surface Pro X/9/8",
+        "Tabloid": "타블로이드",
+        "TikTok_video": "TikTok 비디오",
+        "Twitter_Post": "Twitter 게시물",
+        "UHDTV/4K_2160p": "UHDTV/4K 2160p",
+        "Web_Large": "웹 대형",
+        "Web_Medium": "웹 중형",
+        "Web_Minimum": "웹 최소형",
+        "Web_Most_Common": "웹 일반형",
+        "Web_Small": "웹 소형",
+        "X_Twitter_header": "X(Twitter) 헤더",
+        "X_Twitter_post": "X(Twitter) 게시물",
+        "YouTube_Banner": "YouTube 배너",
+        "YouTube_Thumbnail": "YouTube 썸네일"
+      }
+    },
+    "Resolution": "해상도",
+    "ResolutionUnit": {
+      "ppcm": "ppcm",
+      "ppi": "ppi",
+      "Select": "해상도 단위 선택"
+    },
+    "Tabs": {
+      "MostCommon": "가장 일반적",
+      "Print": "인쇄",
+      "Recent": "최근",
+      "Saved": "저장함",
+      "Social": "소셜"
+    },
+    "Units": {
+      "Centimeters": {
+        "Title": "센티미터",
+        "Unit": "cm"
+      },
+      "Inches": {
+        "Title": "인치",
+        "Unit": "인치"
+      },
+      "Millimeters": {
+        "Title": "밀리미터",
+        "Unit": "mm"
+      },
+      "Picas": {
+        "Title": "파이카",
+        "Unit": "pc"
+      },
+      "Pixels": {
+        "Title": "픽셀",
+        "Unit": "픽셀"
+      },
+      "Points": {
+        "Title": "포인트",
+        "Unit": "pt"
+      },
+      "Select": "새 문서 단위 선택",
+      "Title": "단위"
+    },
+    "Width": "폭"
+  },
+  "NewDocumentPreset": {
+    "NoSavedPresets": {
+      "Description": "사용자 정의 사전 설정을 생성하고 저장하면 여기에 표시됩니다",
+      "Title": "저장된 사전 설정 없음"
+    },
+    "OverlayButton": {
+      "CreateDocument": "문서 만들기",
+      "Delete": "삭제"
+    }
+  },
+  "Notification": {
+    "Card": {
+      "Close": "닫기",
+      "TryItNow": "지금 사용해 보기",
+      "XofY": "{{index}}/{{total}}"
+    }
+  },
+  "NullActions": {
+    "EditBackground": {
+      "GenerateBackground": "배경 생성",
+      "GenerateBackgroundBeta": "배경 생성(Beta)",
+      "GenerateBgTooltip": "원하는 배경을 설명하는 세부 프롬프트 작성",
+      "Harmonize": "조합",
+      "ImportBackground": "배경 가져오기",
+      "SolidColor": "단색",
+      "SolidColorTooltip": "배경을 색상으로 채우기",
+      "Title": "배경 편집"
+    },
+    "ImportImage": "이미지 가져오기",
+    "Mask": {
+      "AddToMask": "마스크에 추가",
+      "DisableMask": "마스크 사용 안 함",
+      "EnableMask": "마스크 사용",
+      "InvertMask": "마스크 반전",
+      "RefineMask": "마스크 다듬기",
+      "ResetMask": "마스크 재설정",
+      "SubtractFromMask": "마스크에서 빼기",
+      "ViewMask": "마스크 보기"
+    },
+    "RemoveBackground": "배경 제거",
+    "SelectSubject": "피사체 선택"
+  },
+  "OBE": {
+    "Toast": {
+      "MetaCafFailure": "채울 수 없습니다. 선택 영역을 새로 설정하고 다시 시도하세요."
+    }
+  },
+  "OBEOnboarding": {
+    "AdjustObject": {
+      "Description": "개체 선택 도구를 사용하여 이미지의 어떤 개체든 선택하여 색상, 조명 등을 조정하세요.",
+      "Title": "개체를 조정"
+    },
+    "RemoveObject": {
+      "Description": "개선된 개체 선택 도구를 사용하여 개체를 쉽고 빠르게 제거할 수 있습니다.",
+      "ImportPage": {
+        "CTA": "시작하기"
+      },
+      "Title": "쉽게 개체를 선택 및 제거"
+    }
+  },
+  "OnboardingNudge": {
+    "AddImage": {
+      "Content": "이미지를 선택하여 시작하기."
+    },
+    "DoAction": {
+      "Content": "액션을 선택하여 선택 영역에 적용하기."
+    },
+    "DocumentPage": {
+      "ImportImage": {
+        "Content": "튜토리얼을 시작하려면 이미지를 가져오세요."
+      },
+      "TryLCE": {
+        "Content": "이미지를 가져와서 동시 공동 편집을 시작하세요."
+      }
+    },
+    "GenerateImage": {
+      "Content": "상세한 설명에서 이미지를 생성합니다."
+    },
+    "ImportImage": {
+      "Content": "시작하려면 이미지를 가져오기."
+    },
+    "SelectAction": {
+      "Content": "선택하여 이미지 편집을 시작하기."
+    },
+    "WatchAVideoButton": {
+      "Label": "비디오 보기"
+    }
+  },
+  "OrgAccessRequest": {
+    "Toast": {
+      "FAILED": "액세스 요청 실패"
+    }
+  },
+  "PagedModal": {
+    "BackButton": {
+      "Label": "뒤로"
+    }
+  },
+  "PanZoomController": {
+    "ZoomIn": "확대",
+    "ZoomOut": "축소"
+  },
+  "PaywallCard": {
+    "AdobeFonts": {
+      "Heading": "Adobe Fonts",
+      "SubHeading": "2만 개 이상의 글꼴에 액세스하거나 사용자의 글꼴을 가져와 수많은 타이포그라피 옵션을 이용할 수 있습니다."
+    },
+    "CloneStamp": {
+      "Heading": "복제 도장",
+      "SubHeading": "브러시와 같은 배경 텍스처로 이미지의 다른 영역을 복제하기만 하면 원치 않는 이미지를 숨길 수 있습니다."
+    },
+    "ContentAwareFill": {
+      "Heading": "내용 인식 채우기",
+      "SubHeading": "이미지의 다른 부분에서 샘플링된 콘텐츠로 이미지의 선택된 부분을 원활하게 채웁니다."
+    },
+    "GenerateImage": {
+      "Heading": "이미지 생성",
+      "SubHeading": "새로운 자산을 구상하고 제작하세요. 몇 분 만에 수십 가지 아이디어를 살펴보고 여러 이미지를 새로운 이미지로 결합하세요. 매월 100개의 생성형 크레딧이 제공됩니다."
+    },
+    "GenerativeExpand": {
+      "Heading": "생성형 확장",
+      "SubHeading": "자르기 도구를 사용하여 캔버스를 확장하고 이미지의 크기를 조정하여 빈 부분을 원활하게 혼합되는 새로운 콘텐츠로 채웁니다. 매월 100개의 생성 크레딧이 제공됩니다."
+    },
+    "GenerativeFill": {
+      "Heading": "생성형 채우기",
+      "SubHeading": "간단한 텍스트 프롬프트를 사용하여 콘텐츠를 추가하거나 제거하여 놀라운 결과를 얻을 수 있습니다. 매월 100개의 생성 크레딧이 제공됩니다."
+    },
+    "LightenDarken": {
+      "Heading": "밝게 하기 및 어둡게 하기",
+      "SubHeading": "색조 또는 채도에 영향을 주지 않고 이미지의 영역을 밝게 또는 어둡게 합니다. 여러 번 붓질하면 더 밝게 또는 더 어둡게 됩니다."
+    },
+    "MagicWand": {
+      "Heading": "자동 선택",
+      "SubHeading": "이미지의 오브젝트나 영역을 빠르고 쉽게 분리하고 대상 편집 도구를 사용하여 조정합니다."
+    },
+    "ObjectSelect": {
+      "Heading": "개체 선택",
+      "SubHeading": "향상된 정밀도로 반려동물, 자동차 등 사람과 물체를 빠르게 선택할 수 있습니다. 오브젝트 주위에 그리기만 하면 됩니다."
+    },
+    "PhotoshopiPhone": {
+      "Heading": "iPhone용 Photoshop",
+      "SubHeading": "이제 iPhone에서 사용할 수 있게 된 최고의 이미지 편집 앱으로 창의력의 폭이 더 넓어졌습니다."
+    },
+    "RemoveTool": {
+      "Heading": "제거 도구",
+      "SubHeading": "붓질하여 전체 오브젝트를 쉽게 제거할 수 있으며 배경을 자동으로 채울 수 있습니다."
+    },
+    "SpotHeal": {
+      "Heading": "스팟 복구",
+      "SubHeading": "이미지에서 원치 않는 먼지, 자국 또는 작은 오브젝트를 쉽고 빠르게 제거할 수 있습니다. "
+    }
+  },
+  "PaywallDialog": {
+    "AlreadyHaveAccount": "이미 계정이 있나요?",
+    "Button": {
+      "SignIn": "로그인",
+      "StartFreeTrial": "무료 체험판 시작",
+      "SwitchAccount": "계정 전환",
+      "ViewAllPlans": "모든 플랜 보기"
+    },
+    "Heading": "Photoshop 웹 버전을 통해 창의력 극대화",
+    "SubHeading": "Photoshop의 강력한 크리에이티브 기능 활용:",
+    "UseAnotherAccount": "다른 계정을 사용하나요?"
+  },
+  "PostUpsell": {
+    "Dialog": {
+      "CreateGenAI": {
+        "Content": "간단한 텍스트 프롬프트로 이미지를 생성, 추가, 제거 또는 바꾸기",
+        "CTA": "생성 시작",
+        "Title": "생성형 AI로 만들기"
+      },
+      "Edit": {
+        "Title": "사용자의 이미지 편집"
+      },
+      "EditYourOwnImages": {
+        "Content": "보정, 결합, 개선 등을 통해 원하는 모양을 얻을 수 있습니다.",
+        "CTA": "이미지 가져오기",
+        "Title": "사용자의 이미지 편집"
+      },
+      "Learn": {
+        "Content": "단계별 자습서를 통해 Photoshop에 대해 알아보기",
+        "CTA": "계속 학습하기",
+        "Title": "Photoshop에 대해 자세히 알아보기"
+      },
+      "MaybeLater": "나중에",
+      "WelcomeToPhotoshop": "Photoshop을 시작합니다!"
+    }
+  },
+  "ProgressCircle": {
+    "Label": "진행률"
+  },
+  "ProgressDialog": {
+    "Cancel": "취소",
+    "Tip": "팁"
+  },
+  "PropertiesLayerFxPanel": {
+    "Title": "효과"
+  },
+  "PropertiesPanel": {
+    "EnterLayerName": "레이어 이름 입력",
+    "Message": {
+      "RenameNotPossible": "해당 레이어 이름을 변경할 수 없음"
+    },
+    "MultipleLayers": "다수",
+    "NoLayer": "없음",
+    "Title": "속성"
+  },
+  "QuickAction": {
+    "Toast": {
+      "QuickActionApplied": "빠른 작업 적용됨"
+    }
+  },
+  "QuickActions": {
+    "Auto": {
+      "AutoColor": {
+        "Title": "자동 색상"
+      },
+      "AutoContrast": {
+        "Title": "자동 대비"
+      },
+      "AutoTone": {
+        "Title": "자동 톤"
+      }
+    },
+    "Background": {
+      "BlurBackground": {
+        "Title": "흐림 효과 배경"
+      },
+      "MakeBWBackground": {
+        "Title": "흑백 배경"
+      },
+      "RemoveBackground": {
+        "RenamePreviousLayer": "원본 레이어",
+        "Title": "배경 제거"
+      }
+    },
+    "Category": {
+      "Auto": {
+        "Title": "자동"
+      },
+      "Background": {
+        "Title": "배경"
+      },
+      "Effects": {
+        "Title": "효과"
+      },
+      "Film": {
+        "Title": "필름"
+      },
+      "Lighting": {
+        "Title": "조명"
+      },
+      "Subject": {
+        "Title": "대상"
+      }
+    },
+    "Effects": {
+      "Alias": {
+        "Title": "앨리어스"
+      },
+      "DuotoneBlue": {
+        "Title": "이중톤 - 파란색"
+      },
+      "EdgyPortrait": {
+        "Title": "세련된 가로 사진"
+      },
+      "LateSunset": {
+        "Title": "늦은 일몰"
+      },
+      "Pastel": {
+        "Title": "파스텔"
+      },
+      "Posterize": {
+        "Title": "포스터화"
+      },
+      "SteelBlue": {
+        "Title": "강청색"
+      },
+      "Sunburst": {
+        "Title": "햇살"
+      }
+    },
+    "Film": {
+      "ColorNegative": {
+        "Title": "색상 음화"
+      },
+      "CoolFilter": {
+        "Title": "색 온도 감소 필터"
+      },
+      "FilmGrain": {
+        "Title": "필름 그레인"
+      },
+      "Sepia": {
+        "Title": "암갈색"
+      },
+      "Sharpen": {
+        "Title": "선명하게 하기"
+      },
+      "Vintage": {
+        "Title": "빈티지"
+      },
+      "WarmFilter": {
+        "Title": "색 온도 증가 필터"
+      }
+    },
+    "Lighting": {
+      "BoostShadows": {
+        "Title": "그림자 증가"
+      },
+      "Darken": {
+        "Title": "어둡게 하기"
+      },
+      "Lighten": {
+        "Title": "밝게 하기"
+      },
+      "MediumConstrast": {
+        "Title": "중간 대비"
+      },
+      "Vignette": {
+        "Title": "비네팅"
+      }
+    },
+    "Subject": {
+      "BWSubject": {
+        "Title": "흑백 피사체"
+      },
+      "GlowSubject": {
+        "Title": "광선 피사체"
+      },
+      "PopSubject": {
+        "Title": "팝 피사체"
+      },
+      "StickerSubject": {
+        "Title": "스티커 피사체"
+      }
+    }
+  },
+  "QuickActionsHelp": {
+    "Tooltip": {
+      "OpacityInput": "<b>불투명도</b> 입력을 사용하여 언제든지 양 변경"
+    }
+  },
+  "QuickActionsPanel": {
+    "NotAvailableForEmptyLayer": "빈 레이어에는 사용할 수 없습니다.",
+    "NotAvailableForMultiSelection": "선택한 여러 레이어에 사용할 수 없음",
+    "NotAvailableForSelectedLayer": "선택한 레이어 유형에는 사용할 수 없습니다",
+    "ToggleLayerVisibilityOn": "레이어 가시성을 전환하여 <b>빠른 작업</b> 적용"
+  },
+  "QuickActionsPanelCard": {
+    "Actions": {
+      "Amount": "양",
+      "ApplyAgain": "다시 적용",
+      "Revert": "되돌리기"
+    },
+    "Image": {
+      "AltPrefix": "미리 보기 이미지"
+    },
+    "Settings": {
+      "Amount": "양"
+    }
+  },
+  "QuickMaskMode": {
+    "Banner": {
+      "Button": {
+        "Title": "빠른 마스크 종료"
+      },
+      "Text": "빠른 마스크 모드로 편집 중입니다. Q를 눌러 종료하고 선택 영역으로 마스크를 적용합니다."
+    }
+  },
+  "RateExperienceDialog": {
+    "Headline": "동시 공동 편집 세션 경험을 각 항목에 따라 평가:",
+    "Question": {
+      "1": "1. 동시 공동 편집은 크리에이티브 동료들과의 협업을 더 효율적으로 해줄 겁니다",
+      "2": "2. 종합적으로 동시 공동 편집 경험에 만족합니다",
+      "3": "3. 다른 사람과 동시 공동 편집 문서를 생성 및 공유가 쉬웠습니다",
+      "4": "4. 동시 공동 편집 문서 열기 또는 접근이 쉬웠습니다",
+      "5": "5. 동시 공동 편집을 사용하는 동안 Photoshop의 속도가 빠르고 민감했습니다",
+      "6": "6. Photoshop에서 현재 상태의 동시 공동 편집이 사용 가능하다면 바로 사용하겠습니다"
+    },
+    "Rate": {
+      "Agree": "동의",
+      "Disagree": "동의하지 않음",
+      "Neutral": "중립",
+      "NotApplicable": "해당 사항 없음",
+      "StronglyAgree": "매우 동의함",
+      "StronglyDisagree": "매우 동의하지 않음"
+    }
+  },
+  "RecaptchaDialog": {
+    "Button": {
+      "Continue": "계속",
+      "SignIn": "Adobe ID로 로그인"
+    },
+    "ErrorToast": {
+      "Setup": "reCaptcha 서비스를 현재 사용할 수 없습니다. 다시 시도하거나 로그인하십시오.",
+      "Verification": "확인 오류입니다. 다시 시도하거나 로그인하십시오."
+    },
+    "Text": {
+      "Alternative": "게스트로 계속하기"
+    },
+    "Textfield": {
+      "Label": "이름",
+      "Placeholder": "John Doe, Jane Doe 등"
+    },
+    "Title": "의견 남기기"
+  },
+  "Recents": {
+    "AllFiles": {
+      "Label": "모든 파일 보기"
+    },
+    "Error": "최근 파일을 로드할 수 없습니다. 인터넷 연결을 확인하거나 페이지를 새로 고치세요.",
+    "Loading": "최근 파일 로드 중...",
+    "MoreFiles": {
+      "Label": "파일에서 더 보기"
+    }
+  },
+  "RefineEdgePanel": {
+    "EdgeDetection": {
+      "Radius": {
+        "Label": "반경"
+      },
+      "SmartRadius": {
+        "Label": "고급 반경"
+      },
+      "Title": "가장자리 감지"
+    },
+    "GlobalRefinements": {
+      "Contrast": {
+        "Label": "대비"
+      },
+      "Feather": {
+        "Label": "페더"
+      },
+      "ShiftEdge": {
+        "Label": "가장자리 이동"
+      },
+      "Smooth": {
+        "Label": "매끄럽게"
+      },
+      "Title": "전체 다듬기"
+    },
+    "Output": {
+      "DecontaminateColors": {
+        "Label": "색상 정화"
+      },
+      "DecontaminateColorsAmount": {
+        "Label": "양"
+      },
+      "OutputAs": {
+        "Label": "출력 형식",
+        "LayerMask": "레이어 마스크",
+        "NewLayer": "새로운 레이어",
+        "NewLayerWithMask": "마스크가 있는 새 레이어",
+        "Selection": "선택"
+      },
+      "Title": "출력"
+    },
+    "Title": "속성",
+    "ViewMode": {
+      "BlackAndWhite": "흑백",
+      "Label": "보기 모드",
+      "MarchingAnts": "점선",
+      "OnBlack": "검은색 바탕",
+      "OnWhite": "흰색 바탕",
+      "Overlay": "오버레이",
+      "Title": "보기 모드"
+    }
+  },
+  "RenameDocument": {
+    "Button": {
+      "Cancel": "취소",
+      "Rename": "이름 바꾸기"
+    },
+    "Empty": {
+      "Name": {
+        "Message": "죄송합니다. 이름을 비워 둘 수 없습니다."
+      }
+    },
+    "Invalid": {
+      "Name": {
+        "Message": "죄송합니다. 이름에 잘못된 문자가 있습니다."
+      }
+    },
+    "Label": {
+      "Filename": "파일 이름"
+    },
+    "Restricted": {
+      "Name": {
+        "Message": "죄송합니다. 이 이름은 제한됩니다."
+      }
+    },
+    "Title": "문서 이름 바꾸기",
+    "Too": {
+      "Long": {
+        "Name": {
+          "Message": "죄송합니다. 이름이 너무 깁니다."
+        }
+      }
+    }
+  },
+  "RenamePreset": {
+    "Button": {
+      "Cancel": "취소",
+      "Rename": "이름 바꾸기"
+    },
+    "Title": "선택한 사전 설정 이름 바꾸기"
+  },
+  "ReplaceLayerMask": {
+    "Cancel": "취소",
+    "ConfirmLabel": "대체",
+    "Message": "대상 레이어에 이미 레이어 마스크가 있습니다. 대체하시겠습니까?",
+    "Title": "레이어 마스크 대체"
+  },
+  "ReportAbuse": {
+    "Dialog": {
+      "Cancel": "취소",
+      "CopyrightViolationPart1": "저작권 침해 사항을 신고하려면 다음 항목의 DMCA 섹션을 준수하십시오.",
+      "CopyrightViolationPart2": "",
+      "Defamation": "명예 훼손",
+      "DescribeConcernPlaceholder": "문제 설명",
+      "DescriptionOfConcern": "문제가 되는 내용을 기입하십시오.",
+      "email": "이메일 주소*",
+      "EmailPlaceholder": "이메일 입력",
+      "MainMessagePart1": "이 콘텐츠가 Adobe의",
+      "MainMessagePart2": "을(를) 침해한다고 생각되면 아래의 빠른 양식을 작성하여 이 콘텐츠를 보고해 주십시오.",
+      "name": "이름*",
+      "NamePlaceholder": "이름 입력",
+      "OffensiveContent": "혐오 콘텐츠",
+      "Other": "기타",
+      "RacistOrHate": "인종 차별 또는 인신 공격성 콘텐츠",
+      "ReportAbuse": "오용 신고",
+      "Required": "필수",
+      "SexuallyExplicit": "외설적인 콘텐츠",
+      "TermsOfUse": "사용 약관",
+      "Title": "오용 신고",
+      "Trademark": "상표 침해",
+      "whyReporting": "이 콘텐츠를 신고하는 이유*"
+    }
+  },
+  "ReportAbuseDialog": {
+    "Cancel": "취소",
+    "ContentOption": {
+      "Defamation": "명예 훼손",
+      "Hate": "인종 차별 또는 인신공격성 콘텐츠",
+      "Offensive": "혐오 콘텐츠",
+      "Other": "기타",
+      "Pornography": "음란 콘텐츠",
+      "Trademark": "상표 침해"
+    },
+    "Copyright": {
+      "Label": "저작권 침해 사항을 신고하려면 다음 항목의 DMCA 섹션을 준수하십시오."
+    },
+    "EmailField": {
+      "Label": "이메일 주소",
+      "Placeholder": "이메일 입력"
+    },
+    "MainMessagePart1": "이 콘텐츠가 Adobe의",
+    "MainMessagePart2": "을(를) 침해한다고 생각되면 아래의 빠른 양식을 작성하여 이 콘텐츠를 보고해 주십시오.",
+    "NameField": {
+      "Label": "이름",
+      "Placeholder": "이름 입력"
+    },
+    "ReportDescription": {
+      "Label": "문제가 되는 내용을 기입하십시오.",
+      "Placeholder": "문제 설명"
+    },
+    "Required": "필수",
+    "TermsOfUse": "사용 약관",
+    "Title": "오용 신고",
+    "Toast": {
+      "Error3210": "이메일 주소가 잘못되었습니다.",
+      "Error500": "서비스를 이용할 수 없습니다. 다시 시도하십시오.",
+      "GeneralError": "신고가 올바르지 않습니다.",
+      "Success": "신고 제출 완료"
+    },
+    "WhyReport": {
+      "Label": "이 콘텐츠를 신고하는 이유"
+    }
+  },
+  "RequestAccess": {
+    "AccessRequestDialog": {
+      "Confirm": "확인",
+      "Headline": "액세스 요청 전송됨",
+      "Text": "편집 권한이 부여되면 메일로 알려드리겠습니다."
+    },
+    "Notifcation": "액세스 요청을 보냈습니다."
+  },
+  "Resolution": {
+    "ppcmShort": "ppcm",
+    "ppiShort": "ppi"
+  },
+  "Richtooltips": {
+    "ACRFilter": {
+      "Content": "Use Light and color tools to edit the layer."
+    },
+    "BlackWhite": {
+      "Content": "조정 레이어를 사용하여 이미지를 흑백으로 만듭니다.",
+      "Heading": "흑백"
+    },
+    "BrightnessContrast": {
+      "Content": "조정 레이어를 사용하여 간편하게 이미지를 밝게 하거나 어둡게 만들 수 있습니다.",
+      "Heading": "밝기/대비"
+    },
+    "Caf": {
+      "Content": "제거할 개체 주위의 픽셀을 선택하여 이미지에서 불필요한 개체를 손쉽게 제거할 수 있습니다.",
+      "Heading": "내용 인식 채우기"
+    },
+    "CameraRaw": {
+      "filter": {
+        "Heading": "Light and color (Adobe Camera Raw)"
+      }
+    },
+    "ColorBalance": {
+      "Content": "조정 레이어를 사용하여 색상 균형을 적절하게 조정합니다.",
+      "Heading": "색상 균형"
+    },
+    "Curves": {
+      "Content": "조정 레이어를 사용하여 이미지의 명도, 대비 및 색상 값을 변경합니다.",
+      "Heading": "곡선"
+    },
+    "Exposure": {
+      "Content": "조정 레이어를 사용하여 밝은 영역, 어두운 영역 및 중간 톤을 조정합니다.",
+      "Heading": "노출"
+    },
+    "GaussianBlur": {
+      "Content": "레이어에 흐림 효과 필터 추가.",
+      "Heading": "가우시안 흐림 효과"
+    },
+    "HueSaturation": {
+      "Content": "조정 레이어를 사용하여 모든 색상 또는 특정 색상을 보다 선명하거나 어둡거나 밝게 만들 수 있습니다.",
+      "Heading": "색조/채도"
+    },
+    "Invert": {
+      "Content": "흑백 영역을 전환하여 사진의 네거티브 효과 또는 이미지의 색상 반전 버전을 만들 수 있습니다.",
+      "Heading": "반전"
+    },
+    "Levels": {
+      "Content": "조정 레이어를 사용하여 이미지의 색조 범위와 색상 균형을 교정합니다.",
+      "Heading": "레벨"
+    },
+    "RemoveBackground": {
+      "Content": "이미지에서 배경을 간편하게 제거",
+      "Heading": "배경 제거"
+    },
+    "SelectSubject": {
+      "Content": "이미지의 피사체를 쉽고 빠르게 선택할 수 있습니다.",
+      "Heading": "피사체 선택"
+    },
+    "Vibrance": {
+      "Content": "조정 레이어를 사용하여 이미지의 더 흐릿한 색상을 보정합니다.",
+      "Heading": "활기"
+    }
+  },
+  "ScrollCarousel": {
+    "Next": "다음",
+    "Previous": "이전"
+  },
+  "Search": {
+    "Keywords": {
+      "GenAI": "생성형 AI",
+      "Import": "가져오기",
+      "lr": "lr",
+      "qr": "qr"
+    },
+    "Label": "검색",
+    "NoResults": {
+      "Description": "맞춤법을 확인하거나 검색 범위를 넓혀보세요",
+      "Title": "결과 없음"
+    }
+  },
+  "Selection": {
+    "Intersect": {
+      "Title": "선택 영역과 교차",
+      "Tooltip": {
+        "MacOS": "Shift + Option을 누른 상태에서 교차",
+        "Win": "Shift + Alt를 누른 상태에서 교차"
+      }
+    },
+    "NewSelection": {
+      "Title": "새 선택 영역"
+    },
+    "SelectLess": {
+      "Title": "선택 축소",
+      "Tooltip": {
+        "Alt": "Alt 키를 누른 상태에서 선택 축소",
+        "Default": "선택 축소",
+        "Option": "Option을 누른 상태에서 선택 축소"
+      }
+    },
+    "SelectMore": {
+      "Title": "선택 확대",
+      "Tooltip": {
+        "Default": "선택 확대",
+        "Shift": "Shift 키를 누른 상태에서 선택 확대"
+      }
+    }
+  },
+  "SemiModal": {
+    "Crop": {
+      "Cancel": "취소",
+      "Dialog": {
+        "RequestAccess": "이 기능은 관리자에 의해 꺼져 있습니다. 액세스를 요청하시겠습니까?"
+      },
+      "Done": "완료",
+      "GenerativeExpand": {
+        "IfLeaveThisBlank": "이 필드를 비워 두면 주위 환경에 따라 선택 영역을 채웁니다.",
+        "Placeholder": "무엇을 생성하시겠습니까?(선택 사항)",
+        "Title": "생성형 확장",
+        "ToolTip": "텍스트 프롬프트를 사용하거나 사용하지 않고 이미지 확장"
+      },
+      "Toast": {
+        "TurnedOff": "이 기능이 꺼져 있습니다. 자세한 내용은 관리자에게 문의하십시오."
+      }
+    },
+    "RemoveTool": {
+      "Cancel": "취소",
+      "Remove": "제거"
+    }
+  },
+  "Service": {
+    "Error": {
+      "BadGateway": "서비스 사용 불가",
+      "BadRequest": "잘못된 요청",
+      "Forbidden": "액세스 권한 없음",
+      "InternalServerError": "내부 서버 오류",
+      "NotFound": "찾을 수 없음",
+      "NotImplemented": "아직 구현되지 않은 기능",
+      "ServiceUnavailable": "서비스 사용 불가",
+      "TooManyRequests": "서비스가 사용 중입니다",
+      "Unauthorized": "인증되지 않음",
+      "Unknown": "알 수 없는 오류가 발생했습니다"
+    }
+  },
+  "SettingsDialog": {
+    "About": {
+      "Contributors": {
+        "AdobeManagement": "Adobe 관리",
+        "CommunityManagement": "커뮤니티 관리",
+        "DesignManagement": "디자인 관리",
+        "EngineeringContributors": "엔지니어링 참여자",
+        "HelpSearchAndDiscover": "도움말(탐색 패널) 및 검색",
+        "SpecialThanks": {
+          "Content": "Photoshop 생태계 팀, 다양한 Adobe 기술 및 설계 팀, 귀중한 피드백을 제공한 멋진 사전 릴리스 테스터, 그리고 저희 고객이신 여러분에게 특별히 감사드립니다!",
+          "Title": "특별한 감사"
+        },
+        "Title": "참여자",
+        "WebDesign": "웹 디자인",
+        "WebEngineering": "웹 엔지니어링",
+        "WebEngineeringManagement": "웹 엔지니어링 관리",
+        "WebInternationalization": "웹 국제화",
+        "WebMarketingManagement": "웹 마케팅 관리",
+        "WebProductManagement": "웹 제품 관리",
+        "WebProgramManagement": "웹 프로그램 관리",
+        "WebQualityEngineering": "웹 품질 엔지니어링",
+        "WebResearch": "웹 리서치"
+      },
+      "Description": "최고의 편집 및 디자인 도구로 이미지를 만들고, 수정하고, 미세 조정하고, 리믹스하여 마음에 드는 콘텐츠를 만드십시오. 브라우저에서 바로 사용할 수 있습니다.",
+      "Title": "Photoshop 정보"
+    },
+    "Account": {
+      "ManageAccount": "계정 관리",
+      "SignOut": "로그아웃"
+    },
+    "Category": {
+      "About": "정보",
+      "Account": "계정",
+      "Debug": "디버그",
+      "Features": "기능",
+      "General": "일반",
+      "GridsGuidesAndRulers": "안내선, 격자 및 눈금자",
+      "Help": "도움말",
+      "Label": "범주",
+      "TechnologyPreviews": "기술 미리 보기"
+    },
+    "General": {
+      "Interface": {
+        "ColorTheme": "색상 테마",
+        "Dark": "어두운 색",
+        "DownloadModels": "모델 다운로드",
+        "Language": "언어",
+        "LayerSize": "레이어 크기",
+        "Light": "밝은 색",
+        "Reset": "인터페이스 기본값으로 재설정",
+        "ShowLabels": "라벨 표시",
+        "Title": "인터페이스",
+        "Toolbar": "도구 모음",
+        "UseSystemSetting": "시스템 설정 사용"
+      },
+      "Messaging": {
+        "Reset": "메시지와 대화 상자 재설정",
+        "ResetDone": "모든 대화 상자와 팁이 재설정되었습니다."
+      },
+      "Models": {
+        "Description": "모델은 특정 도구가 작동하는 데 필요한 추가 리소스입니다.",
+        "ObjectSelection": {
+          "Cancel": "취소",
+          "Delete": "삭제",
+          "Download": "다운로드",
+          "Downloading": "다운로드 중..."
+        }
+      },
+      "Toast": {
+        "MLModels": {
+          "DeleteComplete": "모델 삭제됨",
+          "DeleteError": "ML 모델 데이터를 삭제하는 동안 문제가 발생했습니다. 다시 시도하십시오.",
+          "DownloadComplete": "모델 다운로드됨",
+          "DownloadError": "ML 모델 데이터를 다운로드하는 동안 문제가 발생했습니다. 다시 시도하십시오."
+        }
+      }
+    },
+    "GridsGuidesAndRulers": {
+      "Color": "색상",
+      "Grid": {
+        "Title": "격자"
+      },
+      "GridSpacing": "간격",
+      "GridSubdivisions": "하위 부문",
+      "Guides": {
+        "Title": "안내선"
+      },
+      "Rulers": {
+        "Title": "눈금자"
+      },
+      "RulerUnits": "단위",
+      "SmartGuides": {
+        "Title": "스마트 가이드"
+      }
+    },
+    "Help": {
+      "BugReport": {
+        "Title": "피드백"
+      },
+      "Discord": "Discord",
+      "EnableHelpContent": {
+        "ContextualHelpTips": "상황별 도움말 팁",
+        "HelpMode": "도움말 모드",
+        "Title": "도움말 콘텐츠 활성화",
+        "Tooltip": "도움말 모드를 켜거나 꺼서 모든 팁과 비디오를 표시하거나 숨깁니다.",
+        "ToolVideos": "도구 동영상",
+        "WorkflowVideos": "작업 과정 비디오"
+      },
+      "FeedbackReport": {
+        "Button": "피드백 제공"
+      },
+      "GenerativeAITerms": "생성형 AI 약관",
+      "KeyboardShortcuts": "키보드 바로 가기",
+      "PhotoshopUserGuide": "Photoshop 사용 안내서",
+      "ReportBug": "버그 보고",
+      "ResetAllDialogs": "모든 대화 상자 및 팁 재설정",
+      "ResetDone": "모든 대화 상자와 팁이 재설정되었습니다.",
+      "Resources": {
+        "Title": "리소스"
+      },
+      "SubmitIdea": "아이디어 제출",
+      "SupportCommunity": "지원 커뮤니티"
+    },
+    "LanguageDialog": {
+      "Cancel": "취소",
+      "ChangeLanguage": "언어 변경",
+      "ReloadNeeded": "변경 사항을 적용하려면 앱을 다시 로드하십시오."
+    },
+    "RefreshNeeded": {
+      "Button": "새로 고침",
+      "NotNow": "나중에",
+      "Refresh": "새로 고침",
+      "Toast": "변경 사항을 적용하려면 페이지를 새로고침해야합니다."
+    },
+    "Tab": {
+      "Interface": {
+        "InterfaceSize": "인터페이스 크기",
+        "Scale": {
+          "Large": "큼",
+          "Medium": "중간"
+        }
+      }
+    },
+    "TechnologyPreviews": {
+      "Title": "기술 미리 보기"
+    },
+    "Title": "앱 설정"
+  },
+  "ShapePresets": {
+    "Layername": {
+      "Arrow": "화살표",
+      "Circle": "원",
+      "DoubleArrow": "쌍 화살표",
+      "Gear": "장치",
+      "Hexagon": "육각형",
+      "Line": "선",
+      "Oval": "타원",
+      "Polygon": "다각형",
+      "Rectangle": "사각형",
+      "Star": "별"
+    }
+  },
+  "ShapeQuickActionsPanel": {
+    "Title": {
+      "Presets": "사전 설정"
+    }
+  },
+  "ShapeTool": {
+    "AlignEdges": "가장자리 맞춤",
+    "ArrowHeadAtEnd": "끝",
+    "ArrowHeadAtStart": "시작",
+    "ArrowHeadConcavity": "오목한 정도",
+    "ArrowHeadLength": "길이",
+    "Arrowheads": "화살촉",
+    "ArrowHeadWidth": "폭",
+    "CornerRadius": "모퉁이 반경",
+    "CreateOptions": {
+      "FixedSize": "크기 고정",
+      "Freeform": "자유 형태",
+      "FreeformRadius": "반경",
+      "Height": "높이",
+      "ProportionalSize": "비율 크기",
+      "StarRatio": "별 비율",
+      "Symmetric": "대칭",
+      "Unconstrained": "제한 없음",
+      "Width": "폭"
+    },
+    "CreatFromCenter": "중앙부터",
+    "Fill": {
+      "Label": "칠"
+    },
+    "LineWeight": "두께",
+    "NumberOfSides": "측면",
+    "SmoothStarIndents": "매끄러운 별 들여쓰기",
+    "Stroke": {
+      "Alignment": "맞춤",
+      "Label": "획",
+      "LineCap": "줄 단면",
+      "LineJoin": "줄 연결"
+    },
+    "Style": {
+      "Label": "스타일"
+    }
+  },
+  "Shortcuts": {
+    "Win": {
+      "AltKey": "Alt",
+      "ControlKey": "Ctrl",
+      "ShiftKey": "Shift"
+    }
+  },
+  "ShowOpenFilePicker": {
+    "Brushes": "브러시",
+    "Contours": "윤곽선",
+    "Gradients": "그레이디언트",
+    "Images": "이미지",
+    "Patterns": "패턴"
+  },
+  "SignInDialog": {
+    "Button": {
+      "BackToHome": "홈으로 돌아가기",
+      "Cancel": "나중에",
+      "CreateAccount": "계정 만들기",
+      "SignIn": "로그인"
+    },
+    "Default": {
+      "Heading": "로그인하여 무료로 더 많은 기능에 액세스하고 계속 편집하세요",
+      "Message": "로그인하여 강력한 편집 도구, 차세대 생성형 AI, 무료 Adobe Stock 이미지 등의 많은 기능들로 창작하세요."
+    },
+    "GenAI": {
+      "Heading": "무료로 생성형 AI 기능 액세스하세요",
+      "Message": "로그인하거나 새로운 계정을 만들어 Photoshop 또는 다른 Adobe 제품에서 생성형 AI 기능에서 사용할 수 있는 무료 크레딧 10개를 얻으세요 ."
+    }
+  },
+  "SkillCelebrationCard": {
+    "AllCompleted": "Photoshop 스킬을 계속 터득하세요",
+    "ExploreMore": "진행도 확인 및 Photoshop 알아보기",
+    "FourSkillsCompleted": "잘 하셨습니다! Photoshop 프로가 되고 있습니다.",
+    "OneSkillCompleted": "좋은 시작입니다!",
+    "ThreeSkillsCompleted": "잘하고 계십니다!",
+    "TwoSkillsCompleted": "환상적입니다!"
+  },
+  "SkillList": {
+    "EditorUITour": {
+      "Title": "오리엔테이션 받기"
+    },
+    "EditWithSelection": {
+      "Title": "선택으로 편집"
+    },
+    "Progress": {
+      "Complete": "<div class=\"spectrum-Heading spectrum-Heading--sizeXS\" data-e2e=\"progress-percent\">{{totalProgress}}%</div> 완료"
+    },
+    "ProgressLabel": "전체 스킬 진행률:",
+    "RestartButton": {
+      "Title": "다시 시작"
+    },
+    "SelectSkillLevel": {
+      "Title": "스킬 레벨을 선택"
+    },
+    "StartButton": {
+      "Title": "시작"
+    },
+    "UseGenAI": {
+      "Title": "생성형 AI 사용"
+    }
+  },
+  "SkillsCard": {
+    "ExploreMore": "더 많은 시작 방법을 탐색하기",
+    "Title": "Photoshop으로 시작하기"
+  },
+  "Slider": {
+    "Px": "픽셀"
+  },
+  "SmartObjects": {
+    "Edit": {
+      "InfoDialog": {
+        "Button": {
+          "Confirm": "확인"
+        },
+        "Title": "스마트 오브젝트 편집",
+        "TitleInfo": "스마트 오브젝트를 편집 후, 변경사항을 적용하려면 저장하세요. 변경사항은 {{FILENAME}}에 돌아올 때 반영됩니다."
+      }
+    }
+  },
+  "SolidColorFill": {
+    "FillColor": {
+      "Title": "색상 채우기"
+    },
+    "HexValueLabel": "단색의 16진수 값",
+    "SelectColor": "색상 선택"
+  },
+  "Stage": {
+    "Actions": {
+      "CropFromSelection": "선택 영역에서 자르기",
+      "HideContextualTaskBar": "상황별 작업 표시줄 숨기기",
+      "HideSelectionBar": "선택 영역 표시줄 숨기기",
+      "SelectSimilar": "유사 영역 선택"
+    },
+    "DropUrl": {
+      "FetchError": "URL을 로드할 수 없습니다."
+    },
+    "Loading": {
+      "AdditionalMessage": "아직 불러오는 중..."
+    }
+  },
+  "Stardust": {
+    "ProgressDialog": {
+      "Label": {
+        "HidingDistractions": "방해 요소 제거 중...",
+        "Identify": "캔버스에서 개체를 인식 중입니다. 완료되면 개체를 선택해 편집하세요.",
+        "Remove": "선택 영역 제거 중..."
+      }
+    }
+  },
+  "StardustContextBar": {
+    "RefreshDistractions": {
+      "Tooltip": "산만한 부분 제거 새로 고침하기"
+    },
+    "Remove": {
+      "Brush": "이미지를 브러시하여 제거",
+      "Distractor": "산만한 부분 제거",
+      "Null": "아무도 방해 요소로 인식되지 않았습니다",
+      "Refresh": "새로 고침하여 방해 요소 찾기"
+    },
+    "Select": {
+      "Click": "이미지를 클릭하여 편집할 영역을 선택",
+      "Remove": "제거"
+    },
+    "SelectDetails": "상세 내용 선택"
+  },
+  "StaticPaywall": {
+    "Benefits": {
+      "Benefit2": "웹 브라우저에서 바로 멋진 사진, 풍부한 그래픽, 놀라운 예술 작품 만들기",
+      "Benefit3": "자습서, 무료 에셋, Adobe Express 템플릿, 글꼴로 창의력 발휘",
+      "GenfillBenefit": "생성형 AI를 통해 지원되는 간단한 텍스트 프롬프트로 이미지를 빠르게 생성, 추가, 제거 또는 바꾸기"
+    },
+    "FreeTrial": "7일 무료 체험판 시작",
+    "Heading": "Photoshop 웹 버전을 통해 창의력 극대화",
+    "KeepLearning": "계속 학습하기",
+    "SubheadingTool": "Photoshop의 강력한 크리에이티브 기능 활용:",
+    "TryPhotoshopNow": "지금 Photoshop 체험하기"
+  },
+  "Stock": {
+    "AddFromAdobeStock": "Adobe Stock에서 추가 ",
+    "Categories": {
+      "Animals": "동물",
+      "Architecture": "건축",
+      "Celestial": "천체",
+      "Fabric": "직물",
+      "Food": "음식",
+      "Glitch": "글리치",
+      "Gradients": "그레이디언트",
+      "Grain": "그레인",
+      "Halftones": "하프톤",
+      "Iridescence": "무지갯빛",
+      "Marks": "표시",
+      "Metal": "금속",
+      "Nature": "자연",
+      "Paint": "페인트",
+      "Paper": "종이",
+      "Plastic": "플라스틱",
+      "Prisms": "프리즘",
+      "Shadows": "그림자",
+      "Stone": "돌",
+      "Water": "물"
+    },
+    "CategoryList": {
+      "ViewAll": "모두 보기"
+    },
+    "Error": "오류가 발생했습니다. 나중에 다시 시도하십시오.",
+    "GenerativeAIContent": "생성형 AI 콘텐츠",
+    "NoResults": "결과가 없습니다.",
+    "NumberResults_one": "{{count, number}} result for \"{{query, string}}\"",
+    "NumberResults_other": "\"{{query, string}}\"에 대한 {{count, number}}개 결과",
+    "NumberResultsCategory": "{{numberResults, number}}개 결과",
+    "SearchPlaceholder": "사진 검색",
+    "StockDownloadError": "이미지를 추가하는 도중 오류가 발생했습니다. 나중에 다시 시도하십시오.",
+    "StockDownloadProgressTitle": "Adobe Stock에서 이미지 추가"
+  },
+  "StudentsBenefitsDialog": {
+    "Description": {
+      "P1": "궁극의 이미지 편집 및 디자인 앱을 사용하여 기술을 쌓고 아름다운 그래픽과 풍성한 이미지를 생성하세요.",
+      "P2": "유치원부터 고등학교 3학년 및 학위를 제공하는 대학교를 다니는 자격 대상 학생들은 웹용 포토샵의 모든 견고한 툴, 차세대 AI, 튜토리얼 등에 6개월간 엑세스 할 수 있습니다. 신용카드는 필요하지 않습니다.",
+      "P3": "6개월 무료 체험판을 상환받기:",
+      "P6": "체험판이 준비되면 알려드리겠습니다!"
+    },
+    "Error": "학생 상태를 인증을 실패했습니다. 다시 시도하세요.",
+    "FreeTrial": "6개월 무료 체험판 시작",
+    "HeaderSubtitle": "학생용 Photoshop으로 시작하세요!",
+    "HeaderTitle": "로그인 또는 계정 만들기",
+    "Heading": "학생들은 <span class=\"gradient-text\">웹용 Photoshop</span>이 6개월간 무료!",
+    "List": {
+      "L1": "로그인 또는 계정 만들기",
+      "L2": "학교 정보 확인",
+      "L3": "다운로드가 필요없는 웹용 Photoshop을 바로 사용해보세요"
+    }
+  },
+  "StudentsBenefitsVerify": {
+    "Toast": {
+      "ActionLabel": "다시 불러오기",
+      "Error": "Sorry, you are not eligible for this offer.",
+      "Info": "You are already enrolled in this offer. Please reload the page to continue."
+    }
+  },
+  "StudentsErrorDialog": {
+    "Description": {
+      "P1": "Photoshop 6개월 체험판을 계속 사용할 수 있습니다",
+      "P2": "Photoshop의 강력한 크리에이티브 기능 활용하기:"
+    },
+    "Heading": "죄송합니다. 해당 학교 계정은 자격 요건에 맞지 않습니다.",
+    "List": {
+      "L1": "개인 계정으로 로그인 또는 계정 생성하기 <span class=\"bold\">(학교 이메일이 아닌 개인 이메일 사용시)</span>",
+      "L2": "학교 정보를 입력하면 바로 시작할 수 있습니다!"
+    },
+    "SwitchAccount": "계정 전환"
+  },
+  "StudentsSignInDialog": {
+    "Error": "Failed to sign in. Please try again."
+  },
+  "StudentsVerificationDialog": {
+    "Field": {
+      "FirstName": "이름",
+      "GraduationDate": "예상 졸업 일자",
+      "LastName": "성",
+      "SchoolName": "학교명",
+      "SchoolType": {
+        "College": "대학",
+        "Elementary": "초등학교",
+        "HighSchool": "고등학교",
+        "Title": "학교 유형"
+      }
+    },
+    "Heading": {
+      "Required": "(모든 필드 필수 입력)",
+      "Title": "학생 상태를 인증하기 위해 정보를 제공해주세요"
+    },
+    "Info": "6개월 체험판을 시작하기 위한 마지막 과정입니다!",
+    "Submit": "제출"
+  },
+  "StudentsWelcomeDialog": {
+    "Description": {
+      "P1": "궁극의 이미지 편집 및 디자인 앱, Photoshop을 통해 기술을 쌓고 아름다운 그래픽과 풍성한 이미지를 생성하세요.",
+      "P2": "자격 대상 학생들은 6개월 동안 무료로 웹용 Photoshop의 모든 견고한 툴, 차세대 AI, 튜토리얼, Adobe Stock 등에 액세스 할 수 있습니다!",
+      "P3": "학생 상태를 인증 중입니다. 체험판이 준비되면 알려드리겠습니다."
+    },
+    "GetStarted": "시작하기",
+    "Heading": "학생을 위한 <span class=\"gradient-text\"> 웹용 Photoshop</span>에 오신 것을 환영합니다!"
+  },
+  "SyntheticFillContextBar": {
+    "Cancel": "취소",
+    "CreateNewLayer": "새 레이어를 만듭니다.",
+    "EditPromptForSomethingDifferent": "프롬프트를 편집하여 다른 결과물을 생성합니다.",
+    "Generate": "생성",
+    "IfLeaveThisBlank": "이 필드를 비워 두면 주위 환경에 따라 선택 영역을 채웁니다.",
+    "Link": {
+      "CheckBalance": "생성 크레딧 잔액 확인",
+      "GenerativeAITerms": "생성형 AI 약관",
+      "LearnMoreCredits": "생성형 크레딧에 대해 자세히 알아보기"
+    },
+    "More": "현재 프롬프트에 따라 더 많은 변형을 생성합니다.",
+    "Placeholder": {
+      "AddAPrompt": "프롬프트 추가",
+      "WhatWouldYouLike": "무엇을 생성하시겠습니까?"
+    },
+    "Result": {
+      "Bad": "잘못된 결과",
+      "DeleteVariation": "변형 삭제",
+      "Good": "좋은 결과",
+      "ReportVariation": "변형 신고"
+    },
+    "Variations": {
+      "Next": "다음 변형",
+      "Previous": "이전 변형"
+    }
+  },
+  "SyntheticFillPropertiesMoreMenu": {
+    "Link": {
+      "CheckBalance": "생성 크레딧 잔액 확인",
+      "GenerativeAITerms": "생성형 AI 약관",
+      "LearnMoreCredits": "생성형 크레딧에 대해 자세히 알아보기"
+    }
+  },
+  "Taskbar": {
+    "Adjust": "조정",
+    "Comments": {
+      "HideCommentsPanel": "주석 패널 숨기기",
+      "ShowCommentsPanel": "주석 패널 표시"
+    },
+    "ContextMenu": {
+      "PanelsHeader": "패널",
+      "ResetPanels": "배치 재설정"
+    },
+    "Harmonize": "조합",
+    "History": {
+      "HideHistoryPanel": "작업 내역 패널 숨기기",
+      "ShowHistoryPanel": "작업 내역 패널 표시"
+    },
+    "Layer": {
+      "HideLayersPanel": "레이어 패널 숨기기",
+      "ShowLayersPanel": "레이어 패널 표시"
+    },
+    "Properties": {
+      "HideLayerPropertiesPanel": "레이어 속성 패널 숨기기",
+      "ShowLayerPropertiesPanel": "레이어 속성 패널 표시"
+    },
+    "QuickActions": "빠른 작업"
+  },
+  "Text2Image": {
+    "Generate": "이미지 생성 중"
+  },
+  "Text2ImageDialog": {
+    "Placeholder": "무엇을 생성하시겠습니까?"
+  },
+  "TextPreset": {
+    "OperationName": "텍스트 사전 설정"
+  },
+  "TextQuickActionsPanel": {
+    "Button": {
+      "AddText": "텍스트 추가"
+    },
+    "Styles": {
+      "AddAHeading": "제목 추가",
+      "AddASubheading": "부제목 추가",
+      "AddBodyText": "본문 추가"
+    },
+    "Title": {
+      "Presets": "사전 설정",
+      "Styles": "스타일"
+    }
+  },
+  "ThumbnailPanel": {
+    "DetectObject": "개체 감지",
+    "ShowLess": "간단히 표시",
+    "ShowMore": "자세히 표시"
+  },
+  "Tool": {
+    "Adjustment": {
+      "Settings": {
+        "Exposure": "노출",
+        "ExposureToolTip": "획 노출을 설정합니다.",
+        "ProtectTones": "색조 보호",
+        "ProtectTonesToolTip": "어두운 영역과 밝은 영역에서 클리핑을 최소화하고 색상의 색조 변경 방지"
+      }
+    },
+    "Brushtool": {
+      "Settings": {
+        "Angle": {
+          "Title": "각도"
+        },
+        "BlendMode": {
+          "Title": "혼합 모드"
+        },
+        "BrushSize": {
+          "Title": "브러시 크기"
+        },
+        "Flow": {
+          "Title": "흐름"
+        },
+        "Roundness": {
+          "Title": "원형율"
+        },
+        "Smoothing": {
+          "Title": "보정",
+          "Tooltip": "획의 매끄러운 정도를 조정합니다. 높은 값을 사용하면 브러시 획의 거칠기가 줄어듭니다."
+        },
+        "Spacing": {
+          "Title": "간격"
+        }
+      }
+    },
+    "CloneTools": {
+      "Settings": {
+        "SampleMode": {
+          "AllLayers": "모든 레이어",
+          "CurrentAndBelow": "현재 및 이하",
+          "CurrentLayer": "현재 레이어",
+          "Label": "샘플",
+          "Tooltip": "샘플 모드 복제"
+        },
+        "SetSource": {
+          "Label": "소스 설정"
+        }
+      }
+    },
+    "Eyedropper": {
+      "Settings": {
+        "Radius": {
+          "ElevenByEleven": "11 x 11 평균값",
+          "FiftyOneByFiftyOne": "51 x 51 평균값",
+          "FiveByFive": "5 x 5 평균값",
+          "HundredOneByHundredOne": "101 x 101 평균값",
+          "Label": "샘플 크기",
+          "OneByOne": "포인트 샘플",
+          "ThirtyOneByThirtyOne": "31 x 31 평균값",
+          "ThreeByThree": "3 x 3 평균값",
+          "Tooltip": "스포이드로 추출한 샘플 픽셀의 수"
+        },
+        "SampleLayer": {
+          "AllLayers": "모든 레이어",
+          "AllLayersNoAdjustment": "모든 레이어(조정 없음)",
+          "CurrentAndBelow": "현재 및 이하",
+          "CurrentAndBelowNoAdjustment": "현재 및 이하(조정 없음)",
+          "CurrentLayer": "현재 레이어",
+          "Label": "샘플",
+          "Tooltip": "스포이드 샘플 모드"
+        }
+      }
+    },
+    "HealingBrush": {
+      "Settings": {
+        "Aligned": {
+          "Title": "맞춤",
+          "Tooltip": "각 획에 동일한 오프셋을 사용합니다."
+        },
+        "Diffusion": {
+          "Title": "확산"
+        },
+        "IgnoreAdjustmentLayers": {
+          "Title": "조정 레이어 무시",
+          "Tooltip": "복구할 때 조정 레이어를 무시하려면 켭니다."
+        }
+      }
+    },
+    "MagicLasso": {
+      "ObjecFinder": {
+        "Refresh": {
+          "Tooltip": "개체 찾기 도구 다시 고침",
+          "TooltipRefreshing": "새로 고치는 중..."
+        }
+      },
+      "Settings": {
+        "Style": {
+          "CreateTexture": "올가미",
+          "Label": "모드",
+          "Marquee": "사각형"
+        }
+      }
+    },
+    "MagicWand": {
+      "Settings": {
+        "Contiguous": {
+          "Title": "인접",
+          "Tooltip": "연속된 픽셀만 샘플링합니다."
+        },
+        "SampleSize": {
+          "ElevenByEleven": "11 x 11 평균값",
+          "FiftyOneByFiftyOne": "51 x 51 평균값",
+          "FiveByFive": "5 x 5 평균값",
+          "HundredOneByHundredOne": "101 x 101 평균값",
+          "Label": "샘플 크기",
+          "OneByOne": "포인트 샘플",
+          "ThirtyOneByThirtyOne": "31 x 31 평균값",
+          "ThreeByThree": "3 x 3 평균값",
+          "Tooltip": "도구로 추출한 샘플 픽셀의 수"
+        },
+        "Tolerance": {
+          "Amount": "허용치 양",
+          "Title": "허용치",
+          "Tooltip": "색상 샘플을 만들 때 범위 설정"
+        }
+      }
+    },
+    "MarqueeSelect": {
+      "Settings": {
+        "Style": {
+          "FixedRatio": "고정비",
+          "FixedSize": "크기 고정",
+          "Label": "선택 윤곽 스타일",
+          "Normal": "표준",
+          "Title": "스타일",
+          "Tooltip": "선택 윤곽 도구로 그리는 방법 설정"
+        }
+      }
+    },
+    "Move": {
+      "ContextMenu": {
+        "Actions": {
+          "BringForward": "앞으로 가져오기",
+          "BringToFront": "맨 앞으로 가져오기",
+          "Copy": "복사",
+          "Cut": "잘라내기",
+          "Paste": "붙여넣기",
+          "SendBackward": "뒤로 보내기",
+          "SendToBack": "맨 뒤로 보내기"
+        },
+        "Header": "작업"
+      },
+      "Settings": {
+        "Align": {
+          "BottomEdges": "아래쪽 가장자리 맞춤",
+          "HorizontalCenters": "수평 중앙 맞춤",
+          "Label": "맞춤",
+          "LeftEdges": "왼쪽 가장자리 맞춤",
+          "RightEdges": "오른쪽 가장자리 맞춤",
+          "TopEdges": "위쪽 가장자리 맞춤",
+          "VerticalCenters": "수직 가운데 맞춤"
+        },
+        "AlignTo": {
+          "Canvas": "캔버스",
+          "Label": "맞춤 대상",
+          "PickerLabel": "맞춤 대상",
+          "Selection": "선택 영역"
+        },
+        "AutoSelect": {
+          "Group": "그룹",
+          "Label": "그룹 또는 레이어 선택",
+          "Layer": "레이어",
+          "None": "없음",
+          "Title": "자동 선택",
+          "Tooltip": "보이는 픽셀을 클릭하여 자동으로 그룹 또는 레이어를 선택"
+        },
+        "Distribute": {
+          "BottomEdges": "아래쪽 가장자리 분포",
+          "HorizontalCenters": "수평 중앙 분포",
+          "Horizontally": "가로로 분포",
+          "Label": "분포",
+          "LeftEdges": "왼쪽 가장자리 분포",
+          "RightEdges": "오른쪽 가장자리 분포",
+          "TopEdges": "위쪽 가장자리 분포",
+          "VerticalCenters": "수직 가운데 분포",
+          "Vertically": "세로로 분포"
+        },
+        "DistributeSpacing": {
+          "Label": "분포 간격"
+        },
+        "ShowLayerBoundsHover": {
+          "Label": "커서를 놓으면 레이어 경계 표시"
+        },
+        "ShowTransformControls": {
+          "Label": "변형 컨트롤 표시",
+          "Tooltip": "선택한 레이어에 변형 컨트롤 표시"
+        }
+      }
+    },
+    "Name": {
+      "Brush": "브러시",
+      "Burn": "번",
+      "CloneStamp": "복제 도장",
+      "Crop": "자르기",
+      "Dodge": "닷지",
+      "EllipticalMarquee": "원형 선택 윤곽",
+      "Eraser": "지우개",
+      "Eyedropper": "스포이드",
+      "GenerateImage": "이미지 생성",
+      "GenerativeExpand": "생성형 확장",
+      "GenerativeFill": "생성형 채우기",
+      "Gradient": "그레이디언트",
+      "HealingBrush": "복구 브러시",
+      "Import": "가져오기",
+      "Lasso": "올가미",
+      "MagicLasso": "개체 선택",
+      "MagicWand": "자동 선택",
+      "Move": "이동",
+      "MoveShapes": "모양 이동",
+      "PaintBucket": "페인트 통",
+      "QuickSelect": "빠른 선택",
+      "RectangularMarquee": "사각형 선택 윤곽",
+      "Remove": "제거",
+      "SelectionBrush": "선택 브러시",
+      "ShapeEllipse": "타원",
+      "ShapeLine": "선",
+      "ShapePolygon": "다각형",
+      "ShapeRectangle": "사각형",
+      "ShapeTriangle": "삼각형",
+      "Smudge": "손가락",
+      "Sponge": "스폰지",
+      "SpotHealingBrush": "스팟 복구 브러시",
+      "Transform": {
+        "MacOs": "변형"
+      },
+      "Type": "문자"
+    },
+    "PathSelect": {
+      "Settings": {
+        "SelectMode": {
+          "ActiveLayers": "활성 레이어",
+          "AllLayers": "모든 레이어",
+          "Title": "선택",
+          "Tooltip": "활성 레이어 또는 모든 레이어에서 모양 선택"
+        }
+      }
+    },
+    "QuickSelect": {
+      "Settings": {
+        "EnhanceEdges": {
+          "Title": "가장자리 향상",
+          "Tooltip": "선택 영역 가장자리를 자동으로 향상시킵니다."
+        },
+        "Spacing": {
+          "Title": "간격"
+        }
+      }
+    },
+    "RefineEdge": {
+      "Settings": {
+        "SelectionMode": {
+          "Add": {
+            "ExpandsDetectionArea": "감지 영역 확장"
+          },
+          "Subtract": {
+            "RestoresOriginalEdge": "원래 가장자리 복원"
+          }
+        }
+      }
+    },
+    "RemoveTool": {
+      "RemoveAfterEachStroke": {
+        "Title": "각 획 처리 후 제거",
+        "Tooltip": "단일 획 처리 후 영역 제거"
+      },
+      "ResetAllStrokes": {
+        "Title": "재설정",
+        "Tooltip": "모든 획 재설정"
+      },
+      "SampleAllLayers": {
+        "Tooltip": "표시되는 모든 레이어에서 내용 샘플링"
+      }
+    },
+    "Select": {
+      "Marquee": {
+        "Settings": {
+          "Constraint": {
+            "Height": {
+              "Title": "높이"
+            },
+            "Swap": {
+              "Title": "폭 및 높이 바꾸기",
+              "Tooltip": "높이와 폭 교체"
+            },
+            "Width": {
+              "Title": "폭"
+            }
+          }
+        }
+      }
+    },
+    "Settings": {
+      "Antialias": {
+        "Title": "앤티 앨리어스",
+        "Tooltip": "가장자리 변환을 매끄럽게 처리"
+      },
+      "BrushHardness": {
+        "Title": "브러시 경도"
+      },
+      "BrushPresets": {
+        "DiscoverNewBrushes": "새 브러시 검색",
+        "DiscoverNewBrushesOnline": "새 브러시 검색",
+        "ImportBrushes": "파일에서 가져오기",
+        "ManageBrushes": "브러시 관리",
+        "ResetToDefault": "기본 브러시로 재설정",
+        "Selected": "선택됨",
+        "Title": "브러시 사전 설정"
+      },
+      "BrushSize": {
+        "Title": "브러시 크기"
+      },
+      "BrushSizeHardness": {
+        "Title": "브러시 크기 및 경도"
+      },
+      "Color": {
+        "EndColor": "End color",
+        "StartColor": "Start color",
+        "Title": "색상"
+      },
+      "Feather": "페더",
+      "FeatherAmount": "페더 양",
+      "FeatherTooltip": "선택 영역의 가장자리를 부드럽게 처리",
+      "ManageBrushes": {
+        "DeleteBrush": "브러시 삭제",
+        "DeleteFolder": "폴더 삭제",
+        "EnterBrushName": "브러시 이름 입력",
+        "Title": "브러시 관리",
+        "Toast": {
+          "Failed": "브러시 불러올 수 없음",
+          "Success": "브러시 불러옴",
+          "Wait": "몇 초 정도 걸릴 수 있습니다."
+        }
+      },
+      "MoreOptions": {
+        "Label": "추가 옵션"
+      },
+      "Opacity": {
+        "Title": "불투명도"
+      },
+      "Px": "px",
+      "RefineEdge": "가장자리 다듬기",
+      "SampleAllLayers": {
+        "Title": "모든 레이어 샘플링",
+        "Tooltip": "합성 이미지 색상 샘플링"
+      },
+      "Size": "크기",
+      "SizeToolTip": "브러시 크기 설정",
+      "UsePressureForOpacity": {
+        "Title": "불투명도에 압력 사용",
+        "Tooltip": "불투명도에 항상 압력을 사용합니다. 꺼져 있는 경우 브러시 사전 설정이 압력을 제어합니다."
+      },
+      "UsePressureForSize": {
+        "Title": "크기에 압력 사용",
+        "Tooltip": "크기에 항상 압력을 사용합니다. 꺼져 있는 경우 브러시 사전 설정이 압력을 제어합니다."
+      }
+    },
+    "Smudge": {
+      "Settings": {
+        "FingerPainting": {
+          "Label": "손가락 페인팅",
+          "Tooltip": "전경색을 사용해 손가락으로 페인팅합니다."
+        },
+        "SmudgeToolTip": "획의 강도를 설정합니다.",
+        "Strength": "강도"
+      }
+    },
+    "Sponge": {
+      "Settings": {
+        "Flow": "플로우",
+        "FlowToolTip": "채도 변경 비율을 설정합니다.",
+        "Mode": {
+          "Label": "모드",
+          "Tooltip": "페인팅 모드"
+        },
+        "Vibrance": "활기",
+        "VibranceToolTip": "채도가 완전히 높여지거나 채도가 낮아진 색상에 대해 클리핑 최소화"
+      }
+    },
+    "Spotheal": {
+      "Settings": {
+        "SampleMode": {
+          "Label": "유형",
+          "Tooltip": "소스 샘플링 유형 설정"
+        },
+        "SamplingMethod": {
+          "ContentAware": "내용 인식",
+          "CreateTexture": "텍스처 만들기",
+          "ProximityMatch": "근접 일치"
+        }
+      }
+    }
+  },
+  "Toolbar": {
+    "Actions": {
+      "SelectSubject": "피사체 선택"
+    },
+    "AdjustmentTools": {
+      "DarkenBurn": "어둡게(번)",
+      "LightenDodge": "밝게(닷지)",
+      "SaturationSponge": "채도(스폰지)"
+    },
+    "AdjustSection": {
+      "Basic": {
+        "GaussianBlur": "가우시안 흐림 효과"
+      }
+    },
+    "Collapsed": {
+      "Header": {
+        "Close": "닫기"
+      }
+    },
+    "Panel": {
+      "ActionButton": {
+        "ToolTipHide": "도구 비디오 숨기기",
+        "ToolTipShow": "간단한 도구 비디오 시청"
+      }
+    },
+    "Tooltip": {
+      "Burn": {
+        "Content": "이미지의 영역을 선택적으로 어둡게 하기",
+        "FullToolbarHeading": "어둡게(번 도구)"
+      },
+      "CloneStamp": {
+        "Content": "이미지의 다른 부분에서 픽셀을 페인팅",
+        "Heading": "복제 도장 도구"
+      },
+      "Crop": {
+        "Content": "가장자리를 자르고 이미지 똑바르게 하기",
+        "Heading": "자르기 도구"
+      },
+      "Dodge": {
+        "Content": "이미지의 영역 밝게 하기",
+        "FullToolbarHeading": "밝게(닷지 도구)"
+      },
+      "EllipticalMarquee": {
+        "Content": "타원형 및 원 모양으로 선택",
+        "Heading": "타원형 선택 도구"
+      },
+      "Eraser": {
+        "Content": "레이어의 픽셀 삭제",
+        "Heading": "지우개 도구"
+      },
+      "Eyedropper": {
+        "Content": "이미지에 사용하도록 색상 샘플링",
+        "Heading": "스포이드 도구"
+      },
+      "GenerateImage": {
+        "Content": "텍스트 프롬프트를 사용하여 복합적이고 크리에이티브한 이미지 생성",
+        "Heading": "이미지 생성 도구"
+      },
+      "GenerativeExpand": {
+        "Content": "생성된 콘텐츠를 사용하여 이미지의 차원을 확장",
+        "Heading": "생성형 확장 도구"
+      },
+      "GenerativeFill": {
+        "Content": "이미지에서 개체 제거, 추가, 또는 수정",
+        "Heading": "생성형 채우기 도구"
+      },
+      "Gradient": {
+        "Content": "색상 사이에 점진적인 혼합 생성",
+        "Heading": "그래디언트 도구"
+      },
+      "Healingbrush": {
+        "Content": "이미지의 다른 부분에서 픽셀을 페인팅하여 결함 수정",
+        "Heading": "복구 브러시 도구"
+      },
+      "Import": {
+        "Content": "컴퓨터에서 캔버스로 이미지 추가",
+        "Heading": "가져오기 도구"
+      },
+      "Lasso": {
+        "Content": "자유롭게 영역 선택",
+        "Heading": "올가미 도구"
+      },
+      "MagicWand": {
+        "Content": "색상을 기반으로 영역 선택",
+        "Heading": "자동 선택 도구"
+      },
+      "Move": {
+        "Content": "선택 영역 또는 레이어 이동",
+        "Heading": "이동 도구"
+      },
+      "ObjectSelectionTool": {
+        "Content": "개체 찾기 및 자동 선택",
+        "Heading": "개체 선택 도구"
+      },
+      "Paintbrush": {
+        "Content": "사용자 정의 가능한 브러시로 페인트 획 적용",
+        "Heading": "브러시 도구"
+      },
+      "Paintbucket": {
+        "Content": "전경색과 비슷한 색상으로 영역 채우기",
+        "Heading": "페인트 통 도구"
+      },
+      "PathSelect": {
+        "Content": "패스 선택으로 모양 이동",
+        "Heading": "모양 이동 도구"
+      },
+      "QuickSelection": {
+        "Content": "이미지 가장자리를 감지하여 영역 선택",
+        "Heading": "빠른 선택 도구"
+      },
+      "RectangularMarquee": {
+        "Content": "직사각형 또는 정사각형으로 영역 선택",
+        "Heading": "사각형 선택 윤곽 도구"
+      },
+      "Remove": {
+        "Content": "브러시를 사용하여 이미지의 오브젝트를 쉽게 제거하세요",
+        "Heading": "제거 도구"
+      },
+      "ShapeEllipse": {
+        "Content": "타원 및 원형 모양 그리기",
+        "Heading": "타원 도구"
+      },
+      "ShapeLine": {
+        "Content": "선 그리기",
+        "Heading": "선 도구"
+      },
+      "ShapePolygon": {
+        "Content": "다각형 그리기",
+        "Heading": "다각형 도구"
+      },
+      "ShapeRectangle": {
+        "Content": "사각형 그리기",
+        "Heading": "사각형 도구"
+      },
+      "ShapeTriangle": {
+        "Content": "변이 세 개인 모양 그리기",
+        "Heading": "삼각형 도구"
+      },
+      "Smudge": {
+        "Content": "색상을 문지르며 섞기",
+        "Heading": "손가락 도구"
+      },
+      "Sponge": {
+        "Content": "이미지 내 영역의 색상 채도 변경",
+        "FullToolbarHeading": "채도(스폰지 도구)"
+      },
+      "Spotheal": {
+        "Content": "얼룩이나 원치 않는 작은 요소를 제거",
+        "Heading": "스팟 복구 브러시 도구"
+      },
+      "Transform": {
+        "Content": "크기 조절, 회전, 기울이기, 왜곡, 뒤틀기, 픽셀 및 벡터 레이어에 원근 적용",
+        "Heading": "변형 도구"
+      },
+      "Type": {
+        "Content": "문자 추가",
+        "Heading": "문자 도구"
+      }
+    }
+  },
+  "ToolbarMenu": {
+    "Adjust": "조정",
+    "Select": "선택"
+  },
+  "ToolbarSection": {
+    "BackButton": {
+      "Label": "뒤로"
+    }
+  },
+  "Tools": {
+    "PathSelect": {
+      "Title": "모양 이동 도구"
+    }
+  },
+  "ToolSettings": {
+    "AdvancedSettings": {
+      "Title": "고급 설정"
+    },
+    "Close": "닫기",
+    "MoveToToolbarPanel": "도구 모음 패널로 이동",
+    "Shapes": {
+      "AlignAndDistribute": "정렬 및 배포",
+      "StrokeOptions": "획 옵션"
+    }
+  },
+  "TreeView": {
+    "ToggleGroup": "그룹 전환"
+  },
+  "TryLCEDialog": {
+    "Button": {
+      "Title": "지금 사용해 보기"
+    },
+    "Description": "Photoshop에서 남들과 동시에 생성하고 피드백을 통해 기능을 다듬는 것을 도우세요.",
+    "Headline": "대기열에 없습니다",
+    "Subtitle": "Photoshop 동시 공동 편집 (beta)을 만나보세요!"
+  },
+  "TryLCETour": {
+    "Step1": {
+      "Tooltip": "여기에서 동시 공동 편집을 시작하세요!"
+    },
+    "Step2": {
+      "Tooltip": "사용자 초대 선택"
+    },
+    "Step3Eligible": {
+      "Tooltip": "Beta에 새로 추가됐습니다!"
+    },
+    "Step3Ineligible": {
+      "Button1": "샘플 사용",
+      "Button2": "파일 업로드",
+      "Description": "동시 공동 편집을 활성화하기 위해서는 다른 파일을 업로드 또는 샘플 이미지를 사용해주세요.",
+      "Title": "호환되지 않는 콘텐츠가 파일에 포함됨"
+    },
+    "Step4": {
+      "Tooltip": "이제 다른 사람들과 파일을 공유할 수 있습니다."
+    },
+    "Step5": {
+      "Tooltip": "여기에서 Photoshop (Beta) 데스트탑 앱을 통해 파일을 열 수 있습니다."
+    }
+  },
+  "UnifiedDownloadMenu": {
+    "DownloadToDevicePanel": {
+      "CopyLinkButtonLabel": "링크 복사",
+      "CopyLinkDescription": "또는 링크를 복사하여 휴대폰으로 보내기",
+      "ErrorBody": "QR 코드를 생성할 수 없습니다. 다시 시도해주세요.",
+      "ErrorButtonLabel": "만들기",
+      "ErrorTitle": "QR 코드를 생성할 수 없음",
+      "ExpiredBody": "QR 코드가 만료되었습니다. 새로 생성해주세요.",
+      "ExpiredButtonLabel": "만들기",
+      "ExpiredTitle": "만료된 QR 코드",
+      "LoadingAriaLabel": "휴대폰을 위한 QR 코드 생성 중",
+      "Subtitle": "QR 코드를 스캔하여 휴대폰에 파일을 다운로드",
+      "Title": "휴대폰으로 보내기"
+    },
+    "Options": {
+      "DownloadOnComputer": {
+        "Subtitle": "로컬 장치에 저장",
+        "Title": "컴퓨터에 다운로드 하기"
+      },
+      "DownloadOnPhone": {
+        "Subtitle": "QR 코드를 스캔하여 다운로드",
+        "Title": "휴대폰에 다운로드 하기"
+      },
+      "ExportVideo": {
+        "Subtitle": "비디오를 생성하고 로컬로 저장",
+        "Title": "비디오 내보내기"
+      },
+      "QuickExportAsJPEG": {
+        "Text": "JPEG로 빠른 내보내기"
+      },
+      "QuickExportAsPNG": {
+        "Text": "PNG로 빠른 내보내기"
+      },
+      "QuickExportAsPSD": {
+        "Text": "PSD로 빠른 내보내기"
+      },
+      "QuickExportAsTIFF": {
+        "Text": "TIFF로 빠른 내보내기"
+      },
+      "QuickExportAsWebP": {
+        "Text": "WebP로 빠른 내보내기"
+      }
+    }
+  },
+  "UnifiedShareMenu": {
+    "Options": {
+      "GetBrowserApp": {
+        "SubText": "단 한번의 클릭으로 Photoshop으로 돌아가기",
+        "Text": "브라우저 앱 다운로드"
+      },
+      "GetDesktopApp": {
+        "SubText": "Photoshop 데스크탑에서 편집",
+        "Text": "데스크탑 앱 다운로드"
+      },
+      "GetDesktopBetaApp": {
+        "SubText": "Photoshop 데스크탑 beta에서 편집",
+        "Text": "Photoshop (Beta) 설치"
+      },
+      "InvitePeople": {
+        "SubText": "링크 공유",
+        "Text": "친구 초대"
+      },
+      "OpenInExpress": {
+        "Button": "Adobe Express로 보내기",
+        "DocSaved": "문서 저장됨",
+        "SubText": "이미지를 사용하여 소셜 콘텐츠 만들기",
+        "Text": "Adobe Express로 보내기"
+      },
+      "OpenInPhotoshop": {
+        "SubText": "Photoshop 데스크탑에서 편집",
+        "Text": "데스크탑 앱에서 열기"
+      },
+      "OpenInPhotoshopBeta": {
+        "SubText": "Photoshop 데스크탑 beta에서 편집",
+        "Text": "Photoshop (Beta)에서 열기"
+      }
+    },
+    "ShareButton": {
+      "Text": "공유",
+      "Tooltip": "문서 공유"
+    }
+  },
+  "Unsupported": {
+    "Document": {
+      "ActionButton": "지금 적용",
+      "CancelButton": "취소",
+      "Content": {
+        "Line1": "이 문서에 엑세스하려면, 비공개 베타 프로그램에 지원하세요.",
+        "Line2": "새로운 기능에 대한 전용 액세스 및 저희와 커뮤니티에 피드백 공유를 할 수 있습니다. (사전 출시 동의서가 요구됩니다.)"
+      },
+      "Title": "엑세스를 위해 지금 지원"
+    }
+  },
+  "UnsupportedAccount": {
+    "Blocked": {
+      "Description": "웹용 Photoshop은 현재 귀하의 국가에서 사용할 수 없습니다.",
+      "Heading": "액세스 차단됨"
+    },
+    "EDU": {
+      "Description": "웹용 Photoshop은 현재 학교 계정을 지원하지 않습니다. 앱에 액세스하려면 개인 계정으로 계속하십시오.",
+      "Heading": "계정을 (아직) 지원하지 않음",
+      "More": "지원되는 계정에 대해 자세히 알아보기"
+    }
+  },
+  "UnsupportedBrowser": {
+    "Banner": {
+      "CopyLink": "링크 복사",
+      "LearnMore": "자세히 알아보기",
+      "Text": "웹용 Photoshop은 아직 이 브라우저를 지원하지 않습니다. 문서를 확인하거나 주석을 남길 수 있습니다. 편집하거나 변경 사항을 저장하려면 Chrome, Edge 또는 Firefox 최신 버전에서 문서를 여십시오."
+    },
+    "Button": {
+      "Continue": "파일 계속하기",
+      "Copy": "URL 복사"
+    },
+    "Description": "이 Photoshop 클라우드 문서를 열려면 Chrome, Edge 또는 Firefox와 같이 지원되는 브라우저 최신 버전으로 전환하십시오. 또는 계속을 선택하여 파일의 문서를 보고 주석을 추가하십시오.",
+    "Dialog": {
+      "Browser": {
+        "Body": "이 브라우저에서는 웹용 Photoshop을 지원하지 않습니다. 이미지를 편집하려면 URL을 복사하여 최신 버전의 Chrome, Edge 또는 Firefox에 붙여넣습니다.",
+        "Cancel": "취소",
+        "Copied": "클립보드에 복사됨",
+        "LearnMore": "시스템 요구 사항에 대해 자세히 알아보기",
+        "Secondary": "URL 복사",
+        "Title": "브라우저가 지원되지 않음"
+      },
+      "CreateNew": {
+        "Confirm": "자세히 알아보기",
+        "Copied": "클립보드에 복사됨",
+        "CopyURL": "URL을 복사하여 최신 버전의 Chrome, Edge 또는 Firefox에 붙여 넣습니다.",
+        "Secondary": "URL 복사",
+        "Title": "브라우저가 지원되지 않음",
+        "UseSupported": "문서를 만들거나 편집하려면 지원되는 브라우저를 사용하십시오.",
+        "ViewOrComment": "기존 문서를 확인하거나 주석을 추가할 수 있습니다."
+      },
+      "Install": {
+        "Chrome": "Chrome 설치",
+        "Edge": "Edge 설치",
+        "Firefox": "Firefox 설치"
+      }
+    },
+    "Heading": "지원되지 않는 브라우저",
+    "Help": "브라우저 지원에 대한 추가 정보"
+  },
+  "UnsupportedChromePrivacyMode": {
+    "Body": "Chrome 창이 시크릿 모드이거나 개인 정보 보호 설정에서 \"창을 닫을 때 데이터 삭제하기\"가 활성화된 것일 수 있습니다. 설정을 \"사이트에서 데이터 저장 허용\"으로 변경한 다음 Photoshop 웹을 새로 고침하십시오. IT 관리자가 브라우저 설정을 관리하는 경우 해당 관리자에게 문의해 주십시오.",
+    "Dialog": {
+      "Body": "\n          <p style=\"margin-top: 0;\">Chrome 창이 시크릿 모드이거나 설정에서 \"창을 닫을 때 데이터 삭제하기\"가 활성화된 것일 수 있습니다.\n          <p style=\"margin-bottom: 0;\">설정을 \"사이트에서 데이터 저장 허용\"으로 변경한 다음 Photoshop 웹을 새로 고침하십시오. IT 관리자가 브라우저 설정을 관리하는 경우 해당 관리자에게 문의해 주십시오\n          ",
+      "CallToAction": "자세히 알아보기",
+      "Title": "Chrome에서는 Photoshop이 사용할 수 있는 디스크 공간의 용량이 제한됩니다."
+    }
+  },
+  "UnsupportedDevice": {
+    "Banner": {
+      "Text": "웹용 Photoshop은 이 장치를 지원하지 않습니다. 편집 또는 변경 사항을 저장하려면 컴퓨터 브라우저에서 열거나 앱 스토어에서 Photoshop을 다운 받으세요."
+    },
+    "Button": {
+      "Continue": "파일 계속하기",
+      "Copy": "URL 복사"
+    },
+    "Description": "이 Photoshop 클라우드 문서를 열려면 노트북이나 데스크탑 컴퓨터로 전환하여 Chrome, Edge 또는 Firefox와 같이 지원되는 브라우저 최신 버전을 사용하십시오. 또는 계속을 선택하여 파일의 문서를 보고 주석을 추가하십시오.",
+    "Heading": "지원되지 않는 장치",
+    "Help": "브라우저 지원에 대한 추가 정보"
+  },
+  "UnsupportedFeatures": {
+    "Banner": {
+      "Title": "사용자 장치는 웹용 Photoshop의 최소 시스템 요구 사항을 충족하지 않거나 이 브라우저에서 지원되지 않는 비공개 또는 시크릿 검색 모드일 수 있습니다."
+    }
+  },
+  "UnsupportedFeaturesDialog": {
+    "Banner": {
+      "Title": "장치 또는 브라우저가 완전히 지원되지 않음"
+    },
+    "Body": "이 장치는 웹용 Photoshop의 최소 시스템 요구 사항을 충족하지 않거나 지원되지 않는 비공개 또는 시크릿 검색 모드일 수 있습니다."
+  },
+  "UnsupportedFeaturesWarning": {
+    "Banner": {
+      "Title": "장치가 웹용 Photoshop 최소 시스템 요구 사항을 충족하지 않거나 비공개 또는 시크릿 탐색 모드일 수 있습니다. 성능에 부정적인 영향을 줄 수 있습니다."
+    }
+  },
+  "UnsupportedFileType": {
+    "Import": {
+      "Button": {
+        "OK": "확인"
+      },
+      "Title": "파일을 가져올 수 없음"
+    },
+    "Open": {
+      "Body": {
+        "NotSupported": "이 형식은 지원되지 않습니다. 다른 파일을 시도하십시오."
+      },
+      "Title": "파일을 열 수 없음"
+    },
+    "Place": {
+      "Body": {
+        "LearnMore": "자세히 알아보기",
+        "NotSupported": "웹용 Photoshop은 이 형식을 지원하지 않습니다.",
+        "ReasonFileFormat": "지원되지 않는 파일 형식"
+      }
+    }
+  },
+  "UnsupportedMultipleFiles": {
+    "Import": {
+      "Body": {
+        "NotSupported": "현재 한 번에 하나의 파일만 가져올 수 있습니다."
+      },
+      "Button": {
+        "OK": "확인"
+      },
+      "Title": "한 번에 여러 개의 파일을 가져올 수 없음"
+    },
+    "Open": {
+      "Body": {
+        "NotSupported": "현재 한 번에 하나의 파일만 열 수 있습니다."
+      },
+      "Title": "한 번에 여러 개의 파일을 열 수 없음"
+    }
+  },
+  "UnsupportedOnMobile": {
+    "Banner": {
+      "Title": "웹용 Photoshop은 이 장치에서 지원되지 않습니다."
+    },
+    "Dialog": {
+      "CreateNew": {
+        "Ok": "확인"
+      }
+    }
+  },
+  "UnsupportedOperation": {
+    "Delete": {
+      "CannotDeleteLayer": "레이어를 삭제할 수 없습니다.",
+      "CannotDeleteMask": "마스크를 삭제할 수 없습니다.",
+      "LayerContentNotDirectlyEditable": "레이어 콘텐츠는 직접 편집할 수 없습니다."
+    }
+  },
+  "UnsupportedSafari": {
+    "Banner": {
+      "Text": "웹용 Photoshop은 해당 버전의 Safari를 지원하지 않습니다. 문서를 확인하거나 주석을 남길 수 있습니다. 편집하거나 변경 사항을 저장하려면, update to Safari 18.3 이상의 버전으로 업데이트하거나 Chrome, Edge 또는 Firefox에서 문서를 여세요."
+    },
+    "Beta": {
+      "Text": "웹용 Photoshop은 현재 Safari에서 beta로 성능에 영향이 있을 수 있습니다. 나은 웹용 Photoshop 경험을 위해서는 Google Chrome, Microsoft Edge 또는 Firefox를 사용하세요. 양해에 감사드리며 발전하기 위한 피드백은 언제든지 환영합니다."
+    }
+  },
+  "UpgradeDialog": {
+    "CCE": {
+      "SwitchProfile": {
+        "Cancel": "취소",
+        "Confirm": "프로필 전환",
+        "Text": "웹용 Photoshop을 사용하려면 관리자에게 문의하거나 개인 프로필에 로그인하세요."
+      }
+    },
+    "RequestAccess": "조직에서 웹용 Photoshop을 활성화하지 않았습니다. 액세스 권한을 요청하려면 관리자에게 문의하세요."
+  },
+  "UpgradeFinished": {
+    "Card": {
+      "Button": {
+        "GotIt": "확인"
+      },
+      "Description": "이제 Photoshop의 프리미엄 기능과 강력한 도구에 무제한으로 액세스할 수 있습니다.",
+      "Title": {
+        "Subscribed": "축하합니다. 업그레이드했습니다.",
+        "Trial": "무료 체험판이 시작됩니다."
+      }
+    }
+  },
+  "UploadFileComponent": {
+    "Button": {
+      "UploadFile": "파일 업로드"
+    },
+    "Choice": {
+      "GoogleDrive": "Google 드라이브™",
+      "Lightroom": "Adobe Lightroom",
+      "UploadFromComputer": "컴퓨터에서 업로드",
+      "UploadFromPhone": "휴대폰에서 업로드"
+    },
+    "GoogleDrive": {
+      "Attribution": "Google Drive is a trademark of Google Inc. Use of this trademark is subject to Google Permissions."
+    }
+  },
+  "UploadPage": {
+    "AuthError": {
+      "Body": "이 QR 코드는 만료되었습니다. 계속하려면 새 QR 코드를 스캔하세요.",
+      "Title": "만료된 QR 코드"
+    },
+    "Default": {
+      "Body": "Photoshop에서 편집할 사진 선택",
+      "Button": "사진 선택",
+      "Title": "편집할 사진 가져오기"
+    },
+    "Error": {
+      "Body": "이미지를 업로드할 수 없습니다. 다른 사진을 선택하고 다시 시도하십시오.",
+      "Title": "업로드 실패"
+    },
+    "InvalidType": {
+      "Title": "이미지 지원되지 않음"
+    },
+    "Uploaded": {
+      "Alt": "업로드된 파일",
+      "Body": "컴퓨터에서 Photoshop을 열어 편집하기",
+      "Title": "업로드 완료"
+    },
+    "Uploading": {
+      "Body": "이미지 업로드 및 새 문서 만들기",
+      "Title": "이미지 업로드 중..."
+    }
+  },
+  "UserError": {
+    "Dialog": {
+      "CancelLabel": "닫기",
+      "ConfirmLabel": "리포트 제출"
+    },
+    "Form": {
+      "Description": "저희 팀에게 공지되었습니다. 도움을 주고 싶으시다면 일어난 일을 알려주세요.",
+      "WhatHappened": "무슨 일인가요?"
+    },
+    "ialog": {
+      "Headline": "일어난 일을 알려주세요"
+    },
+    "Toast": {
+      "Message": "리포트를 제공해주셔서 감사합니다."
+    }
+  },
+  "UserExperienceLevel": {
+    "Dialog": {
+      "Beginner": "처음으로 시작해 봅니다",
+      "Cancel": "취소",
+      "Expert": "수업을 진행할 수 있습니다",
+      "Intermediate": "숙달해가는 중입니다",
+      "Submit": "제출",
+      "Subtitle": "귀하의 선택은 앱 경험 개선에 도움이 됩니다.",
+      "Title": "Adobe Photoshop 사용 경험은 어느 정도입니까?"
+    }
+  },
+  "UserFeedback": {
+    "Dialog": {
+      "CancelLabel": "닫기",
+      "ConfirmLabel": "피드백 제출",
+      "Headline": "성능 개선 지원"
+    },
+    "Form": {
+      "Email": "전자 우편",
+      "EmailPlaceholder": "이메일 주소 입력",
+      "Feedback": "피드백",
+      "FeedbackHelp": "최대한 상세하게 입력해주세요",
+      "Name": "이름",
+      "NamePlaceholder": "이름 입력",
+      "WhatHappenedHelp": "최대한 상세하게 입력해주세요"
+    },
+    "Toast": {
+      "Message": "피드백을 주셔서 감사합니다."
+    }
+  },
+  "UserStorageMissing": {
+    "MessageDialog": {
+      "Admin": "다른 계정으로 로그인하거나 관리자에게 문의하여 문제를 해결하십시오.",
+      "ConfirmLabel": "계정 전환",
+      "StorageEntitlement": "로그인한 계정으로 클라우드 문서를 저장할 수 없습니다.",
+      "Title": "스토리지 사용 권한 없음"
+    }
+  },
+  "Utils": {
+    "HumanRelativeDate": {
+      "ExactHours": "###시간 전",
+      "ExactMinutes": "###분 전",
+      "ExactSeconds": "###초 전",
+      "FewSeconds": "몇 초 전",
+      "Hour": "1시간 전",
+      "Minute": "1분 전"
+    }
+  },
+  "Variations": {
+    "Menu": {
+      "BadResult": "잘못된 결과",
+      "CreateNewLayer": "새 레이어를 만듭니다.",
+      "DeleteVariation": "변형 삭제",
+      "GoodResult": "좋은 결과",
+      "ReportVariation": "변형 신고"
+    },
+    "Remove": "베리에이션 제거",
+    "Select": "베리에이션 선택"
+  },
+  "Video": {
+    "Title": {
+      "HideQuickVideo": "비디오 숨기기",
+      "HideVideo": "비디오 숨기기",
+      "WatchQuickVideo": "간단한 비디오 보기",
+      "WatchVideo": "동영상 보기"
+    }
+  },
+  "VideoHelp": {
+    "HideInAppVideoTutorial": "비디오 숨기기",
+    "ShowInAppVideoTutorial": "간단한 비디오 보기"
+  },
+  "VideoPlayer": {
+    "CaptionsLabel": "캡션",
+    "FeaturedLabel": "현재 재생 중인 비디오",
+    "FeatureLabel": "팝업",
+    "FullscreenLabel": "전체 화면",
+    "MuteLabel": "음소거",
+    "NoneLabel": "없음",
+    "PauseLabel": "일시 중지",
+    "PlayLabel": "재생",
+    "ReplayLabel": "다시 재생",
+    "VolumeLabel": "볼륨"
+  },
+  "Viewer": {
+    "Comments": {
+      "ToggleComments": "주석 전환"
+    },
+    "Info": "정보",
+    "Timeline": {
+      "ToggleTimeline": "타임라인 전환"
+    }
+  },
+  "WhatsNew": {
+    "AdobeStock": {
+      "Description": "엄선된 무료 Adobe Stock 에셋을 알아보고 프로젝트를 향상하거나 크리에이티브 프로세스를 시작하세요.",
+      "Title": "Adobe Stock"
+    },
+    "Dialog": {
+      "Title": "Photoshop의 새로운 기능"
+    },
+    "GenerateImage": {
+      "Card": {
+        "Description": "자세한 프롬프트로 시작하거나, 참조 이미지를 추가하거나, 프롬프트 영감을 선택하여 시작하세요."
+      },
+      "Title": {
+        "GenerateImage": "상상하는 대로 만들어 보세요"
+      }
+    },
+    "LCE_Card": {
+      "Description": "대기열에 참가하여 비공개 베타에 참여하세요. 참여하여 남들과 동시에 Photoshop에서 생성하고 피드백을 통해 기능을 다듬는 것을 도우세요.",
+      "Title": "동시 공동 편집"
+    },
+    "LearningCenter": {
+      "Description": "새롭게 중앙화된 학습 센터는 웹용 Photoshop의 요소에 대한 도움을 쉽게 찾고 배우게 해줍니다.",
+      "Title": "학습 센터"
+    },
+    "ObjectSelection": {
+      "Description": "<b>선택</b> 패널을 개선했습니다. 이제 이미지에서 선택 및 편집 또는 특정 개체 제거가 쉬워졌습니다.",
+      "Title": "개체 선택"
+    },
+    "PhotoshopMobile": {
+      "Description": "새로운 iPhone용 Photoshop에서 새 창의적인 아이디어를 탐색하고 이동 중 수정하며 쉬운 공유를 위해 파일에 액세스 할 수 있습니다. 전부 멤버십에 포함되어 있습니다.",
+      "Title": "iPhone용 Photoshop"
+    },
+    "SelectDetails": {
+      "Description": "조명, 색상 등을 원하는 모양으로 조정 할 수 있도록 머리, 액세서리 및 옷과 같은 세부 사항을 빠르고 정밀하게 격리합니다.",
+      "Title": "상세 내용 선택"
+    },
+    "whatsnew_live_co_editing": {
+      "Cards": {
+        "LCE": {
+          "CTA": "대기열에 참여",
+          "Title": "동시 공동 편집"
+        }
+      }
+    }
+  },
+  "WhatsnewDialog": {
+    "Icon": {
+      "Hover": {
+        "Tooltip": "Photoshop의 새로운 기능"
+      }
+    },
+    "Tabs": {
+      "CTA": "지금 사용해 보기",
+      "CTA_LCE": "대기열에 참여",
+      "CTA_PS_MOBILE": "앱 다운로드"
+    }
+  },
+  "ZoomMenu": {
+    "FullScreenMode": "전체 화면 모드",
+    "StandardScreenMode": "표준 화면 모드",
+    "Zoom": {
+      "FillScreen": "화면 채우기",
+      "FitToScreen": "화면에 맞추기",
+      "Percent100": "100%",
+      "Percent200": "200%",
+      "ZoomIn": "확대",
+      "ZoomOut": "축소"
+    },
+    "Zoomlevel": "확대/축소 레벨"
+  }
+}
