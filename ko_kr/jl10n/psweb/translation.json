@@ -6,7 +6,7 @@
   },
   "ACRService": {
     "Dialog": {
-      "RequestAccessButton": "Request access",
+      "RequestAccessButton": "Request access - changing this for public repo- Adding new scenario",
       "RequestAccessCancel": "취소",
       "RequestAccessHeadline": "액세스 요청"
     },
