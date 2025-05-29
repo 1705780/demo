@@ -875,5 +875,8 @@
     "description": "You'll be signing in as {0}. If you don't want to sign in, you can close this browser window. for now",
     "signIn": "Sign in again",
     "Local Public Git Hub Testing": "Local Public Git Hub Testing"
+  },
+  "QATesting": {
+    "EnglishFileUpdate": "English File Update"
   }
 }
