@@ -874,6 +874,9 @@
     "title": "Confirm sign-in account here again",
     "description": "You'll be signing in as {0}. If you don't want to sign in, you can close this browser window. for now",
     "signIn": "Sign in again",
-    "lOCAL Testing Github": "lOCAL Testing Github"
+    "Local Public Git Hub Testing": "Local Public Git Hub Testing de_DE"
+  },
+  "QATesting": {
+    "EnglishFileUpdate": "English File Update"
   }
 }
