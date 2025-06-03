@@ -877,6 +877,7 @@
     "Local Public Git Hub Testing": "Local Public Git Hub Testing de_DE"
   },
   "QATesting": {
-    "EnglishFileUpdate": "English File Update de_DE"
+    "EnglishFileUpdate": "English File Update de_DE",
+    "Error code English Update": "Error code English Update de_DE"
   }
 }
