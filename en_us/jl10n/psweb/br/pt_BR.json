@@ -1,5 +1,5 @@
 {
-  "person": "[15629356] PT_person_PT",
+  "person": "[15629356] PT_person {LOCALE_COUNTRY_LOWER}/{LOCALE_ISOU} added_PT",
   "bicycle": "[15629289] PT_bicycle_PT",
   "car": "[15629303] PT_car_PT",
   "motorcycle": "[15629347] PT_motorcycle_PT",

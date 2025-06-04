@@ -1,5 +1,5 @@
 {
-  "person": "[15629356] JP_person_JP",
+  "person": "[15629356] JP_person {LOCALE_COUNTRY_LOWER}/{LOCALE_ISOU} added_JP",
   "bicycle": "[15629289] JP_bicycle_JP",
   "car": "[15629303] JP_car_JP",
   "motorcycle": "[15629347] JP_motorcycle_JP",
