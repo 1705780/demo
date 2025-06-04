@@ -1,5 +1,5 @@
 {
-  "person": "person",
+  "person": "person {LOCALE_ISO2}/{LOCALE_ISOU} case",
   "bicycle": "bicycle",
   "car": "car",
   "motorcycle": "motorcycle",
