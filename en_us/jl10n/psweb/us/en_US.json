@@ -1,5 +1,5 @@
 {
-  "person": "person",
+  "person": "person {LOCALE_COUNTRY_LOWER}/{LOCALE_ISOU} added",
   "bicycle": "bicycle",
   "car": "car",
   "motorcycle": "motorcycle",
