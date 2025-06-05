@@ -1,5 +1,5 @@
 {
-  "person": "DE_person {LOCALE_COUNTRY_LOWER} only_DE",
+  "person": "DE_person {LOCALE_ISO2}_DE",
   "bicycle": "DE_bicycle_DE",
   "car": "DE_car_DE",
   "motorcycle": "DE_motorcycle_DE",
