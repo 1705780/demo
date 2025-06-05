@@ -1,5 +1,5 @@
 {
-  "person": "person {LOCALE_ISO2}",
+  "person": "person /en_us/jl10n/psweb/en/{LOCALE_ISOU}.json",
   "bicycle": "bicycle",
   "car": "car",
   "motorcycle": "motorcycle",
