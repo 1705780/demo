@@ -1,5 +1,5 @@
 {
-  "person": "person {LOCALE} prod",
+  "person": "person {LOCALE_ISO2}/{LOCALE_ISOU} prod",
   "bicycle": "bicycle",
   "car": "car",
   "motorcycle": "motorcycle",
