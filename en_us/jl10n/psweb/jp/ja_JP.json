@@ -1,5 +1,5 @@
 {
-  "person": "JP_person {LOCALE_COUNTRY_LOWER}/{LOCALE_ISOU}_JP",
+  "person": "JP_person {LOCALE_COUNTRY_LOWER}/{LOCALE_ISOU} prod_JP",
   "bicycle": "JP_bicycle_JP",
   "car": "JP_car_JP",
   "motorcycle": "JP_motorcycle_JP",
