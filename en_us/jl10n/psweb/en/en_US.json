@@ -1,5 +1,5 @@
 {
-  "person": "person /all hardcode",
+  "person": "person {LOCALE} prod",
   "bicycle": "bicycle",
   "car": "car",
   "motorcycle": "motorcycle",
