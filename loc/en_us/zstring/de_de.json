@@ -874,10 +874,11 @@
     "title": "Confirm sign-in account here again",
     "description": "You'll be signing in as {0}. If you don't want to sign in, you can close this browser window. for now",
     "signIn": "Sign in again",
-    "Local Public Git Hub Testing": "Local Public Git Hub Testing de_DE"
+    "Local Public Git Hub Testing": "Local Public Git Hub Testing"
   },
   "QATesting": {
-    "EnglishFileUpdate": "English File Update de_DE",
-    "Error code English Update": "Error code English Update de_DE"
+    "EnglishFileUpdate": "English File Update",
+    "Error code English Update": "Error code English Update",
+    "Late Night efforts": "Late Night efforts"
   }
 }
